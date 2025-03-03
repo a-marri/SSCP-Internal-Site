@@ -1,0 +1,5 @@
+requests>=2.25.0
+beautifulsoup4>=4.9.3
+markdown
+tqdm>=4.60.0
+urllib3>=1.26.0

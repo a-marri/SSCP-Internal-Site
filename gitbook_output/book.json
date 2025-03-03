@@ -1,0 +1,22 @@
+{
+  "title": "GitBook Documentation",
+  "description": "Documentation generated from Google Sites",
+  "author": "Author",
+  "language": "en",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "highlight",
+    "search",
+    "theme-default",
+    "expandable-chapters",
+    "back-to-top-button"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    }
+  }
+}
