@@ -1,8 +1,10 @@
-# SSCP - Gochermann's Testing Setup Feedback
+# gochermanns-testing-setup-feedback
 
-# Gochermann's Testing Setup Feedback
+## SSCP - Gochermann's Testing Setup Feedback
 
-In September 2016, we discussed Oliver Gochermann's newest array encapsulation compound, which he claims is even better than his ZLE encapsulation used by top teams in WSC 2015.  In this thread, Oliver also gives module testing advice.
+## Gochermann's Testing Setup Feedback
+
+In September 2016, we discussed Oliver Gochermann's newest array encapsulation compound, which he claims is even better than his ZLE encapsulation used by top teams in WSC 2015.  In this thread, Oliver also gives module testing advice.
 
 Hi Max & team,
 
@@ -16,17 +18,17 @@ Best regards,
 
 Oliver
 
--------
+***
 
 Hello Oliver,
 
-We would be interested in sampling your new encapsulation compound if it fits within our budget.  We do have the hardware to perform an IV-trace of a module.  Would you be able to send us the cost and any other relevant details about this product?
+We would be interested in sampling your new encapsulation compound if it fits within our budget.  We do have the hardware to perform an IV-trace of a module.  Would you be able to send us the cost and any other relevant details about this product?
 
 Thanks,
 
 Max
 
-------
+***
 
 Hi Max,
 
@@ -40,17 +42,17 @@ Best regards,
 
 Oliver
 
---------------
+***
 
 Hi Oliver,
 
-Just stepping in to talk about the IV tracer; we're using a Sinton FMT-350 that's been optimized so that it can be more accurate at smaller loads. For outdoor testing, we'd be using a Keithley 2300 with a pyranometer (probably a CMP3 from Kipp & Zonen). Also, on outdoor testing: would you mind telling us a bit about how you deal with changing insolation values and temperature? We've only ever done side-by-side testing outdoors in order to minimize those effects, but if you have a better method we'd love to hear about it so that we can get better accuracy. 
+Just stepping in to talk about the IV tracer; we're using a Sinton FMT-350 that's been optimized so that it can be more accurate at smaller loads. For outdoor testing, we'd be using a Keithley 2300 with a pyranometer (probably a CMP3 from Kipp & Zonen). Also, on outdoor testing: would you mind telling us a bit about how you deal with changing insolation values and temperature? We've only ever done side-by-side testing outdoors in order to minimize those effects, but if you have a better method we'd love to hear about it so that we can get better accuracy.&#x20;
 
 Thanks,
 
 John
 
-------------------
+***
 
 Hi John,
 
@@ -69,4 +71,3 @@ best regards,
 Oliver
 
 ![](../../../../../assets/image_0bf742cb4f.jpg)
-

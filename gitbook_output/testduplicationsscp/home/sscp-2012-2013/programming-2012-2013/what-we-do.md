@@ -1,10 +1,10 @@
-# SSCP - What we do
+# what-we-do
 
-# What we do
+## SSCP - What we do
 
-## Embedded vs. PC
+## What we do
 
-[](#h.rvwdqry48anf)
+### Embedded vs. PC
 
 The embedded code team is responsible for code that runs on the car and makes the car drive from second to second. We write all of the code for the boards on the car: battery management, lights, driver controls, and data collection (telemetry).
 
@@ -14,9 +14,7 @@ Broadly speaking the strategy team deals with data and the embedded team deals w
 
 The embedded team works in C, while the strategy team works with python, MATLAB, and whatever other languages they want.
 
-## Hardware Details
-
-[](#h.orddjcporaww)
+### Hardware Details
 
 The solar car runs on ARM processors, specifically the STM32F4 family of processors made by ST Microelectronics.
 
@@ -24,7 +22,6 @@ We use the F4s on all of the boards (button/steering wheel display, driver contr
 
 We run FreeRTOS, an operating system which provides a task and queue abstraction (among other things), on the F4s.
 
-We deal with inputs from real hardware and create output that controls real hardware. For example, on the battery management system board, voltage measurements go to the processor and the processor decides if it's necessary to turn off the relay that isolates the batteries from the rest of the car.  Communication between the F4 and the other chips on the same board is frequently over SPI or I2C.  Communication between boards on the car is over CAN.
+We deal with inputs from real hardware and create output that controls real hardware. For example, on the battery management system board, voltage measurements go to the processor and the processor decides if it's necessary to turn off the relay that isolates the batteries from the rest of the car.  Communication between the F4 and the other chips on the same board is frequently over SPI or I2C.  Communication between boards on the car is over CAN.
 
 One of the coolest boards on the car is the telemetry board which receives data from all other boards, receives GPS data, and broadcasts it over WiFi to the strategy laptop in another car.
-

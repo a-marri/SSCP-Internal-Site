@@ -1,12 +1,14 @@
-# SSCP - Boxed CAN Power Supply 1
+# boxed-can-power-supply-1
 
-# Boxed CAN Power Supply 1
+## SSCP - Boxed CAN Power Supply 1
+
+## Boxed CAN Power Supply 1
 
 Project Owner: Max Praglin
 
 Overview
 
-Designers frequently want to test hardware without having to hunch over the whole vehicle for hours on end. Or they want to test hardware on the car but the battery pack is unavailable. The boxed CAN power supply's goal is to provide 24v to the CAN power bus from batteries so that the vehicle does not have to be tethered to do some basic testing. 
+Designers frequently want to test hardware without having to hunch over the whole vehicle for hours on end. Or they want to test hardware on the car but the battery pack is unavailable. The boxed CAN power supply's goal is to provide 24v to the CAN power bus from batteries so that the vehicle does not have to be tethered to do some basic testing.&#x20;
 
 Specifications and Requirements
 
@@ -68,8 +70,8 @@ Components Overview
 * The LT3759 will be used in a boost configuration to provide 24v from the 16.4v of the battery
 * The LTC4007 charging IC will charge the batteries and pass through 24v. It also indicates charge status via LEDs.
 * A P-FET will be used to control the source of the 24v: by tying the gate to the voltage input of the charger chip, the boost converter will receive no power unless there is a logic low on the 24v line from the mains supply
-* The first revision of the board will have minimal debugging support: LEDs, buttons, and a USB port (to provide serial communication) will be the interfaceThe processor will be a STM32F107_48LQFP unless there is a compelling reason to use a F4.
-* The processor will be a STM32F107_48LQFP unless there is a compelling reason to use a F4.
+* The first revision of the board will have minimal debugging support: LEDs, buttons, and a USB port (to provide serial communication) will be the interfaceThe processor will be a STM32F107\_48LQFP unless there is a compelling reason to use a F4.
+* The processor will be a STM32F107\_48LQFP unless there is a compelling reason to use a F4.
 * A FT232RL communicates to the MCU via serial.
 * The board is designed to fit into a Polycase WC-24 box.
 
@@ -101,13 +103,13 @@ A P-FET will be used to control the source of the 24v: by tying the gate to the 
 
 The first revision of the board will have minimal debugging support: LEDs, buttons, and a USB port (to provide serial communication) will be the interface
 
-* The processor will be a STM32F107_48LQFP unless there is a compelling reason to use a F4.
+* The processor will be a STM32F107\_48LQFP unless there is a compelling reason to use a F4.
 
-The processor will be a STM32F107_48LQFP unless there is a compelling reason to use a F4.
+The processor will be a STM32F107\_48LQFP unless there is a compelling reason to use a F4.
 
 A FT232RL communicates to the MCU via serial.
 
-[ FT232RL](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf)
+[FT232RL](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf)
 
 The board is designed to fit into a Polycase WC-24 box.
 
@@ -122,7 +124,6 @@ Components Considered But Not Used
 * Although the LT3436 boost requires fewer components, it is rated to a lower input voltage and leaves less of a margin than the LT3759
 * LCD interfaceNot pursued on this revision: this revision is expected to provide minimal functionality and work quickly.
 * Not pursued on this revision: this revision is expected to provide minimal functionality and work quickly.
-
 * Spare 18650's and a MAX1924 protection chipUsing Tenergy cells will make the project simpler: each battery is protected with internal circuitry
 * Using Tenergy cells will make the project simpler: each battery is protected with internal circuitry
 * LT3436 boost converterAlthough the LT3436 boost requires fewer components, it is rated to a lower input voltage and leaves less of a margin than the LT3759
@@ -162,7 +163,6 @@ Notes
 * Simply using the SHDN or EN pin on the boost converter will not workPower can flow through the boost inductor out of the circuit!
 * Power can flow through the boost inductor out of the circuit!
 * See annotations in below schematic for notes on specific parts.
-
 * A linear regulator for 24-3.3v was chosen because the 3.3v rail only powers a MCU.
 * A FT232RL was chosen because USB to STM32 directly has not yet been implemented
 * Simply using the SHDN or EN pin on the boost converter will not workPower can flow through the boost inductor out of the circuit!
@@ -181,11 +181,6 @@ Power can flow through the boost inductor out of the circuit!
 
 See annotations in below schematic for notes on specific parts.
 
-[](https://drive.google.com/folderview?id=1LvxbT85vbRF6MTqKHPISn402acfV_qfg)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1LvxbT85vbRF6MTqKHPISn402acfV_qfg#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1LvxbT85vbRF6MTqKHPISn402acfV_qfg#list" frameborder="0"></iframe>
-

@@ -1,18 +1,16 @@
-# SSCP - Structural Bonding Guide
+# structural-bonding-guide
 
-# Structural Bonding Guide
+## SSCP - Structural Bonding Guide
+
+## Structural Bonding Guide
 
 ![](../../../../assets/image_63b142e5b9.png)
 
-## How do I join things?
+### How do I join things?
 
-[](#h.ekt4i4i93jhy)
+#### Bonding Matrix
 
-### Bonding Matrix
-
-[](#h.osla34jbuu2)
-
-This guide covers the bonding of various structural materials with carbon/epoxy matrix components. 
+This guide covers the bonding of various structural materials with carbon/epoxy matrix components.&#x20;
 
 This guide only covers structural bonds - bonds intended to take safety critical high forces, such as those in a suspension, driver restraint, drivetrain, battery, or steering system. Materials omitted from this guide have either not been tested or are not considered to be structural.
 
@@ -27,7 +25,6 @@ Matrix Key:
 * Super 77 - Spray adhesive excellent for fabrics and foams
 * Bolts only - ultra-low surface energy plastic extremely difficult to glue
 * Abrade + Soap/water + Epoxy - solvents such as alcohols and acetones will craze/crack acrylics, so only gentle solves can be used to clean the surface before bonding.
-
 * Epoxy with basic surface prep: see sections 1 and 3 below
 * Epoxy with advanced surface prep: see sections 1, 2, and 3 below
 * Flexible CA - use flexible cyanoacrylates such as 3M CA-50 or Loctite 4861
@@ -47,15 +44,13 @@ Bolts only - ultra-low surface energy plastic extremely difficult to glue
 
 Abrade + Soap/water + Epoxy - solvents such as alcohols and acetones will craze/crack acrylics, so only gentle solves can be used to clean the surface before bonding.
 
-## Bonding Chemistry Overview
-
-[](#h.evngia3l60f1)
+### Bonding Chemistry Overview
 
 Epoxy Bonding Theory
 
-Epoxy makes a number of different types of bonds during the curing process. The mechanism that epoxy uses to bond is an area of active research, and varies by material. As relevant to this article, epoxy will bond materials which have high surface energy. If a material does not have high surface energy, then operations are undertaken to increase the surface energy of the material being bonded. In general, the surface energy of a material can be determined with a quick internet search. However, it can also be determined experimentally with a drop of de-ionized water. If the drop beads up, then the 
+Epoxy makes a number of different types of bonds during the curing process. The mechanism that epoxy uses to bond is an area of active research, and varies by material. As relevant to this article, epoxy will bond materials which have high surface energy. If a material does not have high surface energy, then operations are undertaken to increase the surface energy of the material being bonded. In general, the surface energy of a material can be determined with a quick internet search. However, it can also be determined experimentally with a drop of de-ionized water. If the drop beads up, then the&#x20;
 
-[ high surface energy](http://en.wikipedia.org/wiki/Surface_energy)
+[high surface energy](http://en.wikipedia.org/wiki/Surface_energy)
 
 material is low surface energy. If it pulls flat and wets the surface, then the material is high surface energy.
 
@@ -75,9 +70,7 @@ Warning: Normal aluminum anodizing is sulfuric acid based and can not be used on
 
 Bonding Instructions
 
-### Required Materials for Bonding Aluminum/Stainless/Titanium
-
-[](#h.2lq9ht7ut1rw)
+#### Required Materials for Bonding Aluminum/Stainless/Titanium
 
 * Clean work surface free of dust, oils, and waterNitrile glovesAC-130-2 Metal Surface Preparation, available from 3M or online suppliers3M Scotchbrite pads (clean) or grit blasting equipment (180 grit aluminum oxide, relatively clean)De-ionized water and clean De-ionized water sprayerMEK/AcetoneLint-free cloth and/or clean air sourceBrand new foam brushEW5000 AS epoxy primer (Optional, not needed if bonding within 24 hours of ac-130 application and in low humidity environment. Store in refrigerator (DO NOT FREEZE, 35-45 F)DP420, DP460, or equivalent Henkel Product Structural EpoxyCheck Pack-n-Tape for competitive prices on 3M products. Krayden has Henkel products, but they don't always have them in stock. Most other options will either have longer lead times or worse prices than these options. 3M and Henkel Sponsorships can take 4 - 7+ months to process, so start requesting product in January or Febuary after the race. If you start in the summer it will be too late.
 * Clean work surface free of dust, oils, and water
@@ -91,7 +84,6 @@ Bonding Instructions
 * EW5000 AS epoxy primer (Optional, not needed if bonding within 24 hours of ac-130 application and in low humidity environment. Store in refrigerator (DO NOT FREEZE, 35-45 F)
 * DP420, DP460, or equivalent Henkel Product Structural EpoxyCheck Pack-n-Tape for competitive prices on 3M products. Krayden has Henkel products, but they don't always have them in stock. Most other options will either have longer lead times or worse prices than these options. 3M and Henkel Sponsorships can take 4 - 7+ months to process, so start requesting product in January or Febuary after the race. If you start in the summer it will be too late.
 * Check Pack-n-Tape for competitive prices on 3M products. Krayden has Henkel products, but they don't always have them in stock. Most other options will either have longer lead times or worse prices than these options. 3M and Henkel Sponsorships can take 4 - 7+ months to process, so start requesting product in January or Febuary after the race. If you start in the summer it will be too late.
-
 * Clean work surface free of dust, oils, and water
 * Nitrile gloves
 * AC-130-2 Metal Surface Preparation, available from 3M or online suppliers
@@ -128,13 +120,11 @@ DP420, DP460, or equivalent Henkel Product Structural Epoxy
 
 Check Pack-n-Tape for competitive prices on 3M products. Krayden has Henkel products, but they don't always have them in stock. Most other options will either have longer lead times or worse prices than these options. 3M and Henkel Sponsorships can take 4 - 7+ months to process, so start requesting product in January or Febuary after the race. If you start in the summer it will be too late.
 
-[ Pack-n-Tape](https://3m.pack-n-tape.com/home.php)
+[Pack-n-Tape](https://3m.pack-n-tape.com/home.php)
 
-[ Krayden](http://krayden.com/)
+[Krayden](http://krayden.com/)
 
-### Required Materials for Bonding Carbon/Fiberglass/Torlon/Ultem
-
-[](#h.hgo24mqmelhu)
+#### Required Materials for Bonding Carbon/Fiberglass/Torlon/Ultem
 
 * Clean work surface free of dust, oils, and waterNitrile gloves3M Scotchbrite pads (clean) or grit blasting equipment (180 grit aluminum oxide, relatively clean)MEK/AcetoneLint-free cloth and/or clean air sourceDP420, DP460, or equivalent Henkel Product Structural EpoxyCheck Pack-n-Tape for competitive prices on 3M products. Krayden has Henkel products, but they don't always have them in stock. Most other options will either have longer lead times or worse prices than these options. 3M and Henkel Sponsorships can take 4 - 7+ months to process, so start requesting product in January or Febuary after the race. If you start in the summer it will be too late.
 * Clean work surface free of dust, oils, and water
@@ -144,7 +134,6 @@ Check Pack-n-Tape for competitive prices on 3M products. Krayden has Henkel prod
 * Lint-free cloth and/or clean air source
 * DP420, DP460, or equivalent Henkel Product Structural EpoxyCheck Pack-n-Tape for competitive prices on 3M products. Krayden has Henkel products, but they don't always have them in stock. Most other options will either have longer lead times or worse prices than these options. 3M and Henkel Sponsorships can take 4 - 7+ months to process, so start requesting product in January or Febuary after the race. If you start in the summer it will be too late.
 * Check Pack-n-Tape for competitive prices on 3M products. Krayden has Henkel products, but they don't always have them in stock. Most other options will either have longer lead times or worse prices than these options. 3M and Henkel Sponsorships can take 4 - 7+ months to process, so start requesting product in January or Febuary after the race. If you start in the summer it will be too late.
-
 * Clean work surface free of dust, oils, and water
 * Nitrile gloves
 * 3M Scotchbrite pads (clean) or grit blasting equipment (180 grit aluminum oxide, relatively clean)
@@ -173,9 +162,7 @@ Check Pack-n-Tape for competitive prices on 3M products. Krayden has Henkel prod
 
 [Krayden](http://krayden.com/)
 
-### Instructions
-
-[](#h.yeje91ay6rjh)
+#### Instructions
 
 Section 1: Basic Surface Preparation For Carbon/Epoxy/Torlon/Ultem/High Surface Energy Plastics Surfaces:
 
@@ -211,13 +198,11 @@ MEK Wipe with lint-free cloth
 
 Abrade with scotchbrite, sandpaper, or 180 grit aluminum oxide blast until water doesn't bead up on the surface. EXAMPLE VIDEO. This means that water droplets will pull flat. See the image below. A single drop of water should wet most of the surface like the left-most example in the image below. Take this step seriously - removal of the oxide is critical for the following steps to work. Remember the oxide will re-form in 30 minutes, less if the ambient temperature is high.
 
-[ EXAMPLE VIDEO.](https://youtu.be/x7onZGqrYyY?t=442)
+[EXAMPLE VIDEO.](https://youtu.be/x7onZGqrYyY?t=442)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](structural-bonding-guide.md)
 
 ![](../../../../assets/image_bb2c5d65b7.png)
 
@@ -225,13 +210,13 @@ Embedded content: [Custom embed]()
 
 ![](../../../../assets/image_ce7396d013.jpg)
 
-1.  
+1. &#x20;
 2. Scrub off the sand with a clean foam brush
 3. Clean with De-ionized waterBlow off excess water with clean, dry air
 4. Blow off excess water with clean, dry air
 5. If bonding aluminum, apply AC-130 within 30 Minutes - the oxide layer will otherwise reform
 
- 
+&#x20;
 
 Scrub off the sand with a clean foam brush
 
@@ -292,7 +277,7 @@ Bond within 24 hours of applying AC-130 and drying OR apply Epoxy primer EW5000 
 
 Datasheet: EW5000AS
 
-[ EW5000AS](http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSufSevTsZxtUmY_Ul8tBevUqevTSevTSevTSeSSSSSS--&fn=TDS_EW5000AS.pdf)
+[EW5000AS](http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSufSevTsZxtUmY_Ul8tBevUqevTSevTSevTSeSSSSSS--\&fn=TDS_EW5000AS.pdf)
 
 Stir EW5000AS very well - several minutes with a stirring stick
 
@@ -357,15 +342,11 @@ West 105 or Rhino Epoxy for non-heatable surface lamination
 
 Cure under heat, preferring 3 hrs at 49C for maximum strength, not exceeding 135C. Joints must be fixtured during heating, as heated air bubbles can cause movement of parts.
 
-## Alternative Methods for Surface Preparation for Aluminum
-
-[](#h.qijkxuwilbuw)
+### Alternative Methods for Surface Preparation for Aluminum
 
 There are a number of industry accepted methods for structural bonding of aluminum. "Section 2 Advanced Surface Prep" is the recommended practice for SSCP because of its low toxicity and ease of scheduling/coating. However, if there is more time available, then other techniques can be used. These are listed below.
 
-### Chromic Acid Anodizing
-
-[](#h.4nif8rn0uol)
+#### Chromic Acid Anodizing
 
 ![](../../../../assets/image_3f95517e4c.jpg)
 
@@ -377,37 +358,29 @@ Note: this paragraph formerly recommended phosphoric acid anodizing, but listed 
 
 ![](../../../../assets/image_cefa5ee969.jpg)
 
-### Alodine Type III and VI
+#### Alodine Type III and VI
 
-[](#h.4vegkjbhdxuw)
+Alodine is a surface coating process developed for aerospace that etches away the oxide coating on aluminum and replaces it with a chromated oxide. Epoxy and other adhesives will covalently bond to the chromium atoms, forming an excellent bond. This class of coatings also provides excellent corrosion protection against moisture and salt and is extremely thin, hence its extensive use on aircraft. Hexavalent chromate coatings leave parts with a gold coating. Hexavalent chromium is a known carcinogen and should be avoided - this coating is being phased out worldwide. Trivalent or "clear" alodine is much less toxic the accepted technique. In order to have this coating applied to a part, put the callout: "ALODINE PER MIL-DTL-5541 Type II Class 3" on the engineering drawing. This technique has not been used on any Stanford solar car for structural bonding so should be tested before use. However, this coating is commonly used on aircraft for structural bonding.&#x20;
 
-Alodine is a surface coating process developed for aerospace that etches away the oxide coating on aluminum and replaces it with a chromated oxide. Epoxy and other adhesives will covalently bond to the chromium atoms, forming an excellent bond. This class of coatings also provides excellent corrosion protection against moisture and salt and is extremely thin, hence its extensive use on aircraft. Hexavalent chromate coatings leave parts with a gold coating. Hexavalent chromium is a known carcinogen and should be avoided - this coating is being phased out worldwide. Trivalent or "clear" alodine is much less toxic the accepted technique. In order to have this coating applied to a part, put the callout: "ALODINE PER MIL-DTL-5541 Type II Class 3" on the engineering drawing. This technique has not been used on any Stanford solar car for structural bonding so should be tested before use. However, this coating is commonly used on aircraft for structural bonding. 
-
-[ much less toxic](http://www.epa.gov/iris/toxreviews/0028tr.pdf)
+[much less toxic](http://www.epa.gov/iris/toxreviews/0028tr.pdf)
 
 The same coating is available in stick form for easy application from Henkel: Alodine® 871™Touch-N-Prep® Coating. If the link breaks, the pdf is attached to this page. This product also has not been tested, but might be an excellent way of doing field repairs of structural bonds.
 
 [Alodine® 871™Touch-N-Prep® Coating](http://henk0008.home.xs4all.nl/Alodine/Alodine_871_Brochure.pdf)
 
-## References
+### References
 
-[](#h.v49szhev0k2o)
-
-### Reading Material
-
-[](#h.bb7adulzwggx)
+#### Reading Material
 
 Handbook of Aluminum Bonding and Data, J. D. Minford
 
 Papers by Kay Blohowiak are good reading on bonding stainless:
 
-Read this paper: http://www.asetsdefense.org/documents/Workshops/SURF-FIN-TempeAZ-02-08/Briefings/Blohowiak-SERDP-ESTCP_Surface_Prep_for_Adhesive_Bonding-2-08.pdf
+Read this paper: http://www.asetsdefense.org/documents/Workshops/SURF-FIN-TempeAZ-02-08/Briefings/Blohowiak-SERDP-ESTCP\_Surface\_Prep\_for\_Adhesive\_Bonding-2-08.pdf
 
 and this one: http://www.dtic.mil/dtic/tr/fulltext/u2/a448095.pdf
 
-### Contact with questions about AC130:
-
-[](#h.xa5o4qp702l0)
+#### Contact with questions about AC130:
 
 David W. Jordan | Product Specialist
 
@@ -427,11 +400,6 @@ dwjordan@mmm.com | www.3M.com/aerospacesealants
 
 [www.3M.com/aerospacesealants](http://www.3m.com/aerospacesealants)
 
-[](https://drive.google.com/folderview?id=1DONzoNMF2dlBgVNzUc9IpmIIRQVBTDFl)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1DONzoNMF2dlBgVNzUc9IpmIIRQVBTDFl#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1DONzoNMF2dlBgVNzUc9IpmIIRQVBTDFl#list" frameborder="0"></iframe>
-

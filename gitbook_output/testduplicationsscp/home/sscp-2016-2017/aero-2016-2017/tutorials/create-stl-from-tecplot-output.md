@@ -1,14 +1,16 @@
-# SSCP - Create .stl from Tecplot Output
+# create-stl-from-tecplot-output
 
-# Create .stl from Tecplot Output
+## SSCP - Create .stl from Tecplot Output
 
-SU2 exports tecplot files which can be converted to .stl.  This is useful for recreating the output of an adjoint optimizer run in CAD.
+## Create .stl from Tecplot Output
+
+SU2 exports tecplot files which can be converted to .stl.  This is useful for recreating the output of an adjoint optimizer run in CAD.
 
 Steps:
 
 1 Download Paraview
 
-[ Paraview](http://www.paraview.org/download/)
+[Paraview](http://www.paraview.org/download/)
 
 2 Open Tecplot surface mesh output in Paraview
 
@@ -26,9 +28,8 @@ Steps:
 
 ![](../../../../../assets/image_a4b9f25c79.png)
 
-6 With your new ExtractSurface selected, File > Save Data.  Choose file type to be stl.  Use ASCII for better cross-compatability.
+6 With your new ExtractSurface selected, File > Save Data.  Choose file type to be stl.  Use ASCII for better cross-compatability.
 
 ![](../../../../../assets/image_ecb39e6fdd.png)
 
 Note that this exported STL is not a surface, merely the mesh (many small polygons) in a new file format.
-

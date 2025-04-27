@@ -1,6 +1,8 @@
-# SSCP - Sundae Concept Cars
+# sundae-concept-cars
 
-# Sundae Concept Cars
+## SSCP - Sundae Concept Cars
+
+## Sundae Concept Cars
 
 7. sundae-concept-bullet-001
 
@@ -20,7 +22,7 @@ CDA: 0.348522
 
 Drag: 129.0783 N
 
->> CONCEPT-CRUISER CONCLUSIONS: 
+> > CONCEPT-CRUISER CONCLUSIONS:&#x20;
 
 This concept is taller than a typical challenger car, which does inherently increase chance of rollover but is not game over for this concept. Like the 4m4w concept, almost the entire side of the car is the fairing, with even more area for crosswind force. Driver visibility is somewhat problematic and high maintenance in this concept, because the entire front nose of the car must be bubble. These numbers are at least comparable with the previous concept, though drastic changes are likely needed to make it anywhere near shippable.
 
@@ -64,9 +66,9 @@ CAD: Yuji
 
 This car is about the same size as Arctan (which was not our original intention) due to packaging issues. The windscreen area takes up a significant portion of the car due to the low airfoil nose, thus making the array area enlarge the car to Arctan size. This car was likely to have downforce problems at the nose (as well as an unnecessarily high frontal area) and lift problems in the belly, so we did not run this car through CFD.
 
->> CONCEPT-4m4w CONCLUSIONS: 
+> > CONCEPT-4m4w CONCLUSIONS:&#x20;
 
-This concept turned out very fat primarily due to the unchanged wheel envelope but downsized car size. Drag was not decreased significantly (~3 N realistically) from Arctan, indicating that perhaps there is a better design for a 4 square meter car. The entire side of the car is the fairing, unfortunately, which not only looks silly but makes the entire car a sail. Other designs to be explored...
+This concept turned out very fat primarily due to the unchanged wheel envelope but downsized car size. Drag was not decreased significantly (\~3 N realistically) from Arctan, indicating that perhaps there is a better design for a 4 square meter car. The entire side of the car is the fairing, unfortunately, which not only looks silly but makes the entire car a sail. Other designs to be explored...
 
 3. sundae-concept-4m4w-003
 
@@ -112,7 +114,7 @@ The first iteration of the 4 square meter, 4 wheeled concept car.
 
 CAD: Yuji, Mesh and CFD: Rachel (Azure)
 
-Frontal Area: ~0.71 sq m (assume for all of these concepts, AF is same)
+Frontal Area: \~0.71 sq m (assume for all of these concepts, AF is same)
 
 ![](../../../../assets/image_58d0f67341.jpg)
 
@@ -142,9 +144,8 @@ This car has more than 4 sq meters of array space in order to fit a wheelbase --
 
 Overall, the drag is lower than Arctan as expected, since it is a smaller car. There is a comically high downforce, indicating that we need more camber in the underbelly of the mainfoil.
 
-Note that this car was originally run in CFD with a reference area of 1 m^2. However, this car has a reference (frontal) area of more like 0.71 m^2. The reference area is used to solve for the CD and CL iteratively in CFD. Then, using the CD and CL, we can calculate the respective drag and lift forces using the same equation Force = 0.5*(density of air)*(speed)^2*(coefficient)*(reference area). 
+Note that this car was originally run in CFD with a reference area of 1 m^2. However, this car has a reference (frontal) area of more like 0.71 m^2. The reference area is used to solve for the CD and CL iteratively in CFD. Then, using the CD and CL, we can calculate the respective drag and lift forces using the same equation Force = 0.5\*(density of air)_(speed)^2_(coefficient)\*(reference area).&#x20;
 
 So there was reason to believe that using the wrong reference area would produce incorrect forces. However, we've just learned something about the reference area with this latest CFD run using the corrected reference area. It appears that the use of the reference area is circular like it seems (see above description). While the CL/CD are calculated by CFD using a given reference area, we also calculate the forces using the CL/CD and the original given reference area.
 
 The forces are exactly the same (within 0.0001)!
-

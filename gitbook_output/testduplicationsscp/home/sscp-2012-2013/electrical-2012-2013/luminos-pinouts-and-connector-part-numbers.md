@@ -1,10 +1,10 @@
-# SSCP - Luminos Pinouts and Connector Part Numbers
+# luminos-pinouts-and-connector-part-numbers
 
-# Luminos Pinouts and Connector Part Numbers
+## SSCP - Luminos Pinouts and Connector Part Numbers
 
-### (CAN) Phoenix M12 A Code
+## Luminos Pinouts and Connector Part Numbers
 
-[](#h.4dplyjud0p6i)
+#### (CAN) Phoenix M12 A Code
 
 ![](../../../../assets/image_17f2317af5.jpg)
 
@@ -12,11 +12,9 @@ CAN Pinout
 
 ![](../../../../assets/image_bec417b76f.jpg)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](luminos-pinouts-and-connector-part-numbers.md)
 
 Male M12 Pinout:
 
@@ -24,39 +22,33 @@ Phoenix Part Numbers:
 
 Phoenix Part Numbers:
 
-    Male PCB Mount 5 Pos Outside Nut: 1694224, used extensively
+&#x20;   Male PCB Mount 5 Pos Outside Nut: 1694224, used extensively
 
-    Male PCB Inside Nut: 1436602 (not used)
+&#x20;   Male PCB Inside Nut: 1436602 (not used)
 
-    Male Panel Mount Square Flange: 1440973, used on the battery and MPPT box
+&#x20;   Male Panel Mount Square Flange: 1440973, used on the battery and MPPT box
 
-    Male Panel Mount Round Flange: 1671111, not used due to the superiority of 1440973 on thin fiberglass panel
+&#x20;   Male Panel Mount Round Flange: 1671111, not used due to the superiority of 1440973 on thin fiberglass panel
 
-    
+&#x20;  &#x20;
 
 Tees (1 Male 2 Female)
 
-    
+&#x20;  &#x20;
 
-    Simple Tee: Phoenix 1541186, used extensively
+&#x20;   Simple Tee: Phoenix 1541186, used extensively
 
-    Bolt mount Tee: Phoenix 1507793, heavy, do not use
+&#x20;   Bolt mount Tee: Phoenix 1507793, heavy, do not use
 
-### Steering Wheel Connection
+#### Steering Wheel Connection
 
-[](#h.27vv0a5cfqru)
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](luminos-pinouts-and-connector-part-numbers.md)
 
 ![](../../../../assets/image_d17a7b7f48.jpg)
 
-### (Many) Deutsch DTM-12
-
-[](#h.xuucwe2piysd)
+#### (Many) Deutsch DTM-12
 
 ![](../../../../assets/image_f2ed70e181.jpg)
 
@@ -68,77 +60,71 @@ Pin List
 
 Part Numbers (from wirecare.com):
 
-    Female Connector, key A, for heat shrink: DTM06-12SA-E007
+&#x20;   Female Connector, key A, for heat shrink: DTM06-12SA-E007
 
-    Female Connector, key B, for heat shrink: DTM06-12SB-E007
+&#x20;   Female Connector, key B, for heat shrink: DTM06-12SB-E007
 
-    Wedgelock (needed for female connector): WM-12S
+&#x20;   Wedgelock (needed for female connector): WM-12S
 
-    Pins: 0462-201-20141 (nickel, 20ga)
+&#x20;   Pins: 0462-201-20141 (nickel, 20ga)
 
-     Pins: 0462-201-2031 (gold, 20ga)
+&#x20;    Pins: 0462-201-2031 (gold, 20ga)
 
-     Pins: 0462-005-20141(gold 16-18ga)
+&#x20;    Pins: 0462-005-20141(gold 16-18ga)
 
-    Protective Boot: DTM12S-BT (this sucks, don't buy it)
+&#x20;   Protective Boot: DTM12S-BT (this sucks, don't buy it)
 
-    Sealing Plugs (for sealing unused pins): 0413-204-2005
+&#x20;   Sealing Plugs (for sealing unused pins): 0413-204-2005
 
-Light Cabling: 
+Light Cabling:&#x20;
 
-    Four corners of car:
+&#x20;   Four corners of car:
 
-        Front Left/Right: 
+&#x20;       Front Left/Right:&#x20;
 
-            Black: Turn-
+&#x20;           Black: Turn-
 
-            Red: Turn +
+&#x20;           Red: Turn +
 
-            Green: Headlight+   
+&#x20;           Green: Headlight+  &#x20;
 
-            White:    Headlight-
+&#x20;           White:    Headlight-
 
-        Rear Left/Right: 
+&#x20;       Rear Left/Right:&#x20;
 
-            Black: Brake -
+&#x20;           Black: Brake -
 
-            Red:  Brake +
+&#x20;           Red:  Brake +
 
-            Green:  Turn +
+&#x20;           Green:  Turn +
 
-            White:    Turn -
+&#x20;           White:    Turn -
 
-        Rear Bubble: 
+&#x20;       Rear Bubble:&#x20;
 
-            Black: Brake -
+&#x20;           Black: Brake -
 
-            Red:   Brake +
+&#x20;           Red:   Brake +
 
 Tire Pressure External Output (12 POS)
 
 A Coded (Grey Box front)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](luminos-pinouts-and-connector-part-numbers.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](luminos-pinouts-and-connector-part-numbers.md)
 
 Driver Controls Inputs
 
 A Code (Grey Box Front)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](luminos-pinouts-and-connector-part-numbers.md)
 
 (Pedals) TE Superseal 1.5 Pedal Sensor Connectors (North America Version)
 
@@ -158,69 +144,50 @@ Connector: 282087-1
 
 Pins: 282403-1 (Correct, Mouser shipped the incorrect part)
 
-### (High Voltage) TE HVA280
-
-[](#h.w267sjz8u7ra)
+#### (High Voltage) TE HVA280
 
 Used for Pack->array and Pack->Motor controllers
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](luminos-pinouts-and-connector-part-numbers.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+&#x20;1
 
- 1
+&#x20;2
 
- 2
+&#x20;HV+
 
- HV+
-
- HV-
+&#x20;HV-
 
 Part Numbers:
 
-3 Bay Header,  ADE Code: 2103340-1
+3 Bay Header,  ADE Code: 2103340-1
 
-1 Bay Header, A Code: 
+1 Bay Header, A Code:&#x20;
 
-Plug, Finger Actuated, Individually shielded, A code: 
+Plug, Finger Actuated, Individually shielded, A code:&#x20;
 
-Plug, Finger Actuated, Individually shielded, D code: 
+Plug, Finger Actuated, Individually shielded, D code:&#x20;
 
-Plug, Finger Actuated, Individually shielded, E code: 
+Plug, Finger Actuated, Individually shielded, E code:&#x20;
 
-### (Battery Pack HV) Ring Terminals
+#### (Battery Pack HV) Ring Terminals
 
-[](#h.r9o69fuly14p)
+#### Molex 10ga Crimps with M5 Stud
 
-### Molex 10ga Crimps with M5 Stud
-
-[](#h.3c3y5eeqh8hy)
-
-### (Battery Pack HV Sense) Ring Terminals
-
-[](#h.m5cde04w5l6i)
+#### (Battery Pack HV Sense) Ring Terminals
 
 Molex 22ga crimps
 
-### Motor HV
+#### Motor HV
 
-[](#h.qxjus7phdpgp)
+#### Embedded Content
 
-### Embedded Content
+Embedded content: [Custom embed](luminos-pinouts-and-connector-part-numbers.md)
 
-Embedded content: [Custom embed]()
+#### Motor Resolver
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+#### Embedded Content
 
-### Motor Resolver
-
-[](#h.w3x9xh1ud6fj)
-
-### Embedded Content
-
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
+Embedded content: [Custom embed](luminos-pinouts-and-connector-part-numbers.md)

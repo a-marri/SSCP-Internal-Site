@@ -1,6 +1,8 @@
-# SSCP - Common IAR Errors
+# common-iar-errors
 
-# Common IAR Errors
+## SSCP - Common IAR Errors
+
+## Common IAR Errors
 
 Common Fixes
 
@@ -161,12 +163,11 @@ Error: cannot intrinsic function "x" from y mode in this architecture
 
 * Right click on Project -> Options -> General Options -> Target. Select 'Device' instead of 'Core', and choose the correct version.
 * Right click on Project -> Options -> General Options -> Target. Select 'Device' instead of 'Core', and choose the correct version.
-
 * Right click on Project -> Options -> General Options -> Target. Select 'Device' instead of 'Core', and choose the correct version.
 
 Right click on Project -> Options -> General Options -> Target. Select 'Device' instead of 'Core', and choose the correct version.
 
-Error[Pe1696]: cant open any of the source files 
+Error\[Pe1696]: cant open any of the source files&#x20;
 
 * Under c/c++ options make sure the directories for the pre processor are correct. Also make sure to have selected the correct preprocessor. (check a working project for help)
 * Make sure that the license server is set up correctly.
@@ -201,7 +202,6 @@ When beginning to flash code, IAR appears to be stuck on the stage: Updating Bui
 * Also, when you halt debugging, IAR may mention being unable to connect to the license server.Check your internet connection to make sure that IAR has contact with the license server.
 * Also, when you halt debugging, IAR may mention being unable to connect to the license server.
 * Check your internet connection to make sure that IAR has contact with the license server.
-
 * Also, when you halt debugging, IAR may mention being unable to connect to the license server.
 * Check your internet connection to make sure that IAR has contact with the license server.
 
@@ -209,13 +209,13 @@ Also, when you halt debugging, IAR may mention being unable to connect to the li
 
 Check your internet connection to make sure that IAR has contact with the license server.
 
-When you run code and get an error of the type: 
+When you run code and get an error of the type:&#x20;
 
 "Verify error at address 0x0........., target byte: 0x.., byte in file: 0x.."
 
-* The computer isn't writing the program correctly to the board, so right click on the project and go to Options                ->Debugger ->Download and make sure that the "Use flash loader(s)" box is checked.
+* The computer isn't writing the program correctly to the board, so right click on the project and go to Options                ->Debugger ->Download and make sure that the "Use flash loader(s)" box is checked.
 
-The computer isn't writing the program correctly to the board, so right click on the project and go to Options                ->Debugger ->Download and make sure that the "Use flash loader(s)" box is checked.
+The computer isn't writing the program correctly to the board, so right click on the project and go to Options                ->Debugger ->Download and make sure that the "Use flash loader(s)" box is checked.
 
 Other Errors
 
@@ -226,4 +226,3 @@ Car is not turning on at all (Luminos)
 This error occurs very rarely and is due to a previous design issue. Use the Can Debugger to start the car.
 
 Please update this page to include any errors that people may encounter.
-

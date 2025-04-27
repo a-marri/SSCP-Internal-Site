@@ -1,27 +1,27 @@
-# SSCP - Molds
+# molds
 
-# Molds
+## SSCP - Molds
 
-## Things to Consider Before Sending Out Molds
+## Molds
 
-[](#h.lae0nm82ip6g)
+### Things to Consider Before Sending Out Molds
 
-* Suspension Geometry Suspension in Block Form to ensure parts are of reasonable thickness and fit in fairingsMichelin Tires turned with a suspension 3d sketch fit in the fairings with some tolerenceSuspension Geometry has reasonable bump scrub and bump steerMain Chassis Panel location and geometryPreliminary Roll Cage
-* Suspension Geometry Suspension in Block Form to ensure parts are of reasonable thickness and fit in fairingsMichelin Tires turned with a suspension 3d sketch fit in the fairings with some tolerenceSuspension Geometry has reasonable bump scrub and bump steer
+* Suspension Geometry Suspension in Block Form to ensure parts are of reasonable thickness and fit in fairingsMichelin Tires turned with a suspension 3d sketch fit in the fairings with some tolerenceSuspension Geometry has reasonable bump scrub and bump steerMain Chassis Panel location and geometryPreliminary Roll Cage
+* Suspension Geometry Suspension in Block Form to ensure parts are of reasonable thickness and fit in fairingsMichelin Tires turned with a suspension 3d sketch fit in the fairings with some tolerenceSuspension Geometry has reasonable bump scrub and bump steer
 * Suspension in Block Form to ensure parts are of reasonable thickness and fit in fairings
 * Michelin Tires turned with a suspension 3d sketch fit in the fairings with some tolerence
 * Suspension Geometry has reasonable bump scrub and bump steer
 * Main Chassis Panel location and geometry
 * Preliminary Roll Cage
 
-1. Suspension Geometry Suspension in Block Form to ensure parts are of reasonable thickness and fit in fairingsMichelin Tires turned with a suspension 3d sketch fit in the fairings with some tolerenceSuspension Geometry has reasonable bump scrub and bump steer
+1. Suspension Geometry Suspension in Block Form to ensure parts are of reasonable thickness and fit in fairingsMichelin Tires turned with a suspension 3d sketch fit in the fairings with some tolerenceSuspension Geometry has reasonable bump scrub and bump steer
 2. Suspension in Block Form to ensure parts are of reasonable thickness and fit in fairings
 3. Michelin Tires turned with a suspension 3d sketch fit in the fairings with some tolerence
 4. Suspension Geometry has reasonable bump scrub and bump steer
 5. Main Chassis Panel location and geometry
 6. Preliminary Roll Cage
 
-Suspension Geometry 
+Suspension Geometry&#x20;
 
 1. Suspension in Block Form to ensure parts are of reasonable thickness and fit in fairings
 2. Michelin Tires turned with a suspension 3d sketch fit in the fairings with some tolerence
@@ -37,19 +37,18 @@ Main Chassis Panel location and geometry
 
 Preliminary Roll Cage
 
-* Material and Size Chosen Preliminary FEA
-* Material and Size Chosen Preliminary FEA
-* Material and Size Chosen 
+* Material and Size Chosen Preliminary FEA
+* Material and Size Chosen Preliminary FEA
+* Material and Size Chosen&#x20;
+* Preliminary FEA
+* Material and Size Chosen Preliminary FEA
+* Material and Size Chosen&#x20;
 * Preliminary FEA
 
-* Material and Size Chosen Preliminary FEA
-* Material and Size Chosen 
-* Preliminary FEA
-
-1. Material and Size Chosen 
+1. Material and Size Chosen&#x20;
 2. Preliminary FEA
 
-Material and Size Chosen 
+Material and Size Chosen&#x20;
 
 Preliminary FEA
 
@@ -64,7 +63,6 @@ Dynamics Simulation
 * CG Calculated including the location and mass estimates for everything over 1kgEnsure the CG is in front of the Center of Pressure so the car turns into the wind
 * CG Calculated including the location and mass estimates for everything over 1kg
 * Ensure the CG is in front of the Center of Pressure so the car turns into the wind
-
 * CG Calculated including the location and mass estimates for everything over 1kgEnsure the CG is in front of the Center of Pressure so the car turns into the wind
 * CG Calculated including the location and mass estimates for everything over 1kg
 * Ensure the CG is in front of the Center of Pressure so the car turns into the wind
@@ -76,8 +74,8 @@ CG Calculated including the location and mass estimates for everything over 1kg
 
 Ensure the CG is in front of the Center of Pressure so the car turns into the wind
 
-* Array Layout Parting Lines for door and fairings so they can be scribed into the moldEnsure vision requirements in rules are metDo a quick motion study to make sure that no part of the suspension hits any part of the fairing at any point of its full travel + maximum deflection (due to material stiffness). We had a few interferences on Apogee because we didn't fully simulate the full travel of the suspension (including axes of adjustment). In the end we managed to get it all to work (thanks mech team!!), but it was a little fiddly until we got there.Also make sure that you've figured out how you're going to route cables and ensure that you're not going to pinch them off or leave them flopping about. NHS generally did a great job of this, though he was a tad aggressive in some places.Something we never did but should have: include some nice alignment features in the mold that make it easy to replace the finished shell in exactly the same position in case you need to do touchup work or additional layers or for mating top and bottom shells.Be sure to think about how you're going to attach the top and bottom shell and ensure that you can fix the alignment between the two. This doesn't necessarily require a mold feature, but knowing how you're going to do it up front will make it easier to execute later. How will the edge between the shells work. Will there be a flange a la Apogee? How will that be made?More than just array layout, think about how the wires will route and how you will do access for service.Think about how you're going to get to the wheel wells to do work on the car quickly and efficiently - change tires, replace broken bits, tighten bolts, etc. Are you going to include scribe lines for fairing doors?Where is core going to go? Are you sure that the thickness won't interfere?CG should also be balanced relative to the wheel locations so that there is an equal amount on weight on each wheel. This will give you good cornering response.Leave some space for ballast in two areas, one in the very front and one in the back of the car, so you can use ballast to adjust CG if needed.More than just locating mass for major components - make sure they will package where you want to put them, including margin for boxes that aren't fully designed yet.Ensure there is enough tolerance that even with the CTE of the molds the finished car will meet sizes laid out in the rules (1cm MIN)Keep in mind the general material thickness (i.e. carbon, core, etc) and clearance for support structure (i.e. chassis panels, ribs, etc) to avoid potential interferences later.For fitting in the suspension geometry, it's hard to be exact since detail design will come later, but try to block out space for the full travel of the suspension. For example:
-* Array Layout 
+* Array Layout Parting Lines for door and fairings so they can be scribed into the moldEnsure vision requirements in rules are metDo a quick motion study to make sure that no part of the suspension hits any part of the fairing at any point of its full travel + maximum deflection (due to material stiffness). We had a few interferences on Apogee because we didn't fully simulate the full travel of the suspension (including axes of adjustment). In the end we managed to get it all to work (thanks mech team!!), but it was a little fiddly until we got there.Also make sure that you've figured out how you're going to route cables and ensure that you're not going to pinch them off or leave them flopping about. NHS generally did a great job of this, though he was a tad aggressive in some places.Something we never did but should have: include some nice alignment features in the mold that make it easy to replace the finished shell in exactly the same position in case you need to do touchup work or additional layers or for mating top and bottom shells.Be sure to think about how you're going to attach the top and bottom shell and ensure that you can fix the alignment between the two. This doesn't necessarily require a mold feature, but knowing how you're going to do it up front will make it easier to execute later. How will the edge between the shells work. Will there be a flange a la Apogee? How will that be made?More than just array layout, think about how the wires will route and how you will do access for service.Think about how you're going to get to the wheel wells to do work on the car quickly and efficiently - change tires, replace broken bits, tighten bolts, etc. Are you going to include scribe lines for fairing doors?Where is core going to go? Are you sure that the thickness won't interfere?CG should also be balanced relative to the wheel locations so that there is an equal amount on weight on each wheel. This will give you good cornering response.Leave some space for ballast in two areas, one in the very front and one in the back of the car, so you can use ballast to adjust CG if needed.More than just locating mass for major components - make sure they will package where you want to put them, including margin for boxes that aren't fully designed yet.Ensure there is enough tolerance that even with the CTE of the molds the finished car will meet sizes laid out in the rules (1cm MIN)Keep in mind the general material thickness (i.e. carbon, core, etc) and clearance for support structure (i.e. chassis panels, ribs, etc) to avoid potential interferences later.For fitting in the suspension geometry, it's hard to be exact since detail design will come later, but try to block out space for the full travel of the suspension. For example:
+* Array Layout&#x20;
 * Parting Lines for door and fairings so they can be scribed into the mold
 * Ensure vision requirements in rules are met
 * Do a quick motion study to make sure that no part of the suspension hits any part of the fairing at any point of its full travel + maximum deflection (due to material stiffness). We had a few interferences on Apogee because we didn't fully simulate the full travel of the suspension (including axes of adjustment). In the end we managed to get it all to work (thanks mech team!!), but it was a little fiddly until we got there.
@@ -94,7 +92,7 @@ Ensure the CG is in front of the Center of Pressure so the car turns into the wi
 * Keep in mind the general material thickness (i.e. carbon, core, etc) and clearance for support structure (i.e. chassis panels, ribs, etc) to avoid potential interferences later.
 * For fitting in the suspension geometry, it's hard to be exact since detail design will come later, but try to block out space for the full travel of the suspension. For example:
 
-1. Array Layout 
+1. Array Layout&#x20;
 2. Parting Lines for door and fairings so they can be scribed into the mold
 3. Ensure vision requirements in rules are met
 4. Do a quick motion study to make sure that no part of the suspension hits any part of the fairing at any point of its full travel + maximum deflection (due to material stiffness). We had a few interferences on Apogee because we didn't fully simulate the full travel of the suspension (including axes of adjustment). In the end we managed to get it all to work (thanks mech team!!), but it was a little fiddly until we got there.
@@ -111,7 +109,7 @@ Ensure the CG is in front of the Center of Pressure so the car turns into the wi
 15. Keep in mind the general material thickness (i.e. carbon, core, etc) and clearance for support structure (i.e. chassis panels, ribs, etc) to avoid potential interferences later.
 16. For fitting in the suspension geometry, it's hard to be exact since detail design will come later, but try to block out space for the full travel of the suspension. For example:
 
-Array Layout 
+Array Layout&#x20;
 
 Parting Lines for door and fairings so they can be scribed into the mold
 
@@ -143,32 +141,36 @@ Keep in mind the general material thickness (i.e. carbon, core, etc) and clearan
 
 For fitting in the suspension geometry, it's hard to be exact since detail design will come later, but try to block out space for the full travel of the suspension. For example:
 
-* + Vertical direction: Shock is fully compressed, uncompressed.+ Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
-* + Vertical direction: Shock is fully compressed, uncompressed.+ Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
-* + Vertical direction: Shock is fully compressed, uncompressed.
-* + Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
+*
+  * Vertical direction: Shock is fully compressed, uncompressed.+ Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
+*
+  * Vertical direction: Shock is fully compressed, uncompressed.+ Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
+*
+  * Vertical direction: Shock is fully compressed, uncompressed.
+*
+  * Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
+*
+  * Vertical direction: Shock is fully compressed, uncompressed.+ Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
+*
+  * Vertical direction: Shock is fully compressed, uncompressed.
+*
+  * Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
 
-* + Vertical direction: Shock is fully compressed, uncompressed.+ Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
-* + Vertical direction: Shock is fully compressed, uncompressed.
-* + Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
+1.
+   * Vertical direction: Shock is fully compressed, uncompressed.
+2.
+   * Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
 
-1. + Vertical direction: Shock is fully compressed, uncompressed.
-2. + Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
+* Vertical direction: Shock is fully compressed, uncompressed.
+* Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
+* For the CG, you'll also want to ensure you have more of a forward-CG car since it's dynamically more stable.&#x20;
+* For the CG, you'll also want to ensure you have more of a forward-CG car since it's dynamically more stable.&#x20;
 
-+ Vertical direction: Shock is fully compressed, uncompressed.
+1. For the CG, you'll also want to ensure you have more of a forward-CG car since it's dynamically more stable.&#x20;
 
-+ Side-to-side (turning): Make sure your wheel can comfortably turn from one extreme to another. Think about how you want your wheel wells to work.
+For the CG, you'll also want to ensure you have more of a forward-CG car since it's dynamically more stable.&#x20;
 
-* For the CG, you'll also want to ensure you have more of a forward-CG car since it's dynamically more stable. 
-* For the CG, you'll also want to ensure you have more of a forward-CG car since it's dynamically more stable. 
-
-1. For the CG, you'll also want to ensure you have more of a forward-CG car since it's dynamically more stable. 
-
-For the CG, you'll also want to ensure you have more of a forward-CG car since it's dynamically more stable. 
-
-## In Mold Locating Features
-
-[](#h.eza2cincnqv1)
+### In Mold Locating Features
 
 Conversation with Bayview:
 
@@ -176,35 +178,31 @@ We may CNC a pattern that may require a break in the tool (because of our CNC he
 
 If the tolerances are not tight, we may do something as simple as matching scribes. (note: this is how Michigan did Quantum according to conversations with Santosh)
 
-If the tolerances are tight, we may CNC matching  ½  female sphere’s, that are in alignment from one mold to the other.   Then we would set a tooling ball(s) in one tools pocket(s) and then set the accompanying tool in its proper position and the balls will align them very closely.   This is common in Aerospace tolerances.
+If the tolerances are tight, we may CNC matching  ½  female sphere’s, that are in alignment from one mold to the other.   Then we would set a tooling ball(s) in one tools pocket(s) and then set the accompanying tool in its proper position and the balls will align them very closely.   This is common in Aerospace tolerances.
 
- 
+&#x20;
 
 If you are talking about hard molds….
 
-We just built a Boat Hull that requires a tube cradle to create a form for the outer tube of the boat.  These are military RIB boats.  The tube cradle creates a lock in the tool, but we need to fab. the geometry in the hull so we need it to be removable.  In this case we CNC several male features on the flange of one tool & the same number of female features on the flange of the insert tool.  Both having the same geometry, when you set one on the other, they align.  These features may be a partial sphere, a trapezoid….
+We just built a Boat Hull that requires a tube cradle to create a form for the outer tube of the boat.  These are military RIB boats.  The tube cradle creates a lock in the tool, but we need to fab. the geometry in the hull so we need it to be removable.  In this case we CNC several male features on the flange of one tool & the same number of female features on the flange of the insert tool.  Both having the same geometry, when you set one on the other, they align.  These features may be a partial sphere, a trapezoid….
 
- 
+&#x20;
 
-On some of our larger wind blade projects and a small proto tool that I currently have on-hand.  These are molds that are fabricated with a composite face sheet on a steel frame/support.  These tools required adjustable alignment in both transverse & longitudinal.  When they are adjustable, we would build the alignment feature off of the steel frame.   This is as simple as a V shape on one and the opposite on the other.  These can be set several down the length, 1 every 3 – 5 meters, then set some  in the transverse.
+On some of our larger wind blade projects and a small proto tool that I currently have on-hand.  These are molds that are fabricated with a composite face sheet on a steel frame/support.  These tools required adjustable alignment in both transverse & longitudinal.  When they are adjustable, we would build the alignment feature off of the steel frame.   This is as simple as a V shape on one and the opposite on the other.  These can be set several down the length, 1 every 3 – 5 meters, then set some  in the transverse.
 
-If it is a tight tolerance, the V blocks can be CNC’d. 
+If it is a tight tolerance, the V blocks can be CNC’d.&#x20;
 
-If not tight tolerances, you can use a std pc. of matching angle. 
+If not tight tolerances, you can use a std pc. of matching angle.&#x20;
 
 These can both be made adjustable.
 
-## Mold Company History
-
-[](#h.lzjan1712bcv)
+### Mold Company History
 
 Xenith: Bayview Composites
 
-Apogee: 
+Apogee:&#x20;
 
-### Erik Hantsoo On Mold History
-
-[](#h.65fagme1hyw9)
+#### Erik Hantsoo On Mold History
 
 Indeed: MFG West made awesome molds for minimal price. Not sure what
 
@@ -282,23 +280,15 @@ negative molds off the patterns. Monolithic fiberglass won't have
 
 thermal stability issues when curing prepreg at temperature.
 
-## Mold Companies
+### Mold Companies
 
-[](#h.68yhr31o2aa4)
+#### Embedded Content
 
-[](https://docs.google.com/spreadsheets/d/0Ag4AxbL4qxledHlEWWc3S3N6TWpFOXVSZ0hlVDFUX0E/edit)
-
-### Embedded Content
-
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](molds.md)
 
 ![](../../../../assets/sheets_32dp.png)
 
-## Why we don't make our own molds:
-
-[](#h.48hm36ckv01s)
+### Why we don't make our own molds:
 
 Transcript of a conversation Nathan HS had with Jonathan Cook (Northwestern Team Member) April 2012
 
@@ -316,7 +306,7 @@ and our bottom on a fiberglass mold, made off a foam plug
 
 issues: 1) The foam plug didn't seal with paste wax, which we were told it would, so we had to chisel the foam off of our fiberglass mold
 
-Jonathan's new status message - just 1 more final!   2:40 PM
+Jonathan's new status message - just 1 more final!   2:40 PM
 
 so that was a mess
 
@@ -330,7 +320,7 @@ but we ran out of surfacing epoxy during that
 
 and didn't plug up all the holes properly
 
-plus now we didn't have a smooth layer  of surfacing epoxy because it flowed and didn't spread very well
+plus now we didn't have a smooth layer  of surfacing epoxy because it flowed and didn't spread very well
 
 so we had to sand for like a week and a half
 
@@ -368,31 +358,22 @@ so we sanded it
 
 but after the fibeglass de-molding disaster...
 
-## Receiving The Molds
+### Receiving The Molds
 
-[](#h.jdl37mqgwrd)
+In the future the team should try to use the loading dock at EH\&S across the street. Scope out the dock and make sure you can get access to the dock before you plan on using it. There is a chance that the dock may be too small.&#x20;
 
-In the future the team should try to use the loading dock at EH&S across the street. Scope out the dock and make sure you can get access to the dock before you plan on using it. There is a chance that the dock may be too small. 
+If the team can't use the EH\&S loading dock the team's other options probably require a forklift. Scott Sutton in MERL will gladly bring over a forklift from the ME department if you ask him. You can get a second larger forklift by making a request at Event Services. Event Services does charge a fee. You can make a request here.&#x20;
 
-If the team can't use the EH&S loading dock the team's other options probably require a forklift. Scott Sutton in MERL will gladly bring over a forklift from the ME department if you ask him. You can get a second larger forklift by making a request at Event Services. Event Services does charge a fee. You can make a request here. 
+[Event Services](http://bgm.stanford.edu/groups/els/moving)
 
-[ Event Services](http://bgm.stanford.edu/groups/els/moving)
-
-[ here](http://eventservices.stanford.edu/requests/index.cfm)
+[here](http://eventservices.stanford.edu/requests/index.cfm)
 
 Check with the mold manufacturer to see if you need to post cure the molds and to seal the molds.
 
-## Storing the Molds
+### Storing the Molds
 
-[](#h.tclu6i6khlr2)
+Eventually the VAIL admins will probably ask you to relocate the molds from VAIL. If you talk to Stanford Parking and Transportation Services you can request a permit to store the molds in one of the parking garages. Ta"Brown, Dwight" [dwight2@stanford.edu](mailto:dwight2@stanford.edu), "Roberts, Jared" [jaredr@stanford.edu](mailto:jaredr@stanford.edu), or the current Parking Operations Supervisor (parkingoperations@lists.stanford.edu). The team has previously stored molds in Parking Garage 6 and Parking Garage 5. If you can stack the molds on top of each other you can fit them in one parking spot usually.
 
-Eventually the VAIL admins will probably ask you to relocate the molds from VAIL. If you talk to Stanford Parking and Transportation Services you can request a permit to store the molds in one of the parking garages. Ta"Brown, Dwight" <dwight2@stanford.edu>, "Roberts, Jared" <jaredr@stanford.edu>, or the current Parking Operations Supervisor (parkingoperations@lists.stanford.edu). The team has previously stored molds in Parking Garage 6 and Parking Garage 5. If you can stack the molds on top of each other you can fit them in one parking spot usually.
-
-[](https://drive.google.com/folderview?id=1dg5pGyEunNFEuR0y4xsrhi4-AZePaOaY)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1dg5pGyEunNFEuR0y4xsrhi4-AZePaOaY#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1dg5pGyEunNFEuR0y4xsrhi4-AZePaOaY#list" frameborder="0"></iframe>
-

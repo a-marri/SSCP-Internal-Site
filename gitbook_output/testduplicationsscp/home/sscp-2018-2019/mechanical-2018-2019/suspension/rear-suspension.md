@@ -1,12 +1,14 @@
-# SSCP - Rear Suspension
+# rear-suspension
 
-# Rear Suspension
+## SSCP - Rear Suspension
+
+## Rear Suspension
 
 Design:
 
 Steel Tubing Design:
 
- 
+&#x20;
 
 Hand Calcs:
 
@@ -15,4 +17,3 @@ Simulations:
 Hardpoints:
 
 Manufacturing:
-

@@ -1,25 +1,26 @@
-# SSCP - Convoy Vehicles
+# convoy-vehicles
 
-# Convoy Vehicles
+## SSCP - Convoy Vehicles
+
+## Convoy Vehicles
 
 Required Vehicles and Trailers
 
-* 1x tow-behind car carrier trailer (must fit 5m = 16.5ft comfortably)1x small gear trailer 3x pickup truck (they call them utes in AUS) with a back row of seats (car carrier/gear trailer/lead vehicle)1x midsize SUV with 3 rows (chase vehicle)1x small sedan or crossover (scout vehicle)
+* 1x tow-behind car carrier trailer (must fit 5m = 16.5ft comfortably)1x small gear trailer 3x pickup truck (they call them utes in AUS) with a back row of seats (car carrier/gear trailer/lead vehicle)1x midsize SUV with 3 rows (chase vehicle)1x small sedan or crossover (scout vehicle)
 * 1x tow-behind car carrier trailer (must fit 5m = 16.5ft comfortably)
-* 1x small gear trailer 
+* 1x small gear trailer&#x20;
 * 3x pickup truck (they call them utes in AUS) with a back row of seats (car carrier/gear trailer/lead vehicle)
 * 1x midsize SUV with 3 rows (chase vehicle)
 * 1x small sedan or crossover (scout vehicle)
-
 * 1x tow-behind car carrier trailer (must fit 5m = 16.5ft comfortably)
-* 1x small gear trailer 
+* 1x small gear trailer&#x20;
 * 3x pickup truck (they call them utes in AUS) with a back row of seats (car carrier/gear trailer/lead vehicle)
 * 1x midsize SUV with 3 rows (chase vehicle)
 * 1x small sedan or crossover (scout vehicle)
 
 1x tow-behind car carrier trailer (must fit 5m = 16.5ft comfortably)
 
-1x small gear trailer 
+1x small gear trailer&#x20;
 
 3x pickup truck (they call them utes in AUS) with a back row of seats (car carrier/gear trailer/lead vehicle)
 
@@ -44,4 +45,3 @@ Danielle has compiled quotes for renting convoy vehicles, linked in this spreads
 July 2019 Update
 
 Peter is in the process of submitting final bookings for rental convoy vehicles and the small trailer (organizing on small spreadsheet). After not hearing final details or confirmation from Dan/Larry, Sarah also reached out to several racetracks in Australia asking about rental trailers in their networks. Still following up on these leads/no trailer is found and locked down yet.
-

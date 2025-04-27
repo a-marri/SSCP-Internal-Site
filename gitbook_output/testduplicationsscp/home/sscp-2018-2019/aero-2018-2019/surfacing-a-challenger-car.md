@@ -1,14 +1,14 @@
-# SSCP - Surfacing a Challenger Car
+# surfacing-a-challenger-car
 
-# Surfacing a Challenger Car
+## SSCP - Surfacing a Challenger Car
 
-### Surfacing a Challenger Car
+## Surfacing a Challenger Car
 
-[](#h.m5g1jehf92ae)
+#### Surfacing a Challenger Car
 
 New surfacers: this document should be useful for filling in some of the gaps in the
 
-[ this document](https://drive.google.com/open?id=16KT90cmzzyzOKjBzOxiStB29ZZRrAOJbZKlwZrXDzVs)
+[this document](https://drive.google.com/open?id=16KT90cmzzyzOKjBzOxiStB29ZZRrAOJbZKlwZrXDzVs)
 
 videos below. (If it's not useful, then please add whatever's missing)!
 
@@ -45,16 +45,15 @@ Main Body
 
 Import main body foil
 
-* Insert > Curve > Curve through XYZ points... You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.Curve file for mainfoil tutorial at the bottom of this page.
-* Insert > Curve > Curve through XYZ points... 
+* Insert > Curve > Curve through XYZ points... You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.Curve file for mainfoil tutorial at the bottom of this page.
+* Insert > Curve > Curve through XYZ points...&#x20;
+* You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.
+* Curve file for mainfoil tutorial at the bottom of this page.
+* Insert > Curve > Curve through XYZ points...&#x20;
 * You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.
 * Curve file for mainfoil tutorial at the bottom of this page.
 
-* Insert > Curve > Curve through XYZ points... 
-* You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.
-* Curve file for mainfoil tutorial at the bottom of this page.
-
-Insert > Curve > Curve through XYZ points... 
+Insert > Curve > Curve through XYZ points...&#x20;
 
 You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.
 
@@ -100,23 +99,23 @@ Choose the correct plane so that your sketch becomes oriented as such (this is t
 
 ![](../../../../assets/image_55800dc347.jpg)
 
-* Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (~4.5 meters for Arctan).
-* Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (~4.5 meters for Arctan).
+* Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (\~4.5 meters for Arctan).
+* Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (\~4.5 meters for Arctan).
 * Locate the leading edge point on the foil and make it coincident with the origin.
-* Dimension the length of the main foil (~4.5 meters for Arctan).
+* Dimension the length of the main foil (\~4.5 meters for Arctan).
 
-1. Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (~4.5 meters for Arctan).
+1. Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (\~4.5 meters for Arctan).
 2. Locate the leading edge point on the foil and make it coincident with the origin.
-3. Dimension the length of the main foil (~4.5 meters for Arctan).
+3. Dimension the length of the main foil (\~4.5 meters for Arctan).
 
 Dimension the main foil
 
 * Locate the leading edge point on the foil and make it coincident with the origin.
-* Dimension the length of the main foil (~4.5 meters for Arctan).
+* Dimension the length of the main foil (\~4.5 meters for Arctan).
 
 Locate the leading edge point on the foil and make it coincident with the origin.
 
-Dimension the length of the main foil (~4.5 meters for Arctan).
+Dimension the length of the main foil (\~4.5 meters for Arctan).
 
 Fairings
 
@@ -131,11 +130,6 @@ Import a foil similarly to the main foil to use for your overall fairing shape
 
 Put the fairing curve in the correct plane (look at step 3 on main body)
 
-[](https://drive.google.com/folderview?id=1Oi1VdHm38y058lcULxNTILZ2pE8VYF8k)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1Oi1VdHm38y058lcULxNTILZ2pE8VYF8k#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1Oi1VdHm38y058lcULxNTILZ2pE8VYF8k#list" frameborder="0"></iframe>
-

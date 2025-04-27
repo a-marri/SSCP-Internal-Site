@@ -1,14 +1,16 @@
-# SSCP - Xenith Aero Analysis Part 1
+# xenith-aero-analysis-part-1
 
-# Xenith Aero Analysis Part 1
+## SSCP - Xenith Aero Analysis Part 1
 
-I just completed a suite of aero analyses on the car. I thought I would summarize all of it as my final bit of work. Be prepared though, this is a long e-mail with a lot of information: you don't have to read if you don't want to. 
+## Xenith Aero Analysis Part 1
+
+I just completed a suite of aero analyses on the car. I thought I would summarize all of it as my final bit of work. Be prepared though, this is a long e-mail with a lot of information: you don't have to read if you don't want to.&#x20;
 
 All simulations are run at 24.59 m/s (55 mph, 88.5 kph). All simulations also have a "rolling road" ground surface included. Keep in mind that every simulation is on a perfect car body with no seams or imperfections. Also, all of the simulations on Xenith include skirts that go all the way to the ground. I know that is not completely realistic, but I needed to make some simplifications to keep my sanity. There is a discussion of the skirts in the attached powerpoint presentation.
 
-The summary to take away from all of this is that all of the simulations I did indicate that our car should be competitive with Nuna. We know that in a very controlled wind tunnel without their tires rotating, Nuna had about 31N of drag. Obviously, in the real world they would be a bit higher than that due to inherently higher turbulent intensity in the on-rushing air on the open road. They also had rotating tires on the open road. 
+The summary to take away from all of this is that all of the simulations I did indicate that our car should be competitive with Nuna. We know that in a very controlled wind tunnel without their tires rotating, Nuna had about 31N of drag. Obviously, in the real world they would be a bit higher than that due to inherently higher turbulent intensity in the on-rushing air on the open road. They also had rotating tires on the open road.&#x20;
 
-It seems that the negative angle of attack should not have hurt us as much as my hand calculations initially indicated. I plugged the Schwalbe tire friction data that we had into a spreadsheet along with the aero simulation results and got the following predictions: 
+It seems that the negative angle of attack should not have hurt us as much as my hand calculations initially indicated. I plugged the Schwalbe tire friction data that we had into a spreadsheet along with the aero simulation results and got the following predictions:&#x20;
 
 1350 W at 55mph and zero angle of attack on the car
 
@@ -19,9 +21,7 @@ We were much, much higher than this during the race, so I don't know where all t
 Basically I see the team having three options going forward:
 
 1. Test the current car in a wind tunnel and do some more research to figure out where the power losses are going. Use this knowledge to tweak the current car and aerobody. New molds would be required for Michelin tires and to fix any items found during the wind tunnel testing, but it would largely look the same as the current car. This option requires limited involvement from somebody on the team that knows aerodynamics in case you can't find someone suitably trained to work for the team.
-
 2. Test the current car in a wind tunnel and figure out where the power losses are going. Take this knowledge so that the same mistakes are not repeated, and then design a completely new aerobody. The new car would be thicker to allow for more suspension travel (assuming that is still considered a problem after the wind tunnel testing) and would also get rid of the high pressure region in front of the driver fairing that the current car has.
-
 3. Test the current car in a wind tunnel to learn lessons and design a completely new car that is thicker and uses active boundary layer control with fans. This would involve several wind-tunnel trips for the next car and probably some heavy involvement from not just a Master's student, but some professors who really know what they are doing.
 
 I think it is important to get the current car into a wind tunnel so that you can learn lessons from it. It should be an instructive experience. Without it, I am afraid that the team will go forward blindly. Obviously the options get harder as you go down the list. That said, I think that the only way to really go for the win in the next race is option 3. Nuna, Tokai, and Michigan have all perfected their cars over several cycles and many wind-tunnel test sessions. Options 1 and 2 could lead to victory, but everything from production to the race would have to go perfectly to have a chance. It's really up to the team what your priorities are. Do you want to win, or do you want to continue as more of a research and learning tool with less stress and effort put forth? I can tell you, and I think that most alumni will also tell you that you must choose one or the other, you absolutely cannot have it both ways. It takes a completely different state of mind to go after victory. All of a sudden the current team's focus of 95% design and production of cool things with 5% testing has to change to 70/30 or even 60/40% design/testing. The design for victory has to be simpler in some areas and more developed in others, and the execution during manufacture and during the race has to be done with military-like precision.
@@ -126,15 +126,10 @@ It was interesting working on this car. Fun, stressful, and infuriating all at t
 
 Thanks,
 
--- 
+\--&#x20;
 
 Danny Koelker
 
-[](https://drive.google.com/folderview?id=1LnXci-cMJyGjP64LD3kTq6I-Darv8dBB)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1LnXci-cMJyGjP64LD3kTq6I-Darv8dBB#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1LnXci-cMJyGjP64LD3kTq6I-Darv8dBB#list" frameborder="0"></iframe>
-

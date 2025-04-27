@@ -1,27 +1,28 @@
-# SSCP - FREE GEAR FOR THE SQUAD
+# free-gear-for-the-squad
 
-# FREE GEAR FOR THE SQUAD
+## SSCP - FREE GEAR FOR THE SQUAD
 
-We want free gear for the squad! We are especially looking for lightweight jackets, tech polos, and/or tech longsleeves, but we will take anything else as well (usually). In terms of non-clothing, we are looking for a lot of camping gear. 
+## FREE GEAR FOR THE SQUAD
+
+We want free gear for the squad! We are especially looking for lightweight jackets, tech polos, and/or tech longsleeves, but we will take anything else as well (usually). In terms of non-clothing, we are looking for a lot of camping gear.&#x20;
 
 we have sent cold emails to
 
-* Outdoor researchHuckberryMarmotCotopaxitoad&coRoyal RobbinsNorth faceKeltyosprey
+* Outdoor researchHuckberryMarmotCotopaxitoad\&coRoyal RobbinsNorth faceKeltyosprey
 * Outdoor research
 * Huckberry
 * Marmot
 * Cotopaxi
-* toad&co
+* toad\&co
 * Royal Robbins
 * North face
 * Kelty
 * osprey
-
 * Outdoor research
 * Huckberry
 * Marmot
 * Cotopaxi
-* toad&co
+* toad\&co
 * Royal Robbins
 * North face
 * Kelty
@@ -35,7 +36,7 @@ Marmot
 
 Cotopaxi
 
-toad&co
+toad\&co
 
 Royal Robbins
 
@@ -45,7 +46,7 @@ Kelty
 
 osprey
 
-Courtney has been cold emailing companies to try and get work clothes/jumpsuits and tools.  Companies emailed:
+Courtney has been cold emailing companies to try and get work clothes/jumpsuits and tools.  Companies emailed:
 
 Tools:
 
@@ -60,28 +61,27 @@ Makita - emailed
 
 Clothing:
 
-* CAT Workwear - emailedTimberland - emailedRed Kap - In discussions for clothing donationsRacheal Hubarth (Marketing Manager, VF Workwear), racheal_hubarth@vfc.comDickies - forwarded initial message on appropriate entityCarhartt - filled out donation request form, deniedVFC - parent company of North Face, Timberland, Dickies, Red Kap, and others - emailed execs and marketingNike - emailed executives, no repliesAdidias - web says they need physical mailed request -  alejandro.alcazar@adidas-group.com; matthias.fischer@adidas-group.com; Under Armour - ewendell@underarmour.com; mshearer@underarmour.com; kplank@underarmour.com; hwoo@underarmour.com; sroche@underarmour.com; advertising@underarmour.com; 
+* CAT Workwear - emailedTimberland - emailedRed Kap - In discussions for clothing donationsRacheal Hubarth (Marketing Manager, VF Workwear), racheal\_hubarth@vfc.comDickies - forwarded initial message on appropriate entityCarhartt - filled out donation request form, deniedVFC - parent company of North Face, Timberland, Dickies, Red Kap, and others - emailed execs and marketingNike - emailed executives, no repliesAdidias - web says they need physical mailed request -  alejandro.alcazar@adidas-group.com; matthias.fischer@adidas-group.com; Under Armour - ewendell@underarmour.com; mshearer@underarmour.com; kplank@underarmour.com; hwoo@underarmour.com; sroche@underarmour.com; advertising@underarmour.com;&#x20;
 * CAT Workwear - emailed
 * Timberland - emailed
-* Red Kap - In discussions for clothing donationsRacheal Hubarth (Marketing Manager, VF Workwear), racheal_hubarth@vfc.com
-* Racheal Hubarth (Marketing Manager, VF Workwear), racheal_hubarth@vfc.com
+* Red Kap - In discussions for clothing donationsRacheal Hubarth (Marketing Manager, VF Workwear), racheal\_hubarth@vfc.com
+* Racheal Hubarth (Marketing Manager, VF Workwear), racheal\_hubarth@vfc.com
 * Dickies - forwarded initial message on appropriate entity
 * Carhartt - filled out donation request form, denied
 * VFC - parent company of North Face, Timberland, Dickies, Red Kap, and others - emailed execs and marketing
 * Nike - emailed executives, no replies
-* Adidias - web says they need physical mailed request -  alejandro.alcazar@adidas-group.com; matthias.fischer@adidas-group.com; 
-* Under Armour - ewendell@underarmour.com; mshearer@underarmour.com; kplank@underarmour.com; hwoo@underarmour.com; sroche@underarmour.com; advertising@underarmour.com; 
-
+* Adidias - web says they need physical mailed request -  alejandro.alcazar@adidas-group.com; matthias.fischer@adidas-group.com;&#x20;
+* Under Armour - ewendell@underarmour.com; mshearer@underarmour.com; kplank@underarmour.com; hwoo@underarmour.com; sroche@underarmour.com; advertising@underarmour.com;&#x20;
 * CAT Workwear - emailed
 * Timberland - emailed
-* Red Kap - In discussions for clothing donationsRacheal Hubarth (Marketing Manager, VF Workwear), racheal_hubarth@vfc.com
-* Racheal Hubarth (Marketing Manager, VF Workwear), racheal_hubarth@vfc.com
+* Red Kap - In discussions for clothing donationsRacheal Hubarth (Marketing Manager, VF Workwear), racheal\_hubarth@vfc.com
+* Racheal Hubarth (Marketing Manager, VF Workwear), racheal\_hubarth@vfc.com
 * Dickies - forwarded initial message on appropriate entity
 * Carhartt - filled out donation request form, denied
 * VFC - parent company of North Face, Timberland, Dickies, Red Kap, and others - emailed execs and marketing
 * Nike - emailed executives, no replies
-* Adidias - web says they need physical mailed request -  alejandro.alcazar@adidas-group.com; matthias.fischer@adidas-group.com; 
-* Under Armour - ewendell@underarmour.com; mshearer@underarmour.com; kplank@underarmour.com; hwoo@underarmour.com; sroche@underarmour.com; advertising@underarmour.com; 
+* Adidias - web says they need physical mailed request -  alejandro.alcazar@adidas-group.com; matthias.fischer@adidas-group.com;&#x20;
+* Under Armour - ewendell@underarmour.com; mshearer@underarmour.com; kplank@underarmour.com; hwoo@underarmour.com; sroche@underarmour.com; advertising@underarmour.com;&#x20;
 
 CAT Workwear - emailed
 
@@ -89,9 +89,9 @@ Timberland - emailed
 
 Red Kap - In discussions for clothing donations
 
-* Racheal Hubarth (Marketing Manager, VF Workwear), racheal_hubarth@vfc.com
+* Racheal Hubarth (Marketing Manager, VF Workwear), racheal\_hubarth@vfc.com
 
-Racheal Hubarth (Marketing Manager, VF Workwear), racheal_hubarth@vfc.com
+Racheal Hubarth (Marketing Manager, VF Workwear), racheal\_hubarth@vfc.com
 
 Dickies - forwarded initial message on appropriate entity
 
@@ -101,9 +101,9 @@ VFC - parent company of North Face, Timberland, Dickies, Red Kap, and others - e
 
 Nike - emailed executives, no replies
 
-Adidias - web says they need physical mailed request -  alejandro.alcazar@adidas-group.com; matthias.fischer@adidas-group.com; 
+Adidias - web says they need physical mailed request -  alejandro.alcazar@adidas-group.com; matthias.fischer@adidas-group.com;&#x20;
 
-Under Armour - ewendell@underarmour.com; mshearer@underarmour.com; kplank@underarmour.com; hwoo@underarmour.com; sroche@underarmour.com; advertising@underarmour.com; 
+Under Armour - ewendell@underarmour.com; mshearer@underarmour.com; kplank@underarmour.com; hwoo@underarmour.com; sroche@underarmour.com; advertising@underarmour.com;&#x20;
 
 Other:
 
@@ -117,7 +117,6 @@ Lakers
 * Sam Usher (Manager, Basketball Logistics/Executive Assistant To GM), reached out to others in organization, they will reach out - no Kobe gear but possible Lakers gearMathew Makovec (Director, Community Relations and NBA2K Player Operations) - sent product
 * Sam Usher (Manager, Basketball Logistics/Executive Assistant To GM), reached out to others in organization, they will reach out - no Kobe gear but possible Lakers gear
 * Mathew Makovec (Director, Community Relations and NBA2K Player Operations) - sent product
-
 * Sam Usher (Manager, Basketball Logistics/Executive Assistant To GM), reached out to others in organization, they will reach out - no Kobe gear but possible Lakers gear
 * Mathew Makovec (Director, Community Relations and NBA2K Player Operations) - sent product
 
@@ -125,38 +124,35 @@ Sam Usher (Manager, Basketball Logistics/Executive Assistant To GM), reached out
 
 Mathew Makovec (Director, Community Relations and NBA2K Player Operations) - sent product
 
-* Bose -communityrelations@bose.com - will review, notify if yes in 2 wks; andrew_sabin@bose.com; laurie_miller@bose.com; in_marketing@bose.com; customsolutions@bose.com - fwded to Bose Gives dept (community relations); bob_maresca@bose.combeats - sarah.joyce@beatsbydre.com; erin.manago@beatsbydre.com
-* Bose -communityrelations@bose.com - will review, notify if yes in 2 wks; andrew_sabin@bose.com; laurie_miller@bose.com; in_marketing@bose.com; customsolutions@bose.com - fwded to Bose Gives dept (community relations); bob_maresca@bose.com
+* Bose -communityrelations@bose.com - will review, notify if yes in 2 wks; andrew\_sabin@bose.com; laurie\_miller@bose.com; in\_marketing@bose.com; customsolutions@bose.com - fwded to Bose Gives dept (community relations); bob\_maresca@bose.combeats - sarah.joyce@beatsbydre.com; erin.manago@beatsbydre.com
+* Bose -communityrelations@bose.com - will review, notify if yes in 2 wks; andrew\_sabin@bose.com; laurie\_miller@bose.com; in\_marketing@bose.com; customsolutions@bose.com - fwded to Bose Gives dept (community relations); bob\_maresca@bose.com
+* beats - sarah.joyce@beatsbydre.com; erin.manago@beatsbydre.com
+* Bose -communityrelations@bose.com - will review, notify if yes in 2 wks; andrew\_sabin@bose.com; laurie\_miller@bose.com; in\_marketing@bose.com; customsolutions@bose.com - fwded to Bose Gives dept (community relations); bob\_maresca@bose.com
 * beats - sarah.joyce@beatsbydre.com; erin.manago@beatsbydre.com
 
-* Bose -communityrelations@bose.com - will review, notify if yes in 2 wks; andrew_sabin@bose.com; laurie_miller@bose.com; in_marketing@bose.com; customsolutions@bose.com - fwded to Bose Gives dept (community relations); bob_maresca@bose.com
-* beats - sarah.joyce@beatsbydre.com; erin.manago@beatsbydre.com
-
-Bose -communityrelations@bose.com - will review, notify if yes in 2 wks; andrew_sabin@bose.com; laurie_miller@bose.com; in_marketing@bose.com; customsolutions@bose.com - fwded to Bose Gives dept (community relations); bob_maresca@bose.com
+Bose -communityrelations@bose.com - will review, notify if yes in 2 wks; andrew\_sabin@bose.com; laurie\_miller@bose.com; in\_marketing@bose.com; customsolutions@bose.com - fwded to Bose Gives dept (community relations); bob\_maresca@bose.com
 
 beats - sarah.joyce@beatsbydre.com; erin.manago@beatsbydre.com
 
-* DorcyMark Craddock, IT Director - mark@dorcy.com,  product received
-* Mark Craddock, IT Director - mark@dorcy.com,  product received
-* Mark Craddock, IT Director - mark@dorcy.com,  product received
+* DorcyMark Craddock, IT Director - mark@dorcy.com,  product received
+* Mark Craddock, IT Director - mark@dorcy.com,  product received
+* Mark Craddock, IT Director - mark@dorcy.com,  product received
 * NEBOZach Stockton, Director of Communications - zstockton@acgbrands.com, product received
 * Zach Stockton, Director of Communications - zstockton@acgbrands.com, product received
 * Zach Stockton, Director of Communications - zstockton@acgbrands.com, product received
 
 Dorcy
 
-* Mark Craddock, IT Director - mark@dorcy.com,  product received
-* Mark Craddock, IT Director - mark@dorcy.com,  product received
+* Mark Craddock, IT Director - mark@dorcy.com,  product received
+* Mark Craddock, IT Director - mark@dorcy.com,  product received
+* Mark Craddock, IT Director - mark@dorcy.com,  product received
 
-* Mark Craddock, IT Director - mark@dorcy.com,  product received
-
-Mark Craddock, IT Director - mark@dorcy.com,  product received
+Mark Craddock, IT Director - mark@dorcy.com,  product received
 
 NEBO
 
 * Zach Stockton, Director of Communications - zstockton@acgbrands.com, product received
 * Zach Stockton, Director of Communications - zstockton@acgbrands.com, product received
-
 * Zach Stockton, Director of Communications - zstockton@acgbrands.com, product received
 
 Zach Stockton, Director of Communications - zstockton@acgbrands.com, product received
@@ -202,7 +198,6 @@ Camping:
 
 * Wenzel/Exxel/Kelty - sent to Wenzel FB page Exxel FB page, contactus@wenzelco.com, outdoor@exxel.com, Harry.kazazian@exxel.com;
 * Wenzel/Exxel/Kelty - sent to Wenzel FB page Exxel FB page, contactus@wenzelco.com, outdoor@exxel.com, Harry.kazazian@exxel.com;
-
 * Wenzel/Exxel/Kelty - sent to Wenzel FB page Exxel FB page, contactus@wenzelco.com, outdoor@exxel.com, Harry.kazazian@exxel.com;
 
 Wenzel/Exxel/Kelty - sent to Wenzel FB page Exxel FB page, contactus@wenzelco.com, outdoor@exxel.com, Harry.kazazian@exxel.com;
@@ -247,7 +242,6 @@ Sunglasses:
 * luxottica
 * persol
 * shady rays
-
 * ray bans
 * oakley
 * maui jim
@@ -328,19 +322,19 @@ possibly others that i don't remember because i just filled out their contact fo
 
 If needed, tax ID = 94-1279777
 
-`````` Julianne has emailed:  ``````
+`Julianne has emailed:`&#x20;
 
 Sunglasses:
 
 Rayban - fb message -- form :/
 
-Oakley  - fb message
+Oakley  - fb message
 
-Sunski  - emailed, received product
+Sunski  - emailed, received product
 
-Julbo    - emailed
+Julbo    - emailed
 
-Blenders -  emailed
+Blenders -  emailed
 
 Gear:
 
@@ -348,13 +342,13 @@ Outdoor Voices -- response, waiting on reply
 
 Hydro Flask - emailed - rejected :/
 
-Camelbak -  emailed, rejected :/
+Camelbak -  emailed, rejected :/
 
 Rawlings -- no promising hunter.io leads
 
 Patagonia lol --> fb message :main office in Ventura, the phone number there is 805.643.8616, Aus contact: contact@patagonia.com.au, sponsorship contact: patagoniapro@patagonia.com ; see message for links
 
-Arc'teryx -- emailed marketing and communications 
+Arc'teryx -- emailed marketing and communications&#x20;
 
 REI -- emailed "Outreach Specialists"
 
@@ -372,11 +366,11 @@ Deuter -- emailed
 
 Mountain Warehouse -- emailed
 
-Outdoor Products  -- emailed
+Outdoor Products  -- emailed
 
 Mountaintop Outdoor -- emailed
 
-Eastern Mountian Sports ```` -- emailed, auto response they will get back to us
+Eastern Mountian Sports \`\`\`\` -- emailed, auto response they will get back to us
 
 High Sierra -- emailed
 
@@ -386,11 +380,11 @@ Berghaus -- emailed, denied
 
 Nomatic -- emailed
 
-Big Agnes  --> emailed, could also try this good ol form, needs 90+ days notice
+Big Agnes  --> emailed, could also try this good ol form, needs 90+ days notice
 
-https://forms.na2.netsuite.com/app/site/crm/externalleadpage.nl/compid.1101831/.f?formid=3&h=AACffht_F6AWxXKlVsAMcH8ccI_WquR0xMM&redirect_count=1&did_javascript_redirect=T
+https://forms.na2.netsuite.com/app/site/crm/externalleadpage.nl/compid.1101831/.f?formid=3\&h=AACffht\_F6AWxXKlVsAMcH8ccI\_WquR0xMM\&redirect\_count=1\&did\_javascript\_redirect=T
 
-[https://forms.na2.netsuite.com/app/site/crm/externalleadpage.nl/compid.1101831/.f?formid=3&h=AACffht_F6AWxXKlVsAMcH8ccI_WquR0xMM&redirect_count=1&did_javascript_redirect=T](https://forms.na2.netsuite.com/app/site/crm/externalleadpage.nl/compid.1101831/.f?formid=3&h=AACffht_F6AWxXKlVsAMcH8ccI_WquR0xMM&redirect_count=1&did_javascript_redirect=T)
+[https://forms.na2.netsuite.com/app/site/crm/externalleadpage.nl/compid.1101831/.f?formid=3\&h=AACffht\_F6AWxXKlVsAMcH8ccI\_WquR0xMM\&redirect\_count=1\&did\_javascript\_redirect=T](https://forms.na2.netsuite.com/app/site/crm/externalleadpage.nl/compid.1101831/.f?formid=3\&h=AACffht_F6AWxXKlVsAMcH8ccI_WquR0xMM\&redirect_count=1\&did_javascript_redirect=T)
 
 Cotopaxi (again, with hunter.io) --> sent, rejected :(((((
 
@@ -398,9 +392,9 @@ Timbuk2 ?
 
 Eddie Bauer -- online form, hunter emails
 
-Columbia``` -- emailed, auto response they dont accept unsolicited donation requests. online form?
+Columbia\`\`\` -- emailed, auto response they dont accept unsolicited donation requests. online form?
 
-**Next cycle try Cascade Designs as well (own thermarest, others)
+\*\*Next cycle try Cascade Designs as well (own thermarest, others)
 
 Sleeping bags
 
@@ -458,7 +452,7 @@ Aftco -- emailed
 
 Pelagic -- emailed, budget used up for year, offered 40% off code, no thx
 
-Salt Life  -- emailed
+Salt Life  -- emailed
 
 Shark Zen -- emailed
 
@@ -477,7 +471,6 @@ Retry:
 * North face -- ask courtney for emails?
 * Kelty --> emailed hunter.io (see spreadsheet for which, but lots of bounced)
 * osprey -- no american hunter.io emails :(, filled out online contact form
-
 * Outdoor research -- emailed -- no :/
 * Huckberry -- emailed -- being reviewed
 * Marmot -- emailed
@@ -527,13 +520,12 @@ media.inquiry@ferrari.com; media@ferrari.com; press.office@ferrari.com; customer
 
 RACER #16 IS CHARLES LECLERC: charles.lelerc@ferrari.com - emaileD
 
-https://en.wikipedia.org/wiki/Charles_Leclerc
+https://en.wikipedia.org/wiki/Charles\_Leclerc
 
-[https://en.wikipedia.org/wiki/Charles_Leclerc](https://en.wikipedia.org/wiki/Charles_Leclerc)
+[https://en.wikipedia.org/wiki/Charles\_Leclerc](https://en.wikipedia.org/wiki/Charles_Leclerc)
 
 email him? tweet him? insta dm??? FB MESSAGE??
 
 this is the link to his manager https://www.allroadmanagement.com/contact/
 
-[ https://www.allroadmanagement.com/contact/](https://www.allroadmanagement.com/contact/)
-
+[https://www.allroadmanagement.com/contact/](https://www.allroadmanagement.com/contact/)

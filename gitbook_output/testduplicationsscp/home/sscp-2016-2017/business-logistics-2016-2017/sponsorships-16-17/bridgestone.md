@@ -1,40 +1,42 @@
-# SSCP - Bridgestone
+# bridgestone
 
-# Bridgestone
+## SSCP - Bridgestone
+
+## Bridgestone
 
 Morning Kelsey,
 
- 
+&#x20;
 
-We’re glad to hear that you would be interested in trying out our tires for the 2017 race. 
+We’re glad to hear that you would be interested in trying out our tires for the 2017 race.&#x20;
 
 Your team is one of the three in North America that we are interested in supporting with our new tires.
 
- 
+&#x20;
 
 So, to get things started I would like to virtually introduce to Andrew Carey.
 
 Andrew is coordinating our North American tire sponsorship for the 2017 Bridgestone World Solar Challenge.
 
- 
+&#x20;
 
 Andrew,
 
- 
+&#x20;
 
 Would you please let Kelsey know the next steps that the Stanford team needs to take so we can get them some test tires?
 
- 
+&#x20;
 
 Best regards,
 
- 
+&#x20;
 
 Gandhi
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -50,7 +52,7 @@ Subject: Re: Stanford solar car contact
 
 ![](../../../../../assets/image_dfa2f79ca1.png)
 
-Carey, Andrew CareyAndrew@bfusa.com via bsacloud.onmicrosoft.com 
+Carey, Andrew CareyAndrew@bfusa.com via bsacloud.onmicrosoft.com&#x20;
 
 [via](https://support.google.com/mail/answer/1311182?hl=en)
 
@@ -68,25 +70,25 @@ to Anant, me, Terence, Stephen, Adele
 
 Kelsey,
 
- 
+&#x20;
 
 I’m happy to hear Stanford is interested in utilizing Bridgestone’s solar car tires for WSC.
 
- 
+&#x20;
 
 I worked with Guillermo Gomez for the 2015 race but your team ultimately used the Michelin tires, so I am not sure how much information has been passed on to you. Would you be available in the morning on Friday for a brief teleconference to talk about the tire program and Stanford’s upcoming tire needs?
 
- 
+&#x20;
 
 Thanks.
 
- 
+&#x20;
 
 -Andrew
 
- 
+&#x20;
 
-From: Gandhi, Anant 
+From: Gandhi, Anant&#x20;
 
 Sent: Friday, October 21, 2016 9:29 AM
 
@@ -100,7 +102,7 @@ Subject: RE: Stanford solar car contact
 
 ![](../../../../../assets/image_40c073f033.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 10/26/16
 
@@ -120,7 +122,7 @@ Yes, that would work for me. What time are you thinking?
 
 ![](../../../../../assets/image_1f13614dcc.png)
 
-Carey, Andrew CareyAndrew@bfusa.com via bsacloud.onmicrosoft.com 
+Carey, Andrew CareyAndrew@bfusa.com via bsacloud.onmicrosoft.com&#x20;
 
 [via](https://support.google.com/mail/answer/1311182?hl=en)
 
@@ -138,17 +140,17 @@ to me, Anant, Terence, Stephen, Adele
 
 Kelsey,
 
- 
+&#x20;
 
 Is 9am your time acceptable?
 
- 
+&#x20;
 
 -Andrew
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -162,7 +164,7 @@ Cc: Gandhi, Anant; Wei, Terence; Stephen Zoepf; Adele Tanaka
 
 ![](../../../../../assets/image_fe1d8d79a5.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 10/27/16
 
@@ -174,15 +176,15 @@ Kelsey Josund <kelsey2@stanford.edu>
 
 Kelsey,
 
- 
+&#x20;
 
 I apologize for how long this has taken, but attached you will find the 2017 WSC NDA. Once we get this signed, we can begin providing your team with tires for any pre-race testing.
 
- 
+&#x20;
 
 Let me know if you have any questions. Thanks.
 
- 
+&#x20;
 
 Andrew L. Carey
 
@@ -202,7 +204,7 @@ Cell: (810)287-4460
 
 [(810)287-4460](tel:%28810%29%20287-4460)
 
- 
+&#x20;
 
 to Andrew, Anant, Terence, Stephen, Adele
 
@@ -216,7 +218,7 @@ Attachments area
 
 ![](../../../../../assets/image_fb5a0af8fa.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 ![](../../../../../assets/image_b90cfe4b1c.gif)
 
@@ -258,7 +260,7 @@ Kelsey, Thanks for completing the NDA. The next step would be to determine bo...
 
 ![](../../../../../assets/image_c4d12e0ce7.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Jan 9
 
@@ -282,7 +284,7 @@ We will likely go through three sets of tires prior to the race and three more s
 
 ![](../../../../../assets/image_544c404e2e.png)
 
-Carey, Andrew via bsacloud.onmicrosoft.com 
+Carey, Andrew via bsacloud.onmicrosoft.com&#x20;
 
 [via](https://support.google.com/mail/answer/1311182?hl=en)
 
@@ -300,21 +302,21 @@ to me
 
 Kelsey,
 
- 
+&#x20;
 
 I completely understand the desire to evaluate performance of both brands prior to locking in a tire. However, we typically limit our support to 1 set for competitive comparison, due to limited quantities of tires available. Is 1 set sufficient to confirm whether your team will go forward with Bridgestone or Michelin?
 
- 
+&#x20;
 
 Thanks.
 
- 
+&#x20;
 
 -Andrew
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -324,7 +326,7 @@ Sent: Monday, January 09, 2017 4:06 PM
 
 ![](../../../../../assets/image_71a3f5568a.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Jan 22
 
@@ -366,25 +368,25 @@ to me
 
 Kelsey,
 
- 
+&#x20;
 
 I have reviewed our tire availability for testing, and I feel we are able to support your team’s needs.
 
- 
+&#x20;
 
 Would greatly like to work with your team for 2017 WSC and future races. To support a potential future partnership, would it be possible to schedule a visit with your team to discuss the vehicles needs and how we may be able to support going forward? I believe sometime the week of March 13th would be a potential week we could schedule to meet, if your availability allows as well.
 
- 
+&#x20;
 
 Thanks and I look forward to future discussions.
 
- 
+&#x20;
 
 -Andrew
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -394,7 +396,7 @@ Sent: Sunday, January 22, 2017 3:56 PM
 
 ![](../../../../../assets/image_4ebfa15041.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Feb 1
 
@@ -432,25 +434,25 @@ to me
 
 Kelsey,
 
- 
+&#x20;
 
 I believe that Wednesday would be a good opportunity to visit. Please let me circle back around with my Japanese counterparts to firm up a schedule and then I will get back with you.
 
- 
+&#x20;
 
 Also, I’m not sure where your team is at with your vehicle build, but let me know when you would like the tire sets so I can ensure we get them out to you in time.
 
- 
+&#x20;
 
 Thanks.
 
- 
+&#x20;
 
 -Andrew
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -460,7 +462,7 @@ Sent: Wednesday, February 01, 2017 10:37 PM
 
 ![](../../../../../assets/image_cadd9a5019.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Feb 11 (4 days ago)
 
@@ -480,11 +482,6 @@ Just let me know when you would like to come by!
 
 We will start testing tires as soon as the car is drivable, which will likely be June or early July. There's no rush.
 
-[](https://drive.google.com/folderview?id=1XXDCMhiXEeNAO3PoZ9yFJusUTpgIPReD)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1XXDCMhiXEeNAO3PoZ9yFJusUTpgIPReD#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1XXDCMhiXEeNAO3PoZ9yFJusUTpgIPReD#list" frameborder="0"></iframe>
-

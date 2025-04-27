@@ -1,6 +1,8 @@
-# SSCP - Sunwhale Rear Steer Study Iterations
+# sunwhale-rear-steer-study-iterations
 
-# Sunwhale Rear Steer Study Iterations
+## SSCP - Sunwhale Rear Steer Study Iterations
+
+## Sunwhale Rear Steer Study Iterations
 
 Modifications of Arctan
 
@@ -10,9 +12,8 @@ Arctan numbers for reference: CD = 0.0973, Drag Force = 36.1 N, CL = -0.0012, Li
 
 CAD and mesh: Yuji, SU2: Max D (Azure)
 
-- asymmetric thin non-driver fairing foil version of thin-v4
-
-- Arctan mainfoil and bubble
+* asymmetric thin non-driver fairing foil version of thin-v4
+* Arctan mainfoil and bubble
 
 ![](../../../../assets/image_cd1e78d61a.jpg)
 
@@ -20,19 +21,18 @@ Results: drag lower than Arctan, some lift. Promising results, need to double ch
 
 > CD = 0.09628
 
-> Drag Force = 35.66 N 
+> Drag Force = 35.66 N&#x20;
 
 > CL = 0.02163
 
->  Lift Force = 8.01 N
+> &#x20; Lift Force = 8.01 N
 
 5. Sunwhale-040-thin-v4
 
 CAD and mesh: Rachel, SU2: Rachel (Sabalcore)
 
-- fairings same shape and size (not thinner) but shifted back 350 mm (to have a smoother fairing blend and still fit suspension and steer envelope)
-
-- Arctan mainfoil and bubble
+* fairings same shape and size (not thinner) but shifted back 350 mm (to have a smoother fairing blend and still fit suspension and steer envelope)
+* Arctan mainfoil and bubble
 
 ![](../../../../assets/image_be2e1507c1.jpg)
 
@@ -42,11 +42,11 @@ Results: drag VERY similar to Arctan, some downforce (not too bad)
 
 > CD = 0.0981511
 
-> Drag Force = 36.35 N 
+> Drag Force = 36.35 N&#x20;
 
 > CL = -0.0153593
 
->  Lift Force = -5.69 N
+> &#x20; Lift Force = -5.69 N
 
 Next: Yuji will be making an asymmetric version of this and Rachel will be further fine-tuning this version.
 
@@ -62,9 +62,8 @@ The biggest contributing factor to the increased drag in thin-v3 was likely the 
 
 CAD and mesh: Yuji, SU2: Max D (Azure)
 
-- non-driver fairing made smaller
-
-- Arctan mainfoil and bubble
+* non-driver fairing made smaller
+* Arctan mainfoil and bubble
 
 Results: Lift OK (the first car so far to have gotten actual lift), drag significantly increased.
 
@@ -74,7 +73,7 @@ Results: Lift OK (the first car so far to have gotten actual lift), drag signifi
 
 > CL = 0.00664763
 
->  Lift Force = 2.46 N
+> &#x20; Lift Force = 2.46 N
 
 Next: Look in Tecplot to see what is going on.
 
@@ -82,9 +81,8 @@ Next: Look in Tecplot to see what is going on.
 
 CAD and mesh: Rachel, SU2: Rachel (Azure)
 
-- fairings shorter (the crossover between v2 and Arctan's fairings) and shifted back 450 mm
-
-- Arctan mainfoil and bubble
+* fairings shorter (the crossover between v2 and Arctan's fairings) and shifted back 450 mm
+* Arctan mainfoil and bubble
 
 ![](../../../../assets/image_ec72822f26.jpg)
 
@@ -104,9 +102,8 @@ Next: Look in Tecplot to see what is going on.
 
 CAD and mesh: Rachel, SU2: Max D (Azure)
 
-- fairings same shape and size (not thinner) but shifted back 450 mm
-
-- Arctan mainfoil and bubble
+* fairings same shape and size (not thinner) but shifted back 450 mm
+* Arctan mainfoil and bubble
 
 ![](../../../../assets/image_a52c1372b7.jpg)
 
@@ -126,19 +123,17 @@ Next: make the fairings thinner but maintain the shape
 
 CAD and mesh: Rachel, SU2: Max D (Azure)
 
-- thinner fairings in rear steer study
-
-- Arctan mainfoil and bubble
+* thinner fairings in rear steer study
+* Arctan mainfoil and bubble
 
 Results: Drag increased from Arctan values, possibly caused by downforce(?). The fairing shape was warped in the process of fitting the new front and rear steering envelopes, so it is likely that the altered shape (which was tuned for Arctan to have low drag and 0 lift) has caused the drag increase.
 
 > Coefficient of drag: 0.101794
 
->> Drag Force: 37.70 N
+> > Drag Force: 37.70 N
 
 > Coefficient of lift: -0.043361
 
->> Lift Force: -16.1 N
+> > Lift Force: -16.1 N
 
 Next: moving Arctan's fairings back (so that the leading edges of the fairing encompass the thinner steering envelope) and maintaining the shape, possibly making them thinner but not redrawing the fairing.
-

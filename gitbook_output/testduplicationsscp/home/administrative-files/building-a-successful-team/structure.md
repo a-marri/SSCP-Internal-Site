@@ -1,16 +1,14 @@
-# SSCP - Structure
+# structure
 
-# Structure
+## SSCP - Structure
+
+## Structure
 
 Team Leadership Roles
 
-[](https://docs.google.com/document/d/1jdzUAMhBuEJB2p2AgrJUNNL95MAuZhRMykWQaBXWIYs/edit)
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](structure.md)
 
 ![](../../../../assets/docs_32dp.png)
 
@@ -20,5 +18,4 @@ Embedded content: [Embedded Content]()
 
 "Some areas such as aero and strategy need to have more than one person actively working on them. It is far too easy to second-guess yourself if you don't have someone working with you."
 
-We put too much trust in one person at the beginning and not enough in the end.  The whole team can get together and make decisions about the direction we want to go with the car and the project, and can put in their two cents about major design decisions.  When it comes to race time there cannot be endless debates with the team lead about every decision, or nothing will  get done.
-
+We put too much trust in one person at the beginning and not enough in the end.  The whole team can get together and make decisions about the direction we want to go with the car and the project, and can put in their two cents about major design decisions.  When it comes to race time there cannot be endless debates with the team lead about every decision, or nothing will  get done.

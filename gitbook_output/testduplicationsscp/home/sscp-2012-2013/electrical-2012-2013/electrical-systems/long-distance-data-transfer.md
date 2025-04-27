@@ -1,6 +1,8 @@
-# SSCP - Long Distance Data Transfer
+# long-distance-data-transfer
 
-# Long Distance Data Transfer
+## SSCP - Long Distance Data Transfer
+
+## Long Distance Data Transfer
 
 Requirements:
 
@@ -12,7 +14,7 @@ Proposed Solutions:
 
 Sending Data: This board would interface with ham radio and send/receive the appropriate data protocol.
 
- -Using a ham radio: This might work to send data over long distances of up to 25 miles, but it would require the users to have a licence. It would also not work for getting data from a distance further than that 25 miles and we may want to send data or communicate with individuals in scout over a longer distance. (idea credit: Sasha)
+&#x20;-Using a ham radio: This might work to send data over long distances of up to 25 miles, but it would require the users to have a licence. It would also not work for getting data from a distance further than that 25 miles and we may want to send data or communicate with individuals in scout over a longer distance. (idea credit: Sasha)
 
 -Using Satellite communication: Satellite communication would work over a wide range of distances but has two main disadvantages. 1. you have to pay per message sent. When sending data, this cost could really add up. 2. There has been a lot of talk about them not being reliable enough. Iridium has apparently improved, but this is to be seen how good it is.
 
@@ -42,7 +44,7 @@ http://hflink.com/interface/
 
 http://www.ke4nyv.com/aprs.htm
 
-http://www.coffeepower.net/ham/pin_ham.htm#packet
+http://www.coffeepower.net/ham/pin\_ham.htm#packet
 
 http://www.tcmaker.org/wiki/doku.php?id=hamradio:aprs
 
@@ -63,4 +65,3 @@ http://garydion.com/projects/whereavr/
 http://www.rev0proto.com/wiki/index.php/Rev0Trac
 
 [http://www.rev0proto.com/wiki/index.php/Rev0Trac](http://www.rev0proto.com/wiki/index.php/Rev0Trac)
-

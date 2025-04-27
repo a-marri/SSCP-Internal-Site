@@ -1,6 +1,8 @@
-# SSCP - Spring Break 2012 Test Drive Road Trip
+# spring-break-2012-test-drive-road-trip
 
-# Spring Break 2012 Test Drive Road Trip
+## SSCP - Spring Break 2012 Test Drive Road Trip
+
+## Spring Break 2012 Test Drive Road Trip
 
 We're going on a road trip!
 
@@ -35,11 +37,10 @@ The mock race will run a lot like the World Solar Challenge. We'll have checkpoi
 
 We will run full-day mock races and testing on Saturday the 24th and Sunday the 25th. On Sunday evening we will arrive back at Stanford. Book your flights for Monday the 26th.
 
-This basic outline shouldn't change much, and we will send out more details as we finalize our plans. A few things may remain secret until the actual event, but that just makes everything more exciting. 
+This basic outline shouldn't change much, and we will send out more details as we finalize our plans. A few things may remain secret until the actual event, but that just makes everything more exciting.&#x20;
 
 TLDR: For now, all you need to remember is that you will be on an awesome road trip from March 23rd to 25th, so you should book flights that leave on Monday the 26th or afterwards. You'll RSVP later.
 
 RSVP here: https://docs.google.com/spreadsheet/viewform?formkey=dHJZWmdKVkprcUlPV04waEMyaGFpZEE6MQ
 
 [https://docs.google.com/spreadsheet/viewform?formkey=dHJZWmdKVkprcUlPV04waEMyaGFpZEE6MQ](https://docs.google.com/spreadsheet/viewform?formkey=dHJZWmdKVkprcUlPV04waEMyaGFpZEE6MQ)
-

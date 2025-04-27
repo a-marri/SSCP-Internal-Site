@@ -1,28 +1,30 @@
-# SSCP - Contact Scale
+# contact-scale
 
-# Contact Scale
+## SSCP - Contact Scale
+
+## Contact Scale
 
 Notes from Contact Scale Visit
 
-2500 -3500 lbs in pull for surfboard 
+2500 -3500 lbs in pull for surfboard&#x20;
 
-Vacuum bag 
+Vacuum bag&#x20;
 
 Cost and spray foam. Cover with duratech. Sand to 400
 
-Use gel coat polyester 
+Use gel coat polyester&#x20;
 
 Over 250 would need different materials
 
 Outside shape of carbon
 
-Machine foam 
+Machine foam&#x20;
 
 Lay on carbon in the inside
 
 Place Delrin inserts before machining
 
-They wouldn't mold body 
+They wouldn't mold body&#x20;
 
 Eps styrafoam
 
@@ -56,13 +58,13 @@ They use resin called pro-set 125 resin
 
 Have to use wet layup for foam
 
-The only concern With foam is water entry.  You can use gore tex  to let moisture out. 
+The only concern With foam is water entry.  You can use gore tex  to let moisture out.&#x20;
 
 Good insulation with foam
 
 Start first week of November. They are getting a 20ft machine. They would splice together. Two 4 by 12
 
-His main company is CNCs. Auto scale. They test the machines. 
+His main company is CNCs. Auto scale. They test the machines.&#x20;
 
 50k and up for machines
 
@@ -75,4 +77,3 @@ They manufacture 10-30 CNCs each year
 4 weeks in and has to go to the painter on the 18th
 
 They do room temperature cures. For each layer and then to a post cure later. They will build an oven out of thin foam
-

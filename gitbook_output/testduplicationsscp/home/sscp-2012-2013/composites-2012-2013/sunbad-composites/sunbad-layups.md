@@ -1,16 +1,14 @@
-# SSCP - Sunbad Layups
+# sunbad-layups
 
-# Sunbad Layups
+## SSCP - Sunbad Layups
 
-## Fairings 1
+## Sunbad Layups
 
-[](#h.qoeqjq6t23z5)
+### Fairings 1
 
-### Layup Schedule  
+#### Layup Schedule &#x20;
 
-[](#h.dgvibzfp8uhk)
-
-* 5x Frekote 700-NCSuface Master .0325psf0/90 Amber Composites Twill45/45 Amber Composites Twill0/90 Amber Composites TwillUncoated Peel PlyPerforated Release FilmBreather Strechalon Vacuum Bag
+* 5x Frekote 700-NCSuface Master .0325psf0/90 Amber Composites Twill45/45 Amber Composites Twill0/90 Amber Composites TwillUncoated Peel PlyPerforated Release FilmBreather Strechalon Vacuum Bag
 * 5x Frekote 700-NC
 * Suface Master .0325psf
 * 0/90 Amber Composites Twill
@@ -18,7 +16,7 @@
 * 0/90 Amber Composites Twill
 * Uncoated Peel Ply
 * Perforated Release Film
-* Breather 
+* Breather&#x20;
 * Strechalon Vacuum Bag
 
 1. 5x Frekote 700-NC
@@ -28,7 +26,7 @@
 5. 0/90 Amber Composites Twill
 6. Uncoated Peel Ply
 7. Perforated Release Film
-8. Breather 
+8. Breather&#x20;
 9. Strechalon Vacuum Bag
 
 5x Frekote 700-NC
@@ -45,17 +43,13 @@ Uncoated Peel Ply
 
 Perforated Release Film
 
-Breather 
+Breather&#x20;
 
 Strechalon Vacuum Bag
 
-## Door 1
+### Door 1
 
-[](#h.w6bapib67jnh)
-
-### Layup Schedule  
-
-[](#h.z4s86ddloln3)
+#### Layup Schedule &#x20;
 
 * 5x Frekote 700-NCSurface Master .0325psf0/90 Amber Composites Twill5 Amber Composites Twill around edge45/45 TwillUni XTencate 205 .045 Film Adhesive3/8ths Low Density CoreTencate 205 .045 Film AdhesiveUniX45/45 twill0/90 Amber Composites TwillPeel PlyPerferated release filmBreatherStrechalon Vaccum Bag
 * 5x Frekote 700-NC
@@ -124,15 +118,11 @@ Breather
 
 Strechalon Vaccum Bag
 
-## Door 2
+### Door 2
 
-[](#h.dehr7ktdspeg)
+#### Layup Schedule &#x20;
 
-### Layup Schedule  
-
-[](#h.k6ygp0wimeno)
-
-* 5x Frekote 700-NCSurface Master .0325psf0/90 Amber Composites Twill3 Amber Composites Twill around edge2 x Uni XTencate 205 .045 Film Adhesive3/8ths Low Density CoreTencate 205 .045 Film Adhesive2 x Uni X0/90 Amber Composites TwillPeel PlyUnperferated release filmBreather Vaccum Bag
+* 5x Frekote 700-NCSurface Master .0325psf0/90 Amber Composites Twill3 Amber Composites Twill around edge2 x Uni XTencate 205 .045 Film Adhesive3/8ths Low Density CoreTencate 205 .045 Film Adhesive2 x Uni X0/90 Amber Composites TwillPeel PlyUnperferated release filmBreather Vaccum Bag
 * 5x Frekote 700-NC
 * Surface Master .0325psf
 * 0/90 Amber Composites Twill
@@ -146,7 +136,7 @@ Strechalon Vaccum Bag
 * Peel Ply
 * Unperferated release film
 * Breather
-*  Vaccum Bag
+* &#x20;Vaccum Bag
 
 1. 5x Frekote 700-NC
 2. Surface Master .0325psf
@@ -161,7 +151,7 @@ Strechalon Vaccum Bag
 11. Peel Ply
 12. Unperferated release film
 13. Breather
-14.  Vaccum Bag
+14. &#x20;Vaccum Bag
 
 5x Frekote 700-NC
 
@@ -189,15 +179,11 @@ Unperferated release film
 
 Breather
 
- Vaccum Bag
+&#x20;Vaccum Bag
 
-## Topshell 1
+### Topshell 1
 
-[](#h.qczsnoq29mjp)
-
-### Layup Schedule  
-
-[](#h.fnpwauujq8qe)
+#### Layup Schedule &#x20;
 
 * 5x Frekote 700-NCSurface Master .02psf0/90 Amber Composites TwillUniXTencate 205 .045 Film Adhesive3/8ths Low Density CoreTencate 205 .045 Film AdhesiveUniX0/90 Amber Composites TwillPeel PlyRelease FilmBreatherVaccum Bag
 * 5x Frekote 700-NC
@@ -254,11 +240,6 @@ Breather
 
 Vaccum Bag
 
-[](https://drive.google.com/folderview?id=1NrUdVsIJsB9ZhXnaAh2aMzOOuR-U8z6p)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1NrUdVsIJsB9ZhXnaAh2aMzOOuR-U8z6p#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1NrUdVsIJsB9ZhXnaAh2aMzOOuR-U8z6p#list" frameborder="0"></iframe>
-

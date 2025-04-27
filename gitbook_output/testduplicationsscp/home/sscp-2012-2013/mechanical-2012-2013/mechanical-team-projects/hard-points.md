@@ -1,14 +1,12 @@
-# SSCP - Hard Points
+# hard-points
 
-# Hard Points
+## SSCP - Hard Points
 
-## Sunbad Hardpoints
+## Hard Points
 
-[](#h.8dcrmiq5yuyh)
+### Sunbad Hardpoints
 
-### Lower Hardpoint
-
-[](#h.r3fl4ru56dwe)
+#### Lower Hardpoint
 
 Design
 
@@ -20,19 +18,17 @@ Loading Condition
 
 Fixed Geometry:
 
-The bolt/insert interface was simulated by fixing the surface that touches the head of the bolt and the head of the insert. The theory behind this is that most of the load is born by friction rather than shearing the bolts. 
+The bolt/insert interface was simulated by fixing the surface that touches the head of the bolt and the head of the insert. The theory behind this is that most of the load is born by friction rather than shearing the bolts.&#x20;
 
 ![](../../../../../assets/image_3c41b02c93.png)
 
 Load Setup
 
-To simulate the fact there is a spherical bearing held together by a bolt a cylender is used to keep the two tabs together and provide a face to apply the load to. 
+To simulate the fact there is a spherical bearing held together by a bolt a cylender is used to keep the two tabs together and provide a face to apply the load to.&#x20;
 
 ![](../../../../../assets/image_20a541a502.png)
 
-### FEA Results
-
-[](#h.f1mb5nb99psg)
+#### FEA Results
 
 Stress
 
@@ -48,17 +44,13 @@ Design Insight
 
 ![](../../../../../assets/image_535c0a8c38.png)
 
-Helicoil 
+Helicoil&#x20;
 
-The thicker area is designed for a screwlocking helicoil that is 1/4in keep. The part number is 3591-4CN-250 
+The thicker area is designed for a screwlocking helicoil that is 1/4in keep. The part number is 3591-4CN-250&#x20;
 
-## Hardpoint Concepts
+### Hardpoint Concepts
 
-[](#h.55mi8at4zjav)
-
-### Stamped Hardpoint Idea
-
-[](#h.4zw986nzu51w)
+#### Stamped Hardpoint Idea
 
 Since you need 48 hardpoints (two cars, full set of backups), machining them isn't entirely practical even for machine shop sponsor.
 
@@ -72,11 +64,6 @@ It's something worth thinking about....I've attached a demo part that would show
 
 ![](../../../../../assets/image_bc840e1f9b.png)
 
-[](https://drive.google.com/folderview?id=1C217aRAmt-fJX0F-iuUKZTv2j-qbZ9FC)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1C217aRAmt-fJX0F-iuUKZTv2j-qbZ9FC#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1C217aRAmt-fJX0F-iuUKZTv2j-qbZ9FC#list" frameborder="0"></iframe>
-

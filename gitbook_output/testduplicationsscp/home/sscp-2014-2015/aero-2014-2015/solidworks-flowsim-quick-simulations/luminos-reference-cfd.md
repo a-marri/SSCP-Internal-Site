@@ -1,20 +1,20 @@
-# SSCP - Luminos Reference CFD
+# luminos-reference-cfd
 
-# Luminos Reference CFD
+## SSCP - Luminos Reference CFD
+
+## Luminos Reference CFD
 
 Model 1: Sunbad Fat Concept 7
 
 Drag: 43.982 N
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](luminos-reference-cfd.md)
 
 ![](../../../../../assets/image_11b0e77c97.png)
 
-Re-do with a more finalized version. 
+Re-do with a more finalized version.&#x20;
 
 Model 1.1: Final Luminos CFD
 
@@ -24,17 +24,13 @@ Model: LuminosBubbleless Patched
 
 Drag: 38.06 N
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](luminos-reference-cfd.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](luminos-reference-cfd.md)
 
 ![](../../../../../assets/image_7077ab123b.png)
 
@@ -44,11 +40,9 @@ Drag: 81.3 N
 
 ![](../../../../../assets/image_baed93da67.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](luminos-reference-cfd.md)
 
 Model 2.5: SimpleLuminos with Generic Bubble
 
@@ -56,11 +50,8 @@ Description:
 
 Drag: 47.9 N
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](luminos-reference-cfd.md)
 
 ![](../../../../../assets/image_c08c408c28.png)
-

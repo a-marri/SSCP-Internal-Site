@@ -1,34 +1,25 @@
-# SSCP - Sunbad Suspension Characteristics
+# sunbad-suspension-characteristics
 
-# Sunbad Suspension Characteristics
+## SSCP - Sunbad Suspension Characteristics
 
-## Loads
+## Sunbad Suspension Characteristics
 
-[](#h.twk2y2aqznfe)
+### Loads
 
-## Dynamic Characteristics
+### Dynamic Characteristics
 
-[](#h.23mz439brvz6)
+### Static Characteristics
 
-## Static Characteristics
+### Geometric Characteristics
 
-[](#h.vtlwcqb05uv1)
+#### Angle Change In Bump
 
-## Geometric Characteristics
+The angle change in y that the suspension makes during max suspension travel. Speced at full drop, neutral, and full bump.&#x20;
 
-[](#h.jvfmc4r2dqt6)
+Upper A Arm&#x20;
 
-### Angle Change In Bump
+&#x20;Bottom A Arm
 
-[](#h.fogznaab9oql)
+&#x20;9 -0 - 13
 
-The angle change in y that the suspension makes during max suspension travel. Speced at full drop, neutral, and full bump. 
-
-Upper A Arm 
-
- Bottom A Arm
-
- 9 -0 - 13
-
- 7.2 - 0 - 10.56
-
+&#x20;7.2 - 0 - 10.56

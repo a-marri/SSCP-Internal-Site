@@ -1,6 +1,8 @@
-# SSCP - BMS 7 Design Reviews & Change Log
+# bms-7-design-reviews-change-log
 
-# BMS 7 Design Reviews & Change Log
+## SSCP - BMS 7 Design Reviews & Change Log
+
+## BMS 7 Design Reviews & Change Log
 
 Changes made between 7-1-1 and 7-1-2
 
@@ -74,7 +76,7 @@ Review 5 - Schematics (changes + overall)
 
 1/7/2013
 
-Shoot for ~3mA on the LEDs for longevity
+Shoot for \~3mA on the LEDs for longevity
 
 Add in Harry’s debounce chip to buttons
 
@@ -106,11 +108,11 @@ Consider a different style of cabling for edisc button so it can’t be plugged 
 
 Use a digital isolator + usual I2C current sense to figure out the power consumption of my board.
 
-    Should I fuse or OC protect the current sense / power conversion / CAN supply?
+&#x20;   Should I fuse or OC protect the current sense / power conversion / CAN supply?
 
-    Eliminated a 5V LDO for charging the supercap - powered off of this supply now.
+&#x20;   Eliminated a 5V LDO for charging the supercap - powered off of this supply now.
 
-    Need to use a medium power module: 70mA CAN, 30mA current sense, 150mA (max) supercap charge current?
+&#x20;   Need to use a medium power module: 70mA CAN, 30mA current sense, 150mA (max) supercap charge current?
 
 Use the latching bulgin button: MP0045/1E
 
@@ -142,7 +144,7 @@ Mark alignment pins “no plate”
 
 ADC input choke is rotated 90 degrees
 
-Use a low-power module for the 24-5 conversion because CAN ~10mA
+Use a low-power module for the 24-5 conversion because CAN \~10mA
 
 Switch to the 6803-4 and power the LT chips each from an isolated supply. We're tired of tweaking the same input power circuit and the inter-chip comm problems. This also means that communication is isolated and the MCU doesn't have to sit on the same ground as the LT chips, removing the ground loop between LT- and HV-!
 
@@ -154,7 +156,7 @@ Add kickback diode to czonka coil
 
 Add current sense on the input of the 24 to +/-5v regulator so we know how much current this board draws? Or different part?
 
-            Use a digital isolator + usual I2C current sense to figure out the power consumption of my board.
+&#x20;           Use a digital isolator + usual I2C current sense to figure out the power consumption of my board.
 
 Add a second ring terminal on +/- for motor controllers
 
@@ -164,17 +166,17 @@ TVS diode at every IC, as well as lines that exit the pack.
 
 Add a 100ohm resistor on the output of the LT chip’s MISO line. Should go on right side
 
-            Generally good practice to put a cap on the data line AFTER the sending resistor (on the reading side). RC time constant should be 10-20x the bit rate
+&#x20;           Generally good practice to put a cap on the data line AFTER the sending resistor (on the reading side). RC time constant should be 10-20x the bit rate
 
 LED on each power rail
 
-            Shoot for ~3mA on the LEDs for longevity
+&#x20;           Shoot for \~3mA on the LEDs for longevity
 
 A few buttons
 
-                Add in Harry’s debounce chip to buttons
+&#x20;               Add in Harry’s debounce chip to buttons
 
-             Change the buttons to be a larger tactile switch
+&#x20;            Change the buttons to be a larger tactile switch
 
 Schematic Changes
 
@@ -188,23 +190,23 @@ BSS159N H6906CT-ND
 
 (used a normal FET inline with 24v line to avoid startup/retry issues. Same number of parts as a depletion switch)
 
-                Look for a normally closed opto that would be used on hv diode and 24v switch - check under SSR’s as well
+&#x20;               Look for a normally closed opto that would be used on hv diode and 24v switch - check under SSR’s as well
 
-        Or, could have a pull-down with an opto pulling the pin up
+&#x20;       Or, could have a pull-down with an opto pulling the pin up
 
 PC comparator IN+ and IN- swapped
 
 Use a TO-247 resistor for the precharge. Also change the precharge resistor to be a standard resistor
 
-            Want <5s for discharge to get to less than 30V
+&#x20;           Want <5s for discharge to get to less than 30V
 
 High voltage power path - precharge DIRECTLY across contactor
 
-Place fuses immediately after the connector - so the LT chip power is fused. Change to ~250mA fuse
+Place fuses immediately after the connector - so the LT chip power is fused. Change to \~250mA fuse
 
 Bleed: want an efficiency figure on LEDs to see if it’s actually beneficial. Also, should have some resistor in case the LED fails short.
 
-            Will use a resistor + small LED as indicator instead of high power LEDs
+&#x20;           Will use a resistor + small LED as indicator instead of high power LEDs
 
 Remove the backup battery and replace with FRAM?
 
@@ -212,19 +214,19 @@ Use smaller testpoints
 
 Use CAN transceiver + regulator instead of modules?
 
-            Put my own CAN module circuitry on the board for future proofing
+&#x20;           Put my own CAN module circuitry on the board for future proofing
 
 Delete R14 on LT chip power?
 
-            No need for it, but will keep for the pads.
+&#x20;           No need for it, but will keep for the pads.
 
 Supply decoupling on both + and - of 6803, clamp V+ and V- of 6803
 
-            Use a common mode choke on the 6803 input. Also the node after the ferrite beads and resistors should be shared
+&#x20;           Use a common mode choke on the 6803 input. Also the node after the ferrite beads and resistors should be shared
 
 Do anything with the shield on the CAN cabling?
 
-            Tie the shield to 24V’s GND on this board!
+&#x20;           Tie the shield to 24V’s GND on this board!
 
 Pick a higher voltage supercap in order for the VGS of edisc circuit and the forward drop of optodriver to never be too low? (5V, P11342-ND)
 
@@ -290,7 +292,7 @@ Zener diodes on power rail - only one needed per rail. Doesn’t matter where th
 
 For protecting against ESD - put the TVS close to the connector (if there are multiple parts) or close to the chip (if there is just one part) on the line. Use something like a SMC for the vicor protection
 
-        Add a ferrite bead going into the vicor. This would be impedance for Vicor
+&#x20;       Add a ferrite bead going into the vicor. This would be impedance for Vicor
 
 Use the VI-J00 for lower quiescent
 
@@ -308,398 +310,398 @@ Power Module - note: should make the schematic symbol as descriptve as possible,
 
 Reference
 
-    With Sasha's suggested LT1461, can put an RC on the input and run off the 5v supply. 
+&#x20;   With Sasha's suggested LT1461, can put an RC on the input and run off the 5v supply.&#x20;
 
-    Opted to use the LT6655 because it has a better PSRR at low frequencies (by nearly 30 dB).
+&#x20;   Opted to use the LT6655 because it has a better PSRR at low frequencies (by nearly 30 dB).
 
 HV Precharge
 
-    Can use the 436x series for the gate charge pump SPICE model
+&#x20;   Can use the 436x series for the gate charge pump SPICE model
 
-    Check on Figure 11 - 2k between OUT and the chip. Zener clamping OUT to VSS
+&#x20;   Check on Figure 11 - 2k between OUT and the chip. Zener clamping OUT to VSS
 
-    Right now, I'm overpowering R98. Can either make it larger or make the zener drop larger. 147^2/100k = .2W, which is too much for the 0805
+&#x20;   Right now, I'm overpowering R98. Can either make it larger or make the zener drop larger. 147^2/100k = .2W, which is too much for the 0805
 
-    Zener vs TVS - TVS has less capacitance and is faster. Zeners are more precise but have more leakage. For D27, use TVS, for D28/29, use Zener
+&#x20;   Zener vs TVS - TVS has less capacitance and is faster. Zeners are more precise but have more leakage. For D27, use TVS, for D28/29, use Zener
 
-    Consider using the resistor/diode/cap combo on figure 11. Not sure what it's there for...but it can't hurt to include? More research required.
+&#x20;   Consider using the resistor/diode/cap combo on figure 11. Not sure what it's there for...but it can't hurt to include? More research required.
 
 Analog
 
-    Can't use a tantalum cap on the analog input - current flows in both directions on the shunt, no way to prevent reverse voltage on the cap.
+&#x20;   Can't use a tantalum cap on the analog input - current flows in both directions on the shunt, no way to prevent reverse voltage on the cap.
 
-    C0G NP0 cap (http://www.tdk.com/pdf/automotive_B11.pdf, 445-6947-1-ND) is very stable w.r.t. to piezoelectric effect. A film cap (399-6387-1-ND) would also work
+&#x20;   C0G NP0 cap (http://www.tdk.com/pdf/automotive\_B11.pdf, 445-6947-1-ND) is very stable w.r.t. to piezoelectric effect. A film cap (399-6387-1-ND) would also work
 
-[http://www.tdk.com/pdf/automotive_B11.pdf](http://www.tdk.com/pdf/automotive_B11.pdf)
+[http://www.tdk.com/pdf/automotive\_B11.pdf](http://www.tdk.com/pdf/automotive_B11.pdf)
 
-    At 80% of the rated voltage, a ceramic cap can be as little as 20% of their rated capacitance. Film cap will be much more stable. Most ideal type of capacitor, but more expensive and larger. Try to use ceramics at half their rated voltage
+&#x20;   At 80% of the rated voltage, a ceramic cap can be as little as 20% of their rated capacitance. Film cap will be much more stable. Most ideal type of capacitor, but more expensive and larger. Try to use ceramics at half their rated voltage
 
 6803
 
-    Better-specified zener for the turn-off circuit: try Comchip parts, like http://www.comchiptech.com/cms/UserFiles/CZRU52C2%20THRU%20CZRU52C39-RevB.pdf, or MicroCommercial, like http://61.222.192.61/mccsemi/up_pdf/MMSZ5221-MMSZ5259(SOD123).pdf
+&#x20;   Better-specified zener for the turn-off circuit: try Comchip parts, like http://www.comchiptech.com/cms/UserFiles/CZRU52C2%20THRU%20CZRU52C39-RevB.pdf, or MicroCommercial, like http://61.222.192.61/mccsemi/up\_pdf/MMSZ5221-MMSZ5259(SOD123).pdf
 
 [http://www.comchiptech.com/cms/UserFiles/CZRU52C2%20THRU%20CZRU52C39-RevB.pdf](http://www.comchiptech.com/cms/UserFiles/CZRU52C2%20THRU%20CZRU52C39-RevB.pdf)
 
-[http://61.222.192.61/mccsemi/up_pdf/MMSZ5221-MMSZ5259(SOD123).pdf](http://61.222.192.61/mccsemi/up_pdf/MMSZ5221-MMSZ5259%28SOD123%29.pdf)
+[http://61.222.192.61/mccsemi/up\_pdf/MMSZ5221-MMSZ5259(SOD123).pdf](http://61.222.192.61/mccsemi/up_pdf/MMSZ5221-MMSZ5259\(SOD123\).pdf)
 
-    HV- is the vicor negative side. LT- will be the logic ground. Since the opamp of the ADC has such enormous impedance, even though the diagram technically has a ground loop, no current flows because of this impedance. In layout, since HV- and LT- are named differently, I won't actually connect them on the board. But they'll be at the same potential. 
+&#x20;   HV- is the vicor negative side. LT- will be the logic ground. Since the opamp of the ADC has such enormous impedance, even though the diagram technically has a ground loop, no current flows because of this impedance. In layout, since HV- and LT- are named differently, I won't actually connect them on the board. But they'll be at the same potential.&#x20;
 
-    Turn-on switch: doesn't matter what I use. A BJT has lower leakage, so I'll go with that. Find a BJT with leakage listed?
+&#x20;   Turn-on switch: doesn't matter what I use. A BJT has lower leakage, so I'll go with that. Find a BJT with leakage listed?
 
-    RENAME EVERYTHING TO LT-, except for the VICOR (as HV-)
+&#x20;   RENAME EVERYTHING TO LT-, except for the VICOR (as HV-)
 
-    Two Red LEDs in series may be the most efficient and not need a resistor. Check this!!
+&#x20;   Two Red LEDs in series may be the most efficient and not need a resistor. Check this!!
 
 24v Switch
 
-    Recalculate voltage at UV, OV, FB pin and make note on schematic
+&#x20;   Recalculate voltage at UV, OV, FB pin and make note on schematic
 
-    Note that auto-retry is disabled
+&#x20;   Note that auto-retry is disabled
 
 Turn-on
 
-    Make the zener always connected to the cathode of the turn-on optodriver. Also, a TVS is the proper part here. Put TVS from K to GND, and then maybe a 10 ohm resistor in series with EDISC_TOP so the TVS is current-limited
+&#x20;   Make the zener always connected to the cathode of the turn-on optodriver. Also, a TVS is the proper part here. Put TVS from K to GND, and then maybe a 10 ohm resistor in series with EDISC\_TOP so the TVS is current-limited
 
 Czonka
 
-    Will draw 5A on start-up. No need for a fuse - the vicor is output protected. The point of the 24v switch is to prevent a cascading failure from turning off BMS.
+&#x20;   Will draw 5A on start-up. No need for a fuse - the vicor is output protected. The point of the 24v switch is to prevent a cascading failure from turning off BMS.
 
-    An AND gate is fine now that we've settled on the functionality of the circuit. Try this push-pull one: http://www.digikey.com/product-detail/en/SN74LVC1G08DCKR/296-11602-1-ND/385741
+&#x20;   An AND gate is fine now that we've settled on the functionality of the circuit. Try this push-pull one: http://www.digikey.com/product-detail/en/SN74LVC1G08DCKR/296-11602-1-ND/385741
 
 [http://www.digikey.com/product-detail/en/SN74LVC1G08DCKR/296-11602-1-ND/385741](http://www.digikey.com/product-detail/en/SN74LVC1G08DCKR/296-11602-1-ND/385741)
 
 Precharge
 
-    Resistor for discharge, NTC with fuse (10A, slow-blow) for precharge
+&#x20;   Resistor for discharge, NTC with fuse (10A, slow-blow) for precharge
 
-    Can use PB1271-ND and not need an isolated switch! Put a pull-down resistor on the gate of the FET.
+&#x20;   Can use PB1271-ND and not need an isolated switch! Put a pull-down resistor on the gate of the FET.
 
 PC Check
 
-    Switch the Vicor on the high side, measure BATT+ after the switch so the pack is not always draining
+&#x20;   Switch the Vicor on the high side, measure BATT+ after the switch so the pack is not always draining
 
-    Use 0.1% resistors for the dividers
+&#x20;   Use 0.1% resistors for the dividers
 
-    R61 does nothing but waste power
+&#x20;   R61 does nothing but waste power
 
-    Comparator is open drain...FAIL. Have a pull-up resistor instead of pull-down.
+&#x20;   Comparator is open drain...FAIL. Have a pull-up resistor instead of pull-down.
 
-    On the buffer - size the inputs to the opamp for 3.0v so I don't go too close to the rail.
+&#x20;   On the buffer - size the inputs to the opamp for 3.0v so I don't go too close to the rail.
 
 Vicor
 
-    Size for the 1/4 brick Vicor - they are more efficient, leaves more room for the replacement
+&#x20;   Size for the 1/4 brick Vicor - they are more efficient, leaves more room for the replacement
 
-    The EMI capacitors should connect to the base plate. Could use a pogo pin to connect to the base plate. 
+&#x20;   The EMI capacitors should connect to the base plate. Could use a pogo pin to connect to the base plate.&#x20;
 
-Buzzer 
+Buzzer&#x20;
 
-    Put a 10-100k resistor on the gate of the FET even though I'll configure them as pull-downs
+&#x20;   Put a 10-100k resistor on the gate of the FET even though I'll configure them as pull-downs
 
 Review 3 - Schematics
 
 9/11/2012
 
-Schematics at the time of review are attached below under "bms_7_review_3.pdf"
+Schematics at the time of review are attached below under "bms\_7\_review\_3.pdf"
 
-* naming - MC shunt, array shunt, etc...isolation - medium dashed line, blackLook into a different way to power the analog circuitry    Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails   Look at TDK and CUIAsk Sasha about the reference he uses - mine has some temperature drift5-15 mF capacitance on the HV bus is the most I should expect. Sam's trackers are 2mF a piece, Tritium is 560uF.    Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. ~50A peak current)    Need an optocoupler to short between SHDN and VSS, not SHDN and GND    Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents    Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulatorAnalog page    Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)    Consider a tantalum cap on the input    Bypass the reference with a tantalum cap at the input of the chip    (Don't have ceramic capacitors on the reference because of piezoelectric effect)    Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHzLTC6803    Fix the JAE connector for the cells    Note: 50V between temp inputs may be pushing it. Probably OK between female pins    D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately    No reason for the PFET to be smaller than the abs max of the LTC6803    Could use a BJT instead of an optocoupler. But going to leave it.    Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat    Investigate     Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-Resistors - use 1% everywhere because it doesn't cost any more24v switch    Go ahead and connect the zero current reference    ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum    Ground the FAULT_EN pin    Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4ATurn-on    Put a zener on the top shell edisc line - cathode can go very highCzonka fuse    500ma will blow up because of inrush    Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)    Put the 24v net on the other nets that have higher voltage    NAND gate - strange choice not to use a push-pull drive. Precharge    Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus    Also have HV indicator just below the fuse    Write the percentages on the schematic    Don't connect directly to BATT- - use both sides of the precharge resistor.    No reason to have the fusePiezo    Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create     Consider a magnetic buzzer so I can have a wider frequency responseFan    Rules don't say I need it, but it's worth keepingVicor    To just have pads for the resistors, uncheck the "fitted" box    Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)    Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-. MCU    Add small ceramic to the RTC battery    Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp    FIX THE DIGIT DISPLAY PFETS!!!!STM pins - put a pull resistor to set the startup state and prevent jitter. I.e. pull-down on the czonka enable switch
-* isolation - medium dashed line, blackLook into a different way to power the analog circuitry    Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails   Look at TDK and CUIAsk Sasha about the reference he uses - mine has some temperature drift5-15 mF capacitance on the HV bus is the most I should expect. Sam's trackers are 2mF a piece, Tritium is 560uF.    Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. ~50A peak current)    Need an optocoupler to short between SHDN and VSS, not SHDN and GND    Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents    Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulatorAnalog page    Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)    Consider a tantalum cap on the input    Bypass the reference with a tantalum cap at the input of the chip    (Don't have ceramic capacitors on the reference because of piezoelectric effect)    Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHzLTC6803    Fix the JAE connector for the cells    Note: 50V between temp inputs may be pushing it. Probably OK between female pins    D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately    No reason for the PFET to be smaller than the abs max of the LTC6803    Could use a BJT instead of an optocoupler. But going to leave it.    Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat    Investigate     Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-Resistors - use 1% everywhere because it doesn't cost any more24v switch    Go ahead and connect the zero current reference    ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum    Ground the FAULT_EN pin    Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4ATurn-on    Put a zener on the top shell edisc line - cathode can go very highCzonka fuse    500ma will blow up because of inrush    Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)    Put the 24v net on the other nets that have higher voltage    NAND gate - strange choice not to use a push-pull drive. Precharge    Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus    Also have HV indicator just below the fuse    Write the percentages on the schematic    Don't connect directly to BATT- - use both sides of the precharge resistor.    No reason to have the fusePiezo    Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create     Consider a magnetic buzzer so I can have a wider frequency responseFan    Rules don't say I need it, but it's worth keepingVicor    To just have pads for the resistors, uncheck the "fitted" box    Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)    Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-. MCU    Add small ceramic to the RTC battery    Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp    FIX THE DIGIT DISPLAY PFETS!!!!STM pins - put a pull resistor to set the startup state and prevent jitter. I.e. pull-down on the czonka enable switch
+* naming - MC shunt, array shunt, etc...isolation - medium dashed line, blackLook into a different way to power the analog circuitry    Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails   Look at TDK and CUIAsk Sasha about the reference he uses - mine has some temperature drift5-15 mF capacitance on the HV bus is the most I should expect. Sam's trackers are 2mF a piece, Tritium is 560uF.    Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. \~50A peak current)    Need an optocoupler to short between SHDN and VSS, not SHDN and GND    Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents    Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulatorAnalog page    Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)    Consider a tantalum cap on the input    Bypass the reference with a tantalum cap at the input of the chip    (Don't have ceramic capacitors on the reference because of piezoelectric effect)    Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHzLTC6803    Fix the JAE connector for the cells    Note: 50V between temp inputs may be pushing it. Probably OK between female pins    D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately    No reason for the PFET to be smaller than the abs max of the LTC6803    Could use a BJT instead of an optocoupler. But going to leave it.    Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat    Investigate     Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-Resistors - use 1% everywhere because it doesn't cost any more24v switch    Go ahead and connect the zero current reference    ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum    Ground the FAULT\_EN pin    Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4ATurn-on    Put a zener on the top shell edisc line - cathode can go very highCzonka fuse    500ma will blow up because of inrush    Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)    Put the 24v net on the other nets that have higher voltage    NAND gate - strange choice not to use a push-pull drive. Precharge    Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus    Also have HV indicator just below the fuse    Write the percentages on the schematic    Don't connect directly to BATT- - use both sides of the precharge resistor.    No reason to have the fusePiezo    Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create     Consider a magnetic buzzer so I can have a wider frequency responseFan    Rules don't say I need it, but it's worth keepingVicor    To just have pads for the resistors, uncheck the "fitted" box    Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)    Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-. MCU    Add small ceramic to the RTC battery    Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp    FIX THE DIGIT DISPLAY PFETS!!!!STM pins - put a pull resistor to set the startup state and prevent jitter. I.e. pull-down on the czonka enable switch
+* isolation - medium dashed line, blackLook into a different way to power the analog circuitry    Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails   Look at TDK and CUIAsk Sasha about the reference he uses - mine has some temperature drift5-15 mF capacitance on the HV bus is the most I should expect. Sam's trackers are 2mF a piece, Tritium is 560uF.    Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. \~50A peak current)    Need an optocoupler to short between SHDN and VSS, not SHDN and GND    Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents    Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulatorAnalog page    Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)    Consider a tantalum cap on the input    Bypass the reference with a tantalum cap at the input of the chip    (Don't have ceramic capacitors on the reference because of piezoelectric effect)    Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHzLTC6803    Fix the JAE connector for the cells    Note: 50V between temp inputs may be pushing it. Probably OK between female pins    D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately    No reason for the PFET to be smaller than the abs max of the LTC6803    Could use a BJT instead of an optocoupler. But going to leave it.    Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat    Investigate     Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-Resistors - use 1% everywhere because it doesn't cost any more24v switch    Go ahead and connect the zero current reference    ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum    Ground the FAULT\_EN pin    Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4ATurn-on    Put a zener on the top shell edisc line - cathode can go very highCzonka fuse    500ma will blow up because of inrush    Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)    Put the 24v net on the other nets that have higher voltage    NAND gate - strange choice not to use a push-pull drive. Precharge    Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus    Also have HV indicator just below the fuse    Write the percentages on the schematic    Don't connect directly to BATT- - use both sides of the precharge resistor.    No reason to have the fusePiezo    Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create     Consider a magnetic buzzer so I can have a wider frequency responseFan    Rules don't say I need it, but it's worth keepingVicor    To just have pads for the resistors, uncheck the "fitted" box    Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)    Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-. MCU    Add small ceramic to the RTC battery    Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp    FIX THE DIGIT DISPLAY PFETS!!!!STM pins - put a pull resistor to set the startup state and prevent jitter. I.e. pull-down on the czonka enable switch
 * Look into a different way to power the analog circuitry
-*     Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails
-*    Look at TDK and CUI
+* &#x20;   Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails
+* &#x20;  Look at TDK and CUI
 * Ask Sasha about the reference he uses - mine has some temperature drift
 * 5-15 mF capacitance on the HV bus is the most I should expect. Sam's trackers are 2mF a piece, Tritium is 560uF.
-*     Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. ~50A peak current)
-*     Need an optocoupler to short between SHDN and VSS, not SHDN and GND
-*     Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents
-*     Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulator
+* &#x20;   Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. \~50A peak current)
+* &#x20;   Need an optocoupler to short between SHDN and VSS, not SHDN and GND
+* &#x20;   Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents
+* &#x20;   Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulator
 * Analog page
-*     Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)
-*     Consider a tantalum cap on the input
-*     Bypass the reference with a tantalum cap at the input of the chip
-*     (Don't have ceramic capacitors on the reference because of piezoelectric effect)
-*     Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHz
+* &#x20;   Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)
+* &#x20;   Consider a tantalum cap on the input
+* &#x20;   Bypass the reference with a tantalum cap at the input of the chip
+* &#x20;   (Don't have ceramic capacitors on the reference because of piezoelectric effect)
+* &#x20;   Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHz
 * LTC6803
-*     Fix the JAE connector for the cells
-*     Note: 50V between temp inputs may be pushing it. Probably OK between female pins
-*     D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately
-*     No reason for the PFET to be smaller than the abs max of the LTC6803
-*     Could use a BJT instead of an optocoupler. But going to leave it.
-*     Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat
-*     Investigate 
-*     Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-
+* &#x20;   Fix the JAE connector for the cells
+* &#x20;   Note: 50V between temp inputs may be pushing it. Probably OK between female pins
+* &#x20;   D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately
+* &#x20;   No reason for the PFET to be smaller than the abs max of the LTC6803
+* &#x20;   Could use a BJT instead of an optocoupler. But going to leave it.
+* &#x20;   Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat
+* &#x20;   Investigate&#x20;
+* &#x20;   Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-
 * Resistors - use 1% everywhere because it doesn't cost any more
 * 24v switch
-*     Go ahead and connect the zero current reference
-*     ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum
-*     Ground the FAULT_EN pin
-*     Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4A
+* &#x20;   Go ahead and connect the zero current reference
+* &#x20;   ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum
+* &#x20;   Ground the FAULT\_EN pin
+* &#x20;   Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4A
 * Turn-on
-*     Put a zener on the top shell edisc line - cathode can go very high
+* &#x20;   Put a zener on the top shell edisc line - cathode can go very high
 * Czonka fuse
-*     500ma will blow up because of inrush
-*     Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)
-*     Put the 24v net on the other nets that have higher voltage
-*     NAND gate - strange choice not to use a push-pull drive. 
+* &#x20;   500ma will blow up because of inrush
+* &#x20;   Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)
+* &#x20;   Put the 24v net on the other nets that have higher voltage
+* &#x20;   NAND gate - strange choice not to use a push-pull drive.&#x20;
 * Precharge
-*     Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus
-*     Also have HV indicator just below the fuse
-*     Write the percentages on the schematic
-*     Don't connect directly to BATT- - use both sides of the precharge resistor.
-*     No reason to have the fuse
+* &#x20;   Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus
+* &#x20;   Also have HV indicator just below the fuse
+* &#x20;   Write the percentages on the schematic
+* &#x20;   Don't connect directly to BATT- - use both sides of the precharge resistor.
+* &#x20;   No reason to have the fuse
 * Piezo
-*     Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create 
-*     Consider a magnetic buzzer so I can have a wider frequency response
+* &#x20;   Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create&#x20;
+* &#x20;   Consider a magnetic buzzer so I can have a wider frequency response
 * Fan
-*     Rules don't say I need it, but it's worth keeping
+* &#x20;   Rules don't say I need it, but it's worth keeping
 * Vicor
-*     To just have pads for the resistors, uncheck the "fitted" box
-*     Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)
-*     Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-. 
+* &#x20;   To just have pads for the resistors, uncheck the "fitted" box
+* &#x20;   Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)
+* &#x20;   Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-.&#x20;
 * MCU
-*     Add small ceramic to the RTC battery
-*     Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp
-*     FIX THE DIGIT DISPLAY PFETS!!!!
+* &#x20;   Add small ceramic to the RTC battery
+* &#x20;   Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp
+* &#x20;   FIX THE DIGIT DISPLAY PFETS!!!!
 * STM pins - put a pull resistor to set the startup state and prevent jitter. I.e. pull-down on the czonka enable switch
 
 naming - MC shunt, array shunt, etc...
 
-* isolation - medium dashed line, blackLook into a different way to power the analog circuitry    Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails   Look at TDK and CUIAsk Sasha about the reference he uses - mine has some temperature drift5-15 mF capacitance on the HV bus is the most I should expect. Sam's trackers are 2mF a piece, Tritium is 560uF.    Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. ~50A peak current)    Need an optocoupler to short between SHDN and VSS, not SHDN and GND    Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents    Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulatorAnalog page    Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)    Consider a tantalum cap on the input    Bypass the reference with a tantalum cap at the input of the chip    (Don't have ceramic capacitors on the reference because of piezoelectric effect)    Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHzLTC6803    Fix the JAE connector for the cells    Note: 50V between temp inputs may be pushing it. Probably OK between female pins    D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately    No reason for the PFET to be smaller than the abs max of the LTC6803    Could use a BJT instead of an optocoupler. But going to leave it.    Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat    Investigate     Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-Resistors - use 1% everywhere because it doesn't cost any more24v switch    Go ahead and connect the zero current reference    ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum    Ground the FAULT_EN pin    Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4ATurn-on    Put a zener on the top shell edisc line - cathode can go very highCzonka fuse    500ma will blow up because of inrush    Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)    Put the 24v net on the other nets that have higher voltage    NAND gate - strange choice not to use a push-pull drive. Precharge    Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus    Also have HV indicator just below the fuse    Write the percentages on the schematic    Don't connect directly to BATT- - use both sides of the precharge resistor.    No reason to have the fusePiezo    Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create     Consider a magnetic buzzer so I can have a wider frequency responseFan    Rules don't say I need it, but it's worth keepingVicor    To just have pads for the resistors, uncheck the "fitted" box    Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)    Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-. MCU    Add small ceramic to the RTC battery    Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp    FIX THE DIGIT DISPLAY PFETS!!!!STM pins - put a pull resistor to set the startup state and prevent jitter. I.e. pull-down on the czonka enable switch
+* isolation - medium dashed line, blackLook into a different way to power the analog circuitry    Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails   Look at TDK and CUIAsk Sasha about the reference he uses - mine has some temperature drift5-15 mF capacitance on the HV bus is the most I should expect. Sam's trackers are 2mF a piece, Tritium is 560uF.    Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. \~50A peak current)    Need an optocoupler to short between SHDN and VSS, not SHDN and GND    Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents    Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulatorAnalog page    Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)    Consider a tantalum cap on the input    Bypass the reference with a tantalum cap at the input of the chip    (Don't have ceramic capacitors on the reference because of piezoelectric effect)    Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHzLTC6803    Fix the JAE connector for the cells    Note: 50V between temp inputs may be pushing it. Probably OK between female pins    D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately    No reason for the PFET to be smaller than the abs max of the LTC6803    Could use a BJT instead of an optocoupler. But going to leave it.    Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat    Investigate     Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-Resistors - use 1% everywhere because it doesn't cost any more24v switch    Go ahead and connect the zero current reference    ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum    Ground the FAULT\_EN pin    Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4ATurn-on    Put a zener on the top shell edisc line - cathode can go very highCzonka fuse    500ma will blow up because of inrush    Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)    Put the 24v net on the other nets that have higher voltage    NAND gate - strange choice not to use a push-pull drive. Precharge    Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus    Also have HV indicator just below the fuse    Write the percentages on the schematic    Don't connect directly to BATT- - use both sides of the precharge resistor.    No reason to have the fusePiezo    Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create     Consider a magnetic buzzer so I can have a wider frequency responseFan    Rules don't say I need it, but it's worth keepingVicor    To just have pads for the resistors, uncheck the "fitted" box    Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)    Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-. MCU    Add small ceramic to the RTC battery    Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp    FIX THE DIGIT DISPLAY PFETS!!!!STM pins - put a pull resistor to set the startup state and prevent jitter. I.e. pull-down on the czonka enable switch
 * Look into a different way to power the analog circuitry
-*     Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails
-*    Look at TDK and CUI
+* &#x20;   Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails
+* &#x20;  Look at TDK and CUI
 * Ask Sasha about the reference he uses - mine has some temperature drift
 * 5-15 mF capacitance on the HV bus is the most I should expect. Sam's trackers are 2mF a piece, Tritium is 560uF.
-*     Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. ~50A peak current)
-*     Need an optocoupler to short between SHDN and VSS, not SHDN and GND
-*     Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents
-*     Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulator
+* &#x20;   Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. \~50A peak current)
+* &#x20;   Need an optocoupler to short between SHDN and VSS, not SHDN and GND
+* &#x20;   Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents
+* &#x20;   Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulator
 * Analog page
-*     Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)
-*     Consider a tantalum cap on the input
-*     Bypass the reference with a tantalum cap at the input of the chip
-*     (Don't have ceramic capacitors on the reference because of piezoelectric effect)
-*     Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHz
+* &#x20;   Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)
+* &#x20;   Consider a tantalum cap on the input
+* &#x20;   Bypass the reference with a tantalum cap at the input of the chip
+* &#x20;   (Don't have ceramic capacitors on the reference because of piezoelectric effect)
+* &#x20;   Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHz
 * LTC6803
-*     Fix the JAE connector for the cells
-*     Note: 50V between temp inputs may be pushing it. Probably OK between female pins
-*     D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately
-*     No reason for the PFET to be smaller than the abs max of the LTC6803
-*     Could use a BJT instead of an optocoupler. But going to leave it.
-*     Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat
-*     Investigate 
-*     Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-
+* &#x20;   Fix the JAE connector for the cells
+* &#x20;   Note: 50V between temp inputs may be pushing it. Probably OK between female pins
+* &#x20;   D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately
+* &#x20;   No reason for the PFET to be smaller than the abs max of the LTC6803
+* &#x20;   Could use a BJT instead of an optocoupler. But going to leave it.
+* &#x20;   Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat
+* &#x20;   Investigate&#x20;
+* &#x20;   Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-
 * Resistors - use 1% everywhere because it doesn't cost any more
 * 24v switch
-*     Go ahead and connect the zero current reference
-*     ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum
-*     Ground the FAULT_EN pin
-*     Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4A
+* &#x20;   Go ahead and connect the zero current reference
+* &#x20;   ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum
+* &#x20;   Ground the FAULT\_EN pin
+* &#x20;   Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4A
 * Turn-on
-*     Put a zener on the top shell edisc line - cathode can go very high
+* &#x20;   Put a zener on the top shell edisc line - cathode can go very high
 * Czonka fuse
-*     500ma will blow up because of inrush
-*     Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)
-*     Put the 24v net on the other nets that have higher voltage
-*     NAND gate - strange choice not to use a push-pull drive. 
+* &#x20;   500ma will blow up because of inrush
+* &#x20;   Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)
+* &#x20;   Put the 24v net on the other nets that have higher voltage
+* &#x20;   NAND gate - strange choice not to use a push-pull drive.&#x20;
 * Precharge
-*     Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus
-*     Also have HV indicator just below the fuse
-*     Write the percentages on the schematic
-*     Don't connect directly to BATT- - use both sides of the precharge resistor.
-*     No reason to have the fuse
+* &#x20;   Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus
+* &#x20;   Also have HV indicator just below the fuse
+* &#x20;   Write the percentages on the schematic
+* &#x20;   Don't connect directly to BATT- - use both sides of the precharge resistor.
+* &#x20;   No reason to have the fuse
 * Piezo
-*     Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create 
-*     Consider a magnetic buzzer so I can have a wider frequency response
+* &#x20;   Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create&#x20;
+* &#x20;   Consider a magnetic buzzer so I can have a wider frequency response
 * Fan
-*     Rules don't say I need it, but it's worth keeping
+* &#x20;   Rules don't say I need it, but it's worth keeping
 * Vicor
-*     To just have pads for the resistors, uncheck the "fitted" box
-*     Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)
-*     Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-. 
+* &#x20;   To just have pads for the resistors, uncheck the "fitted" box
+* &#x20;   Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)
+* &#x20;   Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-.&#x20;
 * MCU
-*     Add small ceramic to the RTC battery
-*     Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp
-*     FIX THE DIGIT DISPLAY PFETS!!!!
+* &#x20;   Add small ceramic to the RTC battery
+* &#x20;   Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp
+* &#x20;   FIX THE DIGIT DISPLAY PFETS!!!!
 * STM pins - put a pull resistor to set the startup state and prevent jitter. I.e. pull-down on the czonka enable switch
 
 isolation - medium dashed line, black
 
 * Look into a different way to power the analog circuitry
-*     Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails
-*    Look at TDK and CUI
+* &#x20;   Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails
+* &#x20;  Look at TDK and CUI
 * Ask Sasha about the reference he uses - mine has some temperature drift
 * 5-15 mF capacitance on the HV bus is the most I should expect. Sam's trackers are 2mF a piece, Tritium is 560uF.
-*     Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. ~50A peak current)
-*     Need an optocoupler to short between SHDN and VSS, not SHDN and GND
-*     Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents
-*     Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulator
+* &#x20;   Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. \~50A peak current)
+* &#x20;   Need an optocoupler to short between SHDN and VSS, not SHDN and GND
+* &#x20;   Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents
+* &#x20;   Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulator
 * Analog page
-*     Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)
-*     Consider a tantalum cap on the input
-*     Bypass the reference with a tantalum cap at the input of the chip
-*     (Don't have ceramic capacitors on the reference because of piezoelectric effect)
-*     Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHz
+* &#x20;   Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)
+* &#x20;   Consider a tantalum cap on the input
+* &#x20;   Bypass the reference with a tantalum cap at the input of the chip
+* &#x20;   (Don't have ceramic capacitors on the reference because of piezoelectric effect)
+* &#x20;   Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHz
 * LTC6803
-*     Fix the JAE connector for the cells
-*     Note: 50V between temp inputs may be pushing it. Probably OK between female pins
-*     D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately
-*     No reason for the PFET to be smaller than the abs max of the LTC6803
-*     Could use a BJT instead of an optocoupler. But going to leave it.
-*     Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat
-*     Investigate 
-*     Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-
+* &#x20;   Fix the JAE connector for the cells
+* &#x20;   Note: 50V between temp inputs may be pushing it. Probably OK between female pins
+* &#x20;   D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately
+* &#x20;   No reason for the PFET to be smaller than the abs max of the LTC6803
+* &#x20;   Could use a BJT instead of an optocoupler. But going to leave it.
+* &#x20;   Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat
+* &#x20;   Investigate&#x20;
+* &#x20;   Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-
 * Resistors - use 1% everywhere because it doesn't cost any more
 * 24v switch
-*     Go ahead and connect the zero current reference
-*     ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum
-*     Ground the FAULT_EN pin
-*     Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4A
+* &#x20;   Go ahead and connect the zero current reference
+* &#x20;   ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum
+* &#x20;   Ground the FAULT\_EN pin
+* &#x20;   Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4A
 * Turn-on
-*     Put a zener on the top shell edisc line - cathode can go very high
+* &#x20;   Put a zener on the top shell edisc line - cathode can go very high
 * Czonka fuse
-*     500ma will blow up because of inrush
-*     Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)
-*     Put the 24v net on the other nets that have higher voltage
-*     NAND gate - strange choice not to use a push-pull drive. 
+* &#x20;   500ma will blow up because of inrush
+* &#x20;   Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)
+* &#x20;   Put the 24v net on the other nets that have higher voltage
+* &#x20;   NAND gate - strange choice not to use a push-pull drive.&#x20;
 * Precharge
-*     Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus
-*     Also have HV indicator just below the fuse
-*     Write the percentages on the schematic
-*     Don't connect directly to BATT- - use both sides of the precharge resistor.
-*     No reason to have the fuse
+* &#x20;   Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus
+* &#x20;   Also have HV indicator just below the fuse
+* &#x20;   Write the percentages on the schematic
+* &#x20;   Don't connect directly to BATT- - use both sides of the precharge resistor.
+* &#x20;   No reason to have the fuse
 * Piezo
-*     Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create 
-*     Consider a magnetic buzzer so I can have a wider frequency response
+* &#x20;   Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create&#x20;
+* &#x20;   Consider a magnetic buzzer so I can have a wider frequency response
 * Fan
-*     Rules don't say I need it, but it's worth keeping
+* &#x20;   Rules don't say I need it, but it's worth keeping
 * Vicor
-*     To just have pads for the resistors, uncheck the "fitted" box
-*     Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)
-*     Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-. 
+* &#x20;   To just have pads for the resistors, uncheck the "fitted" box
+* &#x20;   Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)
+* &#x20;   Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-.&#x20;
 * MCU
-*     Add small ceramic to the RTC battery
-*     Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp
-*     FIX THE DIGIT DISPLAY PFETS!!!!
+* &#x20;   Add small ceramic to the RTC battery
+* &#x20;   Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp
+* &#x20;   FIX THE DIGIT DISPLAY PFETS!!!!
 * STM pins - put a pull resistor to set the startup state and prevent jitter. I.e. pull-down on the czonka enable switch
 
 Look into a different way to power the analog circuitry
 
-    Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails
+&#x20;   Consider using an off the shelf module as opposed to a power module. Would proivde +/- rails
 
-   Look at TDK and CUI
+&#x20;  Look at TDK and CUI
 
 Ask Sasha about the reference he uses - mine has some temperature drift
 
 5-15 mF capacitance on the HV bus is the most I should expect. Sam's trackers are 2mF a piece, Tritium is 560uF.
 
-    Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. ~50A peak current)
+&#x20;   Do some LTspice with this part, do math on how long it should take to turn on. Don't allow current to above 1/3 the external lead current (i.e. \~50A peak current)
 
-    Need an optocoupler to short between SHDN and VSS, not SHDN and GND
+&#x20;   Need an optocoupler to short between SHDN and VSS, not SHDN and GND
 
-    Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents
+&#x20;   Try finding a zener for D26 that won't suck all the gate current. Look for a zener that is specified at very small currents
 
-    Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulator
+&#x20;   Look at the 200V schematic in the LT datasheet for vss resistor and the shunt regulator
 
 Analog page
 
-    Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)
+&#x20;   Use RCR filter, like before. Make sure that the corner of this filter is well below the internal sampling frequency of the sigma delta (100 ohms, 10nF, something like that)
 
-    Consider a tantalum cap on the input
+&#x20;   Consider a tantalum cap on the input
 
-    Bypass the reference with a tantalum cap at the input of the chip
+&#x20;   Bypass the reference with a tantalum cap at the input of the chip
 
-    (Don't have ceramic capacitors on the reference because of piezoelectric effect)
+&#x20;   (Don't have ceramic capacitors on the reference because of piezoelectric effect)
 
-    Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHz
+&#x20;   Read the datasheet to see if I can use MCO to drive the ADC at 1-4.5MHz
 
 LTC6803
 
-    Fix the JAE connector for the cells
+&#x20;   Fix the JAE connector for the cells
 
-    Note: 50V between temp inputs may be pushing it. Probably OK between female pins
+&#x20;   Note: 50V between temp inputs may be pushing it. Probably OK between female pins
 
-    D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately
+&#x20;   D5, etc should be rated for full pack voltage. Check on D4 - check zener voltage at low current. Check on the low current performance of the zener, size the resistors appropriately
 
-    No reason for the PFET to be smaller than the abs max of the LTC6803
+&#x20;   No reason for the PFET to be smaller than the abs max of the LTC6803
 
-    Could use a BJT instead of an optocoupler. But going to leave it.
+&#x20;   Could use a BJT instead of an optocoupler. But going to leave it.
 
-    Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat
+&#x20;   Use one large blue LED on the bleed circuit (possibly on the back side of the board) - very efficient, least amount of power burned in heat
 
-    Investigate 
+&#x20;   Investigate&#x20;
 
-    Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-
+&#x20;   Eliminate isolated supply and isolator. All of the logic ground will change to LT-. Perhaps put parallel and opposite diodes between HV- and LT-
 
 Resistors - use 1% everywhere because it doesn't cost any more
 
 24v switch
 
-    Go ahead and connect the zero current reference
+&#x20;   Go ahead and connect the zero current reference
 
-    ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum
+&#x20;   ACS716 needs at least a 10k ohm load (so use a 2.2-4.7 so i'm not at the minimum
 
-    Ground the FAULT_EN pin
+&#x20;   Ground the FAULT\_EN pin
 
-    Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4A
+&#x20;   Because the ISET pin is open, there is a 15mV limit - size the shunt to allow 4A
 
 Turn-on
 
-    Put a zener on the top shell edisc line - cathode can go very high
+&#x20;   Put a zener on the top shell edisc line - cathode can go very high
 
 Czonka fuse
 
-    500ma will blow up because of inrush
+&#x20;   500ma will blow up because of inrush
 
-    Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)
+&#x20;   Sam likes vertical mount fuses from Schurter - saves board area. (http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)
 
 [http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958](http://www.digikey.com/product-detail/en/3101.0040/486-1159-ND/1522958)
 
-    Put the 24v net on the other nets that have higher voltage
+&#x20;   Put the 24v net on the other nets that have higher voltage
 
-    NAND gate - strange choice not to use a push-pull drive. 
+&#x20;   NAND gate - strange choice not to use a push-pull drive.&#x20;
 
 Precharge
 
-    Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus
+&#x20;   Put pads for this http://www.ametherm.com/datasheetspdf/SL2212103.pdf in parallel with my resistors - can precharge at a more constant current .Size the energy of the NTC at about twice the energy stored in the HV bus
 
 [http://www.ametherm.com/datasheetspdf/SL2212103.pdf](http://www.ametherm.com/datasheetspdf/SL2212103.pdf)
 
-    Also have HV indicator just below the fuse
+&#x20;   Also have HV indicator just below the fuse
 
-    Write the percentages on the schematic
+&#x20;   Write the percentages on the schematic
 
-    Don't connect directly to BATT- - use both sides of the precharge resistor.
+&#x20;   Don't connect directly to BATT- - use both sides of the precharge resistor.
 
-    No reason to have the fuse
+&#x20;   No reason to have the fuse
 
 Piezo
 
-    Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create 
+&#x20;   Need the protection resistor? make it a 10 ohm resistor. But put a TVS there because the piezo could create&#x20;
 
-    Consider a magnetic buzzer so I can have a wider frequency response
+&#x20;   Consider a magnetic buzzer so I can have a wider frequency response
 
 Fan
 
-    Rules don't say I need it, but it's worth keeping
+&#x20;   Rules don't say I need it, but it's worth keeping
 
 Vicor
 
-    To just have pads for the resistors, uncheck the "fitted" box
+&#x20;   To just have pads for the resistors, uncheck the "fitted" box
 
-    Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)
+&#x20;   Look at the recommended circuit for minimized EMI. (see Vicor Application Notes)
 
-[ Vicor Application Notes](http://www.vicorpower.com/cms/home/technical_resources/applications-information)
+[Vicor Application Notes](http://www.vicorpower.com/cms/home/technical_resources/applications-information)
 
-    Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-. 
+&#x20;   Put a high voltage capacitor between IN+ and OUT+ plus IN- and OUT-.&#x20;
 
 MCU
 
-    Add small ceramic to the RTC battery
+&#x20;   Add small ceramic to the RTC battery
 
-    Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp
+&#x20;   Opamp - Can do even better in terms of input bias current. Use the LTC6082 (quad), can put the comparator after the opamp and use any opamp
 
-    FIX THE DIGIT DISPLAY PFETS!!!!
+&#x20;   FIX THE DIGIT DISPLAY PFETS!!!!
 
 STM pins - put a pull resistor to set the startup state and prevent jitter. I.e. pull-down on the czonka enable switch
 
@@ -707,13 +709,13 @@ Review 2 - Schematics
 
 9/4/2012
 
-Below is a list of suggested changes from the review with Sasha. The schematics at the time of review are attached under "bms_7_review_2.pdf".
+Below is a list of suggested changes from the review with Sasha. The schematics at the time of review are attached under "bms\_7\_review\_2.pdf".
 
 * Perhaps use a repeated schematic for the LT bleeder circuit using net ties
 * Check thermistor values - lower (10k as opposed to 100k) is better for noise
 * Isolated switch: use 390 ohm resistor for current limit. Also fix this in the array switch schematic.
 * Analog block - just duplicate 4x to avoid compile errors with the buses
-* Schematic block names - such as "pmic_3v3"
+* Schematic block names - such as "pmic\_3v3"
 * Consider WSMS2906 from Vishay - PEM studs can be mounted through the board and the shunt, meaning that separate shunt and mounting holes are note required.These have a 75 ppm/C accuracy, as opposed to the originally specified 15 ppm/C shunts. They will also take up more board real estate
 * These have a 75 ppm/C accuracy, as opposed to the originally specified 15 ppm/C shunts. They will also take up more board real estate
 * If temperature coefficient is a concern, perhaps put some thermistors in terminal lugs to measure the temperature
@@ -754,9 +756,9 @@ Below is a list of suggested changes from the review with Sasha. The schematics 
 * Use a 24V current sense for sanity check: consider the ACS716
 * Consider a larger value for the timer capacitor
 * The output FET is not large enough. Rule of thumb: select 3x the expected drain current on the FET. For all FETs, check the power dissipation and consider the package
-* Turn-on circuitRemove R71Remove zener on Edisc_top inletMove the zener on the PFET to Gate-SourceUse the other permakill coil/contact set to switch VBKUP - this way, you aren't discharging through the pull-up and gate of the PFETSimilarly, move the PFET above the VicorMake R70 larger (10k), put a 100nF from Gate-Source, inline resistor
+* Turn-on circuitRemove R71Remove zener on Edisc\_top inletMove the zener on the PFET to Gate-SourceUse the other permakill coil/contact set to switch VBKUP - this way, you aren't discharging through the pull-up and gate of the PFETSimilarly, move the PFET above the VicorMake R70 larger (10k), put a 100nF from Gate-Source, inline resistor
 * Remove R71
-* Remove zener on Edisc_top inlet
+* Remove zener on Edisc\_top inlet
 * Move the zener on the PFET to Gate-Source
 * Use the other permakill coil/contact set to switch VBKUP - this way, you aren't discharging through the pull-up and gate of the PFET
 * Similarly, move the PFET above the Vicor
@@ -771,9 +773,9 @@ Below is a list of suggested changes from the review with Sasha. The schematics 
 * Precharge resistor divider: will not workFind lower bias current comparator or use smaller resistors. Or both. There will be 0.5v of error at the input with 2.8M and a bias current in the nano-amps!Unused comparator inputs will "chatter" if left unconnected. Should connect one to a high rail, one to a low rail, so the output stays in a fixed state
 * Find lower bias current comparator or use smaller resistors. Or both. There will be 0.5v of error at the input with 2.8M and a bias current in the nano-amps!
 * Unused comparator inputs will "chatter" if left unconnected. Should connect one to a high rail, one to a low rail, so the output stays in a fixed state
-* Put a 100k resistor inline to the PC_Done net so the processor cannot drive the output of the comparator due to bad MCU configuration
-* BuzzerRename BUZ_EN to BUZ_PWMNo inline resistor, use a 10k pull-downFind a better buzzer with more documentation?A piezo is essentially a capacitor! Consider driving it by connecting one side to a MCU pin (push-pull), and the other to the middle of two capacitors dividing 3.3v and HV-. If the processor can drive the amount of current required for the buzzer, no need for an external driver!
-* Rename BUZ_EN to BUZ_PWM
+* Put a 100k resistor inline to the PC\_Done net so the processor cannot drive the output of the comparator due to bad MCU configuration
+* BuzzerRename BUZ\_EN to BUZ\_PWMNo inline resistor, use a 10k pull-downFind a better buzzer with more documentation?A piezo is essentially a capacitor! Consider driving it by connecting one side to a MCU pin (push-pull), and the other to the middle of two capacitors dividing 3.3v and HV-. If the processor can drive the amount of current required for the buzzer, no need for an external driver!
+* Rename BUZ\_EN to BUZ\_PWM
 * No inline resistor, use a 10k pull-down
 * Find a better buzzer with more documentation?
 * A piezo is essentially a capacitor! Consider driving it by connecting one side to a MCU pin (push-pull), and the other to the middle of two capacitors dividing 3.3v and HV-. If the processor can drive the amount of current required for the buzzer, no need for an external driver!
@@ -798,11 +800,11 @@ Isolated switch: use 390 ohm resistor for current limit. Also fix this in the ar
 
 Analog block - just duplicate 4x to avoid compile errors with the buses
 
-Schematic block names - such as "pmic_3v3"
+Schematic block names - such as "pmic\_3v3"
 
 Consider WSMS2906 from Vishay - PEM studs can be mounted through the board and the shunt, meaning that separate shunt and mounting holes are note required.
 
-[ WSMS2906](http://www.vishay.com/docs/30181/wsms2906.pdf)
+[WSMS2906](http://www.vishay.com/docs/30181/wsms2906.pdf)
 
 * These have a 75 ppm/C accuracy, as opposed to the originally specified 15 ppm/C shunts. They will also take up more board real estate
 
@@ -872,7 +874,7 @@ Use the MCO output on the F4, assuming that the ADC will run properly on 8MHz. T
 
 Common mode ferrite bead is ideal for the ADC input, rather than two separate beads. Something like this is good. Maybe also use this on the CAN lines in differential configuration?
 
-[ this](http://www.tdk.co.jp/tefe02/e9711_act.pdf)
+[this](http://www.tdk.co.jp/tefe02/e9711_act.pdf)
 
 Put a 100nF capacitor across VSS and AVDD. Also a 100nF on digital supply pin
 
@@ -922,7 +924,7 @@ The output FET is not large enough. Rule of thumb: select 3x the expected drain 
 Turn-on circuit
 
 * Remove R71
-* Remove zener on Edisc_top inlet
+* Remove zener on Edisc\_top inlet
 * Move the zener on the PFET to Gate-Source
 * Use the other permakill coil/contact set to switch VBKUP - this way, you aren't discharging through the pull-up and gate of the PFET
 * Similarly, move the PFET above the Vicor
@@ -930,7 +932,7 @@ Turn-on circuit
 
 Remove R71
 
-Remove zener on Edisc_top inlet
+Remove zener on Edisc\_top inlet
 
 Move the zener on the PFET to Gate-Source
 
@@ -968,16 +970,16 @@ Find lower bias current comparator or use smaller resistors. Or both. There will
 
 Unused comparator inputs will "chatter" if left unconnected. Should connect one to a high rail, one to a low rail, so the output stays in a fixed state
 
-Put a 100k resistor inline to the PC_Done net so the processor cannot drive the output of the comparator due to bad MCU configuration
+Put a 100k resistor inline to the PC\_Done net so the processor cannot drive the output of the comparator due to bad MCU configuration
 
 Buzzer
 
-* Rename BUZ_EN to BUZ_PWM
+* Rename BUZ\_EN to BUZ\_PWM
 * No inline resistor, use a 10k pull-down
 * Find a better buzzer with more documentation?
 * A piezo is essentially a capacitor! Consider driving it by connecting one side to a MCU pin (push-pull), and the other to the middle of two capacitors dividing 3.3v and HV-. If the processor can drive the amount of current required for the buzzer, no need for an external driver!
 
-Rename BUZ_EN to BUZ_PWM
+Rename BUZ\_EN to BUZ\_PWM
 
 No inline resistor, use a 10k pull-down
 
@@ -1021,7 +1023,7 @@ Shutting the board down to where physical changes are required to turn it back o
 
 Bus voltage: 24V
 
-Change: don’t put the MCU on the other side of an isolation barrier from the rest of the ICs.  It would give another layer of isolation, but isn’t worth the additional time and pain.  Put it in a box to protect it against derpers with wrenches instead.
+Change: don’t put the MCU on the other side of an isolation barrier from the rest of the ICs.  It would give another layer of isolation, but isn’t worth the additional time and pain.  Put it in a box to protect it against derpers with wrenches instead.
 
 Change the net naming conventions to conform to Sasha Style. Call the two ground GND and HV-.
 
@@ -1033,7 +1035,7 @@ Consider: A supercap instead of a coin cell in some applications
 
 FET on the vicor switch may be overkill
 
-Put a capacitor on the input and output of the vicor to keep it stable.  If electrolytic, use solid polymers (good practice).  Input--film; output--ceramic
+Put a capacitor on the input and output of the vicor to keep it stable.  If electrolytic, use solid polymers (good practice).  Input--film; output--ceramic
 
 May not need fet to turn on photovoltaic optocoupler
 
@@ -1041,7 +1043,7 @@ Switch APV1121 to TLP190B
 
 Have switches on the inputs and outputs of power supplies to turn on and off rails.
 
-Separate switch to turn on the rest of the car after BMS boots.  Question: Turn on the MPPTs before or after this?
+Separate switch to turn on the rest of the car after BMS boots.  Question: Turn on the MPPTs before or after this?
 
 Don’t put too much capacitance on the output of a Vicor because you can crash it at start.
 
@@ -1051,7 +1053,7 @@ Replace turnon fet to the car with a linear chip that has overcurrent protection
 
 Consider sending fault pins from LTC
 
-Change: No fuse to the Vicor?  Don’t use a resettable fuse--probably won’t get to the voltage rating you’re looking for.  They also blow to a holding current rather than open, and at solar car temperatures it’s possible for them to explode when they fail.  Can also break and then arc if you look at the AC rating instead of DC.
+Change: No fuse to the Vicor?  Don’t use a resettable fuse--probably won’t get to the voltage rating you’re looking for.  They also blow to a holding current rather than open, and at solar car temperatures it’s possible for them to explode when they fail.  Can also break and then arc if you look at the AC rating instead of DC.
 
 Don’t hook the array directly to the motor controller.
 
@@ -1067,19 +1069,14 @@ Regen->current to the topshell->seen by BPS as a failed MPPT.
 
 Prefer a common positive rail to a common ground for the latching relay: makes life simpler, requires fewer components.
 
-Can have a stronger pull-up on the Permakill_drive circuit, because it will be on only briefly (power consumption is a concern).
+Can have a stronger pull-up on the Permakill\_drive circuit, because it will be on only briefly (power consumption is a concern).
 
-Edisc: want a mechanism where any number of nodes can turn off the car--currently only two: pushbutton on the steering wheel and the emergency stop button on the outside of the car.  Button on top is normally closed, driver button is normally open.
+Edisc: want a mechanism where any number of nodes can turn off the car--currently only two: pushbutton on the steering wheel and the emergency stop button on the outside of the car.  Button on top is normally closed, driver button is normally open.
 
-Pressing driver button closes a path that goes through both switches.  Separate edisc net for top and bottom shell.
+Pressing driver button closes a path that goes through both switches.  Separate edisc net for top and bottom shell.
 
 Remove 0R reistors on can bridge and bridge in software instead.
 
-[](https://drive.google.com/folderview?id=1DNgbEYxeRcauP5RysnBv3A4FEtbgU1vB)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1DNgbEYxeRcauP5RysnBv3A4FEtbgU1vB#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1DNgbEYxeRcauP5RysnBv3A4FEtbgU1vB#list" frameborder="0"></iframe>
-

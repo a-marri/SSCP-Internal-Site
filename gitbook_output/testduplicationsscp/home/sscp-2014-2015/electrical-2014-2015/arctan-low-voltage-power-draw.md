@@ -1,18 +1,15 @@
-# SSCP - Arctan Low Voltage Power Draw
+# arctan-low-voltage-power-draw
 
-# Arctan Low Voltage Power Draw
+## SSCP - Arctan Low Voltage Power Draw
 
-*** Has not been updated yet, these are incorrect ***
+## Arctan Low Voltage Power Draw
 
-To measure the total power draw of the low voltage electronics on Arctan, we measured the current draw by each board (inline) as well as the bus voltage.  Results are attached in the spreadsheet.
+\*\*\* Has not been updated yet, these are incorrect \*\*\*
 
-[](https://docs.google.com/spreadsheets/d/1TzXbYPJ5sNsWLniLeTe2I2MvQsED40dxGRrx8WwNAf4/edit)
+To measure the total power draw of the low voltage electronics on Arctan, we measured the current draw by each board (inline) as well as the bus voltage.  Results are attached in the spreadsheet.
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](arctan-low-voltage-power-draw.md)
 
 ![](../../../../assets/sheets_32dp.png)
-

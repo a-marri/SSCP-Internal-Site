@@ -1,6 +1,8 @@
-# SSCP - Test Drive Rules
+# test-drive-rules
 
-# Test Drive Rules
+## SSCP - Test Drive Rules
+
+## Test Drive Rules
 
 Hello,
 
@@ -28,7 +30,7 @@ to me
 
 Hi Kelsey,
 
-We are unable to provide any update on the question of road testing which remains under discussion with the relevant authorities.  
+We are unable to provide any update on the question of road testing which remains under discussion with the relevant authorities. &#x20;
 
 If a protocol for entrants to access public roads without the supervision of event officials can be negotiated, the process and conditions will be announced to all registered team managers.
 
@@ -40,7 +42,7 @@ Participant Liaison
 
 Bridgestone World Solar Challenge
 
-The Motor Sport Group - South Australian Tourism Commission   
+The Motor Sport Group - South Australian Tourism Commission  &#x20;
 
 Level 4, 121-125 King William Street
 
@@ -48,11 +50,11 @@ Adelaide, SA 5000
 
 Visitors by Appointment Only
 
-D +61 (0) 8 8212 8500 
+D +61 (0) 8 8212 8500&#x20;
 
 [+61 (0) 8 8212 8500](tel:+61%208%208212%208500)
 
-E  teams@worldsolarchallenge.org
+E  teams@worldsolarchallenge.org
 
 [teams@worldsolarchallenge.org](mailto:teams@worldsolarchallenge.org)
 
@@ -66,7 +68,7 @@ www.worldsolarchallenge.org
 
 ![](../../../../../assets/image_2034440ee5.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Jan 19
 
@@ -112,19 +114,19 @@ to me
 
 Hi Kelsey,
 
-We are unable to provide a definitive answer or timeline on the subject of Road Testing. However, we will be looking into this further in the coming months. 
+We are unable to provide a definitive answer or timeline on the subject of Road Testing. However, we will be looking into this further in the coming months.&#x20;
 
 Driving a home made car on public roads is a contentious issue in Australia which is compounded by the conditions of the import permit that we must obtain for your vehicle.
 
-For your general information approval to import a vehicle to Australia is a federal matter, but the permission to use a vehicle on a public highway is a matter for individual states.  As a generalisation, a vehicle that does not have a recognised compliance plate is unlikely to either gain import approval or access to public roads.
+For your general information approval to import a vehicle to Australia is a federal matter, but the permission to use a vehicle on a public highway is a matter for individual states.  As a generalisation, a vehicle that does not have a recognised compliance plate is unlikely to either gain import approval or access to public roads.
 
-We have precedent that the South Australian Authorities have accepted the Roadworthiness Certificate for solarcars that are registered to participate in the event (Regulation 2.10.2 refers) as the basis to grant a conditional unregistered vehicle permit allowing testing northbound on the Stuart Highway between Glendambo and the NT border and anticipate that similar arrangements can be made for 2017. 
+We have precedent that the South Australian Authorities have accepted the Roadworthiness Certificate for solarcars that are registered to participate in the event (Regulation 2.10.2 refers) as the basis to grant a conditional unregistered vehicle permit allowing testing northbound on the Stuart Highway between Glendambo and the NT border and anticipate that similar arrangements can be made for 2017.&#x20;
 
-The Northern Territory authorities have, in the past, required a physical roadworthiness inspection to be conducted in Darwin before granting access to designated sections of public road.  
+The Northern Territory authorities have, in the past, required a physical roadworthiness inspection to be conducted in Darwin before granting access to designated sections of public road. &#x20;
 
-Both SA and NT authorities impose conditions on this access.  Unfortunately some past teams have chosen not to comply with the conditions which came with a road testing permit which makes it difficult to show that we are a responsible community.
+Both SA and NT authorities impose conditions on this access.  Unfortunately some past teams have chosen not to comply with the conditions which came with a road testing permit which makes it difficult to show that we are a responsible community.
 
-Once a protocol for entrants to gain pre-event access to public roads can be negotiated, the process and conditions will be announced to all registered team managers.  See also section 3.10 of the Regulations.
+Once a protocol for entrants to gain pre-event access to public roads can be negotiated, the process and conditions will be announced to all registered team managers.  See also section 3.10 of the Regulations.
 
 We appreciate your offer for assistance in this matter and we hope to give you more information as soon as we can.
 
@@ -134,7 +136,7 @@ Kind regards,
 
 ![](../../../../../assets/image_9a0ebbd004.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Jan 22
 
@@ -152,7 +154,7 @@ Hello logistics people past and recent,
 
 I'm getting fairly concerned about test driving in Australia, given the comments from WSC below. It's too early to panic right now, but things aren't looking super positive as far as SA testing. Maybe it'll come through just fine, but no matter what it sounds like it's out of our control, so I'd like to come up with a contingency plan.
 
-Do any of you have advice for dealing with WSC or alternative testing locations  should things fall through? Something that would be a better proxy for the Stuart Highway than the Central Valley is. I was thinking maybe investigating Western Australian highways should SA and NT be unwilling to work with us, but I'm not sure how we have historically initiated conversations with state governments in the past.
+Do any of you have advice for dealing with WSC or alternative testing locations  should things fall through? Something that would be a better proxy for the Stuart Highway than the Central Valley is. I was thinking maybe investigating Western Australian highways should SA and NT be unwilling to work with us, but I'm not sure how we have historically initiated conversations with state governments in the past.
 
 Thanks for your thoughts and advice!
 
@@ -160,7 +162,7 @@ Thanks for your thoughts and advice!
 
 ![](../../../../../assets/image_6fff02f7b0.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Jan 22
 
@@ -174,7 +176,7 @@ Jan 22
 
 to Guillermo, Gawan, Harry, Jim, Max, Roman, Wesley
 
-Oops used the wrong email for Guillermo 
+Oops used the wrong email for Guillermo&#x20;
 
 ![](../../../../../assets/image_2eb3243404.gif)
 
@@ -194,7 +196,7 @@ Jan 22
 
 to me
 
-It is tough for me to tell what the WSC officials will arrange for you all based on their emails below. It seems like they are providing context without commitments. It looks like you have a reasonably good chance of still being able to drive in South Australia, but it would be wise to know what your best backup option is in the event that South Australia testing falls through. 
+It is tough for me to tell what the WSC officials will arrange for you all based on their emails below. It seems like they are providing context without commitments. It looks like you have a reasonably good chance of still being able to drive in South Australia, but it would be wise to know what your best backup option is in the event that South Australia testing falls through.&#x20;
 
 I’ve only arranged special testing in South Australia, so I’m not sure what you would need to do to test in New South Wales, Queensland, or Victoria. Going to Western Australia seems really out of the way. Is there a reason why you mentioned that particular territory? Western Australia also has few roads that take you anywhere practical for the race. At least in NSW and Queensland you can still eventually make your way towards Darwin.
 
@@ -204,7 +206,7 @@ Have you reached out to some of the Australian solar car alumni living in the Ba
 
 ![](../../../../../assets/image_0bb9c68fdf.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Jan 22
 
@@ -246,7 +248,7 @@ Jan 23
 
 to me
 
-I can’t recall how exactly I got in contact with South Australia originally, but I can send you my contact details. 
+I can’t recall how exactly I got in contact with South Australia originally, but I can send you my contact details.&#x20;
 
 I’ll introduce you to some alumni.
 
@@ -254,7 +256,7 @@ I’ll introduce you to some alumni.
 
 ![](../../../../../assets/image_02ebbbef4f.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Jan 23
 
@@ -286,17 +288,17 @@ Jan 25
 
 to me
 
-My thoughts on this took me a while to write down in email, apologies for a delay. Won't be able to write a long email but I think in general you should avoid trying to negotiate one-on-one with any government in Australia. Every level of government you care about should know about the race. Those governments/regions who have never heard of it or dealt with it will likely be too remote for you to test in. The Stanford team doesn't have as much negotiating power as top-top teams (no offense to anyone) and if they try to negotiate one-on-one it won't be good for others unless wSC generalizes. The way I see it you're better off forming a coalition with other top teams and advocating through WSC for testing access. Seems it's a contentious issue. 
+My thoughts on this took me a while to write down in email, apologies for a delay. Won't be able to write a long email but I think in general you should avoid trying to negotiate one-on-one with any government in Australia. Every level of government you care about should know about the race. Those governments/regions who have never heard of it or dealt with it will likely be too remote for you to test in. The Stanford team doesn't have as much negotiating power as top-top teams (no offense to anyone) and if they try to negotiate one-on-one it won't be good for others unless wSC generalizes. The way I see it you're better off forming a coalition with other top teams and advocating through WSC for testing access. Seems it's a contentious issue.&#x20;
 
-Your backup could be more in-depth simulation using Central Valley data and Australia data from the past and from sensors of the performance difference between Central Valley and Australia. 
+Your backup could be more in-depth simulation using Central Valley data and Australia data from the past and from sensors of the performance difference between Central Valley and Australia.&#x20;
 
-How much did the Australia re-characterization actually change our race last year? I thought we still relied much on CEntral Valley data. 
+How much did the Australia re-characterization actually change our race last year? I thought we still relied much on CEntral Valley data.&#x20;
 
 ![](../../../../../assets/image_19a7fc3594.gif)
 
 ![](../../../../../assets/image_1cf1af0dd0.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Jan 25
 
@@ -332,19 +334,14 @@ Jan 26
 
 to me
 
-I don't know differently, I think that is correct from what I recall. 
+I don't know differently, I think that is correct from what I recall.&#x20;
 
-Negotiation is your best bet to get what you want from wsc. You need more than just Michigan. 
+Negotiation is your best bet to get what you want from wsc. You need more than just Michigan.&#x20;
 
-ALTERNATIVELY you could focus on doing less car testing and more system testing, driver training, and design, plus the central valley testing of course. 
+ALTERNATIVELY you could focus on doing less car testing and more system testing, driver training, and design, plus the central valley testing of course.&#x20;
 
-How much did Australia testing change the outcome of the race and our safety record? Training and testing are different in their goals. You could ask the Dutch teams why they don't test as much. I don't think sscp has brought up a conversation lately about the costs of testing and its cons. 
+How much did Australia testing change the outcome of the race and our safety record? Training and testing are different in their goals. You could ask the Dutch teams why they don't test as much. I don't think sscp has brought up a conversation lately about the costs of testing and its cons.&#x20;
 
-[](https://drive.google.com/folderview?id=1QXtXSK5LzaS0icKKxRwuD0q4QebcuKfH)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1QXtXSK5LzaS0icKKxRwuD0q4QebcuKfH#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1QXtXSK5LzaS0icKKxRwuD0q4QebcuKfH#list" frameborder="0"></iframe>
-

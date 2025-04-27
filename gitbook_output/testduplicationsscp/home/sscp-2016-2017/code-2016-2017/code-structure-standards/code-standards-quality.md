@@ -1,35 +1,36 @@
-# SSCP - Code Standards & Quality
+# code-standards-quality
 
-# Code Standards & Quality
+## SSCP - Code Standards & Quality
+
+## Code Standards & Quality
 
 This document outlines SSCP's coding style and practices.
 
 Everything explicitly written on this page should be followed to the letter, unless there is a compelling reason not to. Style consistency across files will make it SO much easier for future members to understand what the code is doing, so please follow these guidelines. For all guidelines not explicitly specified here, default to the Google Style Guide for C/C++ for the formatting of your code.
 
-[ Google Style Guide](https://google.github.io/styleguide/cppguide.html)
+[Google Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 Naming:
 
-* File names should be of the form layer_file_name.h/ceg.  app_driver_controls.c   or    dev_adc.hFunction names should be UpperCamelCaseVariable names should be lower_case_with_underscores
-* File names should be of the form layer_file_name.h/ceg.  app_driver_controls.c   or    dev_adc.h
-* eg.  app_driver_controls.c   or    dev_adc.h
+* File names should be of the form layer\_file\_name.h/ceg.  app\_driver\_controls.c   or    dev\_adc.hFunction names should be UpperCamelCaseVariable names should be lower\_case\_with\_underscores
+* File names should be of the form layer\_file\_name.h/ceg.  app\_driver\_controls.c   or    dev\_adc.h
+* eg.  app\_driver\_controls.c   or    dev\_adc.h
 * Function names should be UpperCamelCase
-* Variable names should be lower_case_with_underscores
-
-* File names should be of the form layer_file_name.h/ceg.  app_driver_controls.c   or    dev_adc.h
-* eg.  app_driver_controls.c   or    dev_adc.h
+* Variable names should be lower\_case\_with\_underscores
+* File names should be of the form layer\_file\_name.h/ceg.  app\_driver\_controls.c   or    dev\_adc.h
+* eg.  app\_driver\_controls.c   or    dev\_adc.h
 * Function names should be UpperCamelCase
-* Variable names should be lower_case_with_underscores
+* Variable names should be lower\_case\_with\_underscores
 
-File names should be of the form layer_file_name.h/c
+File names should be of the form layer\_file\_name.h/c
 
-* eg.  app_driver_controls.c   or    dev_adc.h
+* eg.  app\_driver\_controls.c   or    dev\_adc.h
 
-eg.  app_driver_controls.c   or    dev_adc.h
+eg.  app\_driver\_controls.c   or    dev\_adc.h
 
 Function names should be UpperCamelCase
 
-Variable names should be lower_case_with_underscores
+Variable names should be lower\_case\_with\_underscores
 
 * Variable and function names should be non-ambiguous. Prefer longer names over ambiguous abbreviations.As an example, the variable name min could mean any of the following: minute, minimum, motor identification number, or Minnesota.
 * As an example, the variable name min could mean any of the following: minute, minimum, motor identification number, or Minnesota.
@@ -39,7 +40,6 @@ Variable and function names should be non-ambiguous. Prefer longer names over am
 
 * As an example, the variable name min could mean any of the following: minute, minimum, motor identification number, or Minnesota.
 * As an example, the variable name min could mean any of the following: minute, minimum, motor identification number, or Minnesota.
-
 * As an example, the variable name min could mean any of the following: minute, minimum, motor identification number, or Minnesota.
 
 As an example, the variable name min could mean any of the following: minute, minimum, motor identification number, or Minnesota.
@@ -47,7 +47,6 @@ As an example, the variable name min could mean any of the following: minute, mi
 * The variable name curr could mean electrical current, current time, or black currant jam.So make sure it's clear.
 * The variable name curr could mean electrical current, current time, or black currant jam.
 * So make sure it's clear.
-
 * The variable name curr could mean electrical current, current time, or black currant jam.
 * So make sure it's clear.
 
@@ -79,63 +78,62 @@ Go heavy on the ENUMs and structs to make things more organized and easier to tr
 Variables, Constants, etc.:
 
 * NEVER have magic numbers. At the very least create a #define with a descriptive name and use that. CS classes will probably have taught you this already, but I want to reiterate it again - there will be many other people reading, rewriting, and generally trying to maintain your code. They can't read your mind. Save them some time and don't just plop numbers down, even if you think they're obvious in the moment.
-* We always use the size-specific version of variables:NO char | YES uint8_tNO int   | YES int32_tNO uint | YES uint32_t Obviously we still use floats and doubles. The only exception to all of this is if you actually have an array of letter characters. Then you can use a char array.In order to use these variables in a file, you need to include the following line at the top of the file:  #define <stdint.h>
-* NO char | YES uint8_t
-* NO int   | YES int32_t
-* NO uint | YES uint32_t 
+* We always use the size-specific version of variables:NO char | YES uint8\_tNO int   | YES int32\_tNO uint | YES uint32\_t Obviously we still use floats and doubles. The only exception to all of this is if you actually have an array of letter characters. Then you can use a char array.In order to use these variables in a file, you need to include the following line at the top of the file:  #define \<stdint.h>
+* NO char | YES uint8\_t
+* NO int   | YES int32\_t
+* NO uint | YES uint32\_t&#x20;
 * Obviously we still use floats and doubles. The only exception to all of this is if you actually have an array of letter characters. Then you can use a char array.
-* In order to use these variables in a file, you need to include the following line at the top of the file:  #define <stdint.h>
+* In order to use these variables in a file, you need to include the following line at the top of the file:  #define \<stdint.h>
 
 NEVER have magic numbers. At the very least create a #define with a descriptive name and use that. CS classes will probably have taught you this already, but I want to reiterate it again - there will be many other people reading, rewriting, and generally trying to maintain your code. They can't read your mind. Save them some time and don't just plop numbers down, even if you think they're obvious in the moment.
 
-[magic numbers](https://en.wikipedia.org/wiki/Magic_number_%28programming%29#Unnamed_numerical_constants)
+[magic numbers](https://en.wikipedia.org/wiki/Magic_number_\(programming\)#Unnamed_numerical_constants)
 
 We always use the size-specific version of variables:
 
-* NO char | YES uint8_t
-* NO int   | YES int32_t
-* NO uint | YES uint32_t 
+* NO char | YES uint8\_t
+* NO int   | YES int32\_t
+* NO uint | YES uint32\_t&#x20;
 * Obviously we still use floats and doubles. The only exception to all of this is if you actually have an array of letter characters. Then you can use a char array.
-* In order to use these variables in a file, you need to include the following line at the top of the file:  #define <stdint.h>
+* In order to use these variables in a file, you need to include the following line at the top of the file:  #define \<stdint.h>
 
-NO char | YES uint8_t
+NO char | YES uint8\_t
 
-NO int   | YES int32_t
+NO int   | YES int32\_t
 
-NO uint | YES uint32_t 
+NO uint | YES uint32\_t&#x20;
 
 Obviously we still use floats and doubles. The only exception to all of this is if you actually have an array of letter characters. Then you can use a char array.
 
-In order to use these variables in a file, you need to include the following line at the top of the file:  #define <stdint.h>
+In order to use these variables in a file, you need to include the following line at the top of the file:  #define \<stdint.h>
 
 Maintenance:
 
-* Add  #pragma once  to the top of all of your .h files (to prevent multiple includes)Comment every function. Without exception. Do this in the .h file if there is a function declaration. Commenting when you write the function is much easier than doing it days, weeks, or months later.Comments should read like a sentence. Capitalize the first letter and end with a period.
-* Add  #pragma once  to the top of all of your .h files (to prevent multiple includes)
+* Add  #pragma once  to the top of all of your .h files (to prevent multiple includes)Comment every function. Without exception. Do this in the .h file if there is a function declaration. Commenting when you write the function is much easier than doing it days, weeks, or months later.Comments should read like a sentence. Capitalize the first letter and end with a period.
+* Add  #pragma once  to the top of all of your .h files (to prevent multiple includes)
+* Comment every function. Without exception. Do this in the .h file if there is a function declaration. Commenting when you write the function is much easier than doing it days, weeks, or months later.
+* Comments should read like a sentence. Capitalize the first letter and end with a period.
+* Add  #pragma once  to the top of all of your .h files (to prevent multiple includes)
 * Comment every function. Without exception. Do this in the .h file if there is a function declaration. Commenting when you write the function is much easier than doing it days, weeks, or months later.
 * Comments should read like a sentence. Capitalize the first letter and end with a period.
 
-* Add  #pragma once  to the top of all of your .h files (to prevent multiple includes)
-* Comment every function. Without exception. Do this in the .h file if there is a function declaration. Commenting when you write the function is much easier than doing it days, weeks, or months later.
-* Comments should read like a sentence. Capitalize the first letter and end with a period.
-
-Add  #pragma once  to the top of all of your .h files (to prevent multiple includes)
+Add  #pragma once  to the top of all of your .h files (to prevent multiple includes)
 
 Comment every function. Without exception. Do this in the .h file if there is a function declaration. Commenting when you write the function is much easier than doing it days, weeks, or months later.
 
 Comments should read like a sentence. Capitalize the first letter and end with a period.
 
 * Don't leave commented out code in the final version -- if it's not used, remove it.
-* Create todos in the form TODO(name of person responsible): commenteg.   TODO(brandon): Verify this value with GPS speed.
-* eg.   TODO(brandon): Verify this value with GPS speed.
+* Create todos in the form TODO(name of person responsible): commenteg.   TODO(brandon): Verify this value with GPS speed.
+* eg.   TODO(brandon): Verify this value with GPS speed.
 
 Don't leave commented out code in the final version -- if it's not used, remove it.
 
 Create todos in the form TODO(name of person responsible): comment
 
-* eg.   TODO(brandon): Verify this value with GPS speed.
+* eg.   TODO(brandon): Verify this value with GPS speed.
 
-eg.   TODO(brandon): Verify this value with GPS speed.
+eg.   TODO(brandon): Verify this value with GPS speed.
 
 Other great resources for good coding practices:
 
@@ -153,7 +151,7 @@ How To Write Unmaintainable Code (but seriously, don't follow anything this guid
 
 [How To Write Unmaintainable Code](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 
 Linters:
 
@@ -190,3 +188,4 @@ If file name is app_driverControls.c variables would all be app_driverControls_m
 
 Generally, structs are named like app_driverControls_driveData_S app_driverControls_driveData
 
+```

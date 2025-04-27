@@ -1,14 +1,12 @@
-# SSCP - Sunwhale Steering Rack
+# sunwhale-steering-rack
 
-# Sunwhale Steering Rack
+## SSCP - Sunwhale Steering Rack
 
-[](https://docs.google.com/spreadsheets/d/1JS-Y1xSz4Jp-gZMtfwhbpsJoPe0VX7woKIyGRh12oGM/edit)
+## Sunwhale Steering Rack
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](sunwhale-steering-rack.md)
 
 ![](../../../../../assets/sheets_32dp.png)
 
@@ -41,7 +39,6 @@ Weld-on stubs (Splined Inserts, .120 wall): Part# ST201A -- 3 items
 * Spline diam: 0.75 in (measured 0.748 in)Stub diam: 0.50 in (measured 0.51 in)
 * Spline diam: 0.75 in (measured 0.748 in)
 * Stub diam: 0.50 in (measured 0.51 in)
-
 * Spline diam: 0.75 in (measured 0.748 in)
 * Stub diam: 0.50 in (measured 0.51 in)
 
@@ -54,7 +51,7 @@ How2doubleU:
 1. Support: Unlike regular u-joints, which only need to be secured at the rack and at the steering/driver shaft (NOT the intermediate shaft), DUJTs need to be secured at two points along the intermediate shaft, along with at the rack and steering/driver shaft. This is because DUJTs like to floppy floppy around.Pillow Block BearingsFlange Mounted Bearings
 2. Pillow Block Bearings
 3. Flange Mounted Bearings
-4. Phase: When installing two u-joints, you need to make sure that they are in phase with one another. DUJTs are always manufactured to be in phase, though. (See what "in phase" means -- watch the whole 
+4. Phase: When installing two u-joints, you need to make sure that they are in phase with one another. DUJTs are always manufactured to be in phase, though. (See what "in phase" means -- watch the whole&#x20;
 
 Support: Unlike regular u-joints, which only need to be secured at the rack and at the steering/driver shaft (NOT the intermediate shaft), DUJTs need to be secured at two points along the intermediate shaft, along with at the rack and steering/driver shaft. This is because DUJTs like to floppy floppy around.
 
@@ -65,18 +62,18 @@ Pillow Block Bearings
 
 Flange Mounted Bearings
 
-Phase: When installing two u-joints, you need to make sure that they are in phase with one another. DUJTs are always manufactured to be in phase, though. (See what "in phase" means -- watch the whole 
+Phase: When installing two u-joints, you need to make sure that they are in phase with one another. DUJTs are always manufactured to be in phase, though. (See what "in phase" means -- watch the whole&#x20;
 
-* "Study of double Cardan universal joint" series: https://www.youtube.com/watch?v=gBoJT_Pl-RA)Angles: The "Study of double Cardan universal joint" series also talks about how you can and can't angle a DUJT. The series says for some reason that you can angle a DUJT at 90 degrees, but this is WRONG. DUJTs have a maximum total angle of 70 degrees, at which angle the DUJT will not operate and will intersect with itself. There are TWO angles in a DUJT, since there are three pieces that angle with respect to one another. This equates to two angles of 35 degrees each. Safe operating angles are cited at ~33 degrees each, for a total of ~66 degrees. Our configuration is at 60 degrees per DUJT.
-* "Study of double Cardan universal joint" series: https://www.youtube.com/watch?v=gBoJT_Pl-RA)
-* Angles: The "Study of double Cardan universal joint" series also talks about how you can and can't angle a DUJT. The series says for some reason that you can angle a DUJT at 90 degrees, but this is WRONG. DUJTs have a maximum total angle of 70 degrees, at which angle the DUJT will not operate and will intersect with itself. There are TWO angles in a DUJT, since there are three pieces that angle with respect to one another. This equates to two angles of 35 degrees each. Safe operating angles are cited at ~33 degrees each, for a total of ~66 degrees. Our configuration is at 60 degrees per DUJT.
+* "Study of double Cardan universal joint" series: https://www.youtube.com/watch?v=gBoJT\_Pl-RA)Angles: The "Study of double Cardan universal joint" series also talks about how you can and can't angle a DUJT. The series says for some reason that you can angle a DUJT at 90 degrees, but this is WRONG. DUJTs have a maximum total angle of 70 degrees, at which angle the DUJT will not operate and will intersect with itself. There are TWO angles in a DUJT, since there are three pieces that angle with respect to one another. This equates to two angles of 35 degrees each. Safe operating angles are cited at \~33 degrees each, for a total of \~66 degrees. Our configuration is at 60 degrees per DUJT.
+* "Study of double Cardan universal joint" series: https://www.youtube.com/watch?v=gBoJT\_Pl-RA)
+* Angles: The "Study of double Cardan universal joint" series also talks about how you can and can't angle a DUJT. The series says for some reason that you can angle a DUJT at 90 degrees, but this is WRONG. DUJTs have a maximum total angle of 70 degrees, at which angle the DUJT will not operate and will intersect with itself. There are TWO angles in a DUJT, since there are three pieces that angle with respect to one another. This equates to two angles of 35 degrees each. Safe operating angles are cited at \~33 degrees each, for a total of \~66 degrees. Our configuration is at 60 degrees per DUJT.
 
-1. "Study of double Cardan universal joint" series: https://www.youtube.com/watch?v=gBoJT_Pl-RA)
-2. Angles: The "Study of double Cardan universal joint" series also talks about how you can and can't angle a DUJT. The series says for some reason that you can angle a DUJT at 90 degrees, but this is WRONG. DUJTs have a maximum total angle of 70 degrees, at which angle the DUJT will not operate and will intersect with itself. There are TWO angles in a DUJT, since there are three pieces that angle with respect to one another. This equates to two angles of 35 degrees each. Safe operating angles are cited at ~33 degrees each, for a total of ~66 degrees. Our configuration is at 60 degrees per DUJT.
+1. "Study of double Cardan universal joint" series: https://www.youtube.com/watch?v=gBoJT\_Pl-RA)
+2. Angles: The "Study of double Cardan universal joint" series also talks about how you can and can't angle a DUJT. The series says for some reason that you can angle a DUJT at 90 degrees, but this is WRONG. DUJTs have a maximum total angle of 70 degrees, at which angle the DUJT will not operate and will intersect with itself. There are TWO angles in a DUJT, since there are three pieces that angle with respect to one another. This equates to two angles of 35 degrees each. Safe operating angles are cited at \~33 degrees each, for a total of \~66 degrees. Our configuration is at 60 degrees per DUJT.
 
-"Study of double Cardan universal joint" series: https://www.youtube.com/watch?v=gBoJT_Pl-RA)
+"Study of double Cardan universal joint" series: https://www.youtube.com/watch?v=gBoJT\_Pl-RA)
 
-Angles: The "Study of double Cardan universal joint" series also talks about how you can and can't angle a DUJT. The series says for some reason that you can angle a DUJT at 90 degrees, but this is WRONG. DUJTs have a maximum total angle of 70 degrees, at which angle the DUJT will not operate and will intersect with itself. There are TWO angles in a DUJT, since there are three pieces that angle with respect to one another. This equates to two angles of 35 degrees each. Safe operating angles are cited at ~33 degrees each, for a total of ~66 degrees. Our configuration is at 60 degrees per DUJT.
+Angles: The "Study of double Cardan universal joint" series also talks about how you can and can't angle a DUJT. The series says for some reason that you can angle a DUJT at 90 degrees, but this is WRONG. DUJTs have a maximum total angle of 70 degrees, at which angle the DUJT will not operate and will intersect with itself. There are TWO angles in a DUJT, since there are three pieces that angle with respect to one another. This equates to two angles of 35 degrees each. Safe operating angles are cited at \~33 degrees each, for a total of \~66 degrees. Our configuration is at 60 degrees per DUJT.
 
 How2config:
 
@@ -120,13 +117,13 @@ Formula Seven: http://www.formula-seven.com/shop-products/bevel-gears-steering-s
 
 There aren't many bevel gearboxes available that are made for steering, and much less for our specific application. Just to prove how terrible the other choices are (and that we did do a search), here they are:
 
-TEA: https://www.tea.net.au/ProductCategoryModules/Products.aspx?cid=80&cat=Gears%20&%20Racks
+TEA: https://www.tea.net.au/ProductCategoryModules/Products.aspx?cid=80\&cat=Gears%20&%20Racks
 
 ZF Lenksysteme: http://www.zf-lenksysteme.com/en/products/cv-steering-accessories/bevel-gearboxes.html
 
-HEMA ENDÜSTRI: http://www.hemaendustri.com/ProductDetail.aspx?ID=7&ProductId=42
+HEMA ENDÜSTRI: http://www.hemaendustri.com/ProductDetail.aspx?ID=7\&ProductId=42
 
-SDP: http://www.sdp-si.com/estore/coverpg/right_angle_drives.htm
+SDP: http://www.sdp-si.com/estore/coverpg/right\_angle\_drives.htm
 
 Constant-Velocity Joint: 68 degree rotation
 
@@ -148,11 +145,9 @@ Steering Rack Options
 
 Note that all of the steering racks listed in the following table are used in FSAE.
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](sunwhale-steering-rack.md)
 
 Disclaimer: Susan wrote down things from data sheets and specs that seemed vaguely relevant, so input on what to look for, inquire about, compare, etc. is appreciated.
 
@@ -178,43 +173,43 @@ Front or rear steer (i.e. whether the rack is to be located ahead of or behind t
 
 Update -- Monday, July 21, 2014
 
-* Current ContendersKaz TechnologiesPRO: lightweight, quality steering rack under a name we trust; has easy mounting option; generous rack travel.CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had ~480 degrees of pinion rotation and ~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.Formula SevenPRO: very lightweight, quality steering rack; option of high amount of pinion rotation.CON: Unsure about mounting options.MilteraPRO: ultra lightweight, quality steering rack; mounting option.CON: Similar to the Kaz rack, this is also a race rack and has even lower pinion rotation; this rack is extremely expensive and we may be paying for its unnecessarily light weight (for our application).Woodward FSAEPRO: quality, reliable steering rack used on both Luminos and Xenith; can customize many characteristics, including rack travel, length, and pinion rotation.CON: Heaviest rack of these four (~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
-* Kaz TechnologiesPRO: lightweight, quality steering rack under a name we trust; has easy mounting option; generous rack travel.CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had ~480 degrees of pinion rotation and ~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
+* Current ContendersKaz TechnologiesPRO: lightweight, quality steering rack under a name we trust; has easy mounting option; generous rack travel.CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had \~480 degrees of pinion rotation and \~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.Formula SevenPRO: very lightweight, quality steering rack; option of high amount of pinion rotation.CON: Unsure about mounting options.MilteraPRO: ultra lightweight, quality steering rack; mounting option.CON: Similar to the Kaz rack, this is also a race rack and has even lower pinion rotation; this rack is extremely expensive and we may be paying for its unnecessarily light weight (for our application).Woodward FSAEPRO: quality, reliable steering rack used on both Luminos and Xenith; can customize many characteristics, including rack travel, length, and pinion rotation.CON: Heaviest rack of these four (\~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
+* Kaz TechnologiesPRO: lightweight, quality steering rack under a name we trust; has easy mounting option; generous rack travel.CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had \~480 degrees of pinion rotation and \~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
 * PRO: lightweight, quality steering rack under a name we trust; has easy mounting option; generous rack travel.
-* CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had ~480 degrees of pinion rotation and ~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
+* CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had \~480 degrees of pinion rotation and \~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
 * Formula SevenPRO: very lightweight, quality steering rack; option of high amount of pinion rotation.CON: Unsure about mounting options.
 * PRO: very lightweight, quality steering rack; option of high amount of pinion rotation.
 * CON: Unsure about mounting options.
 * MilteraPRO: ultra lightweight, quality steering rack; mounting option.CON: Similar to the Kaz rack, this is also a race rack and has even lower pinion rotation; this rack is extremely expensive and we may be paying for its unnecessarily light weight (for our application).
 * PRO: ultra lightweight, quality steering rack; mounting option.
 * CON: Similar to the Kaz rack, this is also a race rack and has even lower pinion rotation; this rack is extremely expensive and we may be paying for its unnecessarily light weight (for our application).
-* Woodward FSAEPRO: quality, reliable steering rack used on both Luminos and Xenith; can customize many characteristics, including rack travel, length, and pinion rotation.CON: Heaviest rack of these four (~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
+* Woodward FSAEPRO: quality, reliable steering rack used on both Luminos and Xenith; can customize many characteristics, including rack travel, length, and pinion rotation.CON: Heaviest rack of these four (\~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
 * PRO: quality, reliable steering rack used on both Luminos and Xenith; can customize many characteristics, including rack travel, length, and pinion rotation.
-* CON: Heaviest rack of these four (~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
+* CON: Heaviest rack of these four (\~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
 
 Current Contenders
 
-* Kaz TechnologiesPRO: lightweight, quality steering rack under a name we trust; has easy mounting option; generous rack travel.CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had ~480 degrees of pinion rotation and ~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
+* Kaz TechnologiesPRO: lightweight, quality steering rack under a name we trust; has easy mounting option; generous rack travel.CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had \~480 degrees of pinion rotation and \~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
 * PRO: lightweight, quality steering rack under a name we trust; has easy mounting option; generous rack travel.
-* CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had ~480 degrees of pinion rotation and ~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
+* CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had \~480 degrees of pinion rotation and \~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
 * Formula SevenPRO: very lightweight, quality steering rack; option of high amount of pinion rotation.CON: Unsure about mounting options.
 * PRO: very lightweight, quality steering rack; option of high amount of pinion rotation.
 * CON: Unsure about mounting options.
 * MilteraPRO: ultra lightweight, quality steering rack; mounting option.CON: Similar to the Kaz rack, this is also a race rack and has even lower pinion rotation; this rack is extremely expensive and we may be paying for its unnecessarily light weight (for our application).
 * PRO: ultra lightweight, quality steering rack; mounting option.
 * CON: Similar to the Kaz rack, this is also a race rack and has even lower pinion rotation; this rack is extremely expensive and we may be paying for its unnecessarily light weight (for our application).
-* Woodward FSAEPRO: quality, reliable steering rack used on both Luminos and Xenith; can customize many characteristics, including rack travel, length, and pinion rotation.CON: Heaviest rack of these four (~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
+* Woodward FSAEPRO: quality, reliable steering rack used on both Luminos and Xenith; can customize many characteristics, including rack travel, length, and pinion rotation.CON: Heaviest rack of these four (\~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
 * PRO: quality, reliable steering rack used on both Luminos and Xenith; can customize many characteristics, including rack travel, length, and pinion rotation.
-* CON: Heaviest rack of these four (~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
+* CON: Heaviest rack of these four (\~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
 
 Kaz Technologies
 
 * PRO: lightweight, quality steering rack under a name we trust; has easy mounting option; generous rack travel.
-* CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had ~480 degrees of pinion rotation and ~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
+* CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had \~480 degrees of pinion rotation and \~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
 
 PRO: lightweight, quality steering rack under a name we trust; has easy mounting option; generous rack travel.
 
-CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had ~480 degrees of pinion rotation and ~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
+CON: This is a race rack and is built to be jumpy - keeping in mind that Luminos' Woodward rack had \~480 degrees of pinion rotation and \~2.5 inches of rack travel, the Kaz rack has only 246 degrees of pinion rotation with 3.25 inches of rack travel. This means that, for a certain amount of steering wheel rotation, the amount of travel will increase significantly, decreasing the amount of fine control the driver will have on the car.
 
 Formula Seven
 
@@ -237,17 +232,17 @@ CON: Similar to the Kaz rack, this is also a race rack and has even lower pinion
 Woodward FSAE
 
 * PRO: quality, reliable steering rack used on both Luminos and Xenith; can customize many characteristics, including rack travel, length, and pinion rotation.
-* CON: Heaviest rack of these four (~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
+* CON: Heaviest rack of these four (\~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
 
 PRO: quality, reliable steering rack used on both Luminos and Xenith; can customize many characteristics, including rack travel, length, and pinion rotation.
 
-CON: Heaviest rack of these four (~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
+CON: Heaviest rack of these four (\~5-6 lbs); may be overkill if we go with a leading arm suspension design instead of the classic A arm design (see explanation below).
 
 ![](../../../../../assets/image_2375404de2.jpg)
 
 Visual Representation of Pinion Rotation
 
-Left to Right: Kaz (246), F7 (324), F7 (406), Miltera (210), Woodward FSAE - Luminos (~480)
+Left to Right: Kaz (246), F7 (324), F7 (406), Miltera (210), Woodward FSAE - Luminos (\~480)
 
 Suspension: Leading arm vs. A arm design
 
@@ -255,17 +250,12 @@ The choice of steering rack is likely dependent on whether a leading arm or A ar
 
 If you look at the inside of Apogee, you'll notice that the steering rack and linear bearings are separate. (The rack used was a Desert Karts rack.) The linear bearings are attached to the carbon, which is not optimal - there are tolerance stack-up problems, and it's probably heavier than the integrated design. Since you have three points (the two ends and the gear) trying to constrain the shaft, then the assembly is hyperstatic (not desirable).
 
-If we end up with a traditional car, we need the points on the end to take the suspension forces, so the integrated Woodward style rack makes sense. But if we end up with a leading arm design, then there might be a more complicated linkage that wouldn't need the end supports.*
+If we end up with a traditional car, we need the points on the end to take the suspension forces, so the integrated Woodward style rack makes sense. But if we end up with a leading arm design, then there might be a more complicated linkage that wouldn't need the end supports.\*
 
-*See Nuon's suspension for an example design.
+\*See Nuon's suspension for an example design.
 
 ![](../../../../../assets/image_0b69b34ff6.png)
 
-[](https://drive.google.com/folderview?id=1bFO6DFA_MZvMxQgify3-ghj6ICncefRJ)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1bFO6DFA_MZvMxQgify3-ghj6ICncefRJ#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1bFO6DFA_MZvMxQgify3-ghj6ICncefRJ#list" frameborder="0"></iframe>
-

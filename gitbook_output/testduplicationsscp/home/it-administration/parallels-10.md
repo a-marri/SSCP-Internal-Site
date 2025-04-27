@@ -1,10 +1,12 @@
-# SSCP - Parallels 10
+# parallels-10
 
-# Parallels 10
+## SSCP - Parallels 10
+
+## Parallels 10
 
 Parallels Desktop for Mac by Parallels, Inc., is software providing hardware virtualization for Macintosh computers with Intel processors.
 
-We have ten licenses available. 
+We have ten licenses available.&#x20;
 
 http://www.parallels.com/products/desktop/
 
@@ -27,4 +29,3 @@ JWXF5C-4JA8S9-2GDT8A-PQA3JA-YCBXCT
 J51WBG-N7M632-10E3E1-10M0VC-APN4Q0
 
 JD9ZJW-YBBGZA-Z0EK9F-RMV7DW-QB2TZR
-

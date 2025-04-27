@@ -1,6 +1,8 @@
-# SSCP - Can UDP Format
+# can-udp-format
 
-# Can UDP Format
+## SSCP - Can UDP Format
+
+## Can UDP Format
 
 27byte packet
 
@@ -16,5 +18,4 @@ rtr:1
 
 datalen:1
 
-data:8 
-
+data:8&#x20;

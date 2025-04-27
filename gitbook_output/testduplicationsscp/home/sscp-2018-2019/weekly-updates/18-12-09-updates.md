@@ -1,6 +1,8 @@
-# SSCP - 18-12-09 Updates
+# 18-12-09-updates
 
-# 18-12-09 Updates
+## SSCP - 18-12-09 Updates
+
+## 18-12-09 Updates
 
 Aero
 
@@ -46,19 +48,18 @@ Mechanical + Composites
 
 Key Points:
 
-* Run the steering sym to verify we will pass figure 8 testProtoyped Steered FairingsGot new BrakesAero needs to check in about bubbleSet up Google File Stream for CAD SEE SARAH AND KENYON FOR RULES
+* Run the steering sym to verify we will pass figure 8 testProtoyped Steered FairingsGot new BrakesAero needs to check in about bubbleSet up Google File Stream for CAD SEE SARAH AND KENYON FOR RULES
 * Run the steering sym to verify we will pass figure 8 test
 * Protoyped Steered Fairings
 * Got new Brakes
 * Aero needs to check in about bubble
-* Set up Google File Stream for CAD 
+* Set up Google File Stream for CAD&#x20;
 * SEE SARAH AND KENYON FOR RULES
-
 * Run the steering sym to verify we will pass figure 8 test
 * Protoyped Steered Fairings
 * Got new Brakes
 * Aero needs to check in about bubble
-* Set up Google File Stream for CAD 
+* Set up Google File Stream for CAD&#x20;
 * SEE SARAH AND KENYON FOR RULES
 
 Run the steering sym to verify we will pass figure 8 test
@@ -69,7 +70,7 @@ Got new Brakes
 
 Aero needs to check in about bubble
 
-Set up Google File Stream for CAD 
+Set up Google File Stream for CAD&#x20;
 
 SEE SARAH AND KENYON FOR RULES
 
@@ -77,5 +78,4 @@ Wins:
 
 Losses:
 
-----------------------------------
-
+***

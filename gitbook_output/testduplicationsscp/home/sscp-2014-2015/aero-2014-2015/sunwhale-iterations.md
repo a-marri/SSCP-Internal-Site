@@ -1,6 +1,8 @@
-# SSCP - Sunwhale Iterations
+# sunwhale-iterations
 
-# Sunwhale Iterations
+## SSCP - Sunwhale Iterations
+
+## Sunwhale Iterations
 
 This page is used for tracking Sunbad designs and results. Each record on this page should note the following:
 
@@ -9,7 +11,6 @@ This page is used for tracking Sunbad designs and results. Each record on this p
 * Location of CAD files, meshes
 * CFD result locations
 * CFD summarized results AND software used for calculating them.
-
 * Unique name
 * Location of CAD files, meshes
 * CFD result locations
@@ -31,11 +32,11 @@ Based on Sunwhale 40: "47 manually addresses the issues that you had mentioned a
 
 Results:
 
-        Lift = 32.75
+&#x20;       Lift = 32.75
 
-        Drag = 36.1
+&#x20;       Drag = 36.1
 
-        Side Force = ??
+&#x20;       Side Force = ??
 
 Sunwhale-046
 
@@ -45,25 +46,25 @@ Based on Sunwhale 40: "46 has about half the maximum Z deflection as 45 but it p
 
 Results:
 
-        Lift = 36.6
+&#x20;       Lift = 36.6
 
-        Drag = 35.8
+&#x20;       Drag = 35.8
 
-        Side Force = ??
+&#x20;       Side Force = ??
 
 Sunwhale-045
 
-Based on Sunwhale 40: "Here are the problems we think we fixed: The blue guidelines show the kinks in the deformation cross sections that were causing lumps in the CAD. We deleted the surface near the kink and re patched it with a more curvature happy surface." 
+Based on Sunwhale 40: "Here are the problems we think we fixed: The blue guidelines show the kinks in the deformation cross sections that were causing lumps in the CAD. We deleted the surface near the kink and re patched it with a more curvature happy surface."&#x20;
 
 "Sunwhale-045 was created to smooth out the kinks at the edges of the deformation box on the underbelly. These kinks exist in the cross sections exported from adjoint small deformation 040, but we knew that they are not optimal so Anna did a nice smoothing out of the junctions at the edges of the deformation box. Sunwhale 045 resulted in 35.6N drag and 41.5N lift"
 
 Results:
 
-        Lift = 41.5
+&#x20;       Lift = 41.5
 
-        Drag = 35.6
+&#x20;       Drag = 35.6
 
-        Side Force = ??
+&#x20;       Side Force = ??
 
 ![](../../../../assets/image_a1fd9fa72f.png)
 
@@ -73,7 +74,7 @@ Results:
 
 Sunwhale-044
 
-Based on Sunwhale 40: "The deformations basically exactly match the CAD thanks to the exported curves from Tom, so this is as good as we can get for matching mesh deformation to CAD. The match is really good so any differences in drag that we get now between the mesh deformation and this next meshed sunwhale 44 would be unexplained." 
+Based on Sunwhale 40: "The deformations basically exactly match the CAD thanks to the exported curves from Tom, so this is as good as we can get for matching mesh deformation to CAD. The match is really good so any differences in drag that we get now between the mesh deformation and this next meshed sunwhale 44 would be unexplained."&#x20;
 
 "044 seems to be converging now after some tweaks to the config file. However, I had to turn the CFL number down, so it’s going to take extra time to converge. I just stopped it at 3k iterations and restarted it for an extra 7k (I think 10k total should be enough)."
 
@@ -83,7 +84,7 @@ Lift = 40N lift (with Tom's revised mesh)
 
 Drag = 35.85N
 
-          Side Force = ??
+&#x20;         Side Force = ??
 
 ![](../../../../assets/image_439892bc75.png)
 
@@ -93,7 +94,7 @@ Drag = 35.85N
 
 Sunwhale-043
 
-Based on Sunwhale 40: 
+Based on Sunwhale 40:&#x20;
 
 Results:
 
@@ -101,11 +102,11 @@ Lift = 40.47 N
 
 Drag = 35.76 N
 
-          Side Force = ??
+&#x20;         Side Force = ??
 
 Sunwhale-042
 
-Based on Sunwhale 40: 
+Based on Sunwhale 40:&#x20;
 
 Results:
 
@@ -113,7 +114,7 @@ Lift = 49N
 
 Drag = 35.9 N
 
-          Side Force = ??
+&#x20;         Side Force = ??
 
 Sunwhale-041
 
@@ -121,11 +122,9 @@ Based on Sunwhale 40: Revision of Sunwhale-038, with flat underbelly again so th
 
 Surfacing improvements:
 
-- constant radius fillet along bottom of fairing (2cm). Still couldn't get variable radius to work, but this time whole fairing bottom has fillet, unlike previous cars. Front of fairing still has rounded nose, same as before.
-
-- kept the swept up rear fairing bottom (1.5" clearance) described on Sunwhale-038
-
-- continued curvature improvements to fairings, esp. at front
+* constant radius fillet along bottom of fairing (2cm). Still couldn't get variable radius to work, but this time whole fairing bottom has fillet, unlike previous cars. Front of fairing still has rounded nose, same as before.
+* kept the swept up rear fairing bottom (1.5" clearance) described on Sunwhale-038
+* continued curvature improvements to fairings, esp. at front
 
 Results:
 
@@ -141,11 +140,9 @@ Revision of Sunwhale-038, with flat underbelly again so that we can compute mesh
 
 Surfacing improvements:
 
-- constant radius fillet along bottom of fairing (2cm). Still couldn't get variable radius to work, but this time whole fairing bottom has fillet, unlike previous cars. Front of fairing still has rounded nose, same as before.
-
-- kept the swept up rear fairing bottom (1.5" clearance) described on Sunwhale-038
-
-- continued curvature improvements to fairings, esp. at front
+* constant radius fillet along bottom of fairing (2cm). Still couldn't get variable radius to work, but this time whole fairing bottom has fillet, unlike previous cars. Front of fairing still has rounded nose, same as before.
+* kept the swept up rear fairing bottom (1.5" clearance) described on Sunwhale-038
+* continued curvature improvements to fairings, esp. at front
 
 Results:
 
@@ -161,9 +158,8 @@ Revision of Sunwhale-037, removing the swept bottom cut at the front of the fair
 
 Additional surfacing improvements (same on -038):
 
-- improved curvature on some of the rear fairing outside surfaces (seems to have successfully addressed what appeared in CFD there on Sunwhale-036)
-
-- improved curvature on rear the rear triangular last section of bubble
+* improved curvature on some of the rear fairing outside surfaces (seems to have successfully addressed what appeared in CFD there on Sunwhale-036)
+* improved curvature on rear the rear triangular last section of bubble
 
 Results:
 
@@ -183,9 +179,8 @@ Swept bottom cut remains at rear of fairing, with bottom trailing edge 1.5" high
 
 Additional surfacing improvements (same on -039):
 
-- improved curvature on some of the rear fairing outside surfaces (seems to have successfully addressed what appeared in CFD there on Sunwhale-036)
-
-- improved curvature on rear the rear triangular last section of bubble
+* improved curvature on some of the rear fairing outside surfaces (seems to have successfully addressed what appeared in CFD there on Sunwhale-036)
+* improved curvature on rear the rear triangular last section of bubble
 
 Results:
 
@@ -201,23 +196,19 @@ Applied the deformation from Sunwhale-034 to this model (knowing that this would
 
 Fixes:
 
-- sanity check fairing-to-body tangency at rear (manufacturing concern. seems okay.)
-
-- fillet on bubble
-
-- fix rear edge of bubble (see first image. not 100% perfect curvature but much better than   before)
-
-- surface for cutting bottom of fairing, anti-beaching issue (see second image. orange line     is previous fairing flat bottom)
+* sanity check fairing-to-body tangency at rear (manufacturing concern. seems okay.)
+* fillet on bubble
+* fix rear edge of bubble (see first image. not 100% perfect curvature but much better than   before)
+* surface for cutting bottom of fairing, anti-beaching issue (see second image. orange line     is previous fairing flat bottom)
 
 Not addressed:
 
-- folds on front of fairing (see third image)
+* folds on front of fairing (see third image)
+* bottom of
 
-- bottom of
+fairing fillet (variable radius fillet wouldn't work in SolidWorks. NHS tried this in   NX and couldn't get it either. He says he can play around with that tool more in coming     days.)
 
-fairing fillet (variable radius fillet wouldn't work in SolidWorks. NHS tried this in   NX and couldn't get it either. He says he can play around with that tool more in coming     days.)
-
-- barely imperceptible lump in front nose surface (trivial)
+* barely imperceptible lump in front nose surface (trivial)
 
 At final aero design review, the "beaching" whale issue was brought up (fairings bottoming out on bumps, getting car stuck). Added a swept bottom cut to the fairings.
 
@@ -275,9 +266,8 @@ Sideforce: -3.12 N
 
 Main foil: NACA66A-407 (thickness 7.8, camber 4.0)
 
-- Revision of 31/32 to get closer to 0 lift; err on the side of still having downforce since this can be tuned out via mesh deformation in SU2
-
-- Thinnest mainfoil that still accommodates suspension to reduce car profile / frontal area
+* Revision of 31/32 to get closer to 0 lift; err on the side of still having downforce since this can be tuned out via mesh deformation in SU2
+* Thinnest mainfoil that still accommodates suspension to reduce car profile / frontal area
 
 ![](../../../../assets/image_e6cf622804.png)
 
@@ -289,7 +279,7 @@ Sunwhale-032
 
 Main foil: NACA66A-508 (thickness 8.0, camber 5.5)
 
-- Revision of Sunwhale-031 with more camber to counter the downforce seen on Sunwhale-031 (following ride height correction)
+* Revision of Sunwhale-031 with more camber to counter the downforce seen on Sunwhale-031 (following ride height correction)
 
 Drag: 41.76 N
 
@@ -303,9 +293,8 @@ Sunwhale-031
 
 Main foil: NACA66A-308 (thickness 8.5, camber 3.5)
 
-- moved forward with -030 style design: suspension accommodated via thicker mainfoil
-
-- same bubble style as -029
+* moved forward with -030 style design: suspension accommodated via thicker mainfoil
+* same bubble style as -029
 
 Drag: 37.58
 
@@ -335,7 +324,7 @@ sunwhale-031-sidewind1
 
 Velocity (m/s):
 
-Vx = 24.59 Vy = 3.00 Vz = 0.00 
+Vx = 24.59 Vy = 3.00 Vz = 0.00&#x20;
 
 Force in the X direction (Drag) 35.6037 N
 
@@ -452,7 +441,6 @@ Changes from action item list:
 * More junction between fairing & mainfoil on outside rear of fairings (as desired by sensitivity plots)
 * Sharp fairing trailing edges
 * Same bubble style as Sunwhale-029
-
 * Decambered mainfoil, down to a NACA 66A 308 (camber 3.5 instead of previous 4.0)
 * More junction between fairing & mainfoil on outside rear of fairings (as desired by sensitivity plots)
 * Sharp fairing trailing edges
@@ -468,18 +456,17 @@ Same bubble style as Sunwhale-029
 
 Additional changes:
 
-* New fairing profiles: NACA 07 314 (instead of previous 07 316)along with cleaner sketches. NACA profile not trimmed until maximum thickness; this is the best I could come up with for addressing Action Item #5 (remove kinks between fairing NACA profile & spline). We'll see how this turns out.Sharper mainfoil front corners; defined via spline (instead of previous tangent radius)Mainfoil profile exported with 500-something points; airfoil at leading edge of car better defined by manually adding points to spline. [Did this on Sunwhale-030 as well, to address Cp plot issue.]Origin in SolidWorks is actually the 100% legit frontmost point of the airfoil. 4 u darrenFit with suspension-v8 from PDM
+* New fairing profiles: NACA 07 314 (instead of previous 07 316)along with cleaner sketches. NACA profile not trimmed until maximum thickness; this is the best I could come up with for addressing Action Item #5 (remove kinks between fairing NACA profile & spline). We'll see how this turns out.Sharper mainfoil front corners; defined via spline (instead of previous tangent radius)Mainfoil profile exported with 500-something points; airfoil at leading edge of car better defined by manually adding points to spline. \[Did this on Sunwhale-030 as well, to address Cp plot issue.]Origin in SolidWorks is actually the 100% legit frontmost point of the airfoil. 4 u darrenFit with suspension-v8 from PDM
 * New fairing profiles: NACA 07 314 (instead of previous 07 316)
 * along with cleaner sketches. NACA profile not trimmed until maximum thickness; this is the best I could come up with for addressing Action Item #5 (remove kinks between fairing NACA profile & spline). We'll see how this turns out.
 * Sharper mainfoil front corners; defined via spline (instead of previous tangent radius)
-* Mainfoil profile exported with 500-something points; airfoil at leading edge of car better defined by manually adding points to spline. [Did this on Sunwhale-030 as well, to address Cp plot issue.]
+* Mainfoil profile exported with 500-something points; airfoil at leading edge of car better defined by manually adding points to spline. \[Did this on Sunwhale-030 as well, to address Cp plot issue.]
 * Origin in SolidWorks is actually the 100% legit frontmost point of the airfoil. 4 u darren
 * Fit with suspension-v8 from PDM
-
 * New fairing profiles: NACA 07 314 (instead of previous 07 316)
 * along with cleaner sketches. NACA profile not trimmed until maximum thickness; this is the best I could come up with for addressing Action Item #5 (remove kinks between fairing NACA profile & spline). We'll see how this turns out.
 * Sharper mainfoil front corners; defined via spline (instead of previous tangent radius)
-* Mainfoil profile exported with 500-something points; airfoil at leading edge of car better defined by manually adding points to spline. [Did this on Sunwhale-030 as well, to address Cp plot issue.]
+* Mainfoil profile exported with 500-something points; airfoil at leading edge of car better defined by manually adding points to spline. \[Did this on Sunwhale-030 as well, to address Cp plot issue.]
 * Origin in SolidWorks is actually the 100% legit frontmost point of the airfoil. 4 u darren
 * Fit with suspension-v8 from PDM
 
@@ -489,7 +476,7 @@ along with cleaner sketches. NACA profile not trimmed until maximum thickness; t
 
 Sharper mainfoil front corners; defined via spline (instead of previous tangent radius)
 
-Mainfoil profile exported with 500-something points; airfoil at leading edge of car better defined by manually adding points to spline. [Did this on Sunwhale-030 as well, to address Cp plot issue.]
+Mainfoil profile exported with 500-something points; airfoil at leading edge of car better defined by manually adding points to spline. \[Did this on Sunwhale-030 as well, to address Cp plot issue.]
 
 Origin in SolidWorks is actually the 100% legit frontmost point of the airfoil. 4 u darren
 
@@ -503,7 +490,7 @@ Good fillet along majority of fairing bottom edge. Front is filleted; fairings w
 
 Sunwhale-030
 
-SU2 Force (6cm ride height, but lift value was still changing *slightly* after 10k iterations):
+SU2 Force (6cm ride height, but lift value was still changing _slightly_ after 10k iterations):
 
 Drag: 39.23 N
 
@@ -523,11 +510,10 @@ In Fluent (wrong ride height):
 
 +48.85 N lift (yes, positive lift)
 
-Main foil: NACA66A-408 (with thickness 8.5) 
+Main foil: NACA66A-408 (with thickness 8.5)&#x20;
 
-- suspension (v6) accommodated via thicker mainfoil
-
-- hack bubble stolen from -028
+* suspension (v6) accommodated via thicker mainfoil
+* hack bubble stolen from -028
 
 Sunwhale-029
 
@@ -547,9 +533,8 @@ Drag: 37.4N
 
 Main foil: NACA66A-306 (with thickness 6.5)
 
-- suspension (v6) accommodated via fillet to mainfoil
-
-- "good" bubble
+* suspension (v6) accommodated via fillet to mainfoil
+* "good" bubble
 
 ALL SUNWHALE ITERATIONS BELOW HERE WERE RUN AT NON-6CM RIDE HEIGHT. Luminos is correct.
 
@@ -557,29 +542,27 @@ Drag may be off by a Newton or two; lift is probably way off.
 
 Sunwhale-028
 
-Force in the X direction (Drag) 34.6164 N 
+Force in the X direction (Drag) 34.6164 N&#x20;
 
-Force in the Y direction (SideForce) -1.0116 N 
+Force in the Y direction (SideForce) -1.0116 N&#x20;
 
-Force in the Z direction (Lift) -41.4157 N 
+Force in the Z direction (Lift) -41.4157 N&#x20;
 
-CG Location (1.0000,1.0000,1.0000) m 
+CG Location (1.0000,1.0000,1.0000) m&#x20;
 
-Mx is 41.2706 Nm 
+Mx is 41.2706 Nm&#x20;
 
-My is -32.8151 Nm 
+My is -32.8151 Nm&#x20;
 
-Mz is 31.9117 Nm 
+Mz is 31.9117 Nm&#x20;
 
-- rounder fairing bottom front edge
+* rounder fairing bottom front edge
+* slightly improved fillet to main foil owing thanks to more clearance with hardpoints
+* new bubble with:
 
-- slightly improved fillet to main foil owing thanks to more clearance with hardpoints
+&#x20;    \- eliminated bubble shelf/shoulder with main foil
 
-- new bubble with:
-
-     - eliminated bubble shelf/shoulder with main foil
-
-     - bubble has roll cage in it, although roll cage in current config won't work with regs
+&#x20;    \- bubble has roll cage in it, although roll cage in current config won't work with regs
 
 Sunwhale-027
 
@@ -595,27 +578,27 @@ Comments from Carsten (VW):
 
 Hi Max,
 
- 
+&#x20;
 
 Carsten has asked me to comment on the CFD results for your current vehicle geometry, which btw. looks very efficient and professional: Congratulations.
 
- 
+&#x20;
 
 Because of the emitter positions of the streamlines there is no clear indication of longitudinal vortices at the “wing tips” at the rear of the airfoil / main body (I don’t know what you call the horizontal airfoil-shaped part of the vehicle), but from the pressure and friction plots I suspect that there is some flow around the “wing tips” downstream of the wheel fairings. I’d suggest trying to either suppress this flow by adding winglets to the rear part of the airfoil or by changing the airfoil in such a way as to reduce the pressure gradient between the upper and lower surfaces.
 
- 
+&#x20;
 
 Carsten has already mentioned the driver’s canopy. I think that the geometry does not sufficiently reflect the asymmetry of the configuration. I assume that there are visibility issues at the front of the canopy, but maybe you can try to model the shape of the rear closer to what the streamlines suggest. Besides, the canopy is not really a slender body … increasing its length and thereby reducing taper angle might reduce the drag, however it would also reduce solar array area. But maybe you just give it a try and then calculate the tradeoff between drag improvement and electrical power output decrease. In any case I’d suggest tapering the canopy not only laterally but also vertically in order to reduce the “tail fin” of the canopy.
 
- 
+&#x20;
 
 I am unsure about how to interpret the friction and pressure plots for the lower part of the airfoil downstream of the wheel fairings: Do you have attached flow in this area? If there is separation there, I’d pay closer attention to this issue.
 
- 
+&#x20;
 
 Best regards
 
- 
+&#x20;
 
 Carsten
 
@@ -811,7 +794,7 @@ Location: sftp://cars/sunwhale/aero/Sunwhale-017
 
 Using Sunwhale-016 CAD, increasing size of dimple under the car to attempt to reduce the downforce we see.
 
-Drag: 
+Drag:&#x20;
 
 Lift:
 
@@ -893,7 +876,7 @@ Sunwhale-015
 
 Location: sftp://cars/sunwhale/aero/Sunwhale-015
 
-Max's first attempt at a car. The only foil change from 014 to 015 is the fairing: I reverted back to a NACA 16 411. 
+Max's first attempt at a car. The only foil change from 014 to 015 is the fairing: I reverted back to a NACA 16 411.&#x20;
 
 I defined the surfaces differently, especially the guide curves for the main foil. I noticed that our current technique for surfacing bubbles is not acceptable because it does not follow Dir1 curves. We may need to build them more like we build the fairings.
 
@@ -905,43 +888,40 @@ Location: sftp://cars/sunwhale/aero/sunwhale-014
 
 Design notes:
 
-- Reverted back to the NACA 65A mainfoil that was used in Sunwhale-012 and earlier (2.5 camber, thickness 6)
+* Reverted back to the NACA 65A mainfoil that was used in Sunwhale-012 and earlier (2.5 camber, thickness 6)
 
 The increase in camber should help with some of the downforce seen in Sunwhale-013
 
-- Still using the same suspension model as 10/11/12/13
-
-- Using the same driver model as 13 (Aug 28 version -- wider hip width and 29" butt-to-eye)
+* Still using the same suspension model as 10/11/12/13
+* Using the same driver model as 13 (Aug 28 version -- wider hip width and 29" butt-to-eye)
 
 Surfacing:
 
-- Leading edge surface is fixed using technique demonstrated by NHS
-
-- Fairing blend is even wider, more taper at front of fairing foils, and better blend to side of car. Still not perfect, but definitely an improvement on 13
+* Leading edge surface is fixed using technique demonstrated by NHS
+* Fairing blend is even wider, more taper at front of fairing foils, and better blend to side of car. Still not perfect, but definitely an improvement on 13
 
 Bubble:
 
-- Same construction as 13 (will be properly addressed and improved in future models)
+* Same construction as 13 (will be properly addressed and improved in future models)
 
 Fairings:
 
-- Same fairings at Sunwhale-013. Probably not cambered enough to counteract the downforce seen in 13, but with better blending into mainfoil. This is probably what we'll want to adjust in the next iteration; however, changing mostly the mainfoil without altering fairing camber between 13 & 14 allows us to see more clearly what the affect of that is.
+* Same fairings at Sunwhale-013. Probably not cambered enough to counteract the downforce seen in 13, but with better blending into mainfoil. This is probably what we'll want to adjust in the next iteration; however, changing mostly the mainfoil without altering fairing camber between 13 & 14 allows us to see more clearly what the affect of that is.
+* Airfoils referenced:&#x20;
 
-- Airfoils referenced: 
+&#x20; Canopy outline NACA 64A 022 (40% thickness instead of prev. 50%, thickness +2)
 
-  Canopy outline NACA 64A 022 (40% thickness instead of prev. 50%, thickness +2)
+&#x20; Mainfoil NACA 65A 206 (thickness 6, CL 0.25)
 
-  Mainfoil NACA 65A 206 (thickness 6, CL 0.25)
-
-  Fairings NACA 16 216 (less camber, more thickness)
+&#x20; Fairings NACA 16 216 (less camber, more thickness)
 
 Results
 
 Fluent
 
-Drag: 33.594041 
+Drag: 33.594041&#x20;
 
-Sideforce: 3.6714592 
+Sideforce: 3.6714592&#x20;
 
 Lift: -41.858841
 
@@ -949,7 +929,7 @@ SU2
 
 Drag: 34.483 N
 
-Lift: -38.2765 N 
+Lift: -38.2765 N&#x20;
 
 Tecplot Visualization
 
@@ -961,9 +941,9 @@ Tecplot Visualization
 
 Sidewind Runs
 
-This model was run in SU2 as an external flow-style problem (changing the walls and outlet to type MARKER_FAR, and adding a y velocity to the inlet boundary condition.
+This model was run in SU2 as an external flow-style problem (changing the walls and outlet to type MARKER\_FAR, and adding a y velocity to the inlet boundary condition.
 
-** For the results with 10 and -10 m/s I think there is something wrong with the post processing and I will be giving it a more detailed look once I get back. att. David ***
+\*\* For the results with 10 and -10 m/s I think there is something wrong with the post processing and I will be giving it a more detailed look once I get back. att. David \*\*\*
 
 "sunwhale-014-wind0"
 
@@ -1103,35 +1083,29 @@ Sunwhale-013.IGS is the IGS'd version of shellonly
 
 Sunwhale-013.SLDPRT is what's referenced in the full assembly, complete w/ driver model
 
-Sunwhale-013-fullassembly is the full assembly (surprise surprise) w/ driver model and suspension geometries 
+Sunwhale-013-fullassembly is the full assembly (surprise surprise) w/ driver model and suspension geometries&#x20;
 
 ^ These are both on PDM as well as FTP
 
 Design notes:
 
-- NACA66A main foil (moving thickness back to 60%), to make more room for suspension
+* NACA66A main foil (moving thickness back to 60%), to make more room for suspension
+* Still using the same suspension model as in 10/11/12
+* Using new driver model with set hip width (slightly wider than before) and 29" butt-to-eye height (as measured on Anna, slightly taller than before).&#x20;
+* The idea with this one was to do a better blend of fairings to main body, using the Luminos fairing blend techniques that Greg helped enlighten in on Saturday. Debatable success. More swoop but also more surface derp. Changed fairing foil to a less cambered version, leaving more room for wheel volume at lock in front. Also spliced foils to construct the horizontal cross sections (left front & rear intact, but added curvature continuous spline in middle to extend foil to needed length).
+* Leading edge has some strangeness. NHS imparted some surfacing-singularities-and-car-noses knowledge on Saturday that we will be incorporating in future models.
+* Bubble is same construction as 11/12, but with a larger top down cutout and less height. This was to make curvature more gradual, as we saw likely separation on the previous one. Again, this will be properly addressed and improved in future models.
+* Airfoils referenced:&#x20;
 
-- Still using the same suspension model as in 10/11/12
+&#x20; Canopy outline NACA 64A 022 (40% thickness instead of prev. 50%, thickness +2)
 
-- Using new driver model with set hip width (slightly wider than before) and 29" butt-to-eye height (as measured on Anna, slightly taller than before). 
+&#x20; Mainfoil NACA 66A 206 (thickness 6.5, CL 0.2)
 
-- The idea with this one was to do a better blend of fairings to main body, using the Luminos fairing blend techniques that Greg helped enlighten in on Saturday. Debatable success. More swoop but also more surface derp. Changed fairing foil to a less cambered version, leaving more room for wheel volume at lock in front. Also spliced foils to construct the horizontal cross sections (left front & rear intact, but added curvature continuous spline in middle to extend foil to needed length).
-
-- Leading edge has some strangeness. NHS imparted some surfacing-singularities-and-car-noses knowledge on Saturday that we will be incorporating in future models.
-
-- Bubble is same construction as 11/12, but with a larger top down cutout and less height. This was to make curvature more gradual, as we saw likely separation on the previous one. Again, this will be properly addressed and improved in future models.
-
-- Airfoils referenced: 
-
-  Canopy outline NACA 64A 022 (40% thickness instead of prev. 50%, thickness +2)
-
-  Mainfoil NACA 66A 206 (thickness 6.5, CL 0.2)
-
-  Fairings NACA 16 216 (less camber, more thickness)
+&#x20; Fairings NACA 16 216 (less camber, more thickness)
 
 Results:
 
-SU2 (run by Dr. Tom) 
+SU2 (run by Dr. Tom)&#x20;
 
 Fluent (run by Max - ground and walls as symmetry planes. SST turbulence)
 
@@ -1149,9 +1123,8 @@ Sideforce = 3.06 N
 
 DOWNFORCE: Neat! Aside from some of the surfacing imperfections, there are two notable changes from Sunwhale-012 that could explain the downforce --
 
-- To counter the positive lift we saw on 012, I reduced the camber of the mainfoil from 0.25 to 0.2, in addition to moving the thickness back to 60% for suspension room (now a NACA 66A, previously a NACA 65A).
-
-- In reshaping the fairings, I selected a new profile using a NACA 16 216, reducing the fairing camber and increasing thickness (previously a NACA 16 411). This was both for a better fairing-to-body blend as well as to accommodate wheel volumes within a reasonable length. 
+* To counter the positive lift we saw on 012, I reduced the camber of the mainfoil from 0.25 to 0.2, in addition to moving the thickness back to 60% for suspension room (now a NACA 66A, previously a NACA 65A).
+* In reshaping the fairings, I selected a new profile using a NACA 16 216, reducing the fairing camber and increasing thickness (previously a NACA 16 411). This was both for a better fairing-to-body blend as well as to accommodate wheel volumes within a reasonable length.&#x20;
 
 Sunwhale-012
 
@@ -1165,9 +1138,9 @@ Lift = 6.8 N
 
 Side force = 3.2 N
 
-Design notes: 
+Design notes:&#x20;
 
-- Same as Sunwhale-011, but with less junction between the fairing side / outside of car. Fairings in the same location, but junction with body of car moved out. Basically just a slightly smoother blend, that's about it.
+* Same as Sunwhale-011, but with less junction between the fairing side / outside of car. Fairings in the same location, but junction with body of car moved out. Basically just a slightly smoother blend, that's about it.
 
 Potential issues: Rachel thinks strange geometry at the leading edge is causing some strange low pressure at the leading edge that Tom pointed out
 
@@ -1177,9 +1150,9 @@ Location: sftp://cars/sunwhale/aero/Sunwhale-011
 
 Solver: Fluent
 
-Drag: 34.118063 
+Drag: 34.118063&#x20;
 
-Lateral: 2.5218274 
+Lateral: 2.5218274&#x20;
 
 Lift: 10.979681
 
@@ -1193,23 +1166,23 @@ Lift = 4.11 N
 
 Design notes:
 
-- Fixed issues in Sunwhale-010
+* Fixed issues in Sunwhale-010
 
-        Body was cut in half and mirrored sans-bubble to produce symmetrical fairings without 
+&#x20;       Body was cut in half and mirrored sans-bubble to produce symmetrical fairings without&#x20;
 
-        surface gap problems. 
+&#x20;       surface gap problems.&#x20;
 
-        Bubble then re-drawn (although keeping 65A-020 foil cutout) with a simpler surface to 
+&#x20;       Bubble then re-drawn (although keeping 65A-020 foil cutout) with a simpler surface to&#x20;
 
-        make it ready for meshing in a timely manner.
+&#x20;       make it ready for meshing in a timely manner.
 
 Meshing:
 
-- Done by Rachel in Pointwise
+* Done by Rachel in Pointwise
 
 CFD:
 
-- Run by Max in Fluent, Tom in SU2
+* Run by Max in Fluent, Tom in SU2
 
 Sunwhale-010
 
@@ -1217,25 +1190,19 @@ Location: sftp://cars/sunwhale/aero/Sunwhale-010
 
 Design notes:
 
-- First surfaced car, entering preliminary design. 
-
-- Also Anna's practice model while learning how to surface. Hence much sub-optimal.
-
-- Mainfoil: NACA 65A-206 (camber/CL 0.25, thickness 6)
-
-- Symmetrical full-length fairings, based on NACA 16-411
-
-- Canopy outline: 65A-020
-
-- Fitted with Aug19 driver model & suspension, fairing bottoms are 7cm from ground
-
-- Lots of singularities/irregularities/un-knittable gaps. :(
+* First surfaced car, entering preliminary design.&#x20;
+* Also Anna's practice model while learning how to surface. Hence much sub-optimal.
+* Mainfoil: NACA 65A-206 (camber/CL 0.25, thickness 6)
+* Symmetrical full-length fairings, based on NACA 16-411
+* Canopy outline: 65A-020
+* Fitted with Aug19 driver model & suspension, fairing bottoms are 7cm from ground
+* Lots of singularities/irregularities/un-knittable gaps. :(
 
 Some mirroring issues for non-driver fairing, plus surface derping on canopy. Did not patch/mesh, and instead became...
 
 Luminos (as meshed by Tom & David)
 
-Location: sftp://cars/sunwhale/aero/luminos_benchmarking
+Location: sftp://cars/sunwhale/aero/luminos\_benchmarking
 
 Solver: Fluent
 
@@ -1247,7 +1214,7 @@ Forces (on car, ground as symmetry BC): 40.24 N drag -0.12 lateral, 39.42 N down
 
 Sidewind Runs
 
-Model was run in SU2 using MARKER_FAR for the walls, inlet, and outlet. The side winds are added as a velocity component in the y-direction while keeping cruise speed on the x-direction.
+Model was run in SU2 using MARKER\_FAR for the walls, inlet, and outlet. The side winds are added as a velocity component in the y-direction while keeping cruise speed on the x-direction.
 
 Luminos wind1
 
@@ -1331,27 +1298,18 @@ Forces (on car): 33.5N drag, 0.04N lateral, 67.7N lift
 
 ![](../../../../assets/image_6623a66d1b.jpg)
 
-[](https://docs.google.com/spreadsheets/d/1dY-b08N2kFn7yCzDheeBnSkww6mvzagkg3-6aSsv_Mc/edit)
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](sunwhale-iterations.md)
 
 ![](../../../../assets/sheets_32dp.png)
 
 For Future Improvement
 
-1. Look very closely at suspension design. Read the suspension-aero interaction email thread below. Suspension was a limiting factor for Arctan's aerodynamic design. 
+1. Look very closely at suspension design. Read the suspension-aero interaction email thread below. Suspension was a limiting factor for Arctan's aerodynamic design.&#x20;
 
-Look very closely at suspension design. Read the suspension-aero interaction email thread below. Suspension was a limiting factor for Arctan's aerodynamic design. 
+Look very closely at suspension design. Read the suspension-aero interaction email thread below. Suspension was a limiting factor for Arctan's aerodynamic design.&#x20;
 
-[](https://drive.google.com/folderview?id=1yuYsJSr4J2BrxExV4Zl8EmWRhQ0qXXDl)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1yuYsJSr4J2BrxExV4Zl8EmWRhQ0qXXDl#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1yuYsJSr4J2BrxExV4Zl8EmWRhQ0qXXDl#list" frameborder="0"></iframe>
-

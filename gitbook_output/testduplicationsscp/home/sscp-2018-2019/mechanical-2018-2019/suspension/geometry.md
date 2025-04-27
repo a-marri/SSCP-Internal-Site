@@ -1,10 +1,12 @@
-# SSCP - Geometry
+# geometry
 
-# Geometry
+## SSCP - Geometry
 
-To define the geometry for the Black Mamba, I wrote a bunch of matlab scripts that would allow me to iterate through a bunch of different geometries. Given there are so many different parameters and they are all codependent, I wrote up a library that would allow me to generate thousands of different gemetries and then filter for desired properties. 
+## Geometry
 
-The design case was the solar car moving in a straight line at 55 kph. This means I was not optimizing for max cornering force as most race forums and texts do. Instead I tried to give the car static geometric parameters to keep it stable and minimize unneccessary scrubbing that would lead to losses in efficiency. Statically many of the parameters were similar to Sundae. 
+To define the geometry for the Black Mamba, I wrote a bunch of matlab scripts that would allow me to iterate through a bunch of different geometries. Given there are so many different parameters and they are all codependent, I wrote up a library that would allow me to generate thousands of different gemetries and then filter for desired properties.&#x20;
+
+The design case was the solar car moving in a straight line at 55 kph. This means I was not optimizing for max cornering force as most race forums and texts do. Instead I tried to give the car static geometric parameters to keep it stable and minimize unneccessary scrubbing that would lead to losses in efficiency. Statically many of the parameters were similar to Sundae.&#x20;
 
 Max Bump Travel: 50 mm
 
@@ -22,7 +24,7 @@ Static Toe - .05 deg
 
 Mechanical Trail - 70 mm
 
-Scrub Radius -  35 mm
+Scrub Radius -  35 mm
 
 In the optimization I found that for a given caster angle, there was a corresponding Kingpin Angle (steering inclination angle) that created 0 camber gain. I used camber gain as a monitor of bump scrub. With 0 camber gain, both the tire stays upright minimizing losses due to camber thrust, and the contact patch does not scrub laterally. This is the most efficient setup for the straight line driving case.
 
@@ -40,7 +42,7 @@ Camber Gain - Essentially 0
 
 Bump Steer - 0.07 deg (toe in)
 
-Force Analysis and Shock placement  
+Force Analysis and Shock placement &#x20;
 
 ![](../../../../../assets/image_2757b8d067.png)
 
@@ -48,31 +50,30 @@ Force Analysis and Shock placement  
 
 ![](../../../../../assets/image_f40058d6b3.png)
 
-I used the location of the shock to as a final parameter to lower the forces on the whole suspension. However, given packaging constraints there were not many options for a directly mounted shock, and not much room for a bell crank system. This led to a shock placement that did not minimize the stresses in the suspension. 
+I used the location of the shock to as a final parameter to lower the forces on the whole suspension. However, given packaging constraints there were not many options for a directly mounted shock, and not much room for a bell crank system. This led to a shock placement that did not minimize the stresses in the suspension.&#x20;
 
 I also tried to place the shock in a place to give it a consistent motion ratio. This is important for maintaining consistent roll stiffness and ride stiffness throughout the travel of the suspension.
 
 The force analsyis was done by reducing each linke to a 2 force member. The UCA, LCA, shock, and Tie rods are reduced to a 2 force member. A matrix is then set up to solve the moment, and force equations. (see getSusForces.m)
 
-The worst loading conditions were the [0 -2g 4g] for the LCA, [-g 0 4g] for the UCA, any [ x x 4g] for the shock, and [-g 2g 0] for the tie rod.
+The worst loading conditions were the \[0 -2g 4g] for the LCA, \[-g 0 4g] for the UCA, any \[ x x 4g] for the shock, and \[-g 2g 0] for the tie rod.
 
 The forces were too damn high. The forces for all loading conditions were tracked in the Sim Tracker.
 
-[ Sim Tracker](https://docs.google.com/spreadsheets/d/1bWJFtlUWpoaGmpJgBZxfMLjtX1Pybae_yBtQWG0BcQM/edit#gid=0)
+[Sim Tracker](https://docs.google.com/spreadsheets/d/1bWJFtlUWpoaGmpJgBZxfMLjtX1Pybae_yBtQWG0BcQM/edit#gid=0)
 
 Reflections
 
-In my geometry I was able to achieve this through the method above, however, much of my time spent was futile. I spent far too long trying to optimize without thinking about the level of accurracy to which I would be able to measure things. In addition I did not make the actual suspension easy to adjust and tune these parameters. In general I place too much weight on the geometry outllined above. I should have spent more time desinging in adjustability, a way to measure and align the suspenison, and to worrying more about the force analysis rather as that essentially dictates the weight of the components. I should have made a more vertical and longer upright. This would reduce the forces in each member. I should have tried more variations of the double A arm suspension, especially the force analysis. I think this might have led to a simpler design with smaller members.  
+In my geometry I was able to achieve this through the method above, however, much of my time spent was futile. I spent far too long trying to optimize without thinking about the level of accurracy to which I would be able to measure things. In addition I did not make the actual suspension easy to adjust and tune these parameters. In general I place too much weight on the geometry outllined above. I should have spent more time desinging in adjustability, a way to measure and align the suspenison, and to worrying more about the force analysis rather as that essentially dictates the weight of the components. I should have made a more vertical and longer upright. This would reduce the forces in each member. I should have tried more variations of the double A arm suspension, especially the force analysis. I think this might have led to a simpler design with smaller members. &#x20;
 
-Matlab - 
+Matlab -&#x20;
 
 Git repo here.
 
-[ here](https://github.com/sscp/suspensionMatlab2019)
+[here](https://github.com/sscp/suspensionMatlab2019)
 
 Its kinda scary and not all of the files have been validated.
 
 The final suspenison gemetry is susTestGeo8.2
 
 The validated functions are anything in getSusSpecs, and its derivatives. The studies should be good, however I don't remember if I changed the base files from when I ran the study. Thus the results might differ.
-

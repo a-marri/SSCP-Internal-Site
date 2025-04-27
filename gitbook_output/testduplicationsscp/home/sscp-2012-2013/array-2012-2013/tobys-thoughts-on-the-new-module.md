@@ -1,6 +1,8 @@
-# SSCP - Toby's thoughts on the new module
+# tobys-thoughts-on-the-new-module
 
-# Toby's thoughts on the new module
+## SSCP - Toby's thoughts on the new module
+
+## Toby's thoughts on the new module
 
 tobys@stanford.edu, toby.sachs.quintana@gmail.com
 
@@ -8,22 +10,18 @@ July 9 2012: Met with Greg and Wesley and talked about the new module
 
 Greg: The next module should be light, waterproof, it should clean itself. There are right now, 3 types of encapsulants, the first one is EVA which is essentially hot glue, another one is TPU. TPU is easier to work with because the flow temperature and the curing temperature are not as close as they are for EVA. Xenith shorted due to water getting behind the cells. Index of reflection matching is a good idea, the index for silicon is 3.9. TPU and EVA are not stiff.
 
-Wesley: Me, Greg and Paul made the last array. On Apogee, the substrate was plastic but on Xenith, the substrate was glass. It was a special thin glass from Corning. It was nice because the glass didn't get dirty, whereas Apogees cells got dirty. Xenith's cells were cleaned just by the air flowing over the array. Less layers is better, less reflection 
+Wesley: Me, Greg and Paul made the last array. On Apogee, the substrate was plastic but on Xenith, the substrate was glass. It was a special thin glass from Corning. It was nice because the glass didn't get dirty, whereas Apogees cells got dirty. Xenith's cells were cleaned just by the air flowing over the array. Less layers is better, less reflection&#x20;
 
 Ways of improving the module
 
 1. Using a super low viscocity sealant. According to Wesley, they used vaseline and it was a total mess on Xenith
-
 2. Do we really need a textured surface on the plastic that is between the solar cell and air? This sounds lossy to me.
-
 3. Using white paint to reflect light back into the cell (or a fancy metal/transparent insulator)
-
 4. Finding a bitching glass that will reflect IR
 
 Stuff that would be cool to calculate
 
-1. Is a textured top plastic really better? Ray optics simulation could help with this 
-
+1. Is a textured top plastic really better? Ray optics simulation could help with this&#x20;
 2. Is it worth it to have an IR filter on top, what kind of loss would we get in reflection versus temperature in cooling?
 
 July 16, 2012:
@@ -38,7 +36,7 @@ Paul: Will talk to Ultra Tape about a nice alternative to Kapton, Will talk to B
 
 Erin: Talking to Saint Gobain regarding their solar encapsulation materials
 
-Toby: Talking to Kuka regarding their encapsulation, will begin  
+Toby: Talking to Kuka regarding their encapsulation, will begin &#x20;
 
 July 23, 2012
 
@@ -58,25 +56,25 @@ http://www.kuka-systems.com/en/branches/solar/photovoltaik/ a site w general ove
 
 [http://www.kuka-systems.com/en/branches/solar/photovoltaik/](http://www.kuka-systems.com/en/branches/solar/photovoltaik/)
 
-http://www.kuka-systems.com/en/branches/solar/photovoltaik/P_KUKA_Modul_Linie.htm
+http://www.kuka-systems.com/en/branches/solar/photovoltaik/P\_KUKA\_Modul\_Linie.htm
 
-[http://www.kuka-systems.com/en/branches/solar/photovoltaik/P_KUKA_Modul_Linie.htm](http://www.kuka-systems.com/en/branches/solar/photovoltaik/P_KUKA_Modul_Linie.htm)
+[http://www.kuka-systems.com/en/branches/solar/photovoltaik/P\_KUKA\_Modul\_Linie.htm](http://www.kuka-systems.com/en/branches/solar/photovoltaik/P_KUKA_Modul_Linie.htm)
 
 In their module line, they say that they are able to automatic electroluminescence testing, cool
 
-http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/
+http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/
 
-[http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/)
+[http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/)
 
-http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/roboLoad/
+http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/roboLoad/
 
-[http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/roboLoad/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/roboLoad/)
+[http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/roboLoad/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/roboLoad/)
 
 Does glass unload and foil layup?
 
-http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/acs_600/
+http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/acs\_600/
 
-[http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/acs_600/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/acs_600/)
+[http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/acs\_600/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/acs_600/)
 
 The soldering system that they do is infrared, maybe it's sensitive IP?
 
@@ -84,51 +82,51 @@ http://www.kuka-
 
 [http://www.kuka-](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/string_tmp/)
 
-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/string_tmp/
+systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/string\_tmp/
 
-[systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/string_tmp/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/string_tmp/)
+[systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/string\_tmp/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/string_tmp/)
 
 The Strin test measure and place "The vision system calculates an offset for the robot and allows the string to be accurately positioned on the solar module. Defective strings are rejected to a repair buffer or shuttle" The TMPsystem can detect cracks with its cameras. It also has a system to test electro luminescence
 
-http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_x/
+http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_x/
 
-[http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_x/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_x/)
+[http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_x/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_x/)
 
 This doesn't look very useful, the cross ties are for soldering multiple PV strings
 
-http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_bond/
+http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_bond/
 
-[http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_bond/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_bond/)
+[http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_bond/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_bond/)
 
 They have some sort of edge sealant?
 
-http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_sheet/
+http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_sheet/
 
-[http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_sheet/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_sheet/)
+[http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_sheet/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_sheet/)
 
 This is the robot that they use for doing layup of EVA sheets, I believe they use silicone as an encapsulant
 
-http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_trim/
+http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_trim/
 
-[http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_trim/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_trim/)
+[http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_trim/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_trim/)
 
 A robot that they have to trim excess sheet material the trim can be hot or cold
 
-http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_tape/
+http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_tape/
 
-[http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_tape/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_tape/)
+[http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_tape/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_tape/)
 
 a robot that can cut tape
 
-http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_frame/
+http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_frame/
 
-[http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_frame/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_frame/)
+[http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_frame/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_frame/)
 
 a robot that does framing
 
-http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_sun_sim/
+http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_sun\_sim/
 
-[http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_sun_sim/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_sun_sim/)
+[http://www.kuka-systems.com/en/products/standard\_products\_photovoltaic/pv\_module\_assembly/robo\_sun\_sim/](http://www.kuka-systems.com/en/products/standard_products_photovoltaic/pv_module_assembly/robo_sun_sim/)
 
 This is pretty cool, they have a large, xenon lamp sun simulator. Xenon's are nice because their lamp spectrum closely matches the solar spectrum
 
@@ -138,11 +136,11 @@ http://www.prnewswire.com/news-releases/globalwatt-inc-chooses-kuka-systems-loca
 
 KUKA is being used by a company called GlobalWatt Inc to use a liquid encapsulation which I assume is silicone they are slated to open a 250MW production facility in November 2010
 
-http://www.ipvea.org/index.php?id=146&tx_ttnews%5Btt_news%5D=3706&tx_ttnews%5BbackPid%5D=160&cHash=457ed49287
+http://www.ipvea.org/index.php?id=146\&tx\_ttnews%5Btt\_news%5D=3706\&tx\_ttnews%5BbackPid%5D=160\&cHash=457ed49287
 
-[http://www.ipvea.org/index.php?id=146&tx_ttnews%5Btt_news%5D=3706&tx_ttnews%5BbackPid%5D=160&cHash=457ed49287](http://www.ipvea.org/index.php?id=146&tx_ttnews%5Btt_news%5D=3706&tx_ttnews%5BbackPid%5D=160&cHash=457ed49287)
+[http://www.ipvea.org/index.php?id=146\&tx\_ttnews%5Btt\_news%5D=3706\&tx\_ttnews%5BbackPid%5D=160\&cHash=457ed49287](http://www.ipvea.org/index.php?id=146\&tx_ttnews%5Btt_news%5D=3706\&tx_ttnews%5BbackPid%5D=160\&cHash=457ed49287)
 
-The liquid encapsulant that they are using is called PV-6100 which is sold by Dow Corning. The silicone is also slated to be more transparent than EVA. PV-6100 has a shorter cure time than EVA as well. 
+The liquid encapsulant that they are using is called PV-6100 which is sold by Dow Corning. The silicone is also slated to be more transparent than EVA. PV-6100 has a shorter cure time than EVA as well.&#x20;
 
 http://www.globalwatt.com/index.html
 
@@ -156,15 +154,15 @@ http://www.greentechmedia.com/articles/read/GlobalWatt-Evicted-From-Its-Empty-So
 
 GlobalSolar kind of sucks, here's their swan song.
 
-KUKA solar also installed machines at Evergreen solar's plant in Deven's massacucetts 
+KUKA solar also installed machines at Evergreen solar's plant in Deven's massacucetts&#x20;
 
-KUKA solar installed stuff for "Canada's largest solar manufacterer. Whoever that is. 
+KUKA solar installed stuff for "Canada's largest solar manufacterer. Whoever that is.&#x20;
 
 Solarwatt in dresden also bought KUKA's stuff to make a 150 MW facility
 
 Sunday, August 4, 2012
 
-Erin calculates that the module would have to read 100C before sunpower cells degrade to the point that they are equal in efficiency to SunPower cells. 
+Erin calculates that the module would have to read 100C before sunpower cells degrade to the point that they are equal in efficiency to SunPower cells.&#x20;
 
 Nathan Golshan says that the next car will have to be a polymer in place of glass because the next body is going to be super curvey
 
@@ -178,7 +176,7 @@ Erin: Will call Saint Gobain RE: textured barrier film, EVA, EVA & Backsheet two
 
 Erin: Will contact Stevens Urethane
 
-Paul: WIll contact Brisbane materials, 
+Paul: WIll contact Brisbane materials,&#x20;
 
 Paul: 3M about their front sheet
 
@@ -187,4 +185,3 @@ Toby: Will contact Dupont re:backsheets
 Monday, August 20, 2012
 
 Sam thinks he knows how Gochermann gets his solar texture. Essentially the way to duplicate it would be to etch 100 um features into a copper plate. Then you would put the plate in the breather bag and flow the TPU on top of it. To remove the copper plate from the epoxy, you would just etch it away.
-

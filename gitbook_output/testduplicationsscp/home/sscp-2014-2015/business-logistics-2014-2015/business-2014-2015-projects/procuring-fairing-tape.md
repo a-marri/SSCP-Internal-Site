@@ -1,6 +1,8 @@
-# SSCP - Procuring Fairing Tape
+# procuring-fairing-tape
 
-# Procuring Fairing Tape
+## SSCP - Procuring Fairing Tape
+
+## Procuring Fairing Tape
 
 We want really good, high-temperature tape to attach our fairings to the car. This tape should:
 
@@ -16,21 +18,16 @@ We want really good, high-temperature tape to attach our fairings to the car. Th
 
 Here's what worked well for the team in 2013:
 
-CS Hyde FEP 1-36 tape, link here. 
+CS Hyde FEP 1-36 tape, link here.&#x20;
 
-[ here](http://catalog.cshyde.com/item/all-categories-tapes-with-adhesive-ptfe-tapes/fep-optically-clear-ptfe-tape/fep-tape-23-fep-1-36?)
+[here](http://catalog.cshyde.com/item/all-categories-tapes-with-adhesive-ptfe-tapes/fep-optically-clear-ptfe-tape/fep-tape-23-fep-1-36?)
 
 Our contacts: Tiffany, thoerle@cshyde.com
 
 Target donation: 20 rolls, valued at $1400, Friends level sponsorship
 
-Attached to this page is the donation receipt. Reference the business page general documents for our sponsorship brochure. 
+Attached to this page is the donation receipt. Reference the business page general documents for our sponsorship brochure.&#x20;
 
-[](https://drive.google.com/folderview?id=1ru_5N52d6IY1cJbG7TwjWdj7RUW59lBH)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1ru_5N52d6IY1cJbG7TwjWdj7RUW59lBH#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1ru_5N52d6IY1cJbG7TwjWdj7RUW59lBH#list" frameborder="0"></iframe>
-

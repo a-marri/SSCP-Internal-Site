@@ -1,96 +1,82 @@
-# SSCP - Call with Jamie 3/19
+# call-with-jamie-319
 
-# Call with Jamie 3/19
+## SSCP - Call with Jamie 3/19
+
+## Call with Jamie 3/19
 
 * base layup one core one
-
-- everywhere
-
-- (what we did if no reason not to)
-
-- 90 degree with 1/8 inch core between
-
-- tail, top shell, fairings
-
+* everywhere
+* (what we did if no reason not to)
+* 90 degree with 1/8 inch core between
+* tail, top shell, fairings
 * two core two anywhere might trim
-
-- stiffer, won't shatter
-
-- square connecting the wheels
-
-- one of the plys was 45 degree
-
-- improve load transfer diagonally
-
-- no real analysis, but probably a good call
-
+* stiffer, won't shatter
+* square connecting the wheels
+* one of the plys was 45 degree
+* improve load transfer diagonally
+* no real analysis, but probably a good call
 * top and bottom shell: unidirectional tape
-
-- two long longitudinal strips the length of chassis panels
-
-- two strips connecting the wheels
-
-- strip on either side of the core
-
+* two long longitudinal strips the length of chassis panels
+* two strips connecting the wheels
+* strip on either side of the core
 * tail was solid laminate
 
-        - gets very thin
+&#x20;       \- gets very thin
 
-        - taper the core, go to 6 plys, then sand to get very fine edge
+&#x20;       \- taper the core, go to 6 plys, then sand to get very fine edge
 
 * trailing edge of fairings
 
-        - pour in West Systems microbubbles?
+&#x20;       \- pour in West Systems microbubbles?
 
-        - make a straw out of uni?
+&#x20;       \- make a straw out of uni?
 
-        - wouldn't be structural no matter what
+&#x20;       \- wouldn't be structural no matter what
 
 * SpaceX presentation should include everything
 
-         - everything correct but 45 degree ply should go across the middle
+&#x20;        \- everything correct but 45 degree ply should go across the middle
 
-         - stack in bottom right corner = center section
+&#x20;        \- stack in bottom right corner = center section
 
-         - uni in the driver compartment
+&#x20;        \- uni in the driver compartment
 
 * Jamie was very wary of trimming core -- not actually a concern
 
-        - put core everywhere
+&#x20;       \- put core everywhere
 
-                - FlexCore can do 3D curvature
+&#x20;               \- FlexCore can do 3D curvature
 
 * access panels are now different
 
-        - have to rely on core in the middle
+&#x20;       \- have to rely on core in the middle
 
---> put uni in the mold in a 6-inch section with heater blanket and see if its what we want (should try before putting on a full part)
+\--> put uni in the mold in a 6-inch section with heater blanket and see if its what we want (should try before putting on a full part)
 
 * fiberglass
 
-        - anything that needs to be radiotransparent
+&#x20;       \- anything that needs to be radiotransparent
 
-        - fairing: tricky
+&#x20;       \- fairing: tricky
 
-        - going to have to be more than last time --> our current fiberglass is very thin
+&#x20;       \- going to have to be more than last time --> our current fiberglass is very thin
 
-        - bubble was 5 layers no core
+&#x20;       \- bubble was 5 layers no core
 
-                - probably overkill
+&#x20;               \- probably overkill
 
-        - Jamie doesn't think current plan to match carbon thickness is necessary
+&#x20;       \- Jamie doesn't think current plan to match carbon thickness is necessary
 
-                - add FlexCore and do 2 core 2
+&#x20;               \- add FlexCore and do 2 core 2
 
-        - bridge over the top of the bubble
+&#x20;       \- bridge over the top of the bubble
 
-                - basically 1D curve
+&#x20;               \- basically 1D curve
 
-                - add core
+&#x20;               \- add core
 
 * sealing/polishing
 
-        - extreme cleaning amounted to polishing
+&#x20;       \- extreme cleaning amounted to polishing
 
-        - go with what the manufacturer recommends
-
+&#x20;       \- go with what the manufacturer recommends

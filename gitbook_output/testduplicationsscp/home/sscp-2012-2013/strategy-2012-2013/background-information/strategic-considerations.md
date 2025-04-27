@@ -1,70 +1,61 @@
-# SSCP - Strategic Considerations
+# strategic-considerations
 
-# Strategic Considerations
+## SSCP - Strategic Considerations
 
-### Weather Data
+## Strategic Considerations
 
-[](#h.1i78m188gkvg)
+#### Weather Data
 
-            •  Short (next few hrs), medium (next day), and long-term (race) forecasting
+&#x20;           •  Short (next few hrs), medium (next day), and long-term (race) forecasting
 
-            •  Cloud Race Strategy:
+&#x20;           •  Cloud Race Strategy:
 
-                        -- 1994: Speed up 1kph for every 10% of solar flux lost in clouds
+&#x20;                       \-- 1994: Speed up 1kph for every 10% of solar flux lost in clouds
 
-                                       -> Tradeoff is aerodynamic drag
+&#x20;                                      -> Tradeoff is aerodynamic drag
 
-                        -- Consider cloud length (ex: 2km), OR
+&#x20;                       \-- Consider cloud length (ex: 2km), OR
 
-                        -- Consider cloud 'cover time,' given particular velocity (car and/or cloud velocity)
+&#x20;                       \-- Consider cloud 'cover time,' given particular velocity (car and/or cloud velocity)
 
-                                       -> Supply confidence intervals based on +/- 10 seconds faster/slower (cloud velocity prediction errors)
+&#x20;                                      -> Supply confidence intervals based on +/- 10 seconds faster/slower (cloud velocity prediction errors)
 
-### Drive Strategy
+#### Drive Strategy
 
-[](#h.136tqh3gbdsr)
+&#x20;           •  Hill Strategy
 
-            •  Hill Strategy
+&#x20;                       \-- Accelerate uphill quickly?
 
-                        -- Accelerate uphill quickly?
+&#x20;                       \-- Consider time elapsed, heat buildup, torque, power, velocity
 
-                        -- Consider time elapsed, heat buildup, torque, power, velocity
+&#x20;           •  Control Stops / In-City Driving
 
-            •  Control Stops / In-City Driving
+&#x20;                       \-- Optimal stopping locations?
 
-                        -- Optimal stopping locations?
+&#x20;           •  Braking
 
-            •  Braking
+&#x20;                       \-- Regen versus Friction braking
 
-                        -- Regen versus Friction braking
+&#x20;                       \-- Base decision on speed, solar output....
 
-                        -- Base decision on speed, solar output....
+&#x20;                                      \- regen braking not worth the time it takes? effectiveness?
 
-                                       - regen braking not worth the time it takes? effectiveness?
+&#x20;                                      \- 1994: use only below \~8m/s (18 mph) ... Only infrequently.
 
-                                       - 1994: use only below ~8m/s (18 mph) ... Only infrequently.
+#### Cell Efficiency
 
-### Cell Efficiency
+&#x20;           •  22.5% efficient cells alone >> Graduated indices of refraction in glass >> 0% loss from encapsulation
 
-[](#h.poc4mb7btmy7)
+&#x20;           •  Effect of dicing and recombination?
 
-            •  22.5% efficient cells alone >> Graduated indices of refraction in glass >> 0% loss from encapsulation
+&#x20;                       \-- Consider NREL data, of Stanford/Suncat versus different UM characteristics
 
-            •  Effect of dicing and recombination?
+#### Analysis
 
-                        -- Consider NREL data, of Stanford/Suncat versus different UM characteristics
+&#x20;           •  1994 suggests "bracketed analysis" to predict best/worst cases along with target
 
-### Analysis
+#### Potential Resources:
 
-[](#h.cn3kzdqw3epm)
+&#x20;           •  Topological maps from Geology library
 
-            •  1994 suggests "bracketed analysis" to predict best/worst cases along with target
-
-### Potential Resources:
-
-[](#h.9hme5ii4zqjo)
-
-            •  Topological maps from Geology library
-
-            •  Practical Optimization (Gill)
-
+&#x20;           •  Practical Optimization (Gill)

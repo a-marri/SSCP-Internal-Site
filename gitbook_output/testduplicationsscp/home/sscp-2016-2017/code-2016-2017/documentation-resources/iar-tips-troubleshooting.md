@@ -1,31 +1,32 @@
-# SSCP - IAR Tips & Troubleshooting
+# iar-tips-troubleshooting
 
-# IAR Tips & Troubleshooting
+## SSCP - IAR Tips & Troubleshooting
+
+## IAR Tips & Troubleshooting
 
 Tips
 
 To make a copy of an existing project:
 
-* Copy all project files to new folder.Remove workspace files from new folder (*.eww and ./settings/*.wsdt, NOT *.ewp.wsdt)Change all filenames in folder to new name (don't worry about things in "settings" folder).From IAR, create a new workspace (by exiting out of your current one), click project->add existing project, select the *.ewp file in the new project folder.Save workspace in new project folder.
+* Copy all project files to new folder.Remove workspace files from new folder (_.eww and ./settings/_.wsdt, NOT \*.ewp.wsdt)Change all filenames in folder to new name (don't worry about things in "settings" folder).From IAR, create a new workspace (by exiting out of your current one), click project->add existing project, select the \*.ewp file in the new project folder.Save workspace in new project folder.
 * Copy all project files to new folder.
-* Remove workspace files from new folder (*.eww and ./settings/*.wsdt, NOT *.ewp.wsdt)
+* Remove workspace files from new folder (_.eww and ./settings/_.wsdt, NOT \*.ewp.wsdt)
 * Change all filenames in folder to new name (don't worry about things in "settings" folder).
-* From IAR, create a new workspace (by exiting out of your current one), click project->add existing project, select the *.ewp file in the new project folder.
+* From IAR, create a new workspace (by exiting out of your current one), click project->add existing project, select the \*.ewp file in the new project folder.
 * Save workspace in new project folder.
-
 * Copy all project files to new folder.
-* Remove workspace files from new folder (*.eww and ./settings/*.wsdt, NOT *.ewp.wsdt)
+* Remove workspace files from new folder (_.eww and ./settings/_.wsdt, NOT \*.ewp.wsdt)
 * Change all filenames in folder to new name (don't worry about things in "settings" folder).
-* From IAR, create a new workspace (by exiting out of your current one), click project->add existing project, select the *.ewp file in the new project folder.
+* From IAR, create a new workspace (by exiting out of your current one), click project->add existing project, select the \*.ewp file in the new project folder.
 * Save workspace in new project folder.
 
 Copy all project files to new folder.
 
-Remove workspace files from new folder (*.eww and ./settings/*.wsdt, NOT *.ewp.wsdt)
+Remove workspace files from new folder (_.eww and ./settings/_.wsdt, NOT \*.ewp.wsdt)
 
 Change all filenames in folder to new name (don't worry about things in "settings" folder).
 
-From IAR, create a new workspace (by exiting out of your current one), click project->add existing project, select the *.ewp file in the new project folder.
+From IAR, create a new workspace (by exiting out of your current one), click project->add existing project, select the \*.ewp file in the new project folder.
 
 Save workspace in new project folder.
 
@@ -37,13 +38,13 @@ Packing structs:
 
 IAR uses a different keyword for struct packing than GCC.
 
-[keyword ](http://netstorage.iar.com/SuppDB/Public/SUPPORT/005609/Example%205.pdf)
+[keyword](http://netstorage.iar.com/SuppDB/Public/SUPPORT/005609/Example%205.pdf)
 
 (If you don't know what struct packing is, don't worry about this)
 
 If your printfs aren't showing up:
 
-Make sure you have \n at the end of the line.  It won't flush it out otherwise.
+Make sure you have \n at the end of the line.  It won't flush it out otherwise.
 
 Common Fixes
 
@@ -204,12 +205,11 @@ Error: cannot call intrinsic function "x" from y mode in this architecture
 
 * Right click on Project -> Options -> General Options -> Target. Select 'Device' instead of 'Core', and choose the correct version.
 * Right click on Project -> Options -> General Options -> Target. Select 'Device' instead of 'Core', and choose the correct version.
-
 * Right click on Project -> Options -> General Options -> Target. Select 'Device' instead of 'Core', and choose the correct version.
 
 Right click on Project -> Options -> General Options -> Target. Select 'Device' instead of 'Core', and choose the correct version.
 
-Error[Pe1696]: cannot open any of the source files 
+Error\[Pe1696]: cannot open any of the source files&#x20;
 
 * Under c/c++ options make sure the directories for the pre processor are correct. Also make sure to have selected the correct preprocessor. (check a working project for help)
 * Make sure that the license server is set up correctly.
@@ -244,7 +244,6 @@ When beginning to flash code, IAR appears to be stuck on the stage: Updating Bui
 * Also, when you halt debugging, IAR may mention being unable to connect to the license server.Check your internet connection to make sure that IAR has contact with the license server.
 * Also, when you halt debugging, IAR may mention being unable to connect to the license server.
 * Check your internet connection to make sure that IAR has contact with the license server.
-
 * Also, when you halt debugging, IAR may mention being unable to connect to the license server.
 * Check your internet connection to make sure that IAR has contact with the license server.
 
@@ -252,7 +251,7 @@ Also, when you halt debugging, IAR may mention being unable to connect to the li
 
 Check your internet connection to make sure that IAR has contact with the license server.
 
-Fatal error: Failed the search for probes, ensure that the USB drivers are installed.   Session aborted! 
+Fatal error: Failed the search for probes, ensure that the USB drivers are installed.   Session aborted!&#x20;
 
 * Make sure that the device is plugged in and turned on, as indicated by the red light.
 
@@ -264,7 +263,7 @@ Code will not start when you power cycle:
 
 Make sure you have no calls to printf in your code. Calls to printf that go to IAR's terminal I/O cannot run outside of debug mode (unless you have written your own putchar).
 
-When you run code and get an error of the type: 
+When you run code and get an error of the type:&#x20;
 
 "Verify error at address 0x0........., target byte: 0x.., byte in file: 0x.."
 
@@ -273,4 +272,3 @@ When you run code and get an error of the type: 
 The computer isn't writing the program correctly to the board, so right click on the project and go to Options ->Debugger ->Download and make sure that the "Use flash loader(s)" box is checked.
 
 Please update this page to include any errors that people may encounter.
-

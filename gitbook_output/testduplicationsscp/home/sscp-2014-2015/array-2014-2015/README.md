@@ -1,10 +1,12 @@
-# SSCP - Array 2014-2015
+# array-2014-2015
 
-# Array 2014-2015
+## SSCP - Array 2014-2015
+
+## Array 2014-2015
 
 Sunwhale-28 Array Layout, as of 11/1/2014
 
-![](../../../assets/image_1aac6c5c21.png)
+![](../../../../assets/image_1aac6c5c21.png)
 
 * Latest Array Checklist
 * How to build a solar module
@@ -22,11 +24,6 @@ SUNBAD ARRAY SPREADSHEET
 
 [SUNBAD ARRAY SPREADSHEET](https://docs.google.com/spreadsheet/ccc?key=0AslAWLaFwCrodDlwa24wRmRpckdlNFBTU2dtSjZEMHc#gid=0)
 
-[](https://drive.google.com/folderview?id=1uNIr7K2xLX0vI22qwAsmZCeWHcRvIDxj)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1uNIr7K2xLX0vI22qwAsmZCeWHcRvIDxj#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1uNIr7K2xLX0vI22qwAsmZCeWHcRvIDxj#list" frameborder="0"></iframe>
-

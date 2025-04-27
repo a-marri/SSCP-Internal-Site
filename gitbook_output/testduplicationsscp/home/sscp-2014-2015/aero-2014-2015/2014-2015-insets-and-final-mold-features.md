@@ -1,6 +1,8 @@
-# SSCP - 2014-2015 Insets and Final Mold Features
+# 2014-2015-insets-and-final-mold-features
 
-# 2014-2015 Insets and Final Mold Features
+## SSCP - 2014-2015 Insets and Final Mold Features
+
+## 2014-2015 Insets and Final Mold Features
 
 Door gap
 
@@ -24,7 +26,7 @@ Luminos inset is 1.5mm
 
 We have decided to adopt a wiring strategy closer to Luminos- drop wires from modules down through the topshell as soon as possible.
 
-For panels that would drop into an inaccessible region, they will be run longitudinally along the surface until they can be dropped into an accessible region. 
+For panels that would drop into an inaccessible region, they will be run longitudinally along the surface until they can be dropped into an accessible region.&#x20;
 
 The channel needs to accommodate at max one wire so can be Luminos depth.
 
@@ -32,7 +34,7 @@ One flat wire (new proposed wired) is 59thou = 1.5mm
 
 Old flat wire (used on luminos) is .127mm
 
-We will use a 1.5mm- 2mm array channel for sunwhale 
+We will use a 1.5mm- 2mm array channel for sunwhale&#x20;
 
 WSC frontal sticker needs to be visible from top-down and front views; it is 150mm tall. We have budgeted between 140-150mm for the frontal sticker, which should be OK because curvature gives us extra length.
 
@@ -73,7 +75,6 @@ Anna and Aravind
 * Suspension interference check (x2)Wheel interference check (x2)
 * Suspension interference check (x2)
 * Wheel interference check (x2)
-
 * Suspension interference check (x2)Wheel interference check (x2)
 * Suspension interference check (x2)
 * Wheel interference check (x2)
@@ -96,7 +97,6 @@ NHS
 * Offset for bubble gluing, what was the number? 2.5mmOverlap for bubble gluing: 1 in
 * Offset for bubble gluing, what was the number? 2.5mm
 * Overlap for bubble gluing: 1 in
-
 * Offset for bubble gluing, what was the number? 2.5mmOverlap for bubble gluing: 1 in
 * Offset for bubble gluing, what was the number? 2.5mm
 * Overlap for bubble gluing: 1 in
@@ -108,11 +108,6 @@ Offset for bubble gluing, what was the number? 2.5mm
 
 Overlap for bubble gluing: 1 in
 
-[](https://drive.google.com/folderview?id=1J1Rfyoh6ezf2aOlOU8SOkGtZaLar6ror)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1J1Rfyoh6ezf2aOlOU8SOkGtZaLar6ror#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1J1Rfyoh6ezf2aOlOU8SOkGtZaLar6ror#list" frameborder="0"></iframe>
-

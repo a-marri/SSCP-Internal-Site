@@ -1,10 +1,12 @@
-# SSCP - Panasonic
+# panasonic
 
-# Panasonic
+## SSCP - Panasonic
 
-Panasonic was a particularly painful sponsorship to negotiate for 2013. There were a combination of issues. The team initially engaged Panasonic when they were recovering from making the largest annual losses of any company in the history of Japan. Additionally, our team's primary contact didn't have the same clout as our contact in 2011 (Jim Reily, the director of NA marketing for Panasonic). Negotiations required over a year of in person meetings in Cupertino, phone calls, and emails. 
+## Panasonic
 
-Once Panasonic finally agreed to donate cells they asked Stanford to sign a sponsorship agreement. Dealing with written contracts with sponsors is always an especially shitty process, so always try to avoid contracts if at all possible. Stanford's legal advisors are slow and arrogant whenever we are engaging with sponsors. At the same time Panasonic wasn't really interested in dedicating legal resources to negotiating a contract with Stanford. 
+Panasonic was a particularly painful sponsorship to negotiate for 2013. There were a combination of issues. The team initially engaged Panasonic when they were recovering from making the largest annual losses of any company in the history of Japan. Additionally, our team's primary contact didn't have the same clout as our contact in 2011 (Jim Reily, the director of NA marketing for Panasonic). Negotiations required over a year of in person meetings in Cupertino, phone calls, and emails.&#x20;
+
+Once Panasonic finally agreed to donate cells they asked Stanford to sign a sponsorship agreement. Dealing with written contracts with sponsors is always an especially shitty process, so always try to avoid contracts if at all possible. Stanford's legal advisors are slow and arrogant whenever we are engaging with sponsors. At the same time Panasonic wasn't really interested in dedicating legal resources to negotiating a contract with Stanford.&#x20;
 
 Once Stanford's lawyers and Panasonic's lawyers finally agreed to contract language the next challenge was finding a Stanford faculty member to sign the contract on behalf of the team. The team's advisory board originally asked Chris Gerdes to sign the contract, but Gerdes dragged his heels and avoided the issue for a month. Eventually Brad Osgood signed the contract.
 
@@ -44,13 +46,8 @@ jim.gasiewski@stanford.edu.
 
 In 2013 we had to get Professor Gerdes to sign the document. However, Gerdes took a month to sign one of our contracts last year, so we ended up getting Brad Osgood to sign. I would ask Professor Osgood to sign this year instead of Gerdes. Make sure you keep Osgood in the loop and try to find a chance to explain to him in person what the team is trying to gain with Panasonic. Osgood signing the Indemnity agreement puts himself and his career at some level of risk, and he doesn't gain anything directly by signing the agreement. You will have to persuade him a bit to get him to sign on behalf of the team.
 
-Make sure you CC Brad, Brooke, Jeff, and Jim to all of your contract related emails with Panasonic once you get them in the loop on the contract negotiation. 
+Make sure you CC Brad, Brooke, Jeff, and Jim to all of your contract related emails with Panasonic once you get them in the loop on the contract negotiation.&#x20;
 
-[](https://drive.google.com/folderview?id=1ZfzjfLre0kWnkII6CWzGmAvy6IbTIBDX)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1ZfzjfLre0kWnkII6CWzGmAvy6IbTIBDX#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1ZfzjfLre0kWnkII6CWzGmAvy6IbTIBDX#list" frameborder="0"></iframe>
-

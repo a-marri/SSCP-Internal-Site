@@ -1,6 +1,8 @@
-# SSCP - Glass Toplayer
+# glass-toplayer
 
-# Glass Toplayer
+## SSCP - Glass Toplayer
+
+## Glass Toplayer
 
 Derek Wang: Meeting with Director of Solar Technologies at PPG, Dr. James McCamy
 
@@ -8,9 +10,9 @@ Hey, all. This morning I met with the director of solar technologies at PPG and 
 
 (note from John: Chuzel and Gochermann have done tests on aero, and said the effect is minimal)
 
-Hey Glass people! To reiterate my earlier email, the goal for this week is to find 3-5 sponsors that we can email on Sunday. 
+Hey Glass people! To reiterate my earlier email, the goal for this week is to find 3-5 sponsors that we can email on Sunday.&#x20;
 
-I've already got two, so try to each find at least one possible sponsor this week. 
+I've already got two, so try to each find at least one possible sponsor this week.&#x20;
 
 List of Possible Sponsors:
 
@@ -28,11 +30,10 @@ Sono Tek
 
 General Notes:
 
-http://www.ducatt.com/website/ducatt/assets/files/ARC_specification_V1-4.pdf
+http://www.ducatt.com/website/ducatt/assets/files/ARC\_specification\_V1-4.pdf
 
-Anti-reflective coatings on glass, >96% transmission. 
+Anti-reflective coatings on glass, >96% transmission.&#x20;
 
 http://www.ptonline.com/articles/shining-opportunities-in-solar-films
 
 [http://www.ptonline.com/articles/shining-opportunities-in-solar-films](http://www.ptonline.com/articles/shining-opportunities-in-solar-films)
-

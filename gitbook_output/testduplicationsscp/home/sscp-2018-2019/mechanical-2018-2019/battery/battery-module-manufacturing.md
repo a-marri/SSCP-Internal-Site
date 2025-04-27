@@ -1,6 +1,8 @@
-# SSCP - Battery Module Manufacturing
+# battery-module-manufacturing
 
-# Battery Module Manufacturing
+## SSCP - Battery Module Manufacturing
+
+## Battery Module Manufacturing
 
 See the attached slides for a step-by-step procedure for the battery module manufacturing process with corresponding pictures. Important note: we made sure to keep the egg-carton-like packaging the cells came in so that cells could be placed securely back into the packaging between each manufacturing step to decrease the risk of shorting. In order to prevent shorting, we did not carry more than a single cell in each hand at a time.
 
@@ -10,11 +12,11 @@ Notes on each step:
 
 Top clamshell:
 
-Step 1: The pictures in the slides show a piece of 2x4 as the wooden fixture plate we used, but this was only used while initially figuring out the manufacturing process. During actual manufacturing, the fixture plates we used were laser-cut pieces of 1/4" thick Duron that specifically matched the shape of the clamshell (as indicated by the sharpie drawing in the slides), which was easier to handle. 
+Step 1: The pictures in the slides show a piece of 2x4 as the wooden fixture plate we used, but this was only used while initially figuring out the manufacturing process. During actual manufacturing, the fixture plates we used were laser-cut pieces of 1/4" thick Duron that specifically matched the shape of the clamshell (as indicated by the sharpie drawing in the slides), which was easier to handle.&#x20;
 
 Step 3: Cutting the laminate off of each end of the cell was done by placing a razor blade at the desired point on the cell and rolling the cell on the table to cut all the way around. We were sure to cut enough of the laminate off so that epoxy was bonding to the metal of the cell rather than the laminate when integrated into the module. We cut all of the cells at once so that all the cells we needed for future steps were already prepared.
 
-Step 4: The surface prep was done in an assembly line at a single table, with the egg-carton-like cell packaging in the center of the table. The packaging was divided into 3 distinct areas - "acetone-d" cells, sanded cells, and completed cells. 
+Step 4: The surface prep was done in an assembly line at a single table, with the egg-carton-like cell packaging in the center of the table. The packaging was divided into 3 distinct areas - "acetone-d" cells, sanded cells, and completed cells.&#x20;
 
 Person/Group 1: Cleaned each end of the cell with acetone and placed it back in the center in the area for "acetone-d" cells.
 
@@ -24,9 +26,9 @@ Person/Group 3: Took a cell from the sanded area, cleaned each end of a sanded c
 
 We did not use IPA on the cells - it is conductive.
 
-Once a large number of cells had been prepared, a separate group at another end of the table began placing completed cells into clamshells while the first group continued surface prep. In order to ensure we were placing the cells in the correct orientation, we had a drawing/sketch in the middle of the table to reference during the build process, indicating where positive and negative terminals should go. 
+Once a large number of cells had been prepared, a separate group at another end of the table began placing completed cells into clamshells while the first group continued surface prep. In order to ensure we were placing the cells in the correct orientation, we had a drawing/sketch in the middle of the table to reference during the build process, indicating where positive and negative terminals should go.&#x20;
 
-(Note: in our case the "top clamshell" was the one on the fixture plate (the bottom one in the pictures), and the "bottom clamshell" was the one that was placed over the cells (the top one in the pictures)). The picture in the slides shows all the cells placed into the top clamshell before the bottom clamshell was placed over them. Doing it this way made it very difficult to place the bottom clamshell over the cells, since all 18 of the cells had to line up with all 18 holes (it also increased the danger of knocking cells over, increasing the risk of shorting), and we wouldn't recommend doing it this way. 
+(Note: in our case the "top clamshell" was the one on the fixture plate (the bottom one in the pictures), and the "bottom clamshell" was the one that was placed over the cells (the top one in the pictures)). The picture in the slides shows all the cells placed into the top clamshell before the bottom clamshell was placed over them. Doing it this way made it very difficult to place the bottom clamshell over the cells, since all 18 of the cells had to line up with all 18 holes (it also increased the danger of knocking cells over, increasing the risk of shorting), and we wouldn't recommend doing it this way.&#x20;
 
 Instead, we initially placed two cells into the top clamshell, one in each corner, and placed the bottom clamshell over these two. We then held up the bottom clamshell with two pieces of PVC pipe cut to the correct length. We then placed the remaining 16 cells through both the bottom and top clamshells. Once done, the module looked like the first image on the Step 5 slide.
 
@@ -40,7 +42,7 @@ Step 8: Each module was clamped securely in place on a separate table to cure. I
 
 Bottom clamshell
 
-Once these first steps had been completed for each module, and the epoxy had cured, we went about attaching the bottom clamshell. 
+Once these first steps had been completed for each module, and the epoxy had cured, we went about attaching the bottom clamshell.&#x20;
 
 Step 1: We began by surface prepping the unglued end of each cell again (acetone, sand, acetone) as best we could in their glued orientation. Again, we made sure not to sand the weld area of the cell.
 
@@ -58,11 +60,6 @@ Final steps
 
 Once everything was mechanically attached, we put kapton tape over both sides of the module and labeled each module according to where it belonged in the pack.
 
-[](https://drive.google.com/folderview?id=1HaReuifp6LrSbjQ_QJUwPuNFasij_JvV)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1HaReuifp6LrSbjQ_QJUwPuNFasij_JvV#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1HaReuifp6LrSbjQ_QJUwPuNFasij_JvV#list" frameborder="0"></iframe>
-

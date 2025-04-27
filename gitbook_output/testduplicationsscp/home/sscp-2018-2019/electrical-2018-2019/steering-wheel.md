@@ -1,12 +1,14 @@
-# SSCP - Steering Wheel
+# steering-wheel
 
-# Steering Wheel
+## SSCP - Steering Wheel
+
+## Steering Wheel
 
 This page gives the high level overview of the set up and components for sunrise's steering wheel. Before we begin, soak in the beauty of this PCB (especially accentuated by Altium's colouring scheme). Special thanks to Maggie, Sarah, Ricardo and Kate for walking me through the design of this board, you lot are gems!
 
 In case of any questions, feel free to reach out to Maisam Pyarali on maisam@stanford.edu
 
-[ maisam@stanford.edu](mailto:maisam@stanford.edu)
+[maisam@stanford.edu](mailto:maisam@stanford.edu)
 
 ![](../../../../assets/image_b61fd13237.png)
 
@@ -54,7 +56,6 @@ The information coded to be displayed in the screen was:
 * Battery Current
 * Battery Voltage
 * BMS State
-
 * Speed of the vehicle
 * Battery Current
 * Battery Voltage
@@ -70,5 +71,4 @@ BMS State
 
 2. The MCU:
 
-This is the brain of the PCB, it takes in inputs from the buttons, throttle and Ethernet 
-
+This is the brain of the PCB, it takes in inputs from the buttons, throttle and Ethernet&#x20;

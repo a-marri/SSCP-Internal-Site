@@ -1,6 +1,8 @@
-# SSCP - Xenith: WSC2011 Notes
+# xenith-wsc2011-notes
 
-# Xenith: WSC2011 Notes
+## SSCP - Xenith: WSC2011 Notes
+
+## Xenith: WSC2011 Notes
 
 Words of Wisdom form DC, WSC 2011.
 
@@ -20,15 +22,10 @@ Discipline. "It sounds like the team wasn't very disciplined. On the drive up, t
 
 Create an automated system that allows scout to send weather data packets via a ham radio, modem, amateur radio, or satellite phone.
 
-    •  See Cruiser Class Analysis at svn/sunbad/strategy/speculation/
+&#x20;   •  See Cruiser Class Analysis at svn/sunbad/strategy/speculation/
 
-[ svn/sunbad/strategy/speculation/](https://solarcar.stanford.edu:81/svn/sunbad/strategy/speculation/)
+[svn/sunbad/strategy/speculation/](https://solarcar.stanford.edu:81/svn/sunbad/strategy/speculation/)
 
-[](https://drive.google.com/folderview?id=15temAl7tPMCmdNKHzVYE5_TnBGm4hyBM)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=15temAl7tPMCmdNKHzVYE5_TnBGm4hyBM#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=15temAl7tPMCmdNKHzVYE5_TnBGm4hyBM#list" frameborder="0"></iframe>
-

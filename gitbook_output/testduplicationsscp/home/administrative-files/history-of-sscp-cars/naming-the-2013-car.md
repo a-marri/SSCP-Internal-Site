@@ -1,6 +1,8 @@
-# SSCP - Naming the 2013 Car
+# naming-the-2013-car
 
-# Naming the 2013 Car
+## SSCP - Naming the 2013 Car
+
+## Naming the 2013 Car
 
 Nominations:
 
@@ -23,19 +25,19 @@ Nominations:
 * Kant
 * City of New Orleans or Nola
 * Bézier- mathematical, graphical, and pretentious. i love accents
-* Lithos 
+* Lithos&#x20;
 * Nietzche. Reflects the sanity of the code.
 * Acinonyx, the world's fastest animal
 * Arionidae
 * Arion would be a cool name. But nothing could beat Hemphillia.
-* Or syzygy. http://www.etymonline.com/index.php?allowed_in_frame=0&search=syzygy&searchmode=noneSunbad the Barbarian
+* Or syzygy. http://www.etymonline.com/index.php?allowed\_in\_frame=0\&search=syzygy\&searchmode=noneSunbad the Barbarian
 * Sunbad the Barbarian
-* Afterburner Strikes Back 
+* Afterburner Strikes Back&#x20;
 * Return of the back2backburner
 * Corona: The outer atmosphere of the sun commonly observed during solar eclipses. Or the beer.
 * Name the cars after Iron Man Armor: Mark I, Mark II, Mark III, HULKBUSTER.
 * STANFORD NURB...
-* Apex http://en.wikipedia.org/wiki/Apex_(racing)
+* Apex http://en.wikipedia.org/wiki/Apex\_(racing)
 * Palm
 * Face-Palm
 * Letter + Letter + Number, or Letter + Number + Number (aka the standard way everything is named when people run out of ideas)If you want the most generic possible name: SU11, SXI, etcDiotima.....Diotima of Mantinea, teacher of SocratesAspasiaHeloiseApsisLuminisLumosLuminosLaminaLuminalumenStrălucitor means shiningMostDeceWutSmashingluciferλαμπροςSwagXxXNoScopeXXxX
@@ -97,27 +99,27 @@ City of New Orleans or Nola
 
 Bézier- mathematical, graphical, and pretentious. i love accents
 
-Lithos 
+Lithos&#x20;
 
 Nietzche. Reflects the sanity of the code.
 
 Acinonyx, the world's fastest animal
 
-[ the world's fastest animal](http://www.felineconservation.org/feline_species/cheetah.htm)
+[the world's fastest animal](http://www.felineconservation.org/feline_species/cheetah.htm)
 
 Arionidae
 
 Arion would be a cool name. But nothing could beat Hemphillia.
 
-Or syzygy. http://www.etymonline.com/index.php?allowed_in_frame=0&search=syzygy&searchmode=none
+Or syzygy. http://www.etymonline.com/index.php?allowed\_in\_frame=0\&search=syzygy\&searchmode=none
 
-[ http://www.etymonline.com/index.php?allowed_in_frame=0&search=syzygy&searchmode=none](http://www.etymonline.com/index.php?allowed_in_frame=0&search=syzygy&searchmode=none)
+[http://www.etymonline.com/index.php?allowed\_in\_frame=0\&search=syzygy\&searchmode=none](http://www.etymonline.com/index.php?allowed_in_frame=0\&search=syzygy\&searchmode=none)
 
 * Sunbad the Barbarian
 
 Sunbad the Barbarian
 
-Afterburner Strikes Back 
+Afterburner Strikes Back&#x20;
 
 Return of the back2backburner
 
@@ -125,15 +127,15 @@ Corona: The outer atmosphere of the sun commonly observed during solar eclipses.
 
 Name the cars after Iron Man Armor: Mark I, Mark II, Mark III, HULKBUSTER.
 
-[ HULKBUSTER](http://en.wikipedia.org/wiki/Iron_Man_armor#Hulkbuster_Armor_.28Modular_Add-on.29)
+[HULKBUSTER](http://en.wikipedia.org/wiki/Iron_Man_armor#Hulkbuster_Armor_.28Modular_Add-on.29)
 
 STANFORD NURB...
 
-[ NURB](http://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
+[NURB](http://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
 
 [...](http://http/www.quickmeme.com/meme/3t1dwq/)
 
-Apex http://en.wikipedia.org/wiki/Apex_(racing)
+Apex http://en.wikipedia.org/wiki/Apex\_(racing)
 
 Palm
 
@@ -160,7 +162,6 @@ Letter + Letter + Number, or Letter + Number + Number (aka the standard way ever
 * lucifer
 * λαμπρος
 * SwagXxXNoScopeXXxX
-
 * If you want the most generic possible name: SU11, SXI, etc
 
 If you want the most generic possible name: SU11, SXI, etc
@@ -198,4 +199,3 @@ lucifer
 λαμπρος
 
 SwagXxXNoScopeXXxX
-

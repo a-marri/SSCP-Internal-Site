@@ -1,6 +1,8 @@
-# SSCP - Ethernet
+# ethernet
 
-# Ethernet
+## SSCP - Ethernet
+
+## Ethernet
 
 Meeting notes:
 
@@ -18,27 +20,25 @@ We can use protobufs to serialize and send the data.
 
 Make sure not to Don’t
 
- 
+&#x20;
 
- 
+&#x20;
 
- 
+&#x20;
 
 P.S. Use ubiquity for hardware
 
 END MEETING NOTES
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](ethernet.md)
 
 Our base board extension has ethernet compatibility:
 
-Base_Board_link
+Base\_Board\_link
 
-[Base_Board_link](http://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-3rd-party-evaluation-tools/stm32f4dis-ext.html)
+[Base\_Board\_link](http://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-3rd-party-evaluation-tools/stm32f4dis-ext.html)
 
 Heres the user manual:
 
@@ -53,4 +53,3 @@ example code
 [example code](https://www.element14.com/community/docs/DOC-54872?ICID=knode-STM32F4-bboardse)
 
 (Also assumes we have other extension boards such as a screen, should comment those out)
-

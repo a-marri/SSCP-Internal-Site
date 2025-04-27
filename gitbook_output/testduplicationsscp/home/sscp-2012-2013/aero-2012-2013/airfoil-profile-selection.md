@@ -1,14 +1,14 @@
-# SSCP - Airfoil Profile Selection
+# airfoil-profile-selection
 
-# Airfoil Profile Selection
+## SSCP - Airfoil Profile Selection
+
+## Airfoil Profile Selection
 
 Main Body
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](airfoil-profile-selection.md)
 
 Luminos Main Airfoil
 
@@ -16,13 +16,8 @@ Luminos main airfoil is a NACA 65-514 a=.4. The coordinate data for this airfoil
 
 Luminos Fairing Airfoil
 
-Luminos fairing airfoil is on the fairing page. 
+Luminos fairing airfoil is on the fairing page.&#x20;
 
-[](https://drive.google.com/folderview?id=1vEmwB9SJDLsHrjD7l3qWJjEOaAGonR41)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1vEmwB9SJDLsHrjD7l3qWJjEOaAGonR41#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1vEmwB9SJDLsHrjD7l3qWJjEOaAGonR41#list" frameborder="0"></iframe>
-

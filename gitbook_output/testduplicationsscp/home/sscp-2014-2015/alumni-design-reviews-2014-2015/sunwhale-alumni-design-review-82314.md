@@ -1,6 +1,8 @@
-# SSCP - Sunwhale Alumni Design Review 8/23/14
+# sunwhale-alumni-design-review-82314
 
-# Sunwhale Alumni Design Review 8/23/14
+## SSCP - Sunwhale Alumni Design Review 8/23/14
+
+## Sunwhale Alumni Design Review 8/23/14
 
 Design Review 8/23/14
 
@@ -84,21 +86,21 @@ normal pack comes w/ballast checks out
 
 to acquire semprius concentrators:
 
-- contact a project developer for concentrator solar farm installation, to acquire from them
+* contact a project developer for concentrator solar farm installation, to acquire from them
 
-          ask semprius about who other customers are
+&#x20;         ask semprius about who other customers are
 
-- approach as a non-solar-car-interest
+* approach as a non-solar-car-interest
 
-          solar decathlon ?!
+&#x20;         solar decathlon ?!
 
-          or another outside interest, interested in comparison
+&#x20;         or another outside interest, interested in comparison
 
 “so solar trackers don’t actually sit tanning all day”
 
 they deal with winds/vibration, so should be a little more durable than we were originally thinking - matt lambert
 
-sacrifice ~¼ cell in terms of area
+sacrifice \~¼ cell in terms of area
 
 reflectors
 
@@ -181,4 +183,3 @@ max’s vicor replacement (DC/DC converter)
 55-150W input, 24W out
 
 (sefelianna stopped taking notes after this)
-

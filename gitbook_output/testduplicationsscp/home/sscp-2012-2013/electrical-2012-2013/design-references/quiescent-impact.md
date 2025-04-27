@@ -1,16 +1,13 @@
-# SSCP - Quiescent Impact
+# quiescent-impact
 
-# Quiescent Impact
+## SSCP - Quiescent Impact
 
-This Spread sheet shows the impact quiescent power can have on end race performance. Considering ways to reduce running quiescent power should be considered as well as methods to reduce quiescent power when stopped through electronics or a simple switch/enable on the low voltage bus. 
+## Quiescent Impact
 
-[](https://docs.google.com/spreadsheets/d/0AiqMxQYJhb9idGZRT0IzeGhySF84ejZZdnlXbm1jMFE/edit)
+This Spread sheet shows the impact quiescent power can have on end race performance. Considering ways to reduce running quiescent power should be considered as well as methods to reduce quiescent power when stopped through electronics or a simple switch/enable on the low voltage bus.&#x20;
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](quiescent-impact.md)
 
 ![](../../../../../assets/sheets_32dp.png)
-

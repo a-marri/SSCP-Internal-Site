@@ -1,6 +1,8 @@
-# SSCP - Sunwhale Brake System
+# sunwhale-brake-system
 
-# Sunwhale Brake System
+## SSCP - Sunwhale Brake System
+
+## Sunwhale Brake System
 
 The Sunwhale brake system will exactly mirror the brake system used on Luminos. Here's some information on that system:
 
@@ -8,15 +10,11 @@ Here's the parts list from an email I sent awhile back. Ordering these items sho
 
 A couple things to note:
 
-- I believe there are new versions of the Shimano rotors that we used (RT77) (These do not work for our purposes as they are very rare)
-
-- We can actually use any bicycle calipers - the mounting patterns are the same for all. The Hayes ones are simply preferable because we haven't had any problems with them at any time.
-
-- Don't assume that we have enough tubing - you need enough contiguous tubing to run the entire distance. It's cheap, so it's always better to have more.
-
-- I'm not a fan of the 180mm rotors due to the post-machining that's required. I would investigate options for replacing the smaller rotors with ones that require less modification. The 203 mm rotors are perfect - the only operation that's required is drilling out the center carrier. The current spindle design is intended for the 203mm rotors.
-
-- I don't want this to be the first car since I've been at Stanford that has brake problems. I don't mind coming in and helping the team design and/or assemble the brake system. There are a number of tricks that make it go smoothly and safely.
+* I believe there are new versions of the Shimano rotors that we used (RT77) (These do not work for our purposes as they are very rare)
+* We can actually use any bicycle calipers - the mounting patterns are the same for all. The Hayes ones are simply preferable because we haven't had any problems with them at any time.
+* Don't assume that we have enough tubing - you need enough contiguous tubing to run the entire distance. It's cheap, so it's always better to have more.
+* I'm not a fan of the 180mm rotors due to the post-machining that's required. I would investigate options for replacing the smaller rotors with ones that require less modification. The 203 mm rotors are perfect - the only operation that's required is drilling out the center carrier. The current spindle design is intended for the 203mm rotors.
+* I don't want this to be the first car since I've been at Stanford that has brake problems. I don't mind coming in and helping the team design and/or assemble the brake system. There are a number of tricks that make it go smoothly and safely.
 
 Per wheel:
 
@@ -38,9 +36,9 @@ Per wheel:
 
 Per two wheels:
 
-Jagwire HyFlow Quick-Fit Formula ORO. Each one of these terminates four 
+Jagwire HyFlow Quick-Fit Formula ORO. Each one of these terminates four&#x20;
 
-Jagwire Hyflow Universal Tubing,  (blue). Do not use orange, since orange is required for high voltage lines.
+Jagwire Hyflow Universal Tubing,  (blue). Do not use orange, since orange is required for high voltage lines.
 
 Ducati Hypermotard Rear Master cylinder
 
@@ -48,17 +46,10 @@ Custom machined M6 splitter/m10 adapter
 
 Brake System Inventory
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](sunwhale-brake-system.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
-[](https://drive.google.com/folderview?id=16YqdnQDIt6LdfsterM3h1q_8NAPmuFD-)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=16YqdnQDIt6LdfsterM3h1q_8NAPmuFD-#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=16YqdnQDIt6LdfsterM3h1q_8NAPmuFD-#list" frameborder="0"></iframe>
-

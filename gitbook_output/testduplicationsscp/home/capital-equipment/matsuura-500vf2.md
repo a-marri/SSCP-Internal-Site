@@ -1,10 +1,12 @@
-# SSCP - Matsuura 500VF2
+# matsuura-500vf2
 
-# Matsuura 500VF2
+## SSCP - Matsuura 500VF2
+
+## Matsuura 500VF2
 
 For complete documentation on the machines including manuals for both the controls and machine see the CNC documentation folder on the ftp server. For mechanical and wiring diagrams of the machine look inside of the controls.
 
-The following is a list of all the problems the team has encountered while operating the CNC machine. Since there is not very good information on the internet about our machine its very difficult to debug even simple problems at times. 
+The following is a list of all the problems the team has encountered while operating the CNC machine. Since there is not very good information on the internet about our machine its very difficult to debug even simple problems at times.&#x20;
 
 Problems and Solutions:
 
@@ -12,7 +14,7 @@ Date: Fall 2012
 
 Problem: NC Int Light turns on
 
-Resolution: The NC  Int is an interlock for the tool changer indicating the controls are not sure what position the tool changer is in. To remove the interlock manually move the tool changer so that it is on one of the two limit switches at either end of its travel. 
+Resolution: The NC  Int is an interlock for the tool changer indicating the controls are not sure what position the tool changer is in. To remove the interlock manually move the tool changer so that it is on one of the two limit switches at either end of its travel.&#x20;
 
 Date: Fall 2012
 
@@ -22,7 +24,7 @@ Resolution: Replaced a broken zero return switch on the control panel.
 
 Date: Fall 2012
 
-Problem: ATC problem: Erro 411: M06 error 3 
+Problem: ATC problem: Erro 411: M06 error 3&#x20;
 
 Resolution: Rotated the ATC motor until Diagnostic number #1013D5 reads 0.
 
@@ -58,7 +60,7 @@ More Information: Since the zero position is given by the encoder tick after the
 
 Date: Spring 2012
 
-Problem: Machine wouldn't tool change: Error 400 Sequence Error 2, User message 411 Error 3. 
+Problem: Machine wouldn't tool change: Error 400 Sequence Error 2, User message 411 Error 3.&#x20;
 
 Resolution: Punched the reset button on every relay, swapped the air lines on the tool changer lifter cylinder, moved it up and down by hand. While it was down, I rotated the magazine one rotation by hand. Then, I removed relay 105cx and replaced it. Waved hands. It worked.
 
@@ -74,19 +76,19 @@ Resolution: Replacing the coolant pump and resetting the relay that gives it pow
 
 More Information:
 
-    Like many machine tools there is more than the big red emergency stop button in the emergency disconnect circuit. There are many different elements that are wired in series and if any one of these breaks contact the machine will hard stop with an emergency stop. Thinks on the Matsuura that are known to be in this circuit are the hard over travel switches on x,y, and z, the red button on the controls, and the reset relay for the coolant pump. There are invariably other systems tied into the emergency disconnect that were not listed. The coolant pump relay in question is at the bottom of the left cabinet if one is looking at the front of the machine.  
+&#x20;   Like many machine tools there is more than the big red emergency stop button in the emergency disconnect circuit. There are many different elements that are wired in series and if any one of these breaks contact the machine will hard stop with an emergency stop. Thinks on the Matsuura that are known to be in this circuit are the hard over travel switches on x,y, and z, the red button on the controls, and the reset relay for the coolant pump. There are invariably other systems tied into the emergency disconnect that were not listed. The coolant pump relay in question is at the bottom of the left cabinet if one is looking at the front of the machine. &#x20;
 
 Date: Summer 2011
 
-Problem: CNC controls displaying garbage 
+Problem: CNC controls displaying garbage&#x20;
 
 Resolution: Pay a tech 2.5k to fix the problem
 
-More Information: 
+More Information:&#x20;
 
-    The controls are the one thing on the machine that no one on the team is equipped to fix and are easily the most complex and expensive part of old CNC machines. We used CNC Machine Resources and had a good experience. Noel, the owner and sole employee, had a career at Yaskawa (the company that made all the electronics on the machine) and seems quite knowledgeable, charges about 75% of what his former employer would, and is very accommodating. 
+&#x20;   The controls are the one thing on the machine that no one on the team is equipped to fix and are easily the most complex and expensive part of old CNC machines. We used CNC Machine Resources and had a good experience. Noel, the owner and sole employee, had a career at Yaskawa (the company that made all the electronics on the machine) and seems quite knowledgeable, charges about 75% of what his former employer would, and is very accommodating.&#x20;
 
-[ CNC Machine Resources](http://www.cncmachineresources.com/)
+[CNC Machine Resources](http://www.cncmachineresources.com/)
 
 Date: Summer 2011
 
@@ -96,7 +98,7 @@ Resolution: Replace differential line driver chip on x and y encoders
 
 More Information:
 
-    Alarm 393 means that there is a problem with the feedback on the axis (aka encoder). The encoder only has 3 ICs: a standard op amp, quad comparator, and differential line driver. Both the op amp and comparetor have high input voltage ranges while the line driver in addition to having a max recommended operating voltage of 5.25, is also the only chip exposed to the outside world. 
+&#x20;   Alarm 393 means that there is a problem with the feedback on the axis (aka encoder). The encoder only has 3 ICs: a standard op amp, quad comparator, and differential line driver. Both the op amp and comparetor have high input voltage ranges while the line driver in addition to having a max recommended operating voltage of 5.25, is also the only chip exposed to the outside world.&#x20;
 
 Date: Winter 2012
 
@@ -106,7 +108,7 @@ Resolution: Disabled zero return check in parameters by changing 6006 bit 2 to 0
 
 More Information:
 
-    After a power cycle the machine checks to see that it has been zero returned. Since that functionality does not appear to be working we disabled it for the time being. The full consequences of this hack are unknown. 
+&#x20;   After a power cycle the machine checks to see that it has been zero returned. Since that functionality does not appear to be working we disabled it for the time being. The full consequences of this hack are unknown.&#x20;
 
 Date: Winter 2012
 
@@ -116,7 +118,7 @@ Resolution: Increase voltage on 5V rail to 5.15
 
 More Information:
 
-    The Yasnac maintenance manual specifies that the applied voltage on the 5v rail needs to be +5.15 exactly. There appears to be about .15V drop across the wires to the controls itself so the voltage at the controls is 5V when the power supply output is 5.15.
+&#x20;   The Yasnac maintenance manual specifies that the applied voltage on the 5v rail needs to be +5.15 exactly. There appears to be about .15V drop across the wires to the controls itself so the voltage at the controls is 5V when the power supply output is 5.15.
 
 Date: Winter 2012
 
@@ -126,31 +128,26 @@ Resolution: Change RS-232 Parameter
 
 More Information:
 
-    When the controls got fixed the RS-232 interface parameters got reset to their default values. There are four sets of values that actually control the interface. The baud rate, number of stop bits, enabling flow control, and setting the default interface to RS-232. 
+&#x20;   When the controls got fixed the RS-232 interface parameters got reset to their default values. There are four sets of values that actually control the interface. The baud rate, number of stop bits, enabling flow control, and setting the default interface to RS-232.&#x20;
 
 Date: Spring 2012
 
-Problem: Error Code 20 
+Problem: Error Code 20&#x20;
 
 Resolution: Make sure Job Folder Coordinate System matches specific Job Coordinate System in CAM
 
 More Information:
 
-    G Code "G68" is the causing code, for Work Coordinate System Rotation.
+&#x20;   G Code "G68" is the causing code, for Work Coordinate System Rotation.
 
-    Change work coordinate systems to match and then restart CNC machine
+&#x20;   Change work coordinate systems to match and then restart CNC machine
 
-## Tooling
+### Tooling
 
-[](#h.gue16w2j8wmw)
+#### Facemill
 
-### Facemill
-
-[](#h.gbczvu4da8r)
-
-Valenite # MSN75-278-5R3-125F. It uses SNxx-54x inserts (including SNC, SNE, SNEA, SNFM, SNG, SNGM, SNGX, SNMA, SNMG, SNMM and SNMN). 
+Valenite # MSN75-278-5R3-125F. It uses SNxx-54x inserts (including SNC, SNE, SNEA, SNFM, SNG, SNGM, SNGX, SNMA, SNMG, SNMM and SNMN).&#x20;
 
 See carbide depot for choosing part numbers for inserts
 
-[ carbide depot](http://www.carbidedepot.com/formulas-insert-d.htm)
-
+[carbide depot](http://www.carbidedepot.com/formulas-insert-d.htm)

@@ -1,6 +1,8 @@
-# SSCP - Array Passthrough Integration
+# array-passthrough-integration
 
-# Array Passthrough Integration
+## SSCP - Array Passthrough Integration
+
+## Array Passthrough Integration
 
 190625 Peer Review / Design Review by Cori
 
@@ -9,7 +11,6 @@ This was an inpromptu and informal peer review of how the array module tabs will
 * Reviewers: Sarah Woodard, Maggie Ford, Temidayo Dairo, Maisam Pyarali, Ricardo IglesiasGoal: Wanted to get a final sanity check on the process; any considerations I'm missing? Do all the connections sound okay from the EE stance?
 * Reviewers: Sarah Woodard, Maggie Ford, Temidayo Dairo, Maisam Pyarali, Ricardo Iglesias
 * Goal: Wanted to get a final sanity check on the process; any considerations I'm missing? Do all the connections sound okay from the EE stance?
-
 * Reviewers: Sarah Woodard, Maggie Ford, Temidayo Dairo, Maisam Pyarali, Ricardo Iglesias
 * Goal: Wanted to get a final sanity check on the process; any considerations I'm missing? Do all the connections sound okay from the EE stance?
 
@@ -25,7 +26,6 @@ Context: Alta array modules are design with a bus bar containing 3x blocking dio
 
 * Do we need the bus bars? Can't we just take the (potentially negligible) performance losses due to occasional shading? No -- the bypass diodes on the bus bar prevent "hot spots," i.e. if part of the module is shaded, weird current loading cases might occur that could result in a hot spot that burns through the array. So the bus bars with bypass diodes are necessary from a safety perspective as well as performance.
 * Do we need the bus bars? Can't we just take the (potentially negligible) performance losses due to occasional shading? No -- the bypass diodes on the bus bar prevent "hot spots," i.e. if part of the module is shaded, weird current loading cases might occur that could result in a hot spot that burns through the array. So the bus bars with bypass diodes are necessary from a safety perspective as well as performance.
-
 * Do we need the bus bars? Can't we just take the (potentially negligible) performance losses due to occasional shading? No -- the bypass diodes on the bus bar prevent "hot spots," i.e. if part of the module is shaded, weird current loading cases might occur that could result in a hot spot that burns through the array. So the bus bars with bypass diodes are necessary from a safety perspective as well as performance.
 
 Do we need the bus bars? Can't we just take the (potentially negligible) performance losses due to occasional shading? No -- the bypass diodes on the bus bar prevent "hot spots," i.e. if part of the module is shaded, weird current loading cases might occur that could result in a hot spot that burns through the array. So the bus bars with bypass diodes are necessary from a safety perspective as well as performance.
@@ -34,55 +34,55 @@ Proposed Methodology
 
 (1) Assemble a bus bar
 
-    CHECK  all diode connections w/ multimeter before & after soldering
+&#x20;   CHECK  all diode connections w/ multimeter before & after soldering
 
-             Also CHECK entire bus bar resistance after soldering (catch if anything is wildly out of spec)
+&#x20;            Also CHECK entire bus bar resistance after soldering (catch if anything is wildly out of spec)
 
-            << nominal values >>
+&#x20;           << nominal values >>
 
-            note: resistance is lower immediately after soldering (due to higher temp of wire/diode) OR during hotter parts of the day
+&#x20;           note: resistance is lower immediately after soldering (due to higher temp of wire/diode) OR during hotter parts of the day
 
-    Kapton the perpendicular I tab parts -- 1/2" Kapton, one layer per side
+&#x20;   Kapton the perpendicular I tab parts -- 1/2" Kapton, one layer per side
 
-            Keep the tails really long, to thread through passthroughs
+&#x20;           Keep the tails really long, to thread through passthroughs
 
-    Kapton the entire bus bar -- 1/2" Kapton, one layer per side
+&#x20;   Kapton the entire bus bar -- 1/2" Kapton, one layer per side
 
-            Use two people to do this? One gently holding tape, the other lightly rolling over it to avoid weird creasing? --> practice this on a spare wire (thinner width)
+&#x20;           Use two people to do this? One gently holding tape, the other lightly rolling over it to avoid weird creasing? --> practice this on a spare wire (thinner width)
 
-            Dog-ear the very ends? So you can solder to the tabs, then re-sandwich the tape over the solder joint
+&#x20;           Dog-ear the very ends? So you can solder to the tabs, then re-sandwich the tape over the solder joint
 
-    Solder the 4x module tabs to the bus bar -- CHECK  polarity of bus bar!
+&#x20;   Solder the 4x module tabs to the bus bar -- CHECK  polarity of bus bar!
 
-            At what length out?
+&#x20;           At what length out?
 
-    Kapton the 4x module tabs after soldering to bus bar  -- 1/2" Kapton, one layer per side
+&#x20;   Kapton the 4x module tabs after soldering to bus bar  -- 1/2" Kapton, one layer per side
 
 (2) Fold tabs following the below directions
 
-    Align module (tab-side) edge with edge of table (tabs hanging out over edge of table)
+&#x20;   Align module (tab-side) edge with edge of table (tabs hanging out over edge of table)
 
-    With square tweezers (?), carefully fold each tab one at a time about ~2mm out from the edge of the cells (assuming we want a 2mm lam border)
+&#x20;   With square tweezers (?), carefully fold each tab one at a time about \~2mm out from the edge of the cells (assuming we want a 2mm lam border)
 
-    Carefully flip module and check/improve fold
+&#x20;   Carefully flip module and check/improve fold
 
 (3) Apply VHB to module backside -- CHECK no gaps in VHB! (no water ingress!)
 
-    Use 1/2" width tape on borders (should be totally flush with lam border, not inset into the module)
+&#x20;   Use 1/2" width tape on borders (should be totally flush with lam border, not inset into the module)
 
-        At the +/- tabs, the VHB will just go over the Kapton wrapped tabs.
+&#x20;       At the +/- tabs, the VHB will just go over the Kapton wrapped tabs.
 
-    Apply 1" width tape to center rib of module (between columns 2 and 4 on the module)
+&#x20;   Apply 1" width tape to center rib of module (between columns 2 and 4 on the module)
 
-    Should we apply VHB right next to bus bar to keep it all down?
+&#x20;   Should we apply VHB right next to bus bar to keep it all down?
 
 (4) Ready to adhere!
 
-    So the bus bar goes on first, then VHB (?), then peel off backing and VERY GENTLY roll module down onto topshell. --> should practice this roll method with a burner module (last cycle they did the whole slowly pull backing off of VHB as the module was laid down, but I think that was because the Si module is so brittle that you cant just roll the mod down, it would crack)
+&#x20;   So the bus bar goes on first, then VHB (?), then peel off backing and VERY GENTLY roll module down onto topshell. --> should practice this roll method with a burner module (last cycle they did the whole slowly pull backing off of VHB as the module was laid down, but I think that was because the Si module is so brittle that you cant just roll the mod down, it would crack)
 
- 
+&#x20;
 
-<<insert pictures>>
+<>
 
 Key Design Reasoning and Concerns:
 
@@ -90,11 +90,11 @@ The borders are really tight on the array to fit on the aerobody -- about 2mm ma
 
 My main concerns were:
 
-    (1) Since the +/- bars and tabs are right on the ends of the module, the VHB border of the module has to go over these tabs. This means the module won't actually be adhered to the carbon in those areas -- however the VHB is wider than the tape and should make some contact with the carbon. Second barrier layer is the array sealant in between modules, which should fill any gaps in the VHB seal.
+&#x20;   (1) Since the +/- bars and tabs are right on the ends of the module, the VHB border of the module has to go over these tabs. This means the module won't actually be adhered to the carbon in those areas -- however the VHB is wider than the tape and should make some contact with the carbon. Second barrier layer is the array sealant in between modules, which should fill any gaps in the VHB seal.
 
-    (2) Will the array sealant cover the Kapton folded wires? --> I'm still not sure on this. The VHB is only 0.64mm and the array stack is 0.3mm, so a Kapton-wrapped folded wire is non-negligible thickness. Realistically I think we're going to end up with a very thing layer of sealant over those folded wire areas -- I think I will keep an eye on all the module borders, and if we see Silicon degrading away, we can either re-seal that area, or put smol tape over it....not the most elegant solution, but I do not think flying rocks or dust will severely put those Kapton areas at risk if they become exposed.
+&#x20;   (2) Will the array sealant cover the Kapton folded wires? --> I'm still not sure on this. The VHB is only 0.64mm and the array stack is 0.3mm, so a Kapton-wrapped folded wire is non-negligible thickness. Realistically I think we're going to end up with a very thing layer of sealant over those folded wire areas -- I think I will keep an eye on all the module borders, and if we see Silicon degrading away, we can either re-seal that area, or put smol tape over it....not the most elegant solution, but I do not think flying rocks or dust will severely put those Kapton areas at risk if they become exposed.
 
-    (3) Handling. I didn't actually bring this one up, but flipping the modules and folding the bus bars and applying the VHB will all exert some force on the cells. A bit concerened about that. I think our cells are WAY more survivable than the Si due to their small/thin nature (not prone to easy cracking or etc) -- but obviously something to be aware of. Should use extreme care with all parts of this process.
+&#x20;   (3) Handling. I didn't actually bring this one up, but flipping the modules and folding the bus bars and applying the VHB will all exert some force on the cells. A bit concerened about that. I think our cells are WAY more survivable than the Si due to their small/thin nature (not prone to easy cracking or etc) -- but obviously something to be aware of. Should use extreme care with all parts of this process.
 
 Design Feedback:
 
@@ -110,7 +110,6 @@ Will the folded wires in Kapton break over time?
 
 * I stressed a pc back and forth vigoursly for a few minutes and the wire DID break. But we will not see repeated bending in lifetime -- likely lots of vibrational stress due to driving, but I do not think vibrational forces can cause that Kapton-wrapped wire to break.
 * I stressed a pc back and forth vigoursly for a few minutes and the wire DID break. But we will not see repeated bending in lifetime -- likely lots of vibrational stress due to driving, but I do not think vibrational forces can cause that Kapton-wrapped wire to break.
-
 * I stressed a pc back and forth vigoursly for a few minutes and the wire DID break. But we will not see repeated bending in lifetime -- likely lots of vibrational stress due to driving, but I do not think vibrational forces can cause that Kapton-wrapped wire to break.
 
 I stressed a pc back and forth vigoursly for a few minutes and the wire DID break. But we will not see repeated bending in lifetime -- likely lots of vibrational stress due to driving, but I do not think vibrational forces can cause that Kapton-wrapped wire to break.
@@ -120,7 +119,6 @@ Similarly, should we spotweld?
 * No joint connections will be bent. Solder connections happen around diodes and between bus bar and tabs, but all of those joints will be held in a flat plane.Did not seem like significant value added to spot-weld.
 * No joint connections will be bent. Solder connections happen around diodes and between bus bar and tabs, but all of those joints will be held in a flat plane.
 * Did not seem like significant value added to spot-weld.
-
 * No joint connections will be bent. Solder connections happen around diodes and between bus bar and tabs, but all of those joints will be held in a flat plane.
 * Did not seem like significant value added to spot-weld.
 
@@ -128,16 +126,15 @@ No joint connections will be bent. Solder connections happen around diodes and b
 
 Did not seem like significant value added to spot-weld.
 
-* What will the order of operations be? What quality checks will you have? Good questions. I have not written an SOP yet but will do so and ask for a peer review again. Key takeaway is to triple-check bus bar polarity before soldering to module.I will also walk through this process with whoever I do the installation with (someone detail-oriented?) Side note that in this implementation scheme, there is no required order that the modules go down (no overlap between modules).
-* What will the order of operations be? What quality checks will you have? Good questions. I have not written an SOP yet but will do so and ask for a peer review again. Key takeaway is to triple-check bus bar polarity before soldering to module.I will also walk through this process with whoever I do the installation with (someone detail-oriented?) Side note that in this implementation scheme, there is no required order that the modules go down (no overlap between modules).
+* What will the order of operations be? What quality checks will you have? Good questions. I have not written an SOP yet but will do so and ask for a peer review again. Key takeaway is to triple-check bus bar polarity before soldering to module.I will also walk through this process with whoever I do the installation with (someone detail-oriented?) Side note that in this implementation scheme, there is no required order that the modules go down (no overlap between modules).
+* What will the order of operations be? What quality checks will you have? Good questions. I have not written an SOP yet but will do so and ask for a peer review again. Key takeaway is to triple-check bus bar polarity before soldering to module.I will also walk through this process with whoever I do the installation with (someone detail-oriented?) Side note that in this implementation scheme, there is no required order that the modules go down (no overlap between modules).
+* Good questions. I have not written an SOP yet but will do so and ask for a peer review again. Key takeaway is to triple-check bus bar polarity before soldering to module.
+* I will also walk through this process with whoever I do the installation with (someone detail-oriented?) Side note that in this implementation scheme, there is no required order that the modules go down (no overlap between modules).
+* What will the order of operations be? What quality checks will you have? Good questions. I have not written an SOP yet but will do so and ask for a peer review again. Key takeaway is to triple-check bus bar polarity before soldering to module.I will also walk through this process with whoever I do the installation with (someone detail-oriented?) Side note that in this implementation scheme, there is no required order that the modules go down (no overlap between modules).
 * Good questions. I have not written an SOP yet but will do so and ask for a peer review again. Key takeaway is to triple-check bus bar polarity before soldering to module.
 * I will also walk through this process with whoever I do the installation with (someone detail-oriented?) Side note that in this implementation scheme, there is no required order that the modules go down (no overlap between modules).
 
-* What will the order of operations be? What quality checks will you have? Good questions. I have not written an SOP yet but will do so and ask for a peer review again. Key takeaway is to triple-check bus bar polarity before soldering to module.I will also walk through this process with whoever I do the installation with (someone detail-oriented?) Side note that in this implementation scheme, there is no required order that the modules go down (no overlap between modules).
-* Good questions. I have not written an SOP yet but will do so and ask for a peer review again. Key takeaway is to triple-check bus bar polarity before soldering to module.
-* I will also walk through this process with whoever I do the installation with (someone detail-oriented?) Side note that in this implementation scheme, there is no required order that the modules go down (no overlap between modules).
-
-What will the order of operations be? What quality checks will you have? 
+What will the order of operations be? What quality checks will you have?&#x20;
 
 * Good questions. I have not written an SOP yet but will do so and ask for a peer review again. Key takeaway is to triple-check bus bar polarity before soldering to module.
 * I will also walk through this process with whoever I do the installation with (someone detail-oriented?) Side note that in this implementation scheme, there is no required order that the modules go down (no overlap between modules).
@@ -154,7 +151,6 @@ Will all electrical connections happen on the "dry" side, i.e. on the bottom sid
 
 * Theoretically, modules connected in series in a lengthwise orientation could have their tabs wired directly to one another to form one giant bus bar....but again, in best design practice, let's standardize and have all tabs drop through (other than in tail) and connections happen on the backside of the topshell. NOTE that we need to sort out the array PCBs.
 * Theoretically, modules connected in series in a lengthwise orientation could have their tabs wired directly to one another to form one giant bus bar....but again, in best design practice, let's standardize and have all tabs drop through (other than in tail) and connections happen on the backside of the topshell. NOTE that we need to sort out the array PCBs.
-
 * Theoretically, modules connected in series in a lengthwise orientation could have their tabs wired directly to one another to form one giant bus bar....but again, in best design practice, let's standardize and have all tabs drop through (other than in tail) and connections happen on the backside of the topshell. NOTE that we need to sort out the array PCBs.
 
 Theoretically, modules connected in series in a lengthwise orientation could have their tabs wired directly to one another to form one giant bus bar....but again, in best design practice, let's standardize and have all tabs drop through (other than in tail) and connections happen on the backside of the topshell. NOTE that we need to sort out the array PCBs.
@@ -174,7 +170,6 @@ Write out an SOP
 * Can decouple the bus bar assembly step (prior to bus bar attach)Vet the SOP (walk through it with people and try it with mockups)
 * Can decouple the bus bar assembly step (prior to bus bar attach)
 * Vet the SOP (walk through it with people and try it with mockups)
-
 * Can decouple the bus bar assembly step (prior to bus bar attach)
 * Vet the SOP (walk through it with people and try it with mockups)
 
@@ -184,7 +179,6 @@ Vet the SOP (walk through it with people and try it with mockups)
 
 * Make sure array PCBs get sorted
 * Make sure array PCBs get sorted
-
 * Make sure array PCBs get sorted
 
 Make sure array PCBs get sorted
@@ -209,7 +203,6 @@ Go ahead and start re-assembling bus bars
 * Have someone check all diode res values and polarities
 * Figure out the Kapton method
 * Then, kapton bus bars and dog ear
-
 * Have someone quality check all solder joints
 * Have someone check all diode res values and polarities
 * Figure out the Kapton method
@@ -230,7 +223,6 @@ After IV testing mods for eff, figure out what laminate border is needed on whic
 * THEN solder bus bar attach
 * THEN kapton
 * THEN VHB module backside
-
 * Trim module borders (very carefully!)
 * THEN solder bus bar attach
 * THEN kapton
@@ -252,7 +244,6 @@ THEN VHB module backside
 * Pot, cut, etc
 * IMPLEMENTbe ready to seal immediately (try out syringe method)
 * be ready to seal immediately (try out syringe method)
-
 * Go ahead and start marking up passthrough holes on topshellConfirm PCB qty need with EEConfirm edges of array that can be bondoed -- build a tape retainer wall??
 * Confirm PCB qty need with EE
 * Confirm edges of array that can be bondoed -- build a tape retainer wall??
@@ -281,4 +272,3 @@ IMPLEMENT
 * be ready to seal immediately (try out syringe method)
 
 be ready to seal immediately (try out syringe method)
-

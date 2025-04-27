@@ -1,6 +1,8 @@
-# SSCP - Media
+# media
 
-# Media
+## SSCP - Media
+
+## Media
 
 WILLIAMS LANGUAGE
 
@@ -8,11 +10,10 @@ A team from Stanford University who are preparing to compete in the World Solar 
 
 OUR SOCIAL MEDIA
 
-         Instagram, facebook
+&#x20;        Instagram, facebook
 
-[ Instagram](https://www.instagram.com/p/BKh5RMyBF_f/?taken-by=stanfordsolarcar)
+[ Instagram](https://www.instagram.com/p/BKh5RMyBF_f/?taken-by=stanfordsolarcar)
 
-[ facebook](https://www.facebook.com/stanfordsolarcar/photos/a.236941399660969.58907.152186991469744/1168152366539863/?type=3&theater)
+[facebook](https://www.facebook.com/stanfordsolarcar/photos/a.236941399660969.58907.152186991469744/1168152366539863/?type=3\&theater)
 
 BLOG
-

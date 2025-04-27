@@ -1,6 +1,8 @@
-# SSCP - Luminos: Strategy Planning
+# luminos-strategy-planning
 
-# Luminos: Strategy Planning
+## SSCP - Luminos: Strategy Planning
+
+## Luminos: Strategy Planning
 
 A Discussion on the Optimality of Constant Speed
 
@@ -10,59 +12,55 @@ About the optimality of constant speed.
 
 8 messages
 
-To: Max Praglin <mpraglin@gmail.com>, Jason Jong <jjong@stanford.edu>, Theodore Wesley Ford <twford@stanford.edu>, Gregory Hall <hall.gregory10@gmail.com>, Eric Thong <ethong@stanford.edu>
+To: Max Praglin [mpraglin@gmail.com](mailto:mpraglin@gmail.com), Jason Jong [jjong@stanford.edu](mailto:jjong@stanford.edu), Theodore Wesley Ford [twford@stanford.edu](mailto:twford@stanford.edu), Gregory Hall [hall.gregory10@gmail.com](mailto:hall.gregory10@gmail.com), Eric Thong [ethong@stanford.edu](mailto:ethong@stanford.edu)
 
-Hey all, 
+Hey all,&#x20;
 
 I think I need to disabuse people on the team from the notion that constant speed is optimal.
 
 Driving at a constant speed is only optimal under the following assumptions: (in decreasing level of importance)
 
-- Insolation does not depend on time or location.
-
-- The road is perfectly flat.
-
-- The battery pack is an ideal energy storage device (no losses).
-
-- The array's efficiency does not depend on temperature or vehicle velocity.
-
-- Regenerative breaking is perfactly efficient at recapturing energy.
+* Insolation does not depend on time or location.
+* The road is perfectly flat.
+* The battery pack is an ideal energy storage device (no losses).
+* The array's efficiency does not depend on temperature or vehicle velocity.
+* Regenerative breaking is perfactly efficient at recapturing energy.
 
 If you are interested in a rigorous derivation of the effects of these assumptions, please take a look at the attached Aurora paper.
 
-Since these assumptions are roughly true to a first order approximation, previously, we have been simply choosing a constant speed. However, we know that these assumptions are all false, and constant speed is not optimal. 
+Since these assumptions are roughly true to a first order approximation, previously, we have been simply choosing a constant speed. However, we know that these assumptions are all false, and constant speed is not optimal.&#x20;
 
-This is the reason Jason and I have been working on discarding some of these unrealistic assumptions. We have been working with Stephen Boyd, and one of his grad students for the past few months. We now know that we can use convex optimization for this problem.  We already have a speed optimizer roughly running and Jason just incorporated realtime weather forecasts. I'm still working on building in the constraints for the control stops. (waiting for control stop locations from wesley) But the point it, the output of this optimization program will definitely be a more energy efficient velocity profile than a constant speed profile
+This is the reason Jason and I have been working on discarding some of these unrealistic assumptions. We have been working with Stephen Boyd, and one of his grad students for the past few months. We now know that we can use convex optimization for this problem.  We already have a speed optimizer roughly running and Jason just incorporated realtime weather forecasts. I'm still working on building in the constraints for the control stops. (waiting for control stop locations from wesley) But the point it, the output of this optimization program will definitely be a more energy efficient velocity profile than a constant speed profile
 
 Still, our optimizer still doesn't discarded all of the assumptions (namely the last 2). Perhaps those two assumptions will cancel each other out. But anyway, our output is still ultimately just a guideline for how fast to go.
 
 Paul
 
-Paul Chen <pochuan@stanford.edu>
+Paul Chen [pochuan@stanford.edu](mailto:pochuan@stanford.edu)
 
 Thu, Aug 8, 2013 at 10:28 AM
 
-optimal_energy_management_for_solar_powered_cars.pdf
+optimal\_energy\_management\_for\_solar\_powered\_cars.pdf
 
 2839K
 
-Paul Chen <pochuan@stanford.edu>
+Paul Chen [pochuan@stanford.edu](mailto:pochuan@stanford.edu)
 
 Thu, Aug 8, 2013 at 10:41 AM
 
-To: Max Praglin <mpraglin@gmail.com>, Jason Jong <jjong@stanford.edu>, Theodore Wesley Ford <twford@stanford.edu>, Gregory Hall <hall.gregory10@gmail.com>, Eric Thong <ethong@stanford.edu>
+To: Max Praglin [mpraglin@gmail.com](mailto:mpraglin@gmail.com), Jason Jong [jjong@stanford.edu](mailto:jjong@stanford.edu), Theodore Wesley Ford [twford@stanford.edu](mailto:twford@stanford.edu), Gregory Hall [hall.gregory10@gmail.com](mailto:hall.gregory10@gmail.com), Eric Thong [ethong@stanford.edu](mailto:ethong@stanford.edu)
 
 Oh and since weather forecasts are never that accurate, during the race, we will need to repeatedly rerun the optimization as new weather information becomes available.
 
-[Quoted text hidden]
+\[Quoted text hidden]
 
-To: Paul Chen <pochuan@stanford.edu>
+To: Paul Chen [pochuan@stanford.edu](mailto:pochuan@stanford.edu)
 
-Cc: Jason Jong <jjong@stanford.edu>, Theodore Wesley Ford <twford@stanford.edu>, Gregory Hall <hall.gregory10@gmail.com>, Eric Thong <ethong@stanford.edu>
+Cc: Jason Jong [jjong@stanford.edu](mailto:jjong@stanford.edu), Theodore Wesley Ford [twford@stanford.edu](mailto:twford@stanford.edu), Gregory Hall [hall.gregory10@gmail.com](mailto:hall.gregory10@gmail.com), Eric Thong [ethong@stanford.edu](mailto:ethong@stanford.edu)
 
 Thanks for the email Paul - that all makes a lot of sense. I have a few questions, after reading through Aurora's paper:
 
--Do you know how much the peak array power should vary from Darwin to Adelaide? 
+-Do you know how much the peak array power should vary from Darwin to Adelaide?&#x20;
 
 -I understand that there is energy wasted in storing array power (either from the middle of the day, or from changing latitude), but what amount are we talking about?
 
@@ -80,37 +78,32 @@ We probably didn't think about this because there was no noticeable wind near Ch
 
 Max
 
-[Quoted text hidden]
+\[Quoted text hidden]
 
-To: Max Praglin <mpraglin@gmail.com>
+To: Max Praglin [mpraglin@gmail.com](mailto:mpraglin@gmail.com)
 
-Cc: Jason Jong <jjong@stanford.edu>, Theodore Wesley Ford <twford@stanford.edu>, Gregory Hall <hall.gregory10@gmail.com>, Eric Thong <ethong@stanford.edu>
+Cc: Jason Jong [jjong@stanford.edu](mailto:jjong@stanford.edu), Theodore Wesley Ford [twford@stanford.edu](mailto:twford@stanford.edu), Gregory Hall [hall.gregory10@gmail.com](mailto:hall.gregory10@gmail.com), Eric Thong [ethong@stanford.edu](mailto:ethong@stanford.edu)
 
 1. According to historic weather data, the average peak insolation in Oct. in Darwin is about 1600 kJ/m^2, in Adelaide is about 1400 kJ/m^2. Keep in mind we have 6 m^2 of panels, so this difference is not insignificant.
-
 2. Energy waste from storage is from the battery... I'm not super familiar with this, but I think since we are using brand new batteries, this should not be too bad? Max, do you have some ohmic loss models? maybe I can look into incorporating this.
-
-3. I will be able to quantify the energy gain hopefully by next week. But also, from the looks of it, the optimal velocity profile we output might be pertty close to constant speed after all... 
-
+3. I will be able to quantify the energy gain hopefully by next week. But also, from the looks of it, the optimal velocity profile we output might be pertty close to constant speed after all...&#x20;
 4. I didn't know, so you might be right. I'll be able to give you a more informed answer when I get everything to run.
-
 5. Yes, if you could find out how much energy each charge-discharge loses, that would be very informative.
+6. Wind is really random, and generally averages out, so I wasn't planning on including the realtime wind info into my program. But we will be monitoring wind from the forecasts (and of course the weatherhawk on our roof) to see if there is a strong prevailing wind. Which will then be factored into our calculations manually. &#x20;
 
-6. Wind is really random, and generally averages out, so I wasn't planning on including the realtime wind info into my program. But we will be monitoring wind from the forecasts (and of course the weatherhawk on our roof) to see if there is a strong prevailing wind. Which will then be factored into our calculations manually.  
+\[Quoted text hidden]
 
-[Quoted text hidden]
+To: Paul Chen [pochuan@stanford.edu](mailto:pochuan@stanford.edu)
 
-To: Paul Chen <pochuan@stanford.edu>
+Cc: Max Praglin [mpraglin@gmail.com](mailto:mpraglin@gmail.com), Jason Jong [jjong@stanford.edu](mailto:jjong@stanford.edu), Theodore Wesley Ford [twford@stanford.edu](mailto:twford@stanford.edu), Gregory Hall [hall.gregory10@gmail.com](mailto:hall.gregory10@gmail.com), Eric Thong [ethong@stanford.edu](mailto:ethong@stanford.edu)
 
-Cc: Max Praglin <mpraglin@gmail.com>, Jason Jong <jjong@stanford.edu>, Theodore Wesley Ford <twford@stanford.edu>, Gregory Hall <hall.gregory10@gmail.com>, Eric Thong <ethong@stanford.edu>
-
-I'll note that we have two Weatherhawks, so we can put one on chase. Scout can take one further ahead down the race course. This presumes both currently work. 
+I'll note that we have two Weatherhawks, so we can put one on chase. Scout can take one further ahead down the race course. This presumes both currently work.&#x20;
 
 Paul, did you try both Weatherhawks when you set up the one?
 
 -Wesley
 
--- 
+\--&#x20;
 
 T. Wesley Ford
 
@@ -122,19 +115,19 @@ PO Box 14243
 
 Stanford, CA 94309
 
-[Quoted text hidden]
+\[Quoted text hidden]
 
-To: "T. Wesley Ford" <twsford@gmail.com>
+To: "T. Wesley Ford" [twsford@gmail.com](mailto:twsford@gmail.com)
 
-Cc: Max Praglin <mpraglin@gmail.com>, Jason Jong <jjong@stanford.edu>, Theodore Wesley Ford <twford@stanford.edu>, Gregory Hall <hall.gregory10@gmail.com>, Eric Thong <ethong@stanford.edu>
+Cc: Max Praglin [mpraglin@gmail.com](mailto:mpraglin@gmail.com), Jason Jong [jjong@stanford.edu](mailto:jjong@stanford.edu), Theodore Wesley Ford [twford@stanford.edu](mailto:twford@stanford.edu), Gregory Hall [hall.gregory10@gmail.com](mailto:hall.gregory10@gmail.com), Eric Thong [ethong@stanford.edu](mailto:ethong@stanford.edu)
 
 I just randomly took one and set it up, i don't think the other one would be any different.
 
-[Quoted text hidden]
+\[Quoted text hidden]
 
-To: Paul Chen <pochuan@stanford.edu>
+To: Paul Chen [pochuan@stanford.edu](mailto:pochuan@stanford.edu)
 
-Cc: Max Praglin <mpraglin@gmail.com>, Jason Jong <jjong@stanford.edu>, Theodore Wesley Ford <twford@stanford.edu>, Gregory Hall <hall.gregory10@gmail.com>, Eric Thong <ethong@stanford.edu>
+Cc: Max Praglin [mpraglin@gmail.com](mailto:mpraglin@gmail.com), Jason Jong [jjong@stanford.edu](mailto:jjong@stanford.edu), Theodore Wesley Ford [twford@stanford.edu](mailto:twford@stanford.edu), Gregory Hall [hall.gregory10@gmail.com](mailto:hall.gregory10@gmail.com), Eric Thong [ethong@stanford.edu](mailto:ethong@stanford.edu)
 
 Unless we broke it. Do you mind checking the other one one evening?
 
@@ -148,29 +141,29 @@ T. Wesley Ford
 
 PO Box 14243
 
-Stanford, CA 94309 
+Stanford, CA 94309&#x20;
 
 (sent from my iPhone)
 
-[Quoted text hidden]
+\[Quoted text hidden]
 
-To: "T. Wesley Ford" <twsford@gmail.com>
+To: "T. Wesley Ford" [twsford@gmail.com](mailto:twsford@gmail.com)
 
-Cc: Paul Chen <pochuan@stanford.edu>, Jason Jong <jjong@stanford.edu>, Theodore Wesley Ford <twford@stanford.edu>, Gregory Hall <hall.gregory10@gmail.com>, Eric Thong <ethong@stanford.edu>
+Cc: Paul Chen [pochuan@stanford.edu](mailto:pochuan@stanford.edu), Jason Jong [jjong@stanford.edu](mailto:jjong@stanford.edu), Theodore Wesley Ford [twford@stanford.edu](mailto:twford@stanford.edu), Gregory Hall [hall.gregory10@gmail.com](mailto:hall.gregory10@gmail.com), Eric Thong [ethong@stanford.edu](mailto:ethong@stanford.edu)
 
-Hopefully this gives you an idea of how much energy is lost in a full charge/discharge cycle of the cells - I am calculating "loss" as the difference in energy from charging and discharging between 4.2V and 2.5V, divided by the nominal energy in the cell (3.35 Ah * 3.6V). The current is per-cell, so multiply by 16 for total battery current.
+Hopefully this gives you an idea of how much energy is lost in a full charge/discharge cycle of the cells - I am calculating "loss" as the difference in energy from charging and discharging between 4.2V and 2.5V, divided by the nominal energy in the cell (3.35 Ah \* 3.6V). The current is per-cell, so multiply by 16 for total battery current.
 
-Max Praglin <mpraglin@gmail.com>
+Max Praglin [mpraglin@gmail.com](mailto:mpraglin@gmail.com)
 
-Paul Chen <pochuan@stanford.edu>
+Paul Chen [pochuan@stanford.edu](mailto:pochuan@stanford.edu)
 
-T. Wesley Ford <twsford@gmail.com>
+T. Wesley Ford [twsford@gmail.com](mailto:twsford@gmail.com)
 
-T. Wesley Ford <twsford@gmail.com>
+T. Wesley Ford [twsford@gmail.com](mailto:twsford@gmail.com)
 
-Paul Chen <pochuan@stanford.edu>
+Paul Chen [pochuan@stanford.edu](mailto:pochuan@stanford.edu)
 
-Max Praglin <mpraglin@gmail.com>
+Max Praglin [mpraglin@gmail.com](mailto:mpraglin@gmail.com)
 
 Thu, Aug 8, 2013 at 9:02 PM
 
@@ -189,7 +182,6 @@ Below are some VERY early thoughts on strategy. They were not carried over into 
 * Drag test (drag the solar car behind a trailer while measuring tension on the ropeCoast down test (Roll the solar car down a slope on a flat surface until it stops. Measure velocity and distance)
 * Drag test (drag the solar car behind a trailer while measuring tension on the rope
 * Coast down test (Roll the solar car down a slope on a flat surface until it stops. Measure velocity and distance)
-
 * Drag test (drag the solar car behind a trailer while measuring tension on the rope
 * Coast down test (Roll the solar car down a slope on a flat surface until it stops. Measure velocity and distance)
 
@@ -205,29 +197,29 @@ Highest level:
 
 Power production - power consumption = coulombs
 
->> then determine optimal speed based off of Power Avail - losses to terrain, losses from weather, wind, tires, etc.
+> > then determine optimal speed based off of Power Avail - losses to terrain, losses from weather, wind, tires, etc.
 
 Power production(time, location, weather, terrain, temperature, MPPT eff) {
 
-    Insolation(time, location, terrain, weather, temp)
+&#x20;   Insolation(time, location, terrain, weather, temp)
 
 return power production
 
 }
 
-5/12/12: matlab power_produced(filename, temperature)
+5/12/12: matlab power\_produced(filename, temperature)
 
 > insolation measurement based off of weatherzone data
 
-> pv_efficiency given by a temperature-dependent standard input
+> pv\_efficiency given by a temperature-dependent standard input
 
 (**still need a way to measure/calculate input temperatures**)
 
 > dynamic prompting for time/dates
 
-> ** still no response to transient weather dependency (ex: cloud cover)
+> \*\* still no response to transient weather dependency (ex: cloud cover)
 
-**array temperatures: ambient temp, extra heating, wind cooling
+\*\*array temperatures: ambient temp, extra heating, wind cooling
 
 Power consumption(speed, terrain, wind, tire, motor ) {
 
@@ -251,17 +243,12 @@ action items:
 
 get terrain data, insolation data, route data.
 
-> distance_between(start_lat, start_long, end_lat, end_long) for route simulation
+> distance\_between(start\_lat, start\_long, end\_lat, end\_long) for route simulation
 
 Test array eff dependency on temp
 
 > 0.32% gain/loss in efficiency per degC off of STD (25degC)
 
-[](https://drive.google.com/folderview?id=1RTJqsfurj-whB6JYLanMzLa-sLzeJWEk)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1RTJqsfurj-whB6JYLanMzLa-sLzeJWEk#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1RTJqsfurj-whB6JYLanMzLa-sLzeJWEk#list" frameborder="0"></iframe>
-

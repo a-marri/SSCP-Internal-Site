@@ -1,6 +1,8 @@
-# SSCP - Ferrari Event
+# ferrari-event
 
-# Ferrari Event
+## SSCP - Ferrari Event
+
+## Ferrari Event
 
 The Ferrari Club of North America visit to VAIL was a little bit silly compared to our other outreach events, but it was a fun break from the norm. We probably could have done a better job to get some private cash sponsorships out of the event, but we didn't try hard enough. This page is to give an outline of a example schedule for a longish public outreach event at VAIL
 
@@ -10,7 +12,7 @@ The Ferrari Club of North America visit to VAIL was a little bit silly compared 
 
 1:30 finish getting food
 
-1:30-1:50 solar car picture/video presentation 
+1:30-1:50 solar car picture/video presentation&#x20;
 
 1:50-2:05 possible REVS presentation
 
@@ -60,5 +62,4 @@ Simulator Wesley
 
 Wesley Apogee Xenith
 
-Jason drive Luminos 
-
+Jason drive Luminos&#x20;

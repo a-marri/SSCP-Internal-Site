@@ -1,12 +1,10 @@
-# SSCP - New IAR Project
+# new-iar-project
 
-# New IAR Project
+## SSCP - New IAR Project
 
-- copy all project files to new folder. 
+## New IAR Project
 
-- remove workspace files from new folder (*.eww and ./settings/*.wsdt, NOT *.ewp.wsdt) 
-
-- from IAR, create a new workspace (by exiting out of your current one), click project->add existing project, select the *.ewp file in the new project folder. 
-
-- Save workspace in new project folder
-
+* copy all project files to new folder.&#x20;
+* remove workspace files from new folder (_.eww and ./settings/_.wsdt, NOT \*.ewp.wsdt)&#x20;
+* from IAR, create a new workspace (by exiting out of your current one), click project->add existing project, select the \*.ewp file in the new project folder.&#x20;
+* Save workspace in new project folder

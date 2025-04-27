@@ -1,6 +1,8 @@
-# SSCP - 18-07-22 Updates
+# 18-07-22-updates
 
-# 18-07-22 Updates
+## SSCP - 18-07-22 Updates
+
+## 18-07-22 Updates
 
 Aero
 
@@ -21,7 +23,6 @@ Key Points:
 * Berkeley
 * AutodeskWe'd have to machine the model in two pieces at Autodesk, but that should be fine
 * We'd have to machine the model in two pieces at Autodesk, but that should be fine
-
 * Switched from Star-CCM to SU2We were unable to replicate wind tunnel numbers in simulationVisualization was likewise very difficult to useMeshing gave us less controlOptimization turned out to not be easier, or maybe even not an optionUnfortunately didn't get a lot of help from Siemens either after Yuji5 strikes, it's out
 * We were unable to replicate wind tunnel numbers in simulation
 * Visualization was likewise very difficult to use
@@ -95,7 +96,6 @@ Wins:
 * Some weird things to figure out
 * But once you do, it's much better
 * Having lots of fun!
-
 * Much happier with our new pipelineMade more progress trying ParaView in an hour than we did with Star-CCM in a day
 * Made more progress trying ParaView in an hour than we did with Star-CCM in a day
 * Pretty thoroughly debugged Star-CCM. Future teams will have a lot to work with if they consider switching away from SU2 againEfforts are documented on the Drive under Aero/Toolchain tutorials/Star-CCM+
@@ -146,18 +146,16 @@ Business
 
 Key Points:
 
-* Lyft Open House this Wednesday for anyone interested! 
-* Lyft Open House this Wednesday for anyone interested! 
+* Lyft Open House this Wednesday for anyone interested!&#x20;
+* Lyft Open House this Wednesday for anyone interested!&#x20;
+* Lyft Open House this Wednesday for anyone interested!&#x20;
 
-* Lyft Open House this Wednesday for anyone interested! 
-
-Lyft Open House this Wednesday for anyone interested! 
+Lyft Open House this Wednesday for anyone interested!&#x20;
 
 Wins:
 
 * Raytheon grant application submitted
 * Raytheon grant application submitted
-
 * Raytheon grant application submitted
 
 Raytheon grant application submitted
@@ -166,7 +164,6 @@ Losses:
 
 * Reimbursements are down due to My Groups changes
 * Reimbursements are down due to My Groups changes
-
 * Reimbursements are down due to My Groups changes
 
 Reimbursements are down due to My Groups changes
@@ -177,7 +174,6 @@ Key Points:
 
 * Had code team meeting (data + embedded), created pipeline for members to initiate new projects formally
 * Had code team meeting (data + embedded), created pipeline for members to initiate new projects formally
-
 * Had code team meeting (data + embedded), created pipeline for members to initiate new projects formally
 
 Had code team meeting (data + embedded), created pipeline for members to initiate new projects formally
@@ -192,32 +188,29 @@ Key Points:
 
 * Finished implementing the "Turn-On-Filtering on Accelerometer!"
 * Finished implementing the "Turn-On-Filtering on Accelerometer!"
-
 * Finished implementing the "Turn-On-Filtering on Accelerometer!"
 
 Finished implementing the "Turn-On-Filtering on Accelerometer!"
 
 Wins:
 
-* IAR experimental setup up and runningWE FOUND THE CONNECTORS, DAYO. 
+* IAR experimental setup up and runningWE FOUND THE CONNECTORS, DAYO.&#x20;
 * IAR experimental setup up and running
-* WE FOUND THE CONNECTORS, DAYO. 
-
+* WE FOUND THE CONNECTORS, DAYO.&#x20;
 * IAR experimental setup up and running
-* WE FOUND THE CONNECTORS, DAYO. 
+* WE FOUND THE CONNECTORS, DAYO.&#x20;
 
 IAR experimental setup up and running
 
-WE FOUND THE CONNECTORS, DAYO. 
+WE FOUND THE CONNECTORS, DAYO.&#x20;
 
 Losses:
 
-* We found out that the code we're flashing to the VC hangs. We aren't sure what causes this, but what better time than the present to find out? 
-* We found out that the code we're flashing to the VC hangs. We aren't sure what causes this, but what better time than the present to find out? 
+* We found out that the code we're flashing to the VC hangs. We aren't sure what causes this, but what better time than the present to find out?&#x20;
+* We found out that the code we're flashing to the VC hangs. We aren't sure what causes this, but what better time than the present to find out?&#x20;
+* We found out that the code we're flashing to the VC hangs. We aren't sure what causes this, but what better time than the present to find out?&#x20;
 
-* We found out that the code we're flashing to the VC hangs. We aren't sure what causes this, but what better time than the present to find out? 
-
-We found out that the code we're flashing to the VC hangs. We aren't sure what causes this, but what better time than the present to find out? 
+We found out that the code we're flashing to the VC hangs. We aren't sure what causes this, but what better time than the present to find out?&#x20;
 
 Mechanical + Composites
 
@@ -228,7 +221,6 @@ Key Points:
 * we made the candidate bullet race car track width longer and now it matches Sundae sort of #majoredits
 * we have Altair. It's large and confusing
 * we have chosen the desired general location of the center of pressure (@ aero team) but haven't done the math yet to demonstrate how much it actually matters for #stability
-
 * we're behind on mule car again
 * we made the candidate bullet race car track width longer and now it matches Sundae sort of #majoredits
 * we have Altair. It's large and confusing
@@ -246,7 +238,6 @@ Wins:
 
 * we're almost at a point where we can start some building on the mule car while finishing #design
 * we're almost at a point where we can start some building on the mule car while finishing #design
-
 * we're almost at a point where we can start some building on the mule car while finishing #design
 
 we're almost at a point where we can start some building on the mule car while finishing #design
@@ -255,7 +246,6 @@ Losses:
 
 * CAD development is still happening very slowly #rip
 * CAD development is still happening very slowly #rip
-
 * CAD development is still happening very slowly #rip
 
 CAD development is still happening very slowly #rip
@@ -267,4 +257,3 @@ Key Points:
 Wins:
 
 Losses:
-

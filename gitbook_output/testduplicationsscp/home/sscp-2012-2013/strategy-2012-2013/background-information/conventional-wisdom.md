@@ -1,52 +1,45 @@
-# SSCP - Conventional Wisdom
+# conventional-wisdom
 
-# Conventional Wisdom
+## SSCP - Conventional Wisdom
+
+## Conventional Wisdom
 
 OVERALL GOAL: to minimize total driving time by driving max sustainable speed and ending the race with minimum battery charge.
 
-### Basic Strategy
+#### Basic Strategy
 
-[](#h.k5xt57qnsvsu)
+&#x20;   1\) Due to the nonlinear relationship between velocity and power consumption (power penalty for increased speed), the general strategy has been to maintain constant, optimal speed.
 
-    1) Due to the nonlinear relationship between velocity and power consumption (power penalty for increased speed), the general strategy has been to maintain constant, optimal speed.
+&#x20;   2\) Alternate strategy is to match the desired state of charge at each point (instead of constant speed).
 
-    2) Alternate strategy is to match the desired state of charge at each point (instead of constant speed).
+&#x20; &#x20;
 
-   
+&#x20;   NOTE: These two strategies should be correlated, but differ due to changing environmental conditions such as grade, weather, etc.
 
-    NOTE: These two strategies should be correlated, but differ due to changing environmental conditions such as grade, weather, etc.
+#### Power Production
 
-### Power Production
+&#x20;   Power Production dependent on climate and weather (pyranometer; cloud cover)
 
-[](#h.xqzbtoh97ao)
+&#x20;   Typical array output \~1-1.3 kW at solar noon
 
-    Power Production dependent on climate and weather (pyranometer; cloud cover)
+&#x20;   Contrast to below 80W overcast
 
-    Typical array output ~1-1.3 kW at solar noon
+#### Power Consumption
 
-    Contrast to below 80W overcast
+&#x20;   Power Consumption dependent on drag, tires, wind (anemometer)…
 
-### Power Consumption
+&#x20;   Power consumption 1.1-1.5kW at typical target speed 90kph
 
-[](#h.66l274fm2n9j)
+#### Solar Vocab
 
-    Power Consumption dependent on drag, tires, wind (anemometer)…
+&#x20;       •  Insolation == Solar Irradiation. Wh/m^2 (== J/m^s). Is a measure of incident solar radiation ENERGY over a given amount of time. (set fixed location and angle)
 
-    Power consumption 1.1-1.5kW at typical target speed 90kph
-
-### Solar Vocab
-
-[](#h.7j0d5hu8fv7u)
-
-        •  Insolation == Solar Irradiation. Wh/m^2 (== J/m^s). Is a measure of incident solar radiation ENERGY over a given amount of time. (set fixed location and angle)
-
-        •  Irradiance, Solar Irradiance. W/m^2. Is instantaneous POWER of E&M radiation. (point at the sun)
+&#x20;       •  Irradiance, Solar Irradiance. W/m^2. Is instantaneous POWER of E\&M radiation. (point at the sun)
 
 Thus insolation/irradiation is the integral of irradiance over time.
 
-        •  Pyranometer: measures solar insolation
+&#x20;       •  Pyranometer: measures solar insolation
 
-                       --  Thermopile sensor absorbs radiation, turns to heat, generates voltage, represents insolation.
+&#x20;                      \--  Thermopile sensor absorbs radiation, turns to heat, generates voltage, represents insolation.
 
-        •  Pyrheliometer tracks the sun.
-
+&#x20;       •  Pyrheliometer tracks the sun.

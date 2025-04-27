@@ -1,6 +1,8 @@
-# SSCP - Test Drive Debriefs 2014-2015
+# test-drive-debriefs-2014-2015
 
-# Test Drive Debriefs 2014-2015
+## SSCP - Test Drive Debriefs 2014-2015
+
+## Test Drive Debriefs 2014-2015
 
 Central Valley Drive #1 July 19 2015
 
@@ -66,7 +68,7 @@ Clear chain of command, who makes final decisions
 
 JAMIE is official race crew lead, point person for test drives
 
-“This is not a consensus-building team.”  
+“This is not a consensus-building team.” &#x20;
 
 If someone tells you to stay in the car, stay in the car
 
@@ -74,7 +76,7 @@ Listen to people: safety is priority, communications can be slow afterwards
 
 Don’t hold up the convoy
 
-Keep track of your belongings (e.g. laptops, chargers, phones, etc.) \
+Keep track of your belongings (e.g. laptops, chargers, phones, etc.) \\
 
 Be prepared to pee in a bottle, convoy will not stop for you
 
@@ -108,9 +110,9 @@ Checklists (mech, electrical, driving readiness)
 
 Protocols (safety, general convoy information)
 
-Critical parts and failure modes, i.e. are we fucked without this / if this happens\
+Critical parts and failure modes, i.e. are we fucked without this / if this happens\\
 
-Electrical packing, consolidating into “chase box” 
+Electrical packing, consolidating into “chase box”&#x20;
 
 Get general packing list checked
 
@@ -142,13 +144,8 @@ Other critical parts
 
 Test Drive Map HERE.
 
-[ HERE](https://www.google.com/maps/d/u/0/viewer?usp=sharing&mid=z5Zdk61XbJa4.kTBA5wq_0tmc)
+[HERE](https://www.google.com/maps/d/u/0/viewer?usp=sharing\&mid=z5Zdk61XbJa4.kTBA5wq_0tmc)
 
-[](https://drive.google.com/folderview?id=1aBF9m0_LWYeTanOxF6JXAcdhWv7apmOi)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1aBF9m0_LWYeTanOxF6JXAcdhWv7apmOi#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1aBF9m0_LWYeTanOxF6JXAcdhWv7apmOi#list" frameborder="0"></iframe>
-

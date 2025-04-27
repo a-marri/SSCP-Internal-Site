@@ -1,6 +1,8 @@
-# SSCP - 19-02-03 Updates
+# 19-02-03-updates
 
-# 19-02-03 Updates
+## SSCP - 19-02-03 Updates
+
+## 19-02-03 Updates
 
 SPONSOR UPDATES
 
@@ -10,7 +12,6 @@ Tell the team who you talked to.
 * Sarah - Evonik structural foam for composites week
 * Sarah W. and Adam -- reaching out to a bunch of potential EE sponsors
 * Renewing Altium license
-
 * Sarah - Evonik structural foam for composites week
 * Sarah W. and Adam -- reaching out to a bunch of potential EE sponsors
 * Renewing Altium license
@@ -31,7 +32,6 @@ Key Points:
 * NDA undergoing edits (Stanford + Alta)
 * Projects ongoing (getting in sealants, printing cell mounts)
 * Maggie to help with stringing optimization endeavor
-
 * NDA undergoing edits (Stanford + Alta)
 * Projects ongoing (getting in sealants, printing cell mounts)
 * Maggie to help with stringing optimization endeavor
@@ -46,20 +46,19 @@ Business
 
 Key Points:
 
-* Working on finding rental car sponsor.Working on cargo airliner sponsor.Beginning Newsletter. 
+* Working on finding rental car sponsor.Working on cargo airliner sponsor.Beginning Newsletter.&#x20;
 * Working on finding rental car sponsor.
 * Working on cargo airliner sponsor.
-* Beginning Newsletter. 
-
+* Beginning Newsletter.&#x20;
 * Working on finding rental car sponsor.
 * Working on cargo airliner sponsor.
-* Beginning Newsletter. 
+* Beginning Newsletter.&#x20;
 
 Working on finding rental car sponsor.
 
 Working on cargo airliner sponsor.
 
-Beginning Newsletter. 
+Beginning Newsletter.&#x20;
 
 Code + Strategy
 
@@ -69,7 +68,6 @@ Key Points:
 * Car on the bench is on its way!!
 * Telemetry stability is improving
 * Have multiple people working on battery, power to drive and overall model - weather model work is on the horizon
-
 * Car on the bench is on its way!!
 * Telemetry stability is improving
 * Have multiple people working on battery, power to drive and overall model - weather model work is on the horizon
@@ -89,7 +87,6 @@ Key Points:
 * In process of purchasing and selecting other wire and connectors (looking for sponsors!)
 * Next rev of throttle boards arrivedDebugging and mini-design review with Harry last Wednesday
 * Debugging and mini-design review with Harry last Wednesday
-
 * Connected with channel wire vendor, obtained quote. Wire pictured below:
 * In process of purchasing and selecting other wire and connectors (looking for sponsors!)
 * Next rev of throttle boards arrivedDebugging and mini-design review with Harry last Wednesday
@@ -121,11 +118,9 @@ Key Points:
 * Design review szn is nearly upon usThis week: ordering materials for layups
 * Design review szn is nearly upon us
 * This week: ordering materials for layups
-
 * Design review szn is nearly upon us
 * This week: ordering materials for layups
 
 Design review szn is nearly upon us
 
 This week: ordering materials for layups
-

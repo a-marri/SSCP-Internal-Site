@@ -1,6 +1,8 @@
-# SSCP - Installing Pointwise
+# installing-pointwise
 
-# Installing Pointwise
+## SSCP - Installing Pointwise
+
+## Installing Pointwise
 
 Pointwise is the meshing software we use in our aero pipeline, and can be installed on Windows (64 Bit), OSX or Linux. We have 5 floating licenses, which means up to 5 users can have Pointwise opened on their computers at any given time.
 
@@ -20,17 +22,16 @@ Once it is installed go ahead and select the "Full Traffic non-split-tunnel" opt
 
 Step 2:
 
-You can download it from the sftp server. It is located in '/Software/Pointwise/pw-V18.3-win64-jre.exe' 
+You can download it from the sftp server. It is located in '/Software/Pointwise/pw-V18.3-win64-jre.exe'&#x20;
 
 To use Pointwise, first make sure your computer is a 64-bit machine and can handle it because like Solidworks it can be pretty computationally intensive (2GB free space and 2GB RAM at an absolute minimum, see more notes here). After downloading and launching, Pointwise will fail to find license, select the option to pick a license server on the License Wizard.
 
-[ here](http://www.pointwise.com/support/release-notes-V18R2.html)
+[here](http://www.pointwise.com/support/release-notes-V18R2.html)
 
 ![](../../../assets/image_1df6b38b4c.png)
 
 ![](../../../assets/image_0895bada73.png)
 
- Now enter the RLM license server name sscp2.stanford.edu and the port 5053. Pointwise should remember these values upon future launches.
+&#x20;Now enter the RLM license server name sscp2.stanford.edu and the port 5053. Pointwise should remember these values upon future launches.
 
 ![](../../../assets/image_e88d581ee3.png)
-

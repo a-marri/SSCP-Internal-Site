@@ -1,60 +1,61 @@
-# SSCP - General Lights
+# general-lights
 
-# General Lights
+## SSCP - General Lights
 
-R·    Stop lights must be red; indicator lights must be amber.
+## General Lights
 
-     Must comply with UNECE 6 (http://www.unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/updates/R006r6e.pdf -- see page 11 for                                                     luminosity requirements
+R·    Stop lights must be red; indicator lights must be amber.
 
-                                        http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A42014X0718(01) -- see Annex 1 for different                                                    direction indicator categories), 
+&#x20;    Must comply with UNECE 6 (http://www.unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/updates/R006r6e.pdf -- see page 11 for                                                     luminosity requirements
 
-                                        7 (http://www.unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/updates/R007r6e.pdf),
+&#x20;                                       http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A42014X0718(01) -- see Annex 1 for different                                                    direction indicator categories),&#x20;
 
-                                        and 37 (http://www.unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/updates/R037r8e.pdf)
+&#x20;                                       7 (http://www.unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/updates/R007r6e.pdf),
 
-                                        or DOT equivalent (https://www.fmcsa.dot.gov/regulations/title49/section/393.11). 
+&#x20;                                       and 37 (http://www.unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/updates/R037r8e.pdf)
 
-    Compliance must be shown on the lamps or by the certifying engineer.
+&#x20;                                       or DOT equivalent (https://www.fmcsa.dot.gov/regulations/title49/section/393.11).&#x20;
 
-     Rear stop light must be within 400 mm of the extreme outer edge of car
+&#x20;   Compliance must be shown on the lamps or by the certifying engineer.
 
-                            at least 600 mm apart
+&#x20;    Rear stop light must be within 400 mm of the extreme outer edge of car
 
-                            at least 350 mm above ground
+&#x20;                           at least 600 mm apart
 
-                            must be visible 15 degrees up, 5 degrees down and 45 degrees left/ right
+&#x20;                           at least 350 mm above ground
 
-     A central stop lamp is required.
+&#x20;                           must be visible 15 degrees up, 5 degrees down and 45 degrees left/ right
 
-o   Viewed from behind, lateral position of lamp must coincide with visual center of solar car.
+&#x20;    A central stop lamp is required.
 
-o   Lamp must be higher than a point 150mm below rear windscreen or canopy
+o   Viewed from behind, lateral position of lamp must coincide with visual center of solar car.
 
-o   Lamp must be visible 10 degrees up, 5 degrees down and 10 degrees to the left and right
+o   Lamp must be higher than a point 150mm below rear windscreen or canopy
 
-·          Front and rear direction indicator lamps
+o   Lamp must be visible 10 degrees up, 5 degrees down and 10 degrees to the left and right
 
-o   must be within 400 mm of the extreme outer edge of solar car on each side
+·          Front and rear direction indicator lamps
 
-o   at least 600 mm apart (400 mm if solar car less than 1300 mm wide)
+o   must be within 400 mm of the extreme outer edge of solar car on each side
 
-o   at least 350 mm above the ground
+o   at least 600 mm apart (400 mm if solar car less than 1300 mm wide)
 
-·          Side direction indicator lamps
+o   at least 350 mm above the ground
 
-o   must be less than 1800 mm behind the front most part of the solar car
+·          Side direction indicator lamps
 
-·          Direction indicator lamps
+o   must be less than 1800 mm behind the front most part of the solar car
 
-o   Must be visible 15 degrees up and five degrees down
+·          Direction indicator lamps
 
-o   125 degrees for front and back right lights and side right lights should have 60 degrees of visibility, with 5 degrees away from the car
+o   Must be visible 15 degrees up and five degrees down
 
-o   Must flash at 90 +- 30 flashes per minute
+o   125 degrees for front and back right lights and side right lights should have 60 degrees of visibility, with 5 degrees away from the car
 
-o   Must be possible to flash left and right direction indicator lamps simultaneously, as a hazard warning signal
+o   Must flash at 90 +- 30 flashes per minute
+
+o   Must be possible to flash left and right direction indicator lamps simultaneously, as a hazard warning signal
 
 Potential LED Headlight Choice: http://www.cree.com/LED-Components-and-Modules/Products/XLamp/Discrete-Directional/XLamp-MLE
 
-Photodiode: http://www.digikey.com/product-search/en/sensors-transducers/optical-sensors-photodiodes/1967048?k=&pkeyword=&pv1506=57&FV=1f140000%2Cfff4001e%2Cfff803c8&mnonly=0&newproducts=0&ColumnSort=551&page=1&quantity=0&ptm=0&fid=0&pageSize=25
-
+Photodiode: http://www.digikey.com/product-search/en/sensors-transducers/optical-sensors-photodiodes/1967048?k=\&pkeyword=\&pv1506=57\&FV=1f140000%2Cfff4001e%2Cfff803c8\&mnonly=0\&newproducts=0\&ColumnSort=551\&page=1\&quantity=0\&ptm=0\&fid=0\&pageSize=25

@@ -1,26 +1,20 @@
-# SSCP - Traveling to Australia Fall 2013 Q&A
+# traveling-to-australia-fall-2013-qa
 
-# Traveling to Australia Fall 2013 Q&A
+## SSCP - Traveling to Australia Fall 2013 Q\&A
 
-### Why should I go to Australia?
+## Traveling to Australia Fall 2013 Q\&A
 
-[](#h.rd8cqangkkvj)
+#### Why should I go to Australia?
 
-1) You will have spent two years designing, building, and perfecting our new car. WSC is the most competitive solar car event in the world, so going to Australia is the best way to culminate the team's building experience.
+1. You will have spent two years designing, building, and perfecting our new car. WSC is the most competitive solar car event in the world, so going to Australia is the best way to culminate the team's building experience.
+2. There are 40 teams from absolutely every corner of the globe at the World Solar Challenge, so you'll get to see how other teams solve the same engineering and race challenges you face. Wondering how teams in Chile build a solar car? Wondering if German solar cars are well suited to carry beer? Wondering what exactly is an American solar car semi? Come to Australia to find out!
+3. Stanford Solar Car people are pretty awesome and they are even more awesome when no one has to worry about problem sets and finals. Spending a quarter with your friends traveling across the Outback (twice!) and throughout Asia will be a blast!
+4. You will have no limit to the number of unbelievable stories that you can tell your friends, family, enemies, lovers, and coworkers that start with "When I went to drive a solar car across the f\*&?>#\* Australian Outback..." The Outback is a pretty crazy place, and adding multimillion dollar race cars only augments the adventure.
+5. You get pictures!
 
-2) There are 40 teams from absolutely every corner of the globe at the World Solar Challenge, so you'll get to see how other teams solve the same engineering and race challenges you face. Wondering how teams in Chile build a solar car? Wondering if German solar cars are well suited to carry beer? Wondering what exactly is an American solar car semi? Come to Australia to find out!
+[pictures](https://picasaweb.google.com/108222811689235828917/WorldSolarChallenge2011)
 
-3) Stanford Solar Car people are pretty awesome and they are even more awesome when no one has to worry about problem sets and finals. Spending a quarter with your friends traveling across the Outback (twice!) and throughout Asia will be a blast!
-
-4) You will have no limit to the number of unbelievable stories that you can tell your friends, family, enemies, lovers, and coworkers that start with "When I went to drive a solar car across the f*&?>#* Australian Outback..." The Outback is a pretty crazy place, and adding multimillion dollar race cars only augments the adventure.
-
-5) You get pictures!
-
-[ pictures](https://picasaweb.google.com/108222811689235828917/WorldSolarChallenge2011)
-
-### What will the 5-7 weeks in Australia entail?  Since the race is early October, does that mean that the team goes to Australia in early September, or do you guys plan to stay a couple weeks after the race?
-
-[](#h.eoj79qsqqlnt)
+#### What will the 5-7 weeks in Australia entail?  Since the race is early October, does that mean that the team goes to Australia in early September, or do you guys plan to stay a couple weeks after the race?
 
 We'll probably be in Australia in early September. Our tentative schedule is to have some people arriving in Australia the week of September 9th to receive the car from customs. The date that our car passes customs can vary. Two years ago there were strikes that delayed our car. Two years before that there was a tsunami that delayed our car. We basically have to sit around for a week or two waiting to hear when our car will be pass customs. We will probably want the rest of the team to be in Australia by September 15th. During the time before we receive our car we can do some things like picking up our rental vehicles, but since all of our tools and supplies will be with the car stuck in customs we can't do a whole lot. Therefore the first few days in Australia are pretty relaxing. We spent our time at a hostel in Melbourne in 2011. We were a block from the downtown St. Kilda area and a block and a half from the beach. Melbourne is a pretty cool city, so we kept ourselves busy until the car came out of customs. We also visited some Stanford alumni in Melbourne.
 
@@ -35,4 +29,3 @@ At the finish of the race the team will spend a couple of days in Adelaide. The 
 If we kept the same schedule as 2013 people would fly out of Melbourne on October 19th or so.
 
 Remember that all of the dates are still flexible.
-

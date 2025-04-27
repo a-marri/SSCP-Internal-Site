@@ -1,6 +1,8 @@
-# SSCP - Panasonic
+# panasonic
 
-# Panasonic
+## SSCP - Panasonic
+
+## Panasonic
 
 Meeting with Paul Dennig (7/27)
 
@@ -16,7 +18,7 @@ As soon as possible (next week)
 
 Test Pack
 
-500 cells 
+500 cells&#x20;
 
 Winter Quarter (End of January 1/23) - cell delivery
 
@@ -34,53 +36,47 @@ Feed back on nail test
 
 Notes
 
-- 2015 procurement did not go smoothly
+* 2015 procurement did not go smoothly
+* Donation vs purchase (technical support if bought)
+* Don't know if its a donation or a sale this year
+* Indemity draft is being written right now
+* G's exist but they are not "safe"
+* Testing
 
-- Donation vs purchase (technical support if bought)
+&#x20;   \- 1000C-1200C if cell combust
 
-- Don't know if its a donation or a sale this year
+&#x20;   \- What is the motivation of increasing the safety requirements (Logan)?
 
-- Indemity draft is being written right now
+&#x20;           \- Only release cells to companies that demonstrate safety
 
-- G's exist but they are not "safe"
+&#x20;           \- Recall issues
 
-- Testing
+&#x20;           \- Worried about safety and legal issues
 
-    - 1000C-1200C if cell combust
+* Fire propagation test report
 
-    - What is the motivation of increasing the safety requirements (Logan)?
+&#x20;   \- Woven mica was an improvement
 
-            - Only release cells to companies that demonstrate safety
+&#x20;   \- Concrete guidelines (separation + materials)
 
-            - Recall issues
+&#x20;           \- declined
 
-            - Worried about safety and legal issues
+&#x20;           \- Will not give concrete recommendations
 
-- Fire propagation test report
+&#x20;   \- Industrial.panasonic.com (official pack makers)
 
-    - Woven mica was an improvement
+&#x20;
 
-    - Concrete guidelines (separation + materials)
+* Want to see fire propagation test (ONLY TEST) (Must be made with full block/module, wired in, full charge 4.2V, 3 hours in 46C, cell must be surrounded by other cells)
 
-            - declined
+&#x20;           \- destroy one cell, won't spread fire
 
-            - Will not give concrete recommendations
+* Will ask Japan for 18650G for us (assumption was that we want 18650GA)\* We need to follow up on this!&#x20;
+* Time lags for distribution
 
-    - Industrial.panasonic.com (official pack makers)
+&#x20;   \- charged to 40% SOC (boat shipping would be 6 weeks max & air shipping is usually going to happening)&#x20;
 
- 
-
-- Want to see fire propagation test (ONLY TEST) (Must be made with full block/module, wired in, full charge 4.2V, 3 hours in 46C, cell must be surrounded by other cells)
-
-            - destroy one cell, won't spread fire
-
-- Will ask Japan for 18650G for us (assumption was that we want 18650GA)* We need to follow up on this! 
-
-- Time lags for distribution
-
-    - charged to 40% SOC (boat shipping would be 6 weeks max & air shipping is usually going to happening) 
-
-    - follow up on storage conditions and capacity recovery efficiency 
+&#x20;   \- follow up on storage conditions and capacity recovery efficiency&#x20;
 
 Follow Ups
 
@@ -96,13 +92,8 @@ Welder procurement
 
 Collector plate initial design
 
-    - account for flex (Paul)
+&#x20;   \- account for flex (Paul)
 
-[](https://drive.google.com/folderview?id=1ejfU3bUf9rjdBulLiXIhyx8zHYaef1G0)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1ejfU3bUf9rjdBulLiXIhyx8zHYaef1G0#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1ejfU3bUf9rjdBulLiXIhyx8zHYaef1G0#list" frameborder="0"></iframe>
-

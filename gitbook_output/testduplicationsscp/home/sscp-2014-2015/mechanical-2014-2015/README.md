@@ -1,18 +1,16 @@
-# SSCP - Mechanical 2014-2015
+# mechanical-2014-2015
 
-# Mechanical 2014-2015
+## SSCP - Mechanical 2014-2015
+
+## Mechanical 2014-2015
 
 Mechanical Parts List
 
-[](https://docs.google.com/spreadsheets/d/0Ar9fuDsYYqGGdExCNGNfSVpuRUluWFdjWGZHbnJRVXc/edit)
+#### Embedded Content
 
-### Embedded Content
+Embedded content: [Embedded Content](./)
 
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
-![](../../../assets/sheets_32dp.png)
+![](../../../../assets/sheets_32dp.png)
 
 The Mechanical team is responsible for the function of these systems:
 
@@ -27,7 +25,6 @@ The Mechanical team is responsible for the function of these systems:
 * Door/Latch
 * Chassis (shared with composites)
 * Cable Management
-
 * Front Suspension
 * Rear Suspension
 * Wheels
@@ -70,7 +67,6 @@ These are systems which, if they were to fail, would risk injury or death to the
 * Steering
 * Braking
 * Motor
-
 * Front Suspension
 * Rear Suspension
 * Roll Cage
@@ -90,11 +86,6 @@ Braking
 
 Motor
 
-[](https://drive.google.com/folderview?id=1mJlFT7T-aenguGGGx7_Q2KMaoFVWBGN6)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1mJlFT7T-aenguGGGx7_Q2KMaoFVWBGN6#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1mJlFT7T-aenguGGGx7_Q2KMaoFVWBGN6#list" frameborder="0"></iframe>
-

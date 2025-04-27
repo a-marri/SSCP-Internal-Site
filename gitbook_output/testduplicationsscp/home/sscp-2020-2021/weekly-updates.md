@@ -1,8 +1,10 @@
-# SSCP - Weekly Updates
+# weekly-updates
 
-# Weekly Updates
+## SSCP - Weekly Updates
 
-----------------------------------
+## Weekly Updates
+
+***
 
 Navigate to the appropriate week and fill in your sub-team update. Use the weekly update as a chance to plan what you want to share with the team in Sunday meetings and in the engineering update emails.
 
@@ -10,13 +12,13 @@ Jot down a bullet point or several in each of the following three categories:
 
 * Key Points: Anything you want to share with the team. This can be a big win (reduced drag by x%, scored a new sponsor, etc.), a critical item that needs help with (major part supplier backed out, cell shipment delayed, etc.), or anything in between that you think deserves team awareness.
 * Wins: Good things that happened, if any. (Received parts back from mfr, renewed sponsorship, onboarded 2 new team members, etc.)
-* Losses: Not so great things that happened, if any. (Identified error in analysis and need to recalculate, unable to find code bug after a week of debugging, business merger causing relationship tensions, etc.) 
+* Losses: Not so great things that happened, if any. (Identified error in analysis and need to recalculate, unable to find code bug after a week of debugging, business merger causing relationship tensions, etc.)&#x20;
 
 Key Points: Anything you want to share with the team. This can be a big win (reduced drag by x%, scored a new sponsor, etc.), a critical item that needs help with (major part supplier backed out, cell shipment delayed, etc.), or anything in between that you think deserves team awareness.
 
 Wins: Good things that happened, if any. (Received parts back from mfr, renewed sponsorship, onboarded 2 new team members, etc.)
 
-Losses: Not so great things that happened, if any. (Identified error in analysis and need to recalculate, unable to find code bug after a week of debugging, business merger causing relationship tensions, etc.) 
+Losses: Not so great things that happened, if any. (Identified error in analysis and need to recalculate, unable to find code bug after a week of debugging, business merger causing relationship tensions, etc.)&#x20;
 
 You might not always have a key point/win/loss. Use your judgement!
 
@@ -34,5 +36,4 @@ Title it "YY-MM-DD Update"
 
 ![](../../../assets/image_5ecc96cdb0.png)
 
-----------------------------------
-
+***

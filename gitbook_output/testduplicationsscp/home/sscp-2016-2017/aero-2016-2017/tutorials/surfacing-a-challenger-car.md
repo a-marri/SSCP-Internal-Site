@@ -1,6 +1,8 @@
-# SSCP - Surfacing a Challenger Car
+# surfacing-a-challenger-car
 
-# Surfacing a Challenger Car
+## SSCP - Surfacing a Challenger Car
+
+## Surfacing a Challenger Car
 
 THE FOLLOWING VIDEOS ARE NOT FOR DISTRIBUTION AMONG NON-SSCP MEMBERS:
 
@@ -12,7 +14,7 @@ CAD FILE FOR MAINFOIL, FAIRING AND BUBBLE VIDEOS
 
 [CAD FILE FOR MAINFOIL, FAIRING AND BUBBLE VIDEOS](https://drive.google.com/a/stanford.edu/file/d/0B5DOOxTyn3aua2RHMGgxR2R5SVU/view?usp=sharing)
 
-MAINFOIL STEP-BY-STEP SURFACING VIDEO TUTORIAL 
+MAINFOIL STEP-BY-STEP SURFACING VIDEO TUTORIAL&#x20;
 
 [MAINFOIL STEP-BY-STEP SURFACING VIDEO TUTORIAL](https://youtu.be/w5MiLGjJ7wk)
 
@@ -35,14 +37,13 @@ Main Body
 
 Import main body foil
 
-* Insert > Curve > Curve through XYZ points... You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.
-* Insert > Curve > Curve through XYZ points... 
+* Insert > Curve > Curve through XYZ points... You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.
+* Insert > Curve > Curve through XYZ points...&#x20;
+* You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.
+* Insert > Curve > Curve through XYZ points...&#x20;
 * You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.
 
-* Insert > Curve > Curve through XYZ points... 
-* You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.
-
-Insert > Curve > Curve through XYZ points... 
+Insert > Curve > Curve through XYZ points...&#x20;
 
 You can download the XY coordinates for a main foil online, but you need to add a Z column of 0's to your text file.
 
@@ -86,23 +87,23 @@ Choose the correct plane so that your sketch becomes oriented as such (this is t
 
 ![](../../../../../assets/image_2727d157d5.jpg)
 
-* Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (~4.5 meters for Arctan).
-* Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (~4.5 meters for Arctan).
+* Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (\~4.5 meters for Arctan).
+* Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (\~4.5 meters for Arctan).
 * Locate the leading edge point on the foil and make it coincident with the origin.
-* Dimension the length of the main foil (~4.5 meters for Arctan).
+* Dimension the length of the main foil (\~4.5 meters for Arctan).
 
-1. Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (~4.5 meters for Arctan).
+1. Dimension the main foilLocate the leading edge point on the foil and make it coincident with the origin.Dimension the length of the main foil (\~4.5 meters for Arctan).
 2. Locate the leading edge point on the foil and make it coincident with the origin.
-3. Dimension the length of the main foil (~4.5 meters for Arctan).
+3. Dimension the length of the main foil (\~4.5 meters for Arctan).
 
 Dimension the main foil
 
 * Locate the leading edge point on the foil and make it coincident with the origin.
-* Dimension the length of the main foil (~4.5 meters for Arctan).
+* Dimension the length of the main foil (\~4.5 meters for Arctan).
 
 Locate the leading edge point on the foil and make it coincident with the origin.
 
-Dimension the length of the main foil (~4.5 meters for Arctan).
+Dimension the length of the main foil (\~4.5 meters for Arctan).
 
 Fairings
 
@@ -116,4 +117,3 @@ Fairings
 Import a foil similarly to the main foil to use for your overall fairing shape
 
 Put the fairing curve in the correct plane (look at step 3 on main body)
-

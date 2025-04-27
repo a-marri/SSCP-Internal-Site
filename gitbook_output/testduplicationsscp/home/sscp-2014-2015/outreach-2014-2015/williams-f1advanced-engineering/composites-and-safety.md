@@ -1,172 +1,173 @@
-# SSCP - Composites and Safety
+# composites-and-safety
 
-# Composites and Safety
+## SSCP - Composites and Safety
 
-·         Design and Analysis
+## Composites and Safety
 
-o   NX 7.5 CAD systemused to model all items
+·         Design and Analysis
 
-o   Sufacing, solid modelling, sheet metal, kinematics
+o   NX 7.5 CAD systemused to model all items
 
-o   Drawing definition via ply books or annotated views
+o   Sufacing, solid modelling, sheet metal, kinematics
 
-o   All parts modelled with the correct materials and thickness – vital for mass tracking
+o   Drawing definition via ply books or annotated views
 
-o   Design Inputs:
+o   All parts modelled with the correct materials and thickness – vital for mass tracking
 
-§  Regulation – geometry, strength, stiffness, and safety
+o   Design Inputs:
 
-§  Aero – definition of all external surfaces and ducts (radiators, brake ducts)
+§  Regulation – geometry, strength, stiffness, and safety
 
-§  Stress – sizing of components for strength, stiffness, and fatigue
+§  Aero – definition of all external surfaces and ducts (radiators, brake ducts)
 
-§  Manufacturing – cost, lead times, processing (laminating, machining, fabricating, heat treatment, plating)
+§  Stress – sizing of components for strength, stiffness, and fatigue
 
-§  Logistics – ease of transport, fitting, maintenance, repair, modularity (upgrades)
+§  Manufacturing – cost, lead times, processing (laminating, machining, fabricating, heat treatment, plating)
 
-o   Nastran used for FE analysis of both metallic and composite structures
+§  Logistics – ease of transport, fitting, maintenance, repair, modularity (upgrades)
 
-o   Loads are driven by regulation and derived loads cases: aerodynamics, suspension, and inertial
+o   Nastran used for FE analysis of both metallic and composite structures
 
-o   Regulation
+o   Loads are driven by regulation and derived loads cases: aerodynamics, suspension, and inertial
 
-§  Static strength
+o   Regulation
 
-·         Roll hoops have to withstand 120 kN
+§  Static strength
 
-·         12.5 kN to 30 kN loads applied to survival cell
+·         Roll hoops have to withstand 120 kN
 
-·         40 kN nose push off test
+·         12.5 kN to 30 kN loads applied to survival cell
 
-§  Stiffness
+·         40 kN nose push off test
 
-·         Many aerodynamic devices have deflection constraints to limit aero gains
+§  Stiffness
 
-·         Front wing, bodywork, floor, rear wing
+·         Many aerodynamic devices have deflection constraints to limit aero gains
 
-§  Permissible materials
+·         Front wing, bodywork, floor, rear wing
 
-·         e.g. any metallic with a specific modulus > 40 GPa are banned
+§  Permissible materials
 
-·         PAN (polyacrynonitrile) carbon fibers with tensile modulus < 550 GPa (this basically rules out pitch based fibers)
+·         e.g. any metallic with a specific modulus > 40 GPa are banned
 
-·         Density < 1.92 g/cm^3
+·         PAN (polyacrynonitrile) carbon fibers with tensile modulus < 550 GPa (this basically rules out pitch based fibers)
 
-·         No carbon nanotubes permitted
+·         Density < 1.92 g/cm^3
 
-§  Impact strength
+·         No carbon nanotubes permitted
 
-·         Nose (2 off), side, steering column, rear
+§  Impact strength
 
-§  Nose
+·         Nose (2 off), side, steering column, rear
 
-·         Energy – 780 kg at 15 m/s = 87.8 kJ
+§  Nose
 
-·         Peak g for first 100 mm < 10 g
+·         Energy – 780 kg at 15 m/s = 87.8 kJ
 
-·         Peak permissible g increases linearly from 10 g at 100 mm to 20 g at 150 mm
+·         Peak g for first 100 mm < 10 g
 
-·         Peak g over the first 60 kJ < 20 g
+·         Peak permissible g increases linearly from 10 g at 100 mm to 20 g at 150 mm
 
-·         Average g over the first 150 mm > 2.5 g
+·         Peak g over the first 60 kJ < 20 g
 
-·         Average g of trolley < 40 g
+·         Average g over the first 150 mm > 2.5 g
 
-·         Peak g at dummy driver’s chest < 60 g for more than 3ms cumulative
+·         Average g of trolley < 40 g
 
-·         No damage to the survival cell, fire extinguisher mounts, or seat belt mounts
+·         Peak g at dummy driver’s chest < 60 g for more than 3ms cumulative
 
-§  Rear: fewer parameters
+·         No damage to the survival cell, fire extinguisher mounts, or seat belt mounts
 
-o   LS Dyna, Abaqus, and Nastran are our favored analysis tools
+§  Rear: fewer parameters
 
-o   Derived load cases
+o   LS Dyna, Abaqus, and Nastran are our favored analysis tools
 
-§  Aerodynamic
+o   Derived load cases
 
-·         Floor and wing loads (downforce, drag, yaw)
+§  Aerodynamic
 
-·         CFD important for providing pressure distribution
+·         Floor and wing loads (downforce, drag, yaw)
 
-·         Proof, ultimate, and deflection limits defined by Design and Stress
+·         CFD important for providing pressure distribution
 
-§  Suspension
+·         Proof, ultimate, and deflection limits defined by Design and Stress
 
-·         Bump, droop, steering, acceleration, braking, cornering, kerbing, and contract
+§  Suspension
 
-·         Inputs into the monocoque are via front suspension mounts, and rear engine mounts (via gearbox, and rear suspension mounts)
+·         Bump, droop, steering, acceleration, braking, cornering, kerbing, and contract
 
-§  Track data
+·         Inputs into the monocoque are via front suspension mounts, and rear engine mounts (via gearbox, and rear suspension mounts)
 
-·         Strain gauges, temperature/pressure sensors, pressure tapping
+§  Track data
 
-·         Materials
+·         Strain gauges, temperature/pressure sensors, pressure tapping
 
-o   A very quick reminder of why we use composite materials
+·         Materials
 
-§  Rough comparison of fiber/woven/UD properties:
+o   A very quick reminder of why we use composite materials
 
-·         Strength: Fiber 100%: Woven 12%: UD 30%
+§  Rough comparison of fiber/woven/UD properties:
 
-·         Modulus: Fiber 100%: Woven 25%: UD 50%
+·         Strength: Fiber 100%: Woven 12%: UD 30%
 
-o   Rough materials overview
+·         Modulus: Fiber 100%: Woven 25%: UD 50%
 
-§  Carbon prepregs
+o   Rough materials overview
 
-·         Standard modulus (woven)
+§  Carbon prepregs
 
-·         Intermediate modulus (UD and woven)
+·         Standard modulus (woven)
 
-·         High modulus (UD and woven)
+·         Intermediate modulus (UD and woven)
 
-§  Woven fabric styles
+·         High modulus (UD and woven)
 
-·         Plain
+§  Woven fabric styles
 
-·         5 harness satin
+·         Plain
 
-·         2 x 2 twill
+·         5 harness satin
 
-§  Woven aramid (Kevlar 49, etc)
+·         2 x 2 twill
 
-§  Woven glass fabric (E or S2 types)
+§  Woven aramid (Kevlar 49, etc)
 
-§  Resin types: epoxy, cynate ester, phenolic
+§  Woven glass fabric (E or S2 types)
 
-§  Film adhesives
+§  Resin types: epoxy, cynate ester, phenolic
 
-§  Pastes
+§  Film adhesives
 
-§  Honeycombs: Aluminum hex, aluminum flex, Nomex hex
+§  Pastes
 
-§  Foams: Rohacell 71, Rohacell 110, Zotec N50
+§  Honeycombs: Aluminum hex, aluminum flex, Nomex hex
 
-·         Processing
+§  Foams: Rohacell 71, Rohacell 110, Zotec N50
 
-o   Laminating
+·         Processing
 
-o   Curing – typically 1 hour at 135 degC
+o   Laminating
 
-o   Trimming
+o   Curing – typically 1 hour at 135 degC
 
-o   Bonding
+o   Trimming
 
-·         Paint
+o   Bonding
 
-o   Paint shops are complimented on finish, rather than the minimal quantity of paint used
+·         Paint
 
-o   How important is paint finish from an aesthetic perspective?
+o   Paint shops are complimented on finish, rather than the minimal quantity of paint used
 
-o   Effect on aero performance?
+o   How important is paint finish from an aesthetic perspective?
 
-o   Are parts weighed in/out of the paint shop?
+o   Effect on aero performance?
 
-o   Does the paint shop have any targets? Samples to use as a guide?
+o   Are parts weighed in/out of the paint shop?
 
-o   Are you lacquering over the paint?
+o   Does the paint shop have any targets? Samples to use as a guide?
 
-o   Have you considered using vinyl wrap?
+o   Are you lacquering over the paint?
 
-o   Do you paint all exposed surfaces? i.e. can you leave the underside of the body unpainted?
+o   Have you considered using vinyl wrap?
 
+o   Do you paint all exposed surfaces? i.e. can you leave the underside of the body unpainted?

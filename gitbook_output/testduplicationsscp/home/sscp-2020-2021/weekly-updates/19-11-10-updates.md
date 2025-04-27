@@ -1,6 +1,8 @@
-# SSCP - 19-11-10-Updates
+# 19-11-10-updates
 
-# 19-11-10-Updates
+## SSCP - 19-11-10-Updates
+
+## 19-11-10-Updates
 
 Admin Updates
 
@@ -52,7 +54,6 @@ Tell the team who you talked to.
 * get ready to get some breadHunter.io is goldcreate an account, you get 50 free searches per month, you can also search without an account
 * Hunter.io is gold
 * create an account, you get 50 free searches per month, you can also search without an account
-
 * Courtney's Cold Email Seminar
 * get ready to get some breadHunter.io is goldcreate an account, you get 50 free searches per month, you can also search without an account
 * Hunter.io is gold
@@ -69,7 +70,7 @@ Hunter.io is gold
 
 create an account, you get 50 free searches per month, you can also search without an account
 
-* What's in an email?Recipient: see hunter.io/linkedinSubject: DO NOT INCLUDE THE WORD SPONSORSHIP IN THE SUBJECTIntro: Hi, I'm...Background: The Stanford Solar Car Project...The Ask: Would you be able to...?The Follow Up: If you are interested, here's some info...Signature: Name, title?, stanford, email, phone, etc.What you should do:Get a list of 5 companies, not on sponsor list from previous years, form your own templatehttps://docs.google.com/spreadsheets/d/1YG_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987Next meeting, we will all read off sponsors so we make sure we do not overlap, you will be able to ask me questions/proof read templatesGather email addressesSend some emailsStep 3: ProfitCC Courtney on all emails, message me if you need help respondingPerson to get the greatest valued sponsorship gets a fabulous #sponsored prizeExample:
+* What's in an email?Recipient: see hunter.io/linkedinSubject: DO NOT INCLUDE THE WORD SPONSORSHIP IN THE SUBJECTIntro: Hi, I'm...Background: The Stanford Solar Car Project...The Ask: Would you be able to...?The Follow Up: If you are interested, here's some info...Signature: Name, title?, stanford, email, phone, etc.What you should do:Get a list of 5 companies, not on sponsor list from previous years, form your own templatehttps://docs.google.com/spreadsheets/d/1YG\_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987Next meeting, we will all read off sponsors so we make sure we do not overlap, you will be able to ask me questions/proof read templatesGather email addressesSend some emailsStep 3: ProfitCC Courtney on all emails, message me if you need help respondingPerson to get the greatest valued sponsorship gets a fabulous #sponsored prizeExample:
 * Recipient: see hunter.io/linkedin
 * Subject: DO NOT INCLUDE THE WORD SPONSORSHIP IN THE SUBJECTIntro: Hi, I'm...Background: The Stanford Solar Car Project...The Ask: Would you be able to...?The Follow Up: If you are interested, here's some info...Signature: Name, title?, stanford, email, phone, etc.
 * Intro: Hi, I'm...
@@ -79,7 +80,7 @@ create an account, you get 50 free searches per month, you can also search witho
 * Signature: Name, title?, stanford, email, phone, etc.
 * What you should do:Get a list of 5 companies, not on sponsor list from previous years, form your own template
 * Get a list of 5 companies, not on sponsor list from previous years, form your own template
-* https://docs.google.com/spreadsheets/d/1YG_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987Next meeting, we will all read off sponsors so we make sure we do not overlap, you will be able to ask me questions/proof read templatesGather email addressesSend some emailsStep 3: ProfitCC Courtney on all emails, message me if you need help respondingPerson to get the greatest valued sponsorship gets a fabulous #sponsored prize
+* https://docs.google.com/spreadsheets/d/1YG\_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987Next meeting, we will all read off sponsors so we make sure we do not overlap, you will be able to ask me questions/proof read templatesGather email addressesSend some emailsStep 3: ProfitCC Courtney on all emails, message me if you need help respondingPerson to get the greatest valued sponsorship gets a fabulous #sponsored prize
 * Next meeting, we will all read off sponsors so we make sure we do not overlap, you will be able to ask me questions/proof read templates
 * Gather email addresses
 * Send some emails
@@ -99,7 +100,7 @@ What's in an email?
 * Signature: Name, title?, stanford, email, phone, etc.
 * What you should do:Get a list of 5 companies, not on sponsor list from previous years, form your own template
 * Get a list of 5 companies, not on sponsor list from previous years, form your own template
-* https://docs.google.com/spreadsheets/d/1YG_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987Next meeting, we will all read off sponsors so we make sure we do not overlap, you will be able to ask me questions/proof read templatesGather email addressesSend some emailsStep 3: ProfitCC Courtney on all emails, message me if you need help respondingPerson to get the greatest valued sponsorship gets a fabulous #sponsored prize
+* https://docs.google.com/spreadsheets/d/1YG\_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987Next meeting, we will all read off sponsors so we make sure we do not overlap, you will be able to ask me questions/proof read templatesGather email addressesSend some emailsStep 3: ProfitCC Courtney on all emails, message me if you need help respondingPerson to get the greatest valued sponsorship gets a fabulous #sponsored prize
 * Next meeting, we will all read off sponsors so we make sure we do not overlap, you will be able to ask me questions/proof read templates
 * Gather email addresses
 * Send some emails
@@ -134,9 +135,9 @@ What you should do:
 
 Get a list of 5 companies, not on sponsor list from previous years, form your own template
 
-https://docs.google.com/spreadsheets/d/1YG_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987
+https://docs.google.com/spreadsheets/d/1YG\_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987
 
-[https://docs.google.com/spreadsheets/d/1YG_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987](https://docs.google.com/spreadsheets/d/1YG_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987)
+[https://docs.google.com/spreadsheets/d/1YG\_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987](https://docs.google.com/spreadsheets/d/1YG_OMf7UeReGVgr3v3A5Ru69bLYWMG4UQxNbnRfGQpE/edit#gid=190947987)
 
 * Next meeting, we will all read off sponsors so we make sure we do not overlap, you will be able to ask me questions/proof read templates
 * Gather email addresses
@@ -167,7 +168,6 @@ Example:
 * Update sponsor spreadsheet
 * make sure check comes in
 * make sure the team follows through on our end of the bargain
-
 * Once you have secured a sponsorBe sure to follow through!Update sponsor spreadsheetmake sure check comes inmake sure the team follows through on our end of the bargain
 * Be sure to follow through!
 * Update sponsor spreadsheet
@@ -195,7 +195,6 @@ Key Points:
 
 * task 1 is up for grabs: photo copy the leading edge
 * task 1 is up for grabs: photo copy the leading edge
-
 * task 1 is up for grabs: photo copy the leading edge
 
 task 1 is up for grabs: photo copy the leading edge
@@ -216,16 +215,15 @@ Business
 
 Key Points:
 
-* Chris, updates?Do we send out last year's sponsorship packet for now?  Or wait for a new one to be updated?
+* Chris, updates?Do we send out last year's sponsorship packet for now?  Or wait for a new one to be updated?
 * Chris, updates?
-* Do we send out last year's sponsorship packet for now?  Or wait for a new one to be updated?
-
+* Do we send out last year's sponsorship packet for now?  Or wait for a new one to be updated?
 * Chris, updates?
-* Do we send out last year's sponsorship packet for now?  Or wait for a new one to be updated?
+* Do we send out last year's sponsorship packet for now?  Or wait for a new one to be updated?
 
 Chris, updates?
 
-Do we send out last year's sponsorship packet for now?  Or wait for a new one to be updated?
+Do we send out last year's sponsorship packet for now?  Or wait for a new one to be updated?
 
 Wins:
 
@@ -253,7 +251,6 @@ Key Points:
 
 * Erik, updates?
 * Erik, updates?
-
 * Erik, updates?
 
 Erik, updates?
@@ -271,4 +268,3 @@ Wins:
 Losses:
 
 Notes: starting week 8, off thanksgiving week
-

@@ -1,8 +1,10 @@
-# SSCP - Aerobody Clearances
+# aerobody-clearances
 
-# Aerobody Clearances
+## SSCP - Aerobody Clearances
 
-This page works toward answering the question: How much space does there need to be between the wheel volume and outer aerobody shape? 
+## Aerobody Clearances
+
+This page works toward answering the question: How much space does there need to be between the wheel volume and outer aerobody shape?&#x20;
 
 We are shooting for 2-3cm in the fairings, and 1.5cm in non-critical areas.
 
@@ -10,11 +12,11 @@ NHS and I performed a test to see how much the car deforms from rim-to-rim when 
 
 ![](../../../../assets/image_0be3f80648.jpg)
 
-Max Praglin <mpraglin@stanford.edu>
+Max Praglin [mpraglin@stanford.edu](mailto:mpraglin@stanford.edu)
 
 Fri, Nov 7, 2014 at 11:18 PM
 
-To: Stanford Solar Car Project <solarcore@lists.stanford.edu>, sscp aeroteam <sscp_aeroteam@lists.stanford.edu>
+To: Stanford Solar Car Project [solarcore@lists.stanford.edu](mailto:solarcore@lists.stanford.edu), sscp aeroteam [sscp\_aeroteam@lists.stanford.edu](mailto:sscp_aeroteam@lists.stanford.edu)
 
 Hi Team,
 
@@ -33,4 +35,3 @@ The white surface is the aerobody shell offset by 17mm in the top and bottom she
 ![](../../../../assets/image_b82c378a5d.png)
 
 ![](../../../../assets/image_697927eef7.png)
-

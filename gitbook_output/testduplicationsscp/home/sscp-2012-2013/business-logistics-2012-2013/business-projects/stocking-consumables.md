@@ -1,6 +1,8 @@
-# SSCP - Stocking Consumables
+# stocking-consumables
 
-# Stocking Consumables
+## SSCP - Stocking Consumables
+
+## Stocking Consumables
 
 It might be wise for the Business team to be responsible for keeping standard consumables stocked at VAIL. This would include things like solder, Kapton tape, gloves, System West epoxy etc.
 
@@ -12,11 +14,8 @@ Also the team gets discounts with some vendors such as McMaster, DigiKey and Mou
 
 Whoever controls the team credit card and makes orders for the team should realize that some websites (like Amazon and McMaster) offer tools for people to send you a wish list or purchase requisition. McMaster has a link to "forward" an order once you build the order. If you get people on the team to build a purchase requisition for you all you have to do is review the order and click buy to put it on the team card once they send it to you.
 
-### Solvents
+#### Solvents
 
-[](#h.bylpfq67pntx)
-
-I usually buy MEK and Acetone from McMaster. Go ahead and buy it in 5-gallon drums when you need it. You might be able to find better rates if you shop, but McMaster is convenient. 
+I usually buy MEK and Acetone from McMaster. Go ahead and buy it in 5-gallon drums when you need it. You might be able to find better rates if you shop, but McMaster is convenient.&#x20;
 
 Make sure you buy 99% isopropyl. Some store bought alcohol is 30% water. Safeway sells 99% isopropyl in pint sized bottles. McMaster says they can't sell isopropyl in CA, but they won't tell you that until you place an order.
-

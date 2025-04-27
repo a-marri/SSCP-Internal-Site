@@ -1,554 +1,550 @@
-# SSCP - Motor Design Review 2012_09_30
+# motor-design-review-2012\_09\_30
 
-# Motor Design Review 2012_09_30
+## SSCP - Motor Design Review 2012\_09\_30
 
-### Attendees
+## Motor Design Review 2012\_09\_30
 
-[](#h.8e0u1yej9tme)
+#### Attendees
 
 Jon Wagner, Matt, Paul Butterfield
 
 Nathan Hall-Snyder, Forest, Greg, Matt Lambert, Sasha, Sam, Paul Karplus, Andre Ponec, Wesley, Wyles, Zach
 
-### Action Items
-
-[](#h.q5lltflhanha)
+#### Action Items
 
 Magnetics
 
-a.       Check out metglas as a material
+a.       Check out metglas as a material
 
-b.      Look at ceramic magnets to reduce eddy current losses from surface conduction
+b.      Look at ceramic magnets to reduce eddy current losses from surface conduction
 
-c.       Do eddy current simulations if possible
+c.       Do eddy current simulations if possible
 
-d.   Make sure that the manufacturing process doesn't damage the laminations in any way
+d.   Make sure that the manufacturing process doesn't damage the laminations in any way
 
-e.   Simulate and look at buried magnets
+e.   Simulate and look at buried magnets
 
-d.   Use a series winding
+d.   Use a series winding
 
 Case
 
-a.       Consider the symmetry of the left/right motors/calipers
+a.       Consider the symmetry of the left/right motors/calipers
 
-b.      Include consideration for identifying motor numbers
+b.      Include consideration for identifying motor numbers
 
-c.       Model heat output and cooling. Determine the efficiency loss due to heating
+c.       Model heat output and cooling. Determine the efficiency loss due to heating
 
-d.      Add cooling fins
+d.      Add cooling fins
 
-e.       Add lead-ins for all components
+e.       Add lead-ins for all components
 
-f.        Put in a feature for removal of the stator
+f.        Put in a feature for removal of the stator
 
 Rotor
 
-a.       Set up a key system to key the rotor to the stator
+a.       Set up a key system to key the rotor to the stator
 
-b.      Re-do the shaft interface – use a flat interface and a bearing nut
+b.      Re-do the shaft interface – use a flat interface and a bearing nut
 
 Commutation
 
-a.       Fix the keying between the tamagawa rotor to the shaft
+a.       Fix the keying between the tamagawa rotor to the shaft
 
-b.      Consider using plastic washers on the resolver
+b.      Consider using plastic washers on the resolver
 
-c.       Use large washers for more threads in the aluminum
+c.       Use large washers for more threads in the aluminum
 
 Connectors
 
-a.       Seriously consider connectors
+a.       Seriously consider connectors
 
-b.      Re-do the electrical scheme – NO PCBS
+b.      Re-do the electrical scheme – NO PCBS
 
-c.       Increase the amount of space for wiring
+c.       Increase the amount of space for wiring
 
-d.      Test the termination method of the 22 gauge wire
+d.      Test the termination method of the 22 gauge wire
 
-e.       Think about the termination method for the data connector – solder cups? Pigtail? Connector? Etc             
+e.       Think about the termination method for the data connector – solder cups? Pigtail? Connector? Etc            &#x20;
 
 Stator
 
-a.       Examine tolerance stackup on the stator – stacking laminations is not easy. Test, come up with a method. Laser has tolerance, laser beam has tolerance, etc. Consider epoxy, cutting the epoxy, epoxying it to a piece of aluminum, CNCing the aluminum, etc. Consider various options
+a.       Examine tolerance stackup on the stator – stacking laminations is not easy. Test, come up with a method. Laser has tolerance, laser beam has tolerance, etc. Consider epoxy, cutting the epoxy, epoxying it to a piece of aluminum, CNCing the aluminum, etc. Consider various options
 
-b.      Possibly implement a go-no-go gauge for the laminations, or maybe pot in shims
+b.      Possibly implement a go-no-go gauge for the laminations, or maybe pot in shims
 
 Bearings
 
-a.       Add grease control to the roller bearing
+a.       Add grease control to the roller bearing
 
-b.      Re-examine the bearing shock loads, possibly re-size the inner bearing. Look at bearing life
+b.      Re-examine the bearing shock loads, possibly re-size the inner bearing. Look at bearing life
 
-d.      Get the fits for the bearings from SKF
+d.      Get the fits for the bearings from SKF
 
-e.       Determine how to remove bearings (add holes, flanges, etc
+e.       Determine how to remove bearings (add holes, flanges, etc
 
 Sealing
 
-a.       Test the labyrinth seal
+a.       Test the labyrinth seal
 
-b.      Try to fit in an o-ring seal
+b.      Try to fit in an o-ring seal
 
-### Meeting Notes
+#### Meeting Notes
 
-[](#h.yax8ft8zrc3h)
+•       The current options all have disadvantages. CSIRO is difficult to package, NGM has low efficiency, Mitsuba is expensive.&#x20;
 
-•       The current options all have disadvantages. CSIRO is difficult to package, NGM has low efficiency, Mitsuba is expensive. 
+◦       CSIRO: It is a package, so you have to design a shell yourself. Aurora carries eight backup motors. Our 2011 team had no backups. They are 13k or 25k.
 
-◦       CSIRO: It is a package, so you have to design a shell yourself. Aurora carries eight backup motors. Our 2011 team had no backups. They are 13k or 25k.
+•       Existing motors are designed to function as a single motor for the entire car so they have high torque specs.&#x20;
 
-•       Existing motors are designed to function as a single motor for the entire car so they have high torque specs. 
+•       We could design with one motor but we would be concerned about cornering, unbalanced unsprung mass,&#x20;
 
-•       We could design with one motor but we would be concerned about cornering, unbalanced unsprung mass, 
+•       Q: Matt L: who has done two wheel drive: A: Bochum
 
-•       Q: Matt L: who has done two wheel drive: A: Bochum
+•       Q: Matt. How are you measuring efficiency.&#x20;
 
-•       Q: Matt. How are you measuring efficiency. 
+•       Our design spec: We want our motor to match CSIRO design specs for torque and speed.
 
-•       Our design spec: We want our motor to match CSIRO design specs for torque and speed.
+•       Sasha:
 
-•       Sasha:
+◦       is doing analysis to find the topography of the WSC course and&#x20;
 
-◦       is doing analysis to find the topography of the WSC course and 
+◦       First draft: 25N-M peak torque should work for us
 
-◦       First draft: 25N-M peak torque should work for us
+◦       (insert histogram of Sasha's histogram of torque specs)
 
-◦       (insert histogram of Sasha's histogram of torque specs)
+▪       For every 5k on the race course, Sasha calculates a required torque to maintain forward motion on a 260kg car.
 
-▪       For every 5k on the race course, Sasha calculates a required torque to maintain forward motion on a 260kg car.
+▪       Graph goes above 25N-M, but Sasha says this is calculation error
 
-▪       Graph goes above 25N-M, but Sasha says this is calculation error
+•       Q Paul:&#x20;
 
-•       Q Paul: 
+•       Q John we also want to consider car speed in our analysis. So do a three degree histogram of Torque, speed, and frequency  (like Sam L. had from Minnesota).
 
-•       Q John we also want to consider car speed in our analysis. So do a three degree histogram of Torque, speed, and frequency  (like Sam L. had from Minnesota).
+•       Sam's Radial Flux motor from Minnesota:&#x20;
 
-•       Sam's Radial Flux motor from Minnesota: 
+◦       had high torque and high power
 
-◦       had high torque and high power
+◦       Uses the same nickel alloy that we plan to use.
 
-◦       Uses the same nickel alloy that we plan to use.
+◦       but it had problems:
 
-◦       but it had problems:
+▪       flux in the core was too high
 
-▪       flux in the core was too high
+▪       so it had high core losses
 
-▪       so it had high core losses
+•       Design Goals
 
-•       Design Goals
+◦       98% at 1041 RPM
 
-◦       98% at 1041 RPM
+◦       25Nm per motor max load torque
 
-◦       25Nm per motor max load torque
+◦       Small diameter iron core
 
-◦       Small diameter iron core
+◦       160mm diameter
 
-◦       160mm diameter
+•       Material Selection
 
-•       Material Selection
+◦       Stator/Rotor Iron
 
-◦       Stator/Rotor Iron
+▪       Carpenter 49-49% nickel
 
-▪       Carpenter 49-49% nickel
+▪       Q: John: 6x lower hysteresis losses
 
-▪       Q: John: 6x lower hysteresis losses
+◦       Magnets
 
-◦       Magnets
+▪       Sm2Co17
 
-▪       Sm2Co17
+▪       less expensive
 
-▪       less expensive
+▪       resistant to damage: low temp coefficient. high curie temp.
 
-▪       resistant to damage: low temp coefficient. high curie temp.
+▪       more brittle to Neodymium
 
-▪       more brittle to Neodymium
+▪       $160 per Kg
 
-▪       $160 per Kg
+▪       Q Paul: $250 per Kg for Neodymium
 
-▪       Q Paul: $250 per Kg for Neodymium
+◦       Carpenter 49 requires special annealing cycle.&#x20;
 
-◦       Carpenter 49 requires special annealing cycle. 
+▪       Pure hydrogen atmosphere at 2k Celsius
 
-▪       Pure hydrogen atmosphere at 2k Celsius
+▪       Changes permeability by a factor of 10
 
-▪       Changes permeability by a factor of 10
+▪       They did this at Minnesota
 
-▪       They did this at Minnesota
+▪       You can't drop the stator. You can ruin the annealing with a large shock.
 
-▪       You can't drop the stator. You can ruin the annealing with a large shock.
+▪       John: you can also destroy the annealing with press fitting.&#x20;
 
-▪       John: you can also destroy the annealing with press fitting. 
+▪       Q John: Did you look at other alloys e.g. Cobalt Iron: A: Sam: not extensively. We need low core loss at high load
 
-▪       Q John: Did you look at other alloys e.g. Cobalt Iron: A: Sam: not extensively. We need low core loss at high load
+▪       Q Paul: Have you tried. A; NHS no. A: Andre: we have some in the shop. Metglass: an amorphous metallic.
 
-▪       Q Paul: Have you tried. A; NHS no. A: Andre: we have some in the shop. Metglass: an amorphous metallic.
+◦       We chose 24 pole 28 magnets
 
-◦       We chose 24 pole 28 magnets
+▪       with trapezoidal BEMF pattern
 
-▪       with trapezoidal BEMF pattern
+▪       Q: why don't you use ceramics for the dyno:&#x20;
 
-▪       Q: why don't you use ceramics for the dyno: 
+▪       Sm2Co17 is better with heat
 
-▪       Sm2Co17 is better with heat
+◦       Winding patterns:
 
-◦       Winding patterns:
+▪       RMxprt and Mxwell for design and FEA
 
-▪       RMxprt and Mxwell for design and FEA
+▪       MATLAB for final analysis
 
-▪       MATLAB for final analysis
+◦       Q: what is peak flux
 
-◦       Q: what is peak flux
+▪       .8 or .9 tesla
 
-▪       .8 or .9 tesla
+◦       This is an inside rotor motor:&#x20;
 
-◦       This is an inside rotor motor: 
+▪       for packaging reasons.&#x20;
 
-▪       for packaging reasons. 
+▪       outside rotor is challenging due to challenge of sealing the motor
 
-▪       outside rotor is challenging due to challenge of sealing the motor
+◦       Q: highest rpm
 
-◦       Q: highest rpm
+▪       1100 RPM
 
-▪       1100 RPM
+◦       Second animation
 
-◦       Second animation
+▪       1.6 tesla (saturation)
 
-▪       1.6 tesla (saturation)
+◦       Air gap
 
-◦       Air gap
+▪       120mm diameter
 
-▪       120mm diameter
+◦       at saturation it is still able to produce torque, it is just less efficiency
 
-◦       at saturation it is still able to produce torque, it is just less efficiency
+▪       there are few hills
 
-▪       there are few hills
+•       Efficiency map
 
-•       Efficiency map
+◦       flat ground, aero load&#x20;
 
-◦       flat ground, aero load 
+◦       the upward sloping lines are with upward sloping grades in the road
 
-◦       the upward sloping lines are with upward sloping grades in the road
+◦       assumed 25% mechanical load in addition to aero load
 
-◦       assumed 25% mechanical load in addition to aero load
+◦       Largest incline is +2.5%
 
-◦       Largest incline is +2.5%
+•       Q: do we have adequate acceleration for acceleration
 
-•       Q: do we have adequate acceleration for acceleration
+◦       no: we are doing straight lines for most of the day. Should only have two start-stops during the race.
 
-◦       no: we are doing straight lines for most of the day. Should only have two start-stops during the race.
+◦       Also, on the track most teams use CSIRO motors, which rapidly derate during peak torque and high temp. We will have better cooling than the CSIRO.
 
-◦       Also, on the track most teams use CSIRO motors, which rapidly derate during peak torque and high temp. We will have better cooling than the CSIRO.
+•       Q: weight.&#x20;
 
-•       Q: weight. 
+◦       9kg
 
-◦       9kg
+•       Q: does software consider eddy current loss.
 
-•       Q: does software consider eddy current loss.
+◦       A: Sam. it can, but we are not including it due to computational requirements to run the simulation
 
-◦       A: Sam. it can, but we are not including it due to computational requirements to run the simulation
+◦       includes eddy current losses within the steel, but not in the bulk materials outside of the steel.
 
-◦       includes eddy current losses within the steel, but not in the bulk materials outside of the steel.
+◦       Action Item: Do one simulation to see how eddy currents hurt us.&#x20;
 
-◦       Action Item: Do one simulation to see how eddy currents hurt us. 
+◦       John: difficult to believe that&#x20;
 
-◦       John: difficult to believe that 
+•       Q: Laminations are well insulated to each other, but you may have shorting at the edge.
 
-•       Q: Laminations are well insulated to each other, but you may have shorting at the edge.
+◦       A; sam: you cannot coat, but we will have rounded edges
 
-◦       A; sam: you cannot coat, but we will have rounded edges
+▪       cannot coat before annealing due to high temp coating.
 
-▪       cannot coat before annealing due to high temp coating.
+▪       Minnesota used a powder coated epoxy after the stack. Thinner than nomex.
 
-▪       Minnesota used a powder coated epoxy after the stack. Thinner than nomex.
+•       Sam getting B-H curves
 
-•       Sam getting B-H curves
+◦       John: we would want to run at 100 or 400 hz, not 60hz
 
-◦       John: we would want to run at 100 or 400 hz, not 60hz
+◦       Results: off by a factor of 4.
 
-◦       Results: off by a factor of 4.
+◦       The C5 coating probably destroyed the magnetic characteristics
 
-◦       The C5 coating probably destroyed the magnetic characteristics
+◦       Sam used results to adjust his FEA dyno in maxwel.&#x20;
 
-◦       Sam used results to adjust his FEA dyno in maxwel. 
+•       NHS Solidworks:&#x20;
 
-•       NHS Solidworks: 
+◦       Discussion on tires: we want to use Michelins. They are supposed to be available for fitment in December
 
-◦       Discussion on tires: we want to use Michelins. They are supposed to be available for fitment in December
+◦       CRR of 1.5x steel wheel on a steel rail
 
-◦       CRR of 1.5x steel wheel on a steel rail
+◦       Rim: 18in. tire radius 22in
 
-◦       Rim: 18in. tire radius 22in
+◦       For those doing math. the outder .558m
 
-◦       For those doing math. the outder .558m
+◦       stator slip fit, not press fit in
 
-◦       stator slip fit, not press fit in
+◦       brake rotor on each wheel.
 
-◦       brake rotor on each wheel.
+▪       braking for emergency and race rule compliance
 
-▪       braking for emergency and race rule compliance
+◦       a cover for dust.
 
-◦       a cover for dust.
+◦       Motor would be a unit that we can dyno and send to Australia.
 
-◦       Motor would be a unit that we can dyno and send to Australia.
+▪       no one on the team should have to open the motor box
 
-▪       no one on the team should have to open the motor box
+▪       motor is tall to bolt to the suspension upright
 
-▪       motor is tall to bolt to the suspension upright
+▪       Q: how much current through phase lines. 4-5amps nominal  35amps max.&#x20;
 
-▪       Q: how much current through phase lines. 4-5amps nominal  35amps max. 
+▪       Q: Don't forget about contact resistance. consider ring terminal blocks might be better.
 
-▪       Q: Don't forget about contact resistance. consider ring terminal blocks might be better.
+▪       Q: is motor controller external. yes.&#x20;
 
-▪       Q: is motor controller external. yes. 
+▪       Q: symmertry: the left side will be a mirror image. brake rotors are directional.
 
-▪       Q: symmertry: the left side will be a mirror image. brake rotors are directional.
+▪       Q: will we need external inductors: Sam: no.&#x20;
 
-▪       Q: will we need external inductors: Sam: no. 
+▪       CSIRO requires three external inductors
 
-▪       CSIRO requires three external inductors
+▪       Q: How far away will motor controller be.
 
-▪       Q: How far away will motor controller be.
+▪       it should be close. <5ft.
 
-▪       it should be close. <5ft.
+▪       Q: can motor controller go in the upright.&#x20;
 
-▪       Q: can motor controller go in the upright. 
+▪       a lot of vibration and limited space.&#x20;
 
-▪       a lot of vibration and limited space. 
+▪       no
 
-▪       no
+◦       Components:&#x20;
 
-◦       Components: 
+▪       wheel nut. conical press fit on the wheel nut. The ducati race nut.
 
-▪       wheel nut. conical press fit on the wheel nut. The ducati race nut.
+▪       brake rotor: hayes brake rotor
 
-▪       brake rotor: hayes brake rotor
+▪       6 shear pins transfer torque. high grade steel 2.5 FOS. press fit.
 
-▪       6 shear pins transfer torque. high grade steel 2.5 FOS. press fit.
+▪       front face plate
 
-▪       front face plate
+▪       bearing
 
-▪       bearing
+▪       clip to hold bearing
 
-▪       clip to hold bearing
+▪       carrier to hold rotor
 
-▪       carrier to hold rotor
+▪       tamagawa resolver
 
-▪       tamagawa resolver
+▪       roller bearing
 
-▪       roller bearing
+▪       cover, caliper, etc.&#x20;
 
-▪       cover, caliper, etc. 
+•       Switching away form hall sensors. Only have 6 points of reference. our motor controller is not smart enough. Looking at BEMF works ok, but a resolver allows you to know exact position.&#x20;
 
-•       Switching away form hall sensors. Only have 6 points of reference. our motor controller is not smart enough. Looking at BEMF works ok, but a resolver allows you to know exact position. 
+◦       Tamagawa has 98% of resolver market
 
-◦       Tamagawa has 98% of resolver market
+◦       allows us to start on hills
 
-◦       allows us to start on hills
+•       Q; Paul trapezoidal stator. We can use sine wave. windings pack even better. NHS built cad around the largest possible&#x20;
 
-•       Q; Paul trapezoidal stator. We can use sine wave. windings pack even better. NHS built cad around the largest possible 
+•       Q: John see plot of flux around air gap.
 
-•       Q: John see plot of flux around air gap.
+•       The resolver rotor comes with the rotor, so you don't have to recalibriate the motor.
 
-•       The resolver rotor comes with the rotor, so you don't have to recalibriate the motor.
+•       Q: every motor will have a different alignment. We will have to recalibrate the motor controller. We can store 15 profiles in the motor controller. We have to.&#x20;
 
-•       Q: every motor will have a different alignment. We will have to recalibrate the motor controller. We can store 15 profiles in the motor controller. We have to. 
+•       WE could key the rotor to the stator. DO it.&#x20;
 
-•       WE could key the rotor to the stator. DO it. 
+•       tamagawa rotoro is keyed to the shaft.
 
-•       tamagawa rotoro is keyed to the shaft.
+◦       Q: John says use a small end milll key shape. What we have not is not machinable.&#x20;
 
-◦       Q: John says use a small end milll key shape. What we have not is not machinable. 
+◦       Q: why is the part lobed.&#x20;
 
-◦       Q: why is the part lobed. 
+◦       Q: Angular ?? Goal is within 1 thou. 1 degree electrical&#x20;
 
-◦       Q: Angular ?? Goal is within 1 thou. 1 degree electrical 
+•       resolver is held in place with four bolts. Bolts will force the resolver against it's keyed position.
 
-•       resolver is held in place with four bolts. Bolts will force the resolver against it's keyed position.
+◦       It shouldn't matter if bolts scratch the resolver.&#x20;
 
-◦       It shouldn't matter if bolts scratch the resolver. 
+◦       Use a plastic washer under the bolt. We don't really know if scratching will be a problem.&#x20;
 
-◦       Use a plastic washer under the bolt. We don't really know if scratching will be a problem. 
+◦       Paul did not use M3 button heads, because John hates them.&#x20;
 
-◦       Paul did not use M3 button heads, because John hates them. 
+◦       M3 torx will be OK
 
-◦       M3 torx will be OK
+◦       Use a big washer
 
-◦       Use a big washer
+•       Connector
 
-•       Connector
+◦       Tyco connector for automotive use
 
-◦       Tyco connector for automotive use
+▪       question about sourcing and electrical.&#x20;
 
-▪       question about sourcing and electrical. 
+▪       Q: Why not connect directly to wire terminals.&#x20;
 
-▪       Q: Why not connect directly to wire terminals. 
+▪       people will not use good connectors for high powered.&#x20;
 
-▪       people will not use good connectors for high powered. 
+▪       use our own connectors or use&#x20;
 
-▪       use our own connectors or use 
+▪       We would have to make a lot of extra crimps.&#x20;
 
-▪       We would have to make a lot of extra crimps. 
+▪       If we don't need to have a connector, then don't use them.&#x20;
 
-▪       If we don't need to have a connector, then don't use them. 
+▪       Why do we have lugs.&#x20;
 
-▪       Why do we have lugs. 
+▪       so we can remove the stator without cutting wires
 
-▪       so we can remove the stator without cutting wires
+▪       Q: how to get from magnet wire to lugs.
 
-▪       Q: how to get from magnet wire to lugs.
+▪       we currently use a PCB. the PCB stays with the stator. ring terminals stay with .
 
-▪       we currently use a PCB. the PCB stays with the stator. ring terminals stay with .
+▪       John says no to a PCB.&#x20;
 
-▪       John says no to a PCB. 
+▪       Q: can we get more space for ourselves
 
-▪       Q: can we get more space for ourselves
+▪       take magnet wire and use royal fusing or brazing. PCB and solder is a bad idea.&#x20;
 
-▪       take magnet wire and use royal fusing or brazing. PCB and solder is a bad idea. 
+▪       Don't use that many wires. strip with propane, sand, solder the lug if you are confident in crimp.&#x20;
 
-▪       Don't use that many wires. strip with propane, sand, solder the lug if you are confident in crimp. 
+▪       Minnnesota;&#x20;
 
-▪       Minnnesota; 
+▪       use Minnesota's design.
 
-▪       use Minnesota's design.
+▪       the ring terminal will creep and shift over time.&#x20;
 
-▪       the ring terminal will creep and shift over time. 
+▪       2 strands of 22 gauge wire per phase.
 
-▪       2 strands of 22 gauge wire per phase.
+▪       that seems way too small.&#x20;
 
-▪       that seems way too small. 
+▪       John would guess 8 strands of 28.&#x20;
 
-▪       John would guess 8 strands of 28. 
+▪       terminating two 22 gauge wires is difficult to crimp.&#x20;
 
-▪       terminating two 22 gauge wires is difficult to crimp. 
+▪       They make special magnet wire crimps that we could use.&#x20;
 
-▪       They make special magnet wire crimps that we could use. 
+▪       Insulstrip: we could use it
 
-▪       Insulstrip: we could use it
+▪       it is super nasty and smells bad
 
-▪       it is super nasty and smells bad
+▪       you have to have the heat capacity to keep the molten slot liquid
 
-▪       you have to have the heat capacity to keep the molten slot liquid
+▪       Do prototyping for crimping.&#x20;
 
-▪       Do prototyping for crimping. 
+▪       data out. 6 for resolver and 2 for termsitor
 
-▪       data out. 6 for resolver and 2 for termsitor
+▪       solder cup.&#x20;
 
-▪       solder cup. 
+▪       we should add strain relief afterwards
 
-▪       we should add strain relief afterwards
+▪       move the zip tie closer to the connector.
 
-▪       move the zip tie closer to the connector.
+▪       make sure the wire length on the resolver will fit.&#x20;
 
-▪       make sure the wire length on the resolver will fit. 
+▪       Could we use a PCB after the data connector?&#x20;
 
-▪       Could we use a PCB after the data connector? 
+▪       we want the resolver to be removable
 
-▪       we want the resolver to be removable
+▪       matt says eliminate PCBs everywhere unless you are potting them.&#x20;
 
-▪       matt says eliminate PCBs everywhere unless you are potting them. 
+▪       Q; can you strain relief a phoenix connector.?
 
-▪       Q; can you strain relief a phoenix connector.?
+▪       no, you could pot the back of the connector
 
-▪       no, you could pot the back of the connector
+▪       Q; is there cooling.&#x20;
 
-▪       Q; is there cooling. 
+▪       no. only case cooling.&#x20;
 
-▪       no. only case cooling. 
+▪       we will use thermal silicon grease to conduct heat
 
-▪       we will use thermal silicon grease to conduct heat
+▪       There is minimal air flow, but the wheel is a fan.&#x20;
 
-▪       There is minimal air flow, but the wheel is a fan. 
+▪       Q: Do we have an idea of steady state temp
 
-▪       Q: Do we have an idea of steady state temp
+▪       no
 
-▪       no
+▪       we are also taking hot air from the pavement road surface.
 
-▪       we are also taking hot air from the pavement road surface.
+▪       CSIRO was at 65 c. steady state. and it was cold weather during the race
 
-▪       CSIRO was at 65 c. steady state. and it was cold weather during the race
+▪       Q: loss in efficiency due to temperature.&#x20;
 
-▪       Q: loss in efficiency due to temperature. 
+▪       will be efficiency losses.
 
-▪       will be efficiency losses.
+▪       Q: can we put fins on&#x20;
 
-▪       Q: can we put fins on 
+▪       no reason not to.&#x20;
 
-▪       no reason not to. 
+▪       use circumferential fins.&#x20;
 
-▪       use circumferential fins. 
+▪       difficult to machine.&#x20;
 
-▪       difficult to machine. 
+▪       we could use a key cutter.&#x20;
 
-▪       we could use a key cutter. 
+▪       or use a slitting saw.
 
-▪       or use a slitting saw.
+▪       Have we considered buried magnets:
 
-▪       Have we considered buried magnets:
+▪       no.&#x20;
 
-▪       no. 
+▪       less losses on the rotor if we do
 
-▪       less losses on the rotor if we do
+▪       losses reduced due to flat??
 
-▪       losses reduced due to flat??
+▪       There are huge mechanical advantages
 
-▪       There are huge mechanical advantages
+▪       we could commit to a thinner air gap.
 
-▪       we could commit to a thinner air gap.
+▪       surface magnets have to deal with a lot of centripetal force. 80g
 
-▪       surface magnets have to deal with a lot of centripetal force. 80g
+▪       use a good glue.&#x20;
 
-▪       use a good glue. 
+▪       using henkel glue.
 
-▪       using henkel glue.
+▪       magnets would have a slip fit.&#x20;
 
-▪       magnets would have a slip fit. 
+▪       toyota motor uses it
 
-▪       toyota motor uses it
+▪       motor would be heavier. magnets will short, so you need&#x20;
 
-▪       motor would be heavier. magnets will short, so you need 
+▪       assembly is way easier.
 
-▪       assembly is way easier.
+▪       Sam planned to have features in the rotor to key the magnets.&#x20;
 
-▪       Sam planned to have features in the rotor to key the magnets. 
+▪       will have little teeth
 
-▪       will have little teeth
+▪       we would need rounded outside of the magnets
 
-▪       we would need rounded outside of the magnets
+▪       Insight hybrid uses this
 
-▪       Insight hybrid uses this
+◦       Assembly method:&#x20;
 
-◦       Assembly method: 
+▪       laminations laser cut
 
-▪       laminations laser cut
+▪       stator cut: powder coated and epoxy?
 
-▪       stator cut: powder coated and epoxy?
+▪       rotor: epoxied laminations
 
-▪       rotor: epoxied laminations
+▪       windings might change
 
-▪       windings might change
+▪       assembles in the z-direction.&#x20;
 
-▪       assembles in the z-direction. 
+▪       John thinks that alignment will be difficult.
 
-▪       John thinks that alignment will be difficult.
+▪       we may want to fit this on the mill.&#x20;
 
-▪       we may want to fit this on the mill. 
+▪       laser cut laminations have +/- 2 thou. ID jig must be at least .004 smaller.&#x20;
 
-▪       laser cut laminations have +/- 2 thou. ID jig must be at least .004 smaller. 
+▪       we would be better off comolding an epoxy feature on the outside.&#x20;
 
-▪       we would be better off comolding an epoxy feature on the outside. 
+▪       build up a bunch of power coat and turn it on a lathe.&#x20;
 
-▪       build up a bunch of power coat and turn it on a lathe. 
+▪       the current design prevents this due to the keying feature.&#x20;
 
-▪       the current design prevents this due to the keying feature. 
+▪       The best way to do our current orientation si to build the stator, measure it and then build aluminum.&#x20;
 
-▪       The best way to do our current orientation si to build the stator, measure it and then build aluminum. 
+▪       using a CMM could fool us.&#x20;
 
-▪       using a CMM could fool us. 
+▪       We could order 3x the need that we need and then sort the laminations.
 
-▪       We could order 3x the need that we need and then sort the laminations.
-
-Jon: consider ring terminals or test main connector after cycles and test all of them. 
+Jon: consider ring terminals or test main connector after cycles and test all of them.&#x20;
 
 Jon: Considery adding a male key to the rotor to prevent recalibration of the motor controller for each swap
 
@@ -570,7 +566,7 @@ Jon" "Terminating two 22awg wire is sucky"
 
 Jon" Consider using inulstrip (super nasty) need lots of heat capacity for it use it
 
-Jon: Prototype crimping methods. 
+Jon: Prototype crimping methods.&#x20;
 
 Jon: "add strain relief rfeaure close to M12 connector"
 
@@ -578,11 +574,11 @@ Sasha: "Put a pcb on the back of the M12 connector"
 
 "Dont add pcbs or connectors in high vibe enviornments"
 
-Make thermal model 
+Make thermal model&#x20;
 
 Jon: I would not see why you would not put curcumferntial slitting saw to do fins
 
-Paul: "Have you considered burried magnet rotors "a lot fewer losses on the rotor" 
+Paul: "Have you considered burried magnet rotors "a lot fewer losses on the rotor"&#x20;
 
 Jon: "Huge mechanical advantages to doing that"
 
@@ -606,7 +602,7 @@ Insert stator in lathe
 
 Insert stator in Aluminum tube and machine that
 
-inject heat sinking compound into the gap. 
+inject heat sinking compound into the gap.&#x20;
 
 Jon: "I am not sure you can field service this motor"
 
@@ -614,13 +610,13 @@ Jon: "use linear bearing which is much stiffer"
 
 Jon: Two bushings and some threads which ride on the OD of the acme thread
 
-Jon: "the grease coming out is a huge problem" 
+Jon: "the grease coming out is a huge problem"&#x20;
 
-Paul: The grese is just going to fly out" 
+Paul: The grese is just going to fly out"&#x20;
 
 Paul B. "Capture the gree
 
-"Combo shield that captures the bearing to hold the greese in 
+"Combo shield that captures the bearing to hold the greese in&#x20;
 
 Jon: "felt seal"
 
@@ -662,7 +658,7 @@ Jon: "you should assume you will have a different calibration for each motor"
 
 Jon: Put holes to press stator out that you cover with screws
 
-PK&Jon: "Lead ins on everything expesially the big part"
+PK\&Jon: "Lead ins on everything expesially the big part"
 
 Paul B: "Not going to be much of an issue for bearings curents. If you cna use ceramic bearings use them"
 
@@ -672,5 +668,4 @@ Jon: consider o-ring
 
 Paul B: "Consider only using series winding"
 
- 
-
+&#x20;

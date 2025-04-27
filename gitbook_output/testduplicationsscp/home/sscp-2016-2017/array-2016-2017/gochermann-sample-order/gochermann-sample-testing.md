@@ -1,14 +1,16 @@
-# SSCP - Gochermann Sample Testing
+# gochermann-sample-testing
 
-# Gochermann Sample Testing
+## SSCP - Gochermann Sample Testing
+
+## Gochermann Sample Testing
 
 This page discusses non-destructive tests of properties OTHER than efficiency for Gochermann samples.
 
-X-ray (2D) was performed of the cell contacts. 
+X-ray (2D) was performed of the cell contacts.&#x20;
 
 I don't think there is much exciting here. Of note is the presence of solder voids in the detail view of the small contact. A high percentage of void is bad; this is fine. It would be interesting to inspect the joints of a large number of SSCP manufactured modules.
 
-Visual Inspection of panel was performed. The backsheet is conveniently transparent. 
+Visual Inspection of panel was performed. The backsheet is conveniently transparent.&#x20;
 
 ![](../../../../../assets/image_1da3d8cd2f.png)
 
@@ -30,7 +32,7 @@ The test equipment
 
 When the camera is positioned over then center of a single cell and the single cell's diode is forward biased, the cells illuminates uniformly. The radial intensity dropoff is due to the camera lens perspective. When the camera is positioned over two cells simultaneously, only one illuminates. This suggests the cell at the bottom of the image is cracked. A full-area EL test would confirm this.
 
-When the diodes are reverse biased, hotspots of light emission occur, but these hotspots are much, much weaker than the emissions when forward biased. Further, these occur only in the cell which illuminates under forward bias conditions. This unambiguously shows that the solar cells are conducting reverse current. 
+When the diodes are reverse biased, hotspots of light emission occur, but these hotspots are much, much weaker than the emissions when forward biased. Further, these occur only in the cell which illuminates under forward bias conditions. This unambiguously shows that the solar cells are conducting reverse current.&#x20;
 
 I hypothesize that:
 
@@ -40,11 +42,6 @@ Conclusion:
 
 Between the I-V curve and photon emission tests, it is clear this module does not contain additional, discrete bypass diodes. EL testing of all Gochermann samples should be performed before further handling.
 
-[](https://drive.google.com/folderview?id=1UkfOxDsF3koyKx2sWzZbO7d_1FbZ1D4z)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1UkfOxDsF3koyKx2sWzZbO7d_1FbZ1D4z#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1UkfOxDsF3koyKx2sWzZbO7d_1FbZ1D4z#list" frameborder="0"></iframe>
-

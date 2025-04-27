@@ -1,6 +1,8 @@
-# SSCP - Driver Preparation 2014-2015
+# driver-preparation-2014-2015
 
-# Driver Preparation 2014-2015
+## SSCP - Driver Preparation 2014-2015
+
+## Driver Preparation 2014-2015
 
 I haven't talked to any of you guys since the test driving yesterday so I'm not sure if this has already been discussed, but in case it hasn't -- here are driver packing items to consider. Let me know if anything has changed; I haven't been around for any Arctan driving yet so this is just from past experience.
 
@@ -16,11 +18,10 @@ I haven't talked to any of you guys since the test driving yesterday so I'm not 
 
 other things from last cycle:
 
-The solar car radio + helmet should always stay together, preferably in the car (when car's not in the trailer) -- easy for one person to get out and set down somewhere else, and a waste of time to look for every time. 
+The solar car radio + helmet should always stay together, preferably in the car (when car's not in the trailer) -- easy for one person to get out and set down somewhere else, and a waste of time to look for every time.&#x20;
 
 Be mindful of your water intake because heatstroke/dehydration is a very real thing and probably one of the biggest, most constant, and most unexpected risks you'll face. Also speak up if you're don't feel comfortable about anything. Your safety is #1
 
 also don't drink water or caffeine to excess though because you'll have to pee your pants before we stop the convoy for the solar car driver to bathroom :)
 
---Anna Olson, July 17 2105
-
+\--Anna Olson, July 17 2105
