@@ -1,2 +1,0 @@
-# electrical-fundamentals
-
