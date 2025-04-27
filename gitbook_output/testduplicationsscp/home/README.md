@@ -1,4 +1,4 @@
-# SSCP
+# SSCP Internal Documentation
 
 # Home
 
