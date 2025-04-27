@@ -4,7 +4,7 @@
 
 DEPRECATED. NEW STANDARDS HERE Sunbad External Connector Pin Reference
 
-[Sunbad External Connector Pin Reference](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/luminos-pinouts-and-connector-part-numbers)
+[Sunbad External Connector Pin Reference](/home/sscp-2012-2013/electrical-2012-2013/luminos-pinouts-and-connector-part-numbers)
 
 Xenith CAN
 

@@ -30,17 +30,17 @@ To utilize the SVN repository, you will need to consider the system you are usin
 
 Note: Altium Designer has SVN software built into it. You are welcome to utilize it (see more here). As a team, we utilize TortoiseSVN because it offers better integration with File Explorer and easier library management. Even if you use TortoiseSVN or another program, you may notice that Altium's internal SVN notices when you are working with files checked-out from an SVN repository. For example, Altium may recognize that you have checked-out and then altered a file by putting a red circle next to it in the Project panel. This is fine. You are welcome to ignore Altium's internal SVN system.
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-using-altiums-internal-svn-tools)
+[ here](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-using-altiums-internal-svn-tools)
 
 Guides:
 
 How to use TortoiseSVN (Recommended)
 
-[How to use TortoiseSVN (Recommended)](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-using-tortoisesvn)
+[How to use TortoiseSVN (Recommended)](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-using-tortoisesvn)
 
 How to use Altium's Internal SVN Tools
 
-[How to use Altium's Internal SVN Tools](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-using-altiums-internal-svn-tools)
+[How to use Altium's Internal SVN Tools](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-using-altiums-internal-svn-tools)
 
 How to use subversion (linux)
 
@@ -48,5 +48,5 @@ How to use subversion (linux)
 
 Before working with SVN, make sure you look at SVN Protocol/Etiquette!!
 
-[SVN Protocol/Etiquette](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
+[SVN Protocol/Etiquette](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
 

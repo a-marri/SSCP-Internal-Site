@@ -203,5 +203,5 @@ http://sscp.github.io/Dragonfly/
 
 https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/code-2016-2017/documentation-resources/wifi-infrastructure
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/code-2016-2017/documentation-resources/wifi-infrastructure](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/code-2016-2017/documentation-resources/wifi-infrastructure)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/code-2016-2017/documentation-resources/wifi-infrastructure](/home/sscp-2016-2017/code-2016-2017/documentation-resources/wifi-infrastructure)
 

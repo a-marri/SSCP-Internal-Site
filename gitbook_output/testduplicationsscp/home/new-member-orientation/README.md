@@ -29,7 +29,7 @@ Bookmark our website at http://solarcar.stanford.edu/
 
 Complete the VAIL safety training at VAIL Access
 
-[ VAIL Access](/stanford.edu/testduplicationsscp/home/new-member-orientation/vail-access)
+[ VAIL Access](/home/new-member-orientation/vail-access)
 
 Get access to the Team Drive folder where much of our team documentation is located
 

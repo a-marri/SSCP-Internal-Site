@@ -20,11 +20,11 @@ Contents
 
 1 This is the preflight checklist. We should verify all of these things before the start of each race day (eg. during array stand charging), at control stops, and before test drives.
 
-[1 This is the preflight checklist. We should verify all of these things before the start of each race day (eg. during array stand charging), at control stops, and before test drives.](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[1 This is the preflight checklist. We should verify all of these things before the start of each race day (eg. during array stand charging), at control stops, and before test drives.](/home/race-planning/preflight-checklists-and-race-protocol)
 
 2 Car
 
-[2 Car](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[2 Car](/home/race-planning/preflight-checklists-and-race-protocol)
 
 1. 2.1 Mechanical
 2. 2.2 Driver
@@ -33,31 +33,31 @@ Contents
 
 2.1 Mechanical
 
-[2.1 Mechanical](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[2.1 Mechanical](/home/race-planning/preflight-checklists-and-race-protocol)
 
 2.2 Driver
 
-[2.2 Driver](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[2.2 Driver](/home/race-planning/preflight-checklists-and-race-protocol)
 
 2.3 Communication
 
-[2.3 Communication](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[2.3 Communication](/home/race-planning/preflight-checklists-and-race-protocol)
 
 2.4 Code
 
-[2.4 Code](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[2.4 Code](/home/race-planning/preflight-checklists-and-race-protocol)
 
 3 Telemetry
 
-[3 Telemetry](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[3 Telemetry](/home/race-planning/preflight-checklists-and-race-protocol)
 
 4 Logistics
 
-[4 Logistics](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[4 Logistics](/home/race-planning/preflight-checklists-and-race-protocol)
 
 5 Control stops
 
-[5 Control stops](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[5 Control stops](/home/race-planning/preflight-checklists-and-race-protocol)
 
 ## This is the preflight checklist. We should verify all of these things before the start of each race day (eg. during array stand charging), at control stops, and before test drives.
 

@@ -4,7 +4,7 @@
 
 Here is a link to the Sundae full car assembly.
 
-[Sundae full car assembly](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/sundae-full-car-assembly)
+[Sundae full car assembly](/home/sscp-2016-2017/sundae-full-car-assembly)
 
 [](https://docs.google.com/spreadsheets/d/1SGS9aJ40BmXGGgFgllJ6KWbS-TH7at_7880HVqP3aqs/edit)
 

@@ -10,7 +10,7 @@ READ FIRST:
 
 Documentation from Arctan Cycle
 
-[Documentation from Arctan Cycle](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/business-logistics-2014-2015/business-2014-2015-projects/panasonic-batteries-and-testing-2014-2015)
+[Documentation from Arctan Cycle](/home/sscp-2014-2015/business-logistics-2014-2015/business-2014-2015-projects/panasonic-batteries-and-testing-2014-2015)
 
 EQUIPMENT (JANUARY 2017)
 

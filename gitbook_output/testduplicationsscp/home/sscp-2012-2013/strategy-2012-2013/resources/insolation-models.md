@@ -48,7 +48,7 @@ radiation = 6060 * 3600
 
 See SOC Models
 
-[SOC Models](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/strategy-2012-2013/luminos-soc-modeling)
+[SOC Models](/home/sscp-2012-2013/strategy-2012-2013/luminos-soc-modeling)
 
 ## Read CSV File
 

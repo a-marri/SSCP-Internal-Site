@@ -10,5 +10,5 @@ The videos are located on the Team Drive, at Subteams/Aero/Summer 18/Toolchain t
 
 Alternatively, the files are also available via FTP (Filezilla, sftp://solarcar.stanford.edu, sscpftp, solarpower, you know the rest) under Solarcar > Aero > Tutorials > NX.
 
-[ you know the res](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[ you know the res](/home/new-member-orientation/sftp-access)
 

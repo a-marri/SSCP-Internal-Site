@@ -55,7 +55,7 @@ Intro composites/gluing stuff for beginners
 
 High Voltage Electrical Safety
 
-[High Voltage Electrical Safety](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/high-voltage-safety)
+[High Voltage Electrical Safety](/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/high-voltage-safety)
 
 1. High Voltage system architecture (Xenith and Apogee)
 2. Vibe and shock testing
@@ -208,7 +208,7 @@ Are water-jet cut by Keller
 
 Sandwich panels are glued together with DP-420 (see Minnesota's guide to composites on this page Composites Fundamentals and Planning)
 
-[Composites Fundamentals and Planning](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/composites-fundamentals)
+[Composites Fundamentals and Planning](/home/sscp-2012-2013/composites-2012-2013/composites-fundamentals)
 
 Finished with spray acrylic or polyurethane (keeps moisture out)
 

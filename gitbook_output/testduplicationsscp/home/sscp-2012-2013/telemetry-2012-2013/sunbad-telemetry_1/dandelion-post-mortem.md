@@ -160,9 +160,9 @@ Dandelion solution: Reflection mechanisms that would allow for in-situ reconstru
 
 In order to facilitate available data reflection and in-flight message decoding, we created the CAN Catalog. It provides a CAN message format that allows for in-flight decoding, and mandates a set of predefined messages that allow for full reflection of the remaining messages. On the embedded side, there are a set of libraries that handle the low-level interface between CAN peripherals as well as the generation of Catalog-compatible messages.
 
-[ CAN message format](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/telemetry-2012-2013/sunbad-telemetry_1/can-catalog-message-format)
+[ CAN message format](/home/sscp-2012-2013/telemetry-2012-2013/sunbad-telemetry_1/can-catalog-message-format)
 
-[ predefined messages](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/telemetry-2012-2013/sunbad-telemetry_1/required-catalog-entries)
+[ predefined messages](/home/sscp-2012-2013/telemetry-2012-2013/sunbad-telemetry_1/required-catalog-entries)
 
 ### Server hardware
 

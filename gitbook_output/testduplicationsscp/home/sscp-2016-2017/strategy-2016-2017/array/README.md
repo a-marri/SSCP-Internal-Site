@@ -14,7 +14,7 @@ Control Stop Array Normalization
 
     Process: First I determined when we were driving and when we array standing at control stops (see the control stop indexes in the Arctan WSC Baseline doc). Then I normalized the time of day (in Darwin's timezone: UTC+9:30) in the array data for each race day so that I could plot all of the days of array data on top of each other, all starting with t=0 being 8am. I did this for driving array data and control stop array standing data separately. In order to separate the array data into two data sets, I extracted the relevant data segments using a script I wrote (sundae-strategy/matlab/extractDataSegments.m).
 
-[ Arctan WSC Baseline](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/strategy-2016-2017/arctan-wsc-baseline)
+[ Arctan WSC Baseline](/home/sscp-2016-2017/strategy-2016-2017/arctan-wsc-baseline)
 
     Then, for the driving data only (because there was so much of it), I took a cubic fit of each day first, and took a final cubic fit of those single-day fits plotted on top of each other (Figure 1,2). For the control stop array standing data I plotted all of the data (normalized to time of day as mentioned earlier) on one chart and took the cubic fit of it (Figure 3 - green cubic fit was used, not quadratic). The cubic fit is actually a pretty good approximation of the sinusoidal function that is array power - on most days the fit was pretty much perfect. (Figure 4 shows the plot from 2 & 3 on the same chart).
 

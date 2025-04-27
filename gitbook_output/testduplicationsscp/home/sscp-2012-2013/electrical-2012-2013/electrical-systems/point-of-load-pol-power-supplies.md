@@ -31,11 +31,11 @@ We currently have two discreet power modules for dropping into other circuit lay
 
 The Low Current Module provides up to 100 mA
 
-[ Low Current Module](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/low-current)
+[ Low Current Module](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/low-current)
 
 The Medium Current Module provides up to 1A using the LT3695 bucking regulator.
 
-[ Medium Current Module](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/medium-current)
+[ Medium Current Module](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/medium-current)
 
 Module Pinout:
 
@@ -71,7 +71,7 @@ The High-Current Power Supply
 
 The high-current supply is not provided as a discreet module, due to the high current requirements that would overload standard socket connectors. Instead, it is a drop-in schematic and parts collection that you can incorporate into a board design that needs it.
 
-[ high-current supply](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/high-current)
+[ high-current supply](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/high-current)
 
 Archived (Outdated) Plans for Modules:
 
@@ -79,7 +79,7 @@ Proposed solutions
 
 Low Current (up to 100 mA)
 
-[Low Current (up to 100 mA)](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/low-current)
+[Low Current (up to 100 mA)](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/low-current)
 
 ICs / modules
 

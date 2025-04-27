@@ -68,7 +68,7 @@ Embedded content: [Custom embed]()
 
 Using the efficiency curves from the single channel Photon trackers used during WSC 2011 the efficiency change due to the decreased boost ratio and decreased I^2 R losses. The results are shown in the numeric calculations table and are based on the voltage increase and current decrease calculated using the reduced size of the diced cell. 
 
-[efficiency curves](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/sam-mppt)
+[efficiency curves](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/sam-mppt)
 
 ### Wiring I²R losses
 

@@ -47,5 +47,5 @@ Check out Altium's in depth installation instructions here
 
 Once you get Altium installed, check out our Getting Started with Altium page
 
-[ Getting Started with Altium](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/getting-started-with-altium)
+[ Getting Started with Altium](/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/getting-started-with-altium)
 

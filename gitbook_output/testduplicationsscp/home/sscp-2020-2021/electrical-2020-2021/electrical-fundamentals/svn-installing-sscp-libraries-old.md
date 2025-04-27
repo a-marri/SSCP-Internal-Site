@@ -6,7 +6,7 @@
 
 1. Follow the tutorial for setting up SVN access to our repositories (Windows, Linux)
 
-[Windows](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-using-tortoisesvn)
+[Windows](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-using-tortoisesvn)
 
 [ Linux](https://www.tutorialspoint.com/svn/index.htm)
 

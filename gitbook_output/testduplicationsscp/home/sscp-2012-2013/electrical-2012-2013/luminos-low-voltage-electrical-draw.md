@@ -8,7 +8,7 @@ Attached is a test done in January 2014 after WSC to identify where the power wa
 
 First, the most unfortunate (but also easiest to fix) source of draw: The Telemetry Server, which took ~10W constantly through the entire race and couldn't be unplugged because we needed it to comply with rear-view regulations (which were actually spot-checked). 
 
-[The Telemetry Server](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/telemetry-server-2-0-0)
+[The Telemetry Server](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/telemetry-server-2-0-0)
 
 TODO: Import to Drive's excel variant and make pretty plots for this page. 
 

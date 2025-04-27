@@ -80,7 +80,7 @@ I just got off the phone with Christensen. They are willing to wait for final CA
 
 -The team was pleased with MFG's work for Equinox and Solstice.
 
-[ pleased](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/molds)
+[ pleased](/home/sscp-2012-2013/composites-2012-2013/molds)
 
 -MFG is in SoCal
 

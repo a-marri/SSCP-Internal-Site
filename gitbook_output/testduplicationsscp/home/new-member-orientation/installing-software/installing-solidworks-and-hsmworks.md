@@ -40,7 +40,7 @@ https://library.stanford.edu/englib/using-terman/computers-equipment-software/so
 
 Follow the instructions on the SFTP page, and download the folder Software > Solidworks 17 SP5.0 IM. Please note that this can over an hour (at least off-campus) since some of these files are pretty large.
 
-[SFTP](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[SFTP](/home/new-member-orientation/sftp-access)
 
 You can also check out a flash drive with the Solidworks installation files from Terman Engineering Library.
 
@@ -50,7 +50,7 @@ You can also check out a flash drive with the Solidworks installation files from
 
 Follow the instructions detailed in the PDM Access page.
 
-[PDM Access](/stanford.edu/testduplicationsscp/home/new-member-orientation/pdm-access)
+[PDM Access](/home/new-member-orientation/pdm-access)
 
 ## HSMWorks Add-on (for CNC users only)
 

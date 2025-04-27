@@ -4,13 +4,13 @@
 
 To see details for the 2015 oven, see oven design.
 
-[ oven design](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/oven-design)
+[ oven design](/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/oven-design)
 
 The team builds a wooden oven every two years to bake our largest carbon composite pieces. 
 
 The oven SOP is a very good place to start for details on building the oven. The oven is one of the team projects that receives a lot of university oversight, so the SOP document is actually here in the Advisory Board pages.
 
-[ here](/stanford.edu/testduplicationsscp/home/administrative-files/university-admins/university-advisory-board)
+[ here](/home/administrative-files/university-admins/university-advisory-board)
 
 The SOP will give you 95% of the details you need to build the oven.
 

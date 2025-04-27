@@ -21,7 +21,7 @@ Pointwise Automatic Meshing Meeting Video. You can find a higher quality version
 
 Brief intro to meshing here.
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/pointwise-meshing-and-simulation)
+[ here](/home/sscp-2014-2015/aero-2014-2015/pointwise-meshing-and-simulation)
 
 Perhaps also of interest:
 

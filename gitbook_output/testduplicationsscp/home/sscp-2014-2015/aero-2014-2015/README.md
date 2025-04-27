@@ -10,7 +10,7 @@ Our biggest challenge is currently meshing, where our team completely lacks expe
 
 We've worked out a toolchain that we hope to be able to use for aero iterations and analysis. However, during our 7/12/14 Preliminary Design Review, we heard from Adem that this was far too slow and high-resolution for the type of aero we need to be doing at this point in the cycle. We need to look into a rapid, low-res meshing/CFD process that we can use to churn out many iterations. This is important for comparing high-level design differences, before we focus in on dialing in any options.
 
-[ 7/12/14 Preliminary Design Review](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/alumni-design-reviews-2014-2015/sunwhale-alumni-pdr-71214)
+[ 7/12/14 Preliminary Design Review](/home/sscp-2014-2015/alumni-design-reviews-2014-2015/sunwhale-alumni-pdr-71214)
 
 We also need to validate our new toolchain results against known data from Luminos, another point that was re-emphasized during our 7/12/14 Design Review. If we're switching to new software we need to verify that we can compare its results to past numbers. *As of August 13, SU2 has been verified to produce the exact same drag and downforce results as those produced by Fluent. 
 

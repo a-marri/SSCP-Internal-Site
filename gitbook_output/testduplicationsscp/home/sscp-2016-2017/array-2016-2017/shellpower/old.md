@@ -14,7 +14,7 @@ To fit the 4m^2 array on a new aerobody, start by working with one of the existi
 
 Here is the Shellpower page from last cycle.
 
-[ Shellpower page](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/array-2014-2015/shellpower-analysis)
+[ Shellpower page](/home/sscp-2014-2015/array-2014-2015/shellpower-analysis)
 
 [](https://drive.google.com/folderview?id=1bQoW-t8P4FZOkbwJ_krfhHg7pduHMwb6)
 

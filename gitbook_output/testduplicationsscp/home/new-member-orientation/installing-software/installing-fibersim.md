@@ -4,11 +4,11 @@
 
 First install NX.
 
-[ NX](/stanford.edu/testduplicationsscp/home/new-member-orientation/installing-software/installing-nx)
+[ NX](/home/new-member-orientation/installing-software/installing-nx)
 
 Download the Fibersim folder from sftp.  Located at '/Software/Siemens/Fibersim 15' .
 
-[sftp](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[sftp](/home/new-member-orientation/sftp-access)
 
 License: 27002@sscp4.stanford.edu
 

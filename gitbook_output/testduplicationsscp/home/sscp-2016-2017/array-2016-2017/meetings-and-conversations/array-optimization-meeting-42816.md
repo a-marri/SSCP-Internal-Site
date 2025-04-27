@@ -99,7 +99,7 @@ Some available in laminate (laminate in the diode during cell encapsulation)
 
 Is there enough space between cell corners to insert diode (Gochermann) → more bypass diodes = better shading performance
 
-[Gochermann](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/array-2016-2017/meetings-and-conversations/skype-call-with-oliver-gochermann)
+[Gochermann](/home/sscp-2016-2017/array-2016-2017/meetings-and-conversations/skype-call-with-oliver-gochermann)
 
 John: Diffuse light effects when shade is present? (Logan’s simulation work); pyranometer always 100-200 W/m2 even in shade
 

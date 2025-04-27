@@ -6,7 +6,7 @@
 
 [](#h.szjomgbvoncz)
 
-[ this page](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[ this page](/home/race-planning/preflight-checklists-and-race-protocol)
 
 ## Car
 

@@ -14,5 +14,5 @@ HVA280 (TE)
 
 Reference Sunwhale connectors page
 
-[ connectors](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/electrical-2014-2015/sunwhale-connectors-pinouts-and-part-numbers)
+[ connectors](/home/sscp-2014-2015/electrical-2014-2015/sunwhale-connectors-pinouts-and-part-numbers)
 

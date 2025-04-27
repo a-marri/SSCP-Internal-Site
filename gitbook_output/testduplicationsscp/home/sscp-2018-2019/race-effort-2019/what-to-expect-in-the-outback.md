@@ -36,7 +36,7 @@ Money
 
 Most places, even in the outback, take card but you should check with your bank ahead of time if they charge an international conversion fee. Bring at least two ways to pay for things. An Australian dollar is about 70 US cents. You'll probably want to have some cash on hand in case of emergencies, and I think getting some of it changed over in the US is cheaper than doing it in Australia. You need to make sure you have some 20 cent/dollar coins to operate the washing machines and showers in the Outback or you're gonna have a bad time. Sarah S. wrote up a helpful doc on expected personal expenses for budgeting purposes. Something to note is that we will have to have most team members purchasing things like gas, food, etc and then getting reimbursed while we're in the Outback because there is only one team credit card and the convoy is split up often enough during testing that people sometimes have to get reimbursed for team expenses.
 
-[ expected personal expenses](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/race-effort-2019/expected-personal-costs)
+[ expected personal expenses](/home/sscp-2018-2019/race-effort-2019/expected-personal-costs)
 
 Packing Info
 
@@ -48,7 +48,7 @@ Packing List
 
 Check it out here!
 
-[Check it out here!](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/race-effort-2019/packing-list)
+[Check it out here!](/home/sscp-2018-2019/race-effort-2019/packing-list)
 
 Connectivity
 

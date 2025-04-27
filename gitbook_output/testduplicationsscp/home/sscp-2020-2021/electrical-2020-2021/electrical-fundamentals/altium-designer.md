@@ -4,7 +4,7 @@
 
 Welcome to the Getting Started page on Altium Designer. We use Altium Designer to turn circuit designs into PCBs which we can print and use in the car. It's power, versatility, and use in industry will aid you well, but getting started can be a little overwhelming. When it comes to learning anything the web is your friend and you can find the information you need, but this page should save you a bit of searching with tutorial videos. While in the design process and learning how to use Altium, make sure your design is a good one with this Checklist.
 
-[Checklist](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
+[Checklist](/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
 
 Before you begin:
 
@@ -23,7 +23,7 @@ Before you begin:
 
 Follow this guide to install Altium Designer. 
 
-[guide to install Altium Designer](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/altium-designer-installation)
+[guide to install Altium Designer](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/altium-designer-installation)
 
 Go through the short "Exploring Altium" tutorial on Altium's Website. This will show you around the software you just downloaded.
 
@@ -31,7 +31,7 @@ Go through the short "Exploring Altium" tutorial on Altium's Website. This will 
 
 Next, it's time to use setup SVN so you can collaborate on our various projects.
 
-[ setup SVN](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/altium-designer-svn)
+[ setup SVN](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/altium-designer-svn)
 
 From here, you have Altium and it's up to you to decide where you will go from here. One recommendation is to follow the full Tutorial on Altium's website. 
 
@@ -91,7 +91,7 @@ From youtube
 
 Follow the Component library style guide:
 
-[Component library style guide](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/component-library-style-guide)
+[Component library style guide](/home/sscp-2012-2013/electrical-2012-2013/design-references/component-library-style-guide)
 
 Making a schematic Symbol
 
@@ -111,7 +111,7 @@ Connecting a schematic to a footprint
 
 A list of the rough steps is here.
 
-[here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/making-schematic-symbol-steps)
+[here](/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/making-schematic-symbol-steps)
 
 ### Make the PCB: 
 
@@ -119,7 +119,7 @@ A list of the rough steps is here.
 
 (don't forget to look at the Checklist)
 
-[Checklist](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
+[Checklist](/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
 
 A good overview
 

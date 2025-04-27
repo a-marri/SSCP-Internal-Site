@@ -8,7 +8,7 @@ Present: Harrison, Eric
 
 WiFi Infrastructure: https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2014-2015/code-2014-2015/wifi-infrastructure
 
-[ https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2014-2015/code-2014-2015/wifi-infrastructure](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/code-2014-2015/wifi-infrastructure)
+[ https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2014-2015/code-2014-2015/wifi-infrastructure](/home/sscp-2014-2015/code-2014-2015/wifi-infrastructure)
 
 * Hardware Overview: we use PicoStation2HP, AKA Ubiquiti instance, as source of WiFi communicationIMU board communicates over ethernet to Ubiquiti instance WiFi router. Computers can connect to Ubiquiti instance to transmit packets.Two IP addresses:IMU address (10.0.0.2)Ubiquiti (10.0.0.3)Testing Ubiquiti instances? we have at least three or four in the shop, we can search for themAlternatively, find a new, updated version from Ubiquiti itselfUbiquiti instances: they are high-powered wireless access pointsHow can we potentially reduce power?
 * Hardware Overview: we use PicoStation2HP, AKA Ubiquiti instance, as source of WiFi communicationIMU board communicates over ethernet to Ubiquiti instance WiFi router. Computers can connect to Ubiquiti instance to transmit packets.Two IP addresses:IMU address (10.0.0.2)Ubiquiti (10.0.0.3)Testing Ubiquiti instances? we have at least three or four in the shop, we can search for themAlternatively, find a new, updated version from Ubiquiti itselfUbiquiti instances: they are high-powered wireless access pointsHow can we potentially reduce power?

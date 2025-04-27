@@ -16,7 +16,7 @@ Embedded content: [Embedded Content]()
 
 Also see Symmetric vs Asymmetric Array Analysis
 
-[Symmetric vs Asymmetric Array Analysis](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/aero-2016-2017/symmetric-vs-asymmetric-array-analysis)
+[Symmetric vs Asymmetric Array Analysis](/home/sscp-2016-2017/aero-2016-2017/symmetric-vs-asymmetric-array-analysis)
 
 HRH-004
 

@@ -32,7 +32,7 @@ Suspension notes located at:
 
 https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-suspension-design/williams-f1-suspension-workshop-notes
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-suspension-design/williams-f1-suspension-workshop-notes](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/williams-f1-suspension-workshop-notes)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-suspension-design/williams-f1-suspension-workshop-notes](/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/williams-f1-suspension-workshop-notes)
 
 [](https://drive.google.com/folderview?id=1Cvw4It1bbv4xYiziTnjF-xZ425GIG4sy)
 

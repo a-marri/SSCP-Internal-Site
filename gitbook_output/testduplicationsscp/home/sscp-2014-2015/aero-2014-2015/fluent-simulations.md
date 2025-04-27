@@ -4,7 +4,7 @@
 
 Useful: 2012-2013 Fluent Page
 
-[ 2012-2013 Fluent Page](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/aero-2012-2013/fluent-set-up-and-usage)
+[ 2012-2013 Fluent Page](/home/sscp-2012-2013/aero-2012-2013/fluent-set-up-and-usage)
 
 Licensing
 

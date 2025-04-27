@@ -175,5 +175,5 @@ Sending thank you letters and pictures to sponsors should be fine without going 
 
 Finally, here is a review of the internal guidelines for requesting sponsorships
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/business-logistics-2012-2013/business-logistics-individual-projects/sscp-fundraising-guidelines)
+[ here](/home/sscp-2012-2013/business-logistics-2012-2013/business-logistics-individual-projects/sscp-fundraising-guidelines)
 

@@ -54,5 +54,5 @@ Then, modify the values of all variables with with the wrong license server valu
 
 Now that you've installed, go check out the tutorial videos!
 
-[ tutorial videos](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/aero-2018-2019/nx-tutorial-videos)
+[ tutorial videos](/home/sscp-2018-2019/aero-2018-2019/nx-tutorial-videos)
 

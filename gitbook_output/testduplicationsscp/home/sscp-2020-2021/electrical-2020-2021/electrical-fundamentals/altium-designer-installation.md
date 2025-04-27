@@ -36,7 +36,7 @@ Once you have Altium Designer installed, you will need to sign in with the accou
 
 Once you get Altium installed, head back to our Getting Started with Altium page.
 
-[Getting Started with Altium](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/altium-designer)
+[Getting Started with Altium](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/altium-designer)
 
 Check out Altium's in depth installation instructions here
 

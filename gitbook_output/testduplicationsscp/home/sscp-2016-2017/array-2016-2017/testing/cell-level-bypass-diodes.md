@@ -22,7 +22,7 @@ Key question: Will putting extra stuff in the encapsulation degrade cell reliabi
 
 As stated on the Gochermann call page (linked), he can bypass at the single cell level with 50 mV forward voltage diodes.
 
-[Gochermann call page (linked)](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/array-2016-2017/meetings-and-conversations/skype-call-with-oliver-gochermann)
+[Gochermann call page (linked)](/home/sscp-2016-2017/array-2016-2017/meetings-and-conversations/skype-call-with-oliver-gochermann)
 
 SSCP has pursued the concept of putting flex PCB's with a bypass diode across the back of the cell and soldering to the tabs. This was prototyped by hand modifying/soldering the flat Alphawire used for the array. A mechanical test did not break the cell during the encapsulation process as evidenced by EL testing. An electrical test resulted in a direct short between the tabs during the encapsulation process.
 

@@ -39,7 +39,7 @@ Set the units to millimeters and set the offset to 0 x 0.
 
 Import the outline to Mechanical Layer 2, the official outline layer as per our style guide.
 
-[ style guide](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/component-library-style-guide)
+[ style guide](/home/sscp-2012-2013/electrical-2012-2013/design-references/component-library-style-guide)
 
 Enter single layer mode by pressing Shift-S on the outline layer.
 

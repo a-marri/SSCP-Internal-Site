@@ -6,7 +6,7 @@ After designing and modeling a circuit, making the schematic in CAD is somewhat 
 
 [find the information you need](http://www.altium.com/training/en/training-videos.cfm#,0)
 
-[ Checklist](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
+[ Checklist](/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
 
 Just in case you didn't know:
 
@@ -20,7 +20,7 @@ What is a PCB?
 
 How to install our libraries.
 
-[How to install our libraries.](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/installing-altium-libraries)
+[How to install our libraries.](/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/installing-altium-libraries)
 
 Overall Tutorial from Altium wiki
 
@@ -68,7 +68,7 @@ From youtube
 
 Follow the Component library style guide:
 
-[ Component library style guide](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/component-library-style-guide)
+[ Component library style guide](/home/sscp-2012-2013/electrical-2012-2013/design-references/component-library-style-guide)
 
 Making a schematic Symbol
 
@@ -88,7 +88,7 @@ Connecting a schematic to a footprint
 
 A list of the rough steps is here.
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/making-schematic-symbol-steps)
+[ here](/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/making-schematic-symbol-steps)
 
 ### Make the PCB: 
 
@@ -96,7 +96,7 @@ A list of the rough steps is here.
 
 (don't forget to look at the Checklist)
 
-[ Checklist](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
+[ Checklist](/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
 
 A good overview
 

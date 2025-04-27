@@ -4,7 +4,7 @@
 
 A suggested list of things you should either bring to Australia or buy before entering the Outback. Everything you bring needs to fit into (1) carry-on and (1) checked baggage item, the recommended route is to get a backpacking backpack for your gear and bring your school-sized backpack as a daily bag to carry from convoy vehicle to convoy vehicle. You can wear whatever you want during the test drives but during the race we wear our race jerseys and a safety vest every day. For more information, check out What to Expect in the Outback.
 
-[ What to Expect in the Outback](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/race-effort-2019/what-to-expect-in-the-outback)
+[ What to Expect in the Outback](/home/sscp-2018-2019/race-effort-2019/what-to-expect-in-the-outback)
 
 Essentials
 

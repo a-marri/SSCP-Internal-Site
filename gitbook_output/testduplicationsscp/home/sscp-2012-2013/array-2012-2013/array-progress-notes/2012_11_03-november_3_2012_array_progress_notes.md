@@ -20,7 +20,7 @@ Here's what we did to meet them:
 
 3. Eric Thong and I took some great pictures with the camera that Eric hacked and a little magic from lightroom. You can find the pictures at https://sites.google.com/a/stanfordsolarcar.com/sscp/home/array/ir-camera
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/array/ir-camera](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/array-2012-2013/ir-camera)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/array/ir-camera](/home/sscp-2012-2013/array-2012-2013/ir-camera)
 
 4. NHS and Sasha did a great job and fixed our oven! Yes!
 

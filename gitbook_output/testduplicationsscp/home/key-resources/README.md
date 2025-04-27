@@ -14,15 +14,15 @@ Team Resources
 
 Battery Fires 101
 
-[Battery Fires 101](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/mechanical-2018-2019/battery/battery-fires-101)
+[Battery Fires 101](/home/sscp-2018-2019/mechanical-2018-2019/battery/battery-fires-101)
 
 Safety Duties and Responsibilities
 
-[Safety Duties and Responsibilities](/stanford.edu/testduplicationsscp/home/key-resources/safety-duties-and-responsibilities)
+[Safety Duties and Responsibilities](/home/key-resources/safety-duties-and-responsibilities)
 
 FMEA 101
 
-[FMEA 101](/stanford.edu/testduplicationsscp/home/key-resources/failure-modes-and-effects-analysis-fmea)
+[FMEA 101](/home/key-resources/failure-modes-and-effects-analysis-fmea)
 
 Aero Resources
 
@@ -49,7 +49,7 @@ How to build composite parts
 
 Chassis Analysis 101
 
-[Chassis Analysis 101](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/composites-2020-2021/composite-chassis-analysis)
+[Chassis Analysis 101](/home/sscp-2020-2021/composites-2020-2021/composite-chassis-analysis)
 
 Electrical Resources
 
@@ -58,7 +58,7 @@ Electrical Resources
 
 Altium
 
-[Altium](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/altium-designer)
+[Altium](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/altium-designer)
 
 LTSpice
 
@@ -70,7 +70,7 @@ Mechanical Resources
 
 Chassis Analysis 101
 
-[Chassis Analysis 101](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/composites-2020-2021/composite-chassis-analysis)
+[Chassis Analysis 101](/home/sscp-2020-2021/composites-2020-2021/composite-chassis-analysis)
 
 Strategy Resources
 

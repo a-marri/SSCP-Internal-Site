@@ -60,7 +60,7 @@ Then you should enter your info into the dfm check and upload the zip file. (Mak
 
 [ dfm check](https://www.protoexpress.com/dfm/index.jsp)
 
-[ board outline](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/creating-a-board-outline)
+[ board outline](/home/sscp-2012-2013/electrical-2012-2013/design-references/creating-a-board-outline)
 
 ## Create a BOM
 

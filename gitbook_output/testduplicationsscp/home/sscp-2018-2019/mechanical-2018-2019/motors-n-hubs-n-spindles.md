@@ -4,7 +4,7 @@
 
 See page Warp Motor for motor information.  @next (2021) cycle, contact Sarah S if you want to walk through motor disassembly the first time around.
 
-[Warp Motor](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/warp-motor)
+[Warp Motor](/home/sscp-2012-2013/mechanical-2012-2013/motors/warp-motor)
 
 ### Front Hubs
 
@@ -103,7 +103,7 @@ When the spindles were designed Luminos-cycle, they had the lowest FOS on the en
 
 Titanium *in theory* has "functionally infinite fatigue life" so long as you don't exceed a certain stress threshold during use. This is nice, and Arctan did a nice writeup (Motor Spindle Longevity Analysis) on their decision to use the spindles again- just for their cycle! Fatigue life and updated load cases are something that you should think about any time you're going to repeatedly use a legacy part across several widely varying designs (spindles, rims, talk to sarah about motors). The health and safety of the spindles is by no means guaranteed.
 
-[Motor Spindle Longevity Analysis](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-spindle-longevity-analysis)
+[Motor Spindle Longevity Analysis](/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-spindle-longevity-analysis)
 
 If you decide to machine more new spindles to avoid driving on 10-yr-old parts, know that you can successfully ship these to china, but you also have to ship the stock! Chinese machine shops are well known for cutting corners through using slightly off-nominal metal alloys (like mystery meat! but aluminum or whatever) so for a part like this where the material characteristics are very safety critical, the only way to be sure is to buy the titanium here from a trusted supplier and ship it overseas. Factor in shipping costs of $1k-$2k ish.
 

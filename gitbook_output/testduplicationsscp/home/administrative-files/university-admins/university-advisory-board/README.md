@@ -43,7 +43,7 @@ The Stanford University Fire Marshal's Office (Robert Portfield rporterfield@sta
 
 Volkswagen
 
-[Volkswagen](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/business-logistics-2012-2013/business-logistics-individual-projects/volkswagen)
+[Volkswagen](/home/sscp-2012-2013/business-logistics-2012-2013/business-logistics-individual-projects/volkswagen)
 
 * Apogee in the Tech Museum
 * Reorganizing VAIL

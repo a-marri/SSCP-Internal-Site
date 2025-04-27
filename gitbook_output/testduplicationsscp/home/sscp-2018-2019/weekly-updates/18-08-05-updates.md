@@ -159,7 +159,7 @@ But v4.2 (same as Sundae cycle) is FULLY OPERATIONAL
 
 (Check out our iteration page)
 
-[ iteration page](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/aero-2018-2019/car-iterations-2018-2019)
+[ iteration page](/home/sscp-2018-2019/aero-2018-2019/car-iterations-2018-2019)
 
 2 more cars expected by end of Friday (8/3)
 

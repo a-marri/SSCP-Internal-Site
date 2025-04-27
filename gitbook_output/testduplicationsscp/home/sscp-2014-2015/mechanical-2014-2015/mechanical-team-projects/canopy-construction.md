@@ -6,7 +6,7 @@ This is an item that the team has historically not addressed until later in the 
 
 Additionally, one point that was brought up during the 7/12/14 Preliminary Design Review was that the thermoforming process for the canopy needs to be known when making the aerobody CADs for the molds (currently slated for beginning of October). 
 
-[ 7/12/14 Preliminary Design Review](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/alumni-design-reviews-2014-2015/sunwhale-alumni-pdr-71214)
+[ 7/12/14 Preliminary Design Review](/home/sscp-2014-2015/alumni-design-reviews-2014-2015/sunwhale-alumni-pdr-71214)
 
 Email from Wesley: Next solar car canopy
 
@@ -24,7 +24,7 @@ Eliminating scratches in the next windscreen would do a lot to improve driver sa
 
 Relevant information on molds and composites on the site here.
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/molds)
+[ here](/home/sscp-2012-2013/composites-2012-2013/molds)
 
 Side note: From here on out let's try to consistently use the term "canopy" to refer this project/part of the car in text, to make it more searchable on the site and by email. (As opposed to "driver bubble," "windscreen," and other variations.) 
 
@@ -40,7 +40,7 @@ Manufacturing cost doc started by Lisa & Rob for this cycle
 
 During the 7/12/14 Preliminary Design Review Greg also suggested looking into high-density tooling foam for making molds.
 
-[ 7/12/14 Preliminary Design Review](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/alumni-design-reviews-2014-2015/sunwhale-alumni-pdr-71214)
+[ 7/12/14 Preliminary Design Review](/home/sscp-2014-2015/alumni-design-reviews-2014-2015/sunwhale-alumni-pdr-71214)
 
 8/22/14
 

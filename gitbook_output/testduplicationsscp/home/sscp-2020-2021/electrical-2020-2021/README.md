@@ -35,7 +35,7 @@ Onboarding Steps (Click me)
 
 EE Style Guide (Read me)
 
-[EE Style Guide (Read me)](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/ee-style-guide-2020-2021)
+[EE Style Guide (Read me)](/home/sscp-2020-2021/electrical-2020-2021/ee-style-guide-2020-2021)
 
 Helpful links:
 
@@ -55,5 +55,5 @@ What past teams have done
 
 EE Style Guide
 
-[EE Style Guide](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/ee-style-guide-2020-2021)
+[EE Style Guide](/home/sscp-2020-2021/electrical-2020-2021/ee-style-guide-2020-2021)
 

@@ -38,13 +38,13 @@ November 2016
 
 Disassembled warp 2 completely and performed Zyglow dye penetrant test on it. No cracks were revealed.
 
-[ performed Zyglow dye penetrant test](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-integrity-testing)
+[ performed Zyglow dye penetrant test](/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-integrity-testing)
 
 October 2016
 
 Used a fluorescent dye penetration kit (Zyglow) to test the motor spindle for cracks. No cracks were revealed, so we reassembled Warp 1 with that spindle and new bearings. 
 
-[ to test the motor spindle](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-integrity-testing)
+[ to test the motor spindle](/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-integrity-testing)
 
 April 2016
 
@@ -68,7 +68,7 @@ August 2014
 
 At the request of team lead Guillermo, Nathan and Michael took a look at the risk of fatigue on the titanium spindles. The results of that analysis are a subpage of this page here.
 
-[here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-spindle-longevity-analysis)
+[here](/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-spindle-longevity-analysis)
 
 January 2014
 

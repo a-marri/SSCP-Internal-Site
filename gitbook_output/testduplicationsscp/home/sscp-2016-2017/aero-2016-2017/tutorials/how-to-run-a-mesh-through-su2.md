@@ -16,7 +16,7 @@ Navigate to /Solarcar/Aero/2018/su2_queue on our fileserver using OwnCloud or SF
 
 [ OwnCloud]()
 
-[SFTP](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[SFTP](/home/new-member-orientation/sftp-access)
 
 [owncloud link](https://solarcar.stanford.edu/owncloud/apps/files/?dir=%2FSolar%20Car%20%28FTP%29%2FAero%2Finput)
 

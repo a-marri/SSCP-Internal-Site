@@ -354,5 +354,5 @@ How to use the system (during test drives, actual drives, etc.)
 
 All the information is here: https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/code-2016-2017/documentation-resources/running-dragonfly-telemetry
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/code-2016-2017/documentation-resources/running-dragonfly-telemetry](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/code-2016-2017/documentation-resources/running-dragonfly-telemetry)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/code-2016-2017/documentation-resources/running-dragonfly-telemetry](/home/sscp-2016-2017/code-2016-2017/documentation-resources/running-dragonfly-telemetry)
 

@@ -36,7 +36,7 @@ Luminos  - "The Numbers"
 
 0.365 W / kg, or 2.74 kg / W (calculation at Luminos cruise speed. See this page on tires for the Crr value and explanation of Michelin tires)
 
-[this](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/mechanical-team-projects/tires)
+[this](/home/sscp-2012-2013/mechanical-2012-2013/mechanical-team-projects/tires)
 
 * F_crr = Crr * m * g
 * P_crr = F_crr * v
@@ -73,7 +73,7 @@ Equivalent to 131 kg 
 
 We broke down the power consumption of the electrical system. Here are the results.
 
-[Here ](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/luminos-low-voltage-electrical-draw)
+[Here ](/home/sscp-2012-2013/electrical-2012-2013/luminos-low-voltage-electrical-draw)
 
 Array standing in the mornings yielded anywhere between 60-80% of the peak array power (about 1050W in South Australia), for approximately 1.75 hours.
 
@@ -144,7 +144,7 @@ If used for solar modeling, a better metric would factor in the change in intens
 
 Luminos' rim deflects 7mm under a load that is comparable to cornering. See this page..
 
-[this ](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/aerobody-clearances)
+[this ](/home/sscp-2014-2015/aero-2014-2015/aerobody-clearances)
 
 [](https://drive.google.com/folderview?id=1fD-_PsM0xav0slN1xFZ76bxQz7n_fci-)
 

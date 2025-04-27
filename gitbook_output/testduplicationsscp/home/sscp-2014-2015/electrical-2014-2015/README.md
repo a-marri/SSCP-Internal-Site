@@ -18,13 +18,13 @@ Useful "getting started" guides
 
 Purpose of the electrical system
 
-[Purpose of the electrical system](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/purpose-of-the-electrical-system)
+[Purpose of the electrical system](/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/purpose-of-the-electrical-system)
 
 * Basic Electronics (for those knowing very little)
 
 Basic Electronics (for those knowing very little)
 
-[Basic Electronics](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/basic-electronics)
+[Basic Electronics](/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/basic-electronics)
 
 Basic Circuits
 
@@ -32,7 +32,7 @@ Basic Circuits
 
 Needed Software
 
-[Needed Software](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/needed-software)
+[Needed Software](/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/needed-software)
 
 * Installing Altium (PCB Layout Software)
 * Software toolchain
@@ -40,7 +40,7 @@ Needed Software
 
 Installing Altium (PCB Layout Software)
 
-[Installing Altium](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/installing-altium)
+[Installing Altium](/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/installing-altium)
 
 Software toolchain
 
@@ -48,7 +48,7 @@ Designing a board
 
 Component library style guide
 
-[Component library style guide](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/component-library-style-guide)
+[Component library style guide](/home/sscp-2012-2013/electrical-2012-2013/design-references/component-library-style-guide)
 
 * Common hardware design mistakes
 
@@ -56,11 +56,11 @@ Common hardware design mistakes
 
 Board design checklist
 
-[Board design checklist](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
+[Board design checklist](/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
 
 High Voltage Safety
 
-[High Voltage Safety](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/high-voltage-safety)
+[High Voltage Safety](/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/high-voltage-safety)
 
 Resources
 
@@ -80,11 +80,11 @@ Component ordering queue and instruction guide
 
 SVN access
 
-[SVN access](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/electrical-2018-2019/svn-access)
+[SVN access](/home/sscp-2018-2019/electrical-2018-2019/svn-access)
 
 git access
 
-[git access](/stanford.edu/testduplicationsscp/home/new-member-orientation/git-access)
+[git access](/home/new-member-orientation/git-access)
 
 * Remote proxy access
 * FTP access
@@ -119,11 +119,11 @@ Starter code for STM32F405
 
 Information on the STM32F405
 
-[Information on the STM32F405](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/mcus)
+[Information on the STM32F405](/home/sscp-2012-2013/electrical-2012-2013/design-references/mcus)
 
 FreeRTOS
 
-[FreeRTOS](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/programming-2012-2013/freertos)
+[FreeRTOS](/home/sscp-2012-2013/programming-2012-2013/freertos)
 
 Electrical system premade hardware building blocks
 
@@ -134,21 +134,21 @@ Electrical system premade hardware building blocks
 
 Point of load power supply
 
-[Point of load power supply](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/point-of-load-pol-power-supplies)
+[Point of load power supply](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/point-of-load-pol-power-supplies)
 
 * Board-level power supply inlet (will this be a building block?)
 
 Board-level power supply inlet (will this be a building block?)
 
-[Board-level power supply inlet](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/board-level-power-supply-input)
+[Board-level power supply inlet](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/board-level-power-supply-input)
 
 Current sensing block
 
-[Current sensing block](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/current-sensing-block)
+[Current sensing block](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/current-sensing-block)
 
 CAN interface
 
-[CAN interface](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/can-interface-block)
+[CAN interface](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/can-interface-block)
 
 Electrical projects
 
@@ -157,7 +157,7 @@ Electrical projects
 
 Boxed CAN power supply
 
-[Boxed CAN power supply](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/boxed-can-power-supply-1)
+[Boxed CAN power supply](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/boxed-can-power-supply-1)
 
 * Inertial measurement unit
 

@@ -20,7 +20,7 @@ Current Release: 8.50.1
 
 Download and install our SFTP client if you don't already have it up
 
-[ SFTP client](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[ SFTP client](/home/new-member-orientation/sftp-access)
 
 You can download IAR from the sftp server. It is located in '/Software/IAR/EWARM-CD-8501-24811'. Make sure to download and install the current code team release version
 

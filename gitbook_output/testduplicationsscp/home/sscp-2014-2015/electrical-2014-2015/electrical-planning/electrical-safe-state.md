@@ -30,7 +30,7 @@
 
     To comply with these regulations, we will need to install two EV200 Contactors (see here for reasons the EV200s were selected), one on each end of the energy storage pack (bottom of bottom-most cell and top of top-most cell). 
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/electrical-2014-2015/electrical-planning/contactor-selection)
+[ here](/home/sscp-2014-2015/electrical-2014-2015/electrical-planning/contactor-selection)
 
     The existing battery back already has one of these contactors, on the high-side. The battery pack voltage sits on one side, and the positive leads of the three exterior power connectors are bussed together on the other side. This contactor is still compliant. 
 
@@ -50,5 +50,5 @@ BMS 7 only controls a single contactor (on the high-side) so a second drive circ
 
     Using only 2 contactors on the HV side (instead of many contactors on the solar panel input side) requires we comply with rule number 4 as shown above. See this page for our current documentation of communication with the WSC officials regarding this point. 
 
-[ this page](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/electrical-2014-2015/electrical-planning/array-definition)
+[ this page](/home/sscp-2014-2015/electrical-2014-2015/electrical-planning/array-definition)
 

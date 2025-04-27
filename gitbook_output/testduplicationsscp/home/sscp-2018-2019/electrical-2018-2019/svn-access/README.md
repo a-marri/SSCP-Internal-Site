@@ -14,7 +14,7 @@ Gaining access
 
 You'll be able to log in via Stanford's SUnet system using the same username and password as the one you use for Axess. Before you do that though, you'll need to ask any server administrator to add you to the list of approved SVN users. Right now that's Maggie Ford and Ella Hofmann-Coyle (email addresses).
 
-[email addresses](/stanford.edu/testduplicationsscp/home/new-member-orientation)
+[email addresses](/home/new-member-orientation)
 
 On Windows, the easiest way to browse is to use TortoiseSVN. Install the program and add a repository by URL (Open Hard Drive. Right click>SVNcheckout. Copy URL).
 
@@ -24,7 +24,7 @@ On Linux systems you should consult the documentation for your distribution to i
 
 Then, check out the SVN Protocol/Etiquette so that our repository can stay clean and easy to use.
 
-[SVN Protocol/Etiquette](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/electrical-2018-2019/svn-access/svn-protocoletiquette)
+[SVN Protocol/Etiquette](/home/sscp-2018-2019/electrical-2018-2019/svn-access/svn-protocoletiquette)
 
 ![](../../../../assets/image_37557a85e0.png)
 
@@ -56,5 +56,5 @@ https://solarcar.stanford.edu/svn/sunrise/       - WSC 2019 entry, Black Mamb
 
 Before working with SVN, make sure you look at SVN Protocol/Etiquette!!
 
-[ SVN Protocol/Etiquette](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/electrical-2018-2019/svn-access/svn-protocoletiquette)
+[ SVN Protocol/Etiquette](/home/sscp-2018-2019/electrical-2018-2019/svn-access/svn-protocoletiquette)
 

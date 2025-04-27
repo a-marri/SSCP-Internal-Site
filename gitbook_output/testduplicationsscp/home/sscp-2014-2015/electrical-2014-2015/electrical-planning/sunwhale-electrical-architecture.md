@@ -12,7 +12,7 @@
 
 See Electrical Safe State for the primary regulations surrounding the architecture of our electrical system.
 
-[Electrical Safe State](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/electrical-2014-2015/electrical-planning/electrical-safe-state)
+[Electrical Safe State](/home/sscp-2014-2015/electrical-2014-2015/electrical-planning/electrical-safe-state)
 
 ### Good-Practice Safety:
 

@@ -61,7 +61,7 @@ Key Concepts That You Need To Understand.
 
 Transmission Windows Our SunPower solar cells absorb in the UV and it is important that the encapsulant and the top sheet have good transmission in that range. The quantum efficiency (efficiency as a function of wavelength) for our cells can be found in a pdf file attached here https://sites.google.com/a/stanfordsolarcar.com/sscp/home/array/sunpower-cells
 
-[ https://sites.google.com/a/stanfordsolarcar.com/sscp/home/array/sunpower-cells](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/array-2012-2013/sunpower-cells)
+[ https://sites.google.com/a/stanfordsolarcar.com/sscp/home/array/sunpower-cells](/home/sscp-2012-2013/array-2012-2013/sunpower-cells)
 
 Index Matching By having the index of refraction of the top-sheet be directly in the middle of the index of refraction for air and the index of refraction of the enecapsulant, you will be in good shape. Check out this website for more details http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/freseq.html A good exercise is to write a MATLAB program to plug in different values of n and see what the reflection is 
 

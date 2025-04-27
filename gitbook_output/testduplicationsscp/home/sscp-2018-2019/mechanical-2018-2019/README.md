@@ -24,7 +24,7 @@ Design Justification
 
 Click Bond Insert Testing
 
-[Click Bond Insert Testing](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/mechanical-2016-2017/click-bond-insert-testing)
+[Click Bond Insert Testing](/home/sscp-2016-2017/mechanical-2016-2017/click-bond-insert-testing)
 
 Please organize subpages by part of the car whenever possible
 

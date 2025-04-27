@@ -4,7 +4,7 @@
 
 For details about the electronics of Arctan's Battery Management System, look here.
 
-[look here](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/electrical-2014-2015/electrical-systems/battery-management-system)
+[look here](/home/sscp-2014-2015/electrical-2014-2015/electrical-systems/battery-management-system)
 
 Bench testing
 

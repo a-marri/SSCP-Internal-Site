@@ -4,7 +4,7 @@
 
 See FTP for data from 2017 outdoor tests:
 
-[ FTP](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[ FTP](/home/new-member-orientation/sftp-access)
 
 /Array/outdoor_tests/
 

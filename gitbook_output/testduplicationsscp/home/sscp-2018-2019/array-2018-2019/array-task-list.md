@@ -624,7 +624,7 @@ Took several hours to do a deep dive integration solving session -- worked throu
 
 See notes on Array Passthrough Integration
 
-[ Array Passthrough Integration](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/array-2018-2019/array-passthrough-integration)
+[ Array Passthrough Integration](/home/sscp-2018-2019/array-2018-2019/array-passthrough-integration)
 
 For tomorrow (Wednesday), need to:
 
@@ -738,7 +738,7 @@ Parse through data to...Allocate modules to module map (tabs + efficiency) and l
 
 see page alta-module-iv-sweep-testing --> did some thinking on how to compare modules (FF?) and bin them and which strings deserve bin priority..
 
-[ alta-module-iv-sweep-testing](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/array-2018-2019/array-testing/alta-module-iv-sweep-testing)
+[ alta-module-iv-sweep-testing](/home/sscp-2018-2019/array-2018-2019/array-testing/alta-module-iv-sweep-testing)
 
 * Would recommend sweeping all mods again tbh, some weird numbers in the beginning due to clouds, but it seemed sunnier THEN than once the clouds were gone around "solar noon" at ~1pm
 * Would recommend sweeping all mods again tbh, some weird numbers in the beginning due to clouds, but it seemed sunnier THEN than once the clouds were gone around "solar noon" at ~1pm

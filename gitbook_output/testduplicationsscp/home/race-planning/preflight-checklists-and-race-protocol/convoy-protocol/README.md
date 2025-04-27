@@ -604,7 +604,7 @@ Car Repair Equipment
 
 See Checklist
 
-[ Checklist](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol/checklist-for-packing-solar-cars-in-trailers)
+[ Checklist](/home/race-planning/preflight-checklists-and-race-protocol/checklist-for-packing-solar-cars-in-trailers)
 
 Backup Parts
 

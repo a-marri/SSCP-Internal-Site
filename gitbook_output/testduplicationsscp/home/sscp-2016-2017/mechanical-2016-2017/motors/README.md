@@ -6,7 +6,7 @@ Marand vs WarpCore decision
 
 We need to decide whether we should purchase new motors or keep current Warp Motors.  Marand motors have been recommended by Sam Lenius.  Cost, performance, and time-required-to-implement are criteria important to this decision.
 
-[Warp Motors](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/warp-motor)
+[Warp Motors](/home/sscp-2012-2013/mechanical-2012-2013/motors/warp-motor)
 
 Marand contact: nick_frangos@marand.com.au
 
@@ -70,13 +70,13 @@ I've got a task for you guys. As you probably know, Sam L and I designed the mot
 
 Last time around, we used dye analysis on the titanium spindle to check for cracks. I heard that there was quite a bit of abuse this cycle, so I highly recommend that you have x-ray crack inspection done of the entire motor. We use a couple different companies at Tesla...I can recommend one if needed.
 
-[dye analysis on the titanium spindle](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-spindle-longevity-analysis)
+[dye analysis on the titanium spindle](/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-spindle-longevity-analysis)
 
 You'll also want to do bearing replacements on all of the motors, but that can come later. Getting an x-ray inspection sponsored will probably take some time.
 
 Also, I'd like to remind you of the motor log and maintenance instructions. Please use it to record all issues, changes, or incidents that happen to the motors. Also check there for maintenance instructions.
 
-[motor log and maintenance instructions](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/warp-motor)
+[motor log and maintenance instructions](/home/sscp-2012-2013/mechanical-2012-2013/motors/warp-motor)
 
 Finally, a reminder when handling motors...DO NOT DROP THEM! They've been designed for a 100g shock, but dropping one any distance could easily be 200-300 gs.
 

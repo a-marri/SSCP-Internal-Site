@@ -4,7 +4,7 @@
 
 For details about the code of Arctan's Battery Management System, go here.
 
-[ go here](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/code-2014-2015/projects/bms-code)
+[ go here](/home/sscp-2014-2015/code-2014-2015/projects/bms-code)
 
 Compiled suggestions for BMS improvements:
 
@@ -100,7 +100,7 @@ Assumptions
 
 Temperature: Maximum design temperature is at least 100 °C. Maximum temperature likely to encounter is 45 °C. See array cooling analysis for WSC 2013 pack data.
 
-[ See array cooling analysis](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/array-2014-2015/array-cooling)
+[ See array cooling analysis](/home/sscp-2014-2015/array-2014-2015/array-cooling)
 
 Power Supplies
 

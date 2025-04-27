@@ -16,7 +16,7 @@ Welcome to the SSCP Internal Website. This website is for you to learn from past
 
 New members should check out the New Member Orientation Page to get started.
 
-[ New Member Orientation Page](/stanford.edu/testduplicationsscp/home/new-member-orientation)
+[ New Member Orientation Page](/home/new-member-orientation)
 
 Here are quick commonly accessed pages on the site:
 
@@ -35,49 +35,49 @@ Here are quick commonly accessed pages on the site:
 
 About Solar Racing
 
-[About Solar Racing](/stanford.edu/testduplicationsscp/about-solar-racing)
+[About Solar Racing](/about-solar-racing)
 
 Installing IAR
 
-[Installing IAR](/stanford.edu/testduplicationsscp/home/new-member-orientation/installing-software/installing-iar)
+[Installing IAR](/home/new-member-orientation/installing-software/installing-iar)
 
 Installing Solidworks
 
-[Installing Solidworks](/stanford.edu/testduplicationsscp/home/new-member-orientation/installing-software/installing-solidworks-and-hsmworks)
+[Installing Solidworks](/home/new-member-orientation/installing-software/installing-solidworks-and-hsmworks)
 
 Installing Altium Designer
 
-[Installing Altium Designer](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/altium-designer-installation)
+[Installing Altium Designer](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/altium-designer-installation)
 
 SVN Access
 
-[SVN Access](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-using-altiums-internal-svn-tools)
+[SVN Access](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-using-altiums-internal-svn-tools)
 
 Installing NX
 
-[Installing NX](/stanford.edu/testduplicationsscp/home/new-member-orientation/installing-software/installing-nx)
+[Installing NX](/home/new-member-orientation/installing-software/installing-nx)
 
 Installing Pointwise
 
-[Installing Pointwise](/stanford.edu/testduplicationsscp/home/it-administration/installing-pointwise)
+[Installing Pointwise](/home/it-administration/installing-pointwise)
 
 VAIL Access
 
-[VAIL Access](/stanford.edu/testduplicationsscp/home/new-member-orientation/vail-access)
+[VAIL Access](/home/new-member-orientation/vail-access)
 
 GIT Access
 
-[GIT Access](/stanford.edu/testduplicationsscp/home/new-member-orientation/git-access)
+[GIT Access](/home/new-member-orientation/git-access)
 
 SFTP Access
 
-[SFTP Access](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[SFTP Access](/home/new-member-orientation/sftp-access)
 
 PDM Access
 
-[PDM Access](/stanford.edu/testduplicationsscp/home/new-member-orientation/pdm-access)
+[PDM Access](/home/new-member-orientation/pdm-access)
 
 New Member Orientation
 
-[New Member Orientation](/stanford.edu/testduplicationsscp/home/new-member-orientation)
+[New Member Orientation](/home/new-member-orientation)
 

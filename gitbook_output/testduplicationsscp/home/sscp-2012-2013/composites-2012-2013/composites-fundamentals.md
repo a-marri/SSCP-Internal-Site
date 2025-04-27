@@ -145,7 +145,7 @@ After reading some NASA space documentation, I realized that the method SSCP has
 
 If you have to ask, you probably haven't done enough. Read the SSCP Best Practices Structural Bonding Guide for instructions about how to successfully bond materials. For more information and information on more materials, see the Hysol Surface Preparation Guide. Through and correct surface preparation is imperative to good structural glue joints. 
 
-[ SSCP Best Practices Structural Bonding Guide](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/structural-bonding-guide)
+[ SSCP Best Practices Structural Bonding Guide](/home/sscp-2012-2013/composites-2012-2013/structural-bonding-guide)
 
 [ Hysol Surface Preparation Guide](http://www.henkel.com/com/content_data/14258_LT4536_TT_Aerospace_Surface_Preparation_Guide.pdf)
 
@@ -157,7 +157,7 @@ Surface Prep for Aluminum, Carbon, Titanium, Stainless Steel, and Structural Pla
 
 See the Structural Bonding Guide --> here <-- for information about how to make structural bonds between various materials and carbon/epoxy matrix composites
 
-[here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/structural-bonding-guide)
+[here](/home/sscp-2012-2013/composites-2012-2013/structural-bonding-guide)
 
 Note due to CTE differences between Aluminum and Carbon DO NOT CO CURE
 

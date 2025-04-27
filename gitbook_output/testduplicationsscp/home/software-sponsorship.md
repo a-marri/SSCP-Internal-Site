@@ -4,7 +4,7 @@
 
 Last thing any engineering team should have to deal with is bottlenecks with software licensing, therefore, the purpose of this page is for each sub team lead to be informed about our software partners and when to renew our sponsorship with them from cycle to cycle. For information on server side installations, visit the IT Administration page
 
-[ IT Administration page](/stanford.edu/testduplicationsscp/home/it-administration)
+[ IT Administration page](/home/it-administration)
 
 For those involved. Please keep this page updated
 

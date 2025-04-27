@@ -14,7 +14,7 @@ There are four sections, including how to use version control software built int
 
 Before working with SVN, make sure you look at SVN Protocol/Etiquette!!
 
-[SVN Protocol/Etiquette](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
+[SVN Protocol/Etiquette](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
 
 1. Adding the SVN repository into Altium Designer
 

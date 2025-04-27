@@ -12,7 +12,7 @@ Last cycle, we began to explore some of the design features like automatic mesh 
 
 Here are some instructions for running CFD on Sabalcore.  
 
-[ instructions](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/aero-2016-2017/tutorials/how-to-run-a-mesh-through-su2)
+[ instructions](/home/sscp-2016-2017/aero-2016-2017/tutorials/how-to-run-a-mesh-through-su2)
 
 ToDo: Set new parameters in the config file to stop the CFD when it converges, rather than always just waiting for 10000 iterations to complete.
 

@@ -68,7 +68,7 @@ Molds seemed okay but not great surface quality and the weld job on the frame wa
 
 this is also the same as MFG West, mfgwest.com, see this page for more contacts https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2012-2013/composites/molds/mfg-west
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2012-2013/composites/molds/mfg-west](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/molds/mfg-west)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2012-2013/composites/molds/mfg-west](/home/sscp-2012-2013/composites-2012-2013/molds/mfg-west)
 
 Christensen Fiberglass Tooling (christensenrtm@sbcglobal.net, http://christensenfiberglasstooling.com/) - reached out to these guys for mamba but no response. Think they worked with Arctan maybe? 
 

@@ -49,7 +49,7 @@ Action items for Max:
 
 Investigate what all the columns in the excel doc represent. Done, see here
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/business-logistics-2012-2013/business-projects/aerodyn-north-carolina-test-driving-the-car-fsgp-2013)
+[ here](/home/sscp-2012-2013/business-logistics-2012-2013/business-projects/aerodyn-north-carolina-test-driving-the-car-fsgp-2013)
 
 Investigate the relationship between airfoil curvature and energy collected during a day
 
@@ -121,7 +121,7 @@ Did we run steady or unsteady simulations?
 
 Get results of ShellPower testing. In progress - see the 2/26 update for a plot of 4 digit airfoil results
 
-[ In progress](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/array-2012-2013/shellpower)
+[ In progress](/home/sscp-2012-2013/array-2012-2013/shellpower)
 
 Max & David:
 
@@ -129,7 +129,7 @@ Max & David:
 
 Get SU2 set up on a personal machine. Greg will work on meshing and running the Sunbad NACA63 concept (from this page). Perhaps with SU2 we can hammer out some of the flaws in the design and see if it's worth iterating upon.
 
-[ this](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/aero-2012-2013/sunbad-iterations)
+[ this](/home/sscp-2012-2013/aero-2012-2013/sunbad-iterations)
 
 Guillermo:
 
@@ -150,11 +150,11 @@ Darren: 
 
 Extract 2D points of fairing airfoil Done: link
 
-[link](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/aero-2012-2013/fairing-design)
+[link](/home/sscp-2012-2013/aero-2012-2013/fairing-design)
 
 Generate Luminos airfoil points from NACA65-514, a=0.4 Done: link
 
-[ link](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/aero-2012-2013/airfoil-profile-selection)
+[ link](/home/sscp-2012-2013/aero-2012-2013/airfoil-profile-selection)
 
 Link to JavaFoil install: http://www.mh-aerotools.de/airfoils/java/javafoilinstaller.msi
 
@@ -458,7 +458,7 @@ Present: Darren, Greg, Max, Tigran
 
 We will keep track of designs and results here: https://sites.google.com/a/stanfordsolarcar.com/sscp/home/aero/sunwhale-iterations
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/aero/sunwhale-iterations](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/sunwhale-iterations)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/aero/sunwhale-iterations](/home/sscp-2014-2015/aero-2014-2015/sunwhale-iterations)
 
 4/30/14 - Meeting
 
@@ -1381,7 +1381,7 @@ Action Items
 
 David - update iterations page to reflect proper crosswind calculations
 
-[ iterations page](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/sunwhale-iterations)
+[ iterations page](/home/sscp-2014-2015/aero-2014-2015/sunwhale-iterations)
 
 David - run 1degree, 3degree, 5degree angle of attack cases
 
@@ -1461,7 +1461,7 @@ Action Items
 
 David - update iterations page to reflect proper crosswind calculations
 
-[iterations page](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/sunwhale-iterations)
+[iterations page](/home/sscp-2014-2015/aero-2014-2015/sunwhale-iterations)
 
 Max - Modify main airfoil to start off. Don't bow up, flatten top of car to add extra height for wheels. 
 

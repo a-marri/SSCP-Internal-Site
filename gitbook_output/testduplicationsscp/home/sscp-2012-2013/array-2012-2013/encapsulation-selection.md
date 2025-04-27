@@ -26,11 +26,11 @@ Since the array is exposed to outside airflow its smoothness and the quality of 
 
 Using the calculated CdA for Xenith taken from the wind tunnel data collected at Aerodyne yields a CdA ~ .127 * .68 = .086 
 
-[wind tunnel data](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/aero-2012-2013/aerodyn-visit-2012)
+[wind tunnel data](/home/sscp-2012-2013/aero-2012-2013/aerodyn-visit-2012)
 
 Assuming the h in the case of any surface imperfection is 1mm the following table lists the drag penalties for a car with the same number of seams as Xenith (9) that is the full 1.8m wide yields the following numbers
 
-[number of seams](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/array-2012-2013/array-wiring)
+[number of seams](/home/sscp-2012-2013/array-2012-2013/array-wiring)
 
 ### Embedded Content
 

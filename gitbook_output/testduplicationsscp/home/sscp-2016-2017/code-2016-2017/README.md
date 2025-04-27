@@ -4,7 +4,7 @@
 
 Common IAR Errors
 
-[Common IAR Errors](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/code-2014-2015/iar/common-iar-errors)
+[Common IAR Errors](/home/sscp-2014-2015/code-2014-2015/iar/common-iar-errors)
 
 ### Embedded Content
 

@@ -4,7 +4,7 @@
 
 Look at the individual projects page for details of the projects I'm referencing here.
 
-[ individual projects](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/programming-2012-2013/individual-programming-projects)
+[ individual projects](/home/sscp-2012-2013/programming-2012-2013/individual-programming-projects)
 
 New people are defined to be people who haven't programmed on solar car before.  Hi!  We're happy to have you.
 

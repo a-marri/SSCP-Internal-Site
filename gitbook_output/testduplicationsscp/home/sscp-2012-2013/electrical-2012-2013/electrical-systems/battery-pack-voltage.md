@@ -96,7 +96,7 @@ Both MPPT and Motor Controller losses decrease as bus voltage decreases. However
 
 In the past, motor kV  and the higher voltage of GaAs cells drove our bus voltage upwards; however, since we are designing our own motor (and can vary its kV by winding it differently), the motor has little to no bearing on our bus voltage (except if we choose to use the NGM motor). It could be advantageous to use the NGM as a fall-back plan if we decide that our own motor is not good enough, for any reason. The next paragraph explains how the minimum operating voltage (to keep compatible with the NGM, and keeping some margin) is found.
 
-[ NGM motor](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/ngm-scm-150)
+[ NGM motor](/home/sscp-2012-2013/mechanical-2012-2013/motors/ngm-scm-150)
 
 The below spreadsheet is an attempt at decoupling the motor from the decision of pack voltage. It allows the user to tweak parameters and see the trends across pack voltage. Please make a copy of this spreadsheet if you choose to edit anything other than the first page.
 

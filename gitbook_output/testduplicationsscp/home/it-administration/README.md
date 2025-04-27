@@ -8,11 +8,11 @@ Current Server Administrator: Connor
 
 Info about workstations: https://sites.google.com/a/stanfordsolarcar.com/sscp/home/capital-equipment/servers
 
-[ https://sites.google.com/a/stanfordsolarcar.com/sscp/home/capital-equipment/servers](/stanford.edu/testduplicationsscp/home/capital-equipment/servers-and-workstations)
+[ https://sites.google.com/a/stanfordsolarcar.com/sscp/home/capital-equipment/servers](/home/capital-equipment/servers-and-workstations)
 
 We have two servers. One running Windows and one running Linux. For information about the hardware see here.
 
-[ see here](/stanford.edu/testduplicationsscp/home/capital-equipment/servers-and-workstations)
+[ see here](/home/capital-equipment/servers-and-workstations)
 
 When making a windows server firewall rule, you'll also have to talk to School of Engineering IT to make a firewall rule. Our current contact is Alex Keller (axkeller@stanford.edu), he is awesome and super helpful ask the current team server administrator to make an introduction.
 
@@ -171,7 +171,7 @@ VENDOR ugslmd
 
 28000 is the port through which the host communicates with the server. Check out the NX Client installation page to see how this is relevant
 
-[ NX Client installation page](/stanford.edu/testduplicationsscp/home/new-member-orientation/installing-software/installing-nx)
+[ NX Client installation page](/home/new-member-orientation/installing-software/installing-nx)
 
 For installation steps, check out this google doc. It very extensively documents everything NX licenses
 

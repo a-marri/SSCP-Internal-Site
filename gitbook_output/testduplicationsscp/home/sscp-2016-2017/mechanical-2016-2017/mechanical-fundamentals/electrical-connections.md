@@ -31,9 +31,9 @@ Always use a solderable bolt terminal such as those made by Keystone or Wurth
 
 Use a high current connector (use the Connector Guide and/or Connector Selection Matrices to find a suitable connector)
 
-[ Connector Guide](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/connector-wisdom)
+[ Connector Guide](/home/sscp-2012-2013/electrical-2012-2013/design-references/connector-wisdom)
 
-[Connector Selection Matrices](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/connector-selection-matrices)
+[Connector Selection Matrices](/home/sscp-2012-2013/electrical-2012-2013/design-references/connector-selection-matrices)
 
 ### Bolted Connection Stackup
 

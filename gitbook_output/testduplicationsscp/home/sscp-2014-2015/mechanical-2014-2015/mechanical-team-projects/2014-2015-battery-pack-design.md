@@ -12,7 +12,7 @@ If interested in this project, contact Anna, Max, or Darren.
 
 For references, this is Luminos's documentation of battery pack voltage, which documents how the optimization of cells & layout was figured out. (Max is a good person to contact for more information if you have any questions here.)
 
-[ Luminos's documentation](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/battery-pack-voltage)
+[ Luminos's documentation](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/battery-pack-voltage)
 
 Current Members: Emily, Phil
 

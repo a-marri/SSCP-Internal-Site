@@ -56,7 +56,7 @@ Sasha has an uncle at GM that is a CADD wizard and could help us. He doesn't nec
 
 Details Xenith Aero Analysis Part 1
 
-[Xenith Aero Analysis Part 1](/stanford.edu/testduplicationsscp/home/sscp-2009-2011/xenith-aero-analysis-part-1)
+[Xenith Aero Analysis Part 1](/home/sscp-2009-2011/xenith-aero-analysis-part-1)
 
 Details Xenith Aero Analysis Part 2
 

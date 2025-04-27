@@ -6,7 +6,7 @@ Don't fuck up. Go fast. Don't fuck up.
 
 Pearls of wisdom this page on the internal site:
 
-[ this page on the internal site](/stanford.edu/testduplicationsscp/home/administrative-files/building-a-successful-team/knowledge-transfer)
+[ this page on the internal site](/home/administrative-files/building-a-successful-team/knowledge-transfer)
 
 * There is no need for the amount of pain that we have. We have resources that can help and review. Take advantage of consulting from professors and SSCP alumniIt's not that much less educational to learn from someone's mistakes than to learn from your own mistakes.Spend as much time reviewing as you spend designing.
 * There is no need for the amount of pain that we have. We have resources that can help and review. Take advantage of consulting from professors and SSCP alumni
@@ -25,9 +25,9 @@ Spend as much time reviewing as you spend designing.
 
 This page on the internal site technically pertains to team leadership, but it has lots of great advice for the team in general. This page is about being engineering lead, but also has some great gems.
 
-[This page on the internal site](/stanford.edu/testduplicationsscp/home/administrative-files/information-for-sub-team-leads/team-lead)
+[This page on the internal site](/home/administrative-files/information-for-sub-team-leads/team-lead)
 
-[ This page](/stanford.edu/testduplicationsscp/home/administrative-files/information-for-sub-team-leads/engineering-director)
+[ This page](/home/administrative-files/information-for-sub-team-leads/engineering-director)
 
 ## Solarcar Universal Truths(that aren't obvious)
 

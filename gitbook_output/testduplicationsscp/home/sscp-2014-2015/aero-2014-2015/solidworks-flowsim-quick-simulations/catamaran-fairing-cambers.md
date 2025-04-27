@@ -4,7 +4,7 @@
 
 These are based on the more successful Cambered Catamarans for body shape.
 
-[Cambered Catamarans](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/solidworks-flowsim-quick-simulations/cambered-catamarans)
+[Cambered Catamarans](/home/sscp-2014-2015/aero-2014-2015/solidworks-flowsim-quick-simulations/cambered-catamarans)
 
 For each variation series, main foil shape is constant and different fairing configurations are varied.
 

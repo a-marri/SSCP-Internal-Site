@@ -16,7 +16,7 @@ SSCP STRUCTURAL BONDING GUIDE (on the google site)
 
 https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2012-2013/composites/structural-bonding-epoxy
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2012-2013/composites/structural-bonding-epoxy](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/structural-bonding-guide)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2012-2013/composites/structural-bonding-epoxy](/home/sscp-2012-2013/composites-2012-2013/structural-bonding-guide)
 
 Notes:
 

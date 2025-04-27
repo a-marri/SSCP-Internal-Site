@@ -94,7 +94,7 @@ Final Inner Dimensions for 2015 Oven: 17 ft long x 8 ft wide x 5 ft tall
 
 Temperature sensing: information can be found here
 
-[ere](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/temperature-sensing)
+[ere](/home/sscp-2012-2013/composites-2012-2013/temperature-sensing)
 
 Oven Proposal
 

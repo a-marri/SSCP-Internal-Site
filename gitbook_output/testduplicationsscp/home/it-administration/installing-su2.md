@@ -4,7 +4,7 @@
 
 This is a step-by-step tutorial for installing a fresh copy of SU2 on a Linux machine. This tutorial is written for someone who doesn't have a lot of experience poking around in the terminal, but ideally, since our meshes can only reasonably be run on a cluster with access to 100+ nodes, SU2 will only have to be installed once or twice per cycle by someone who knows what they're doing (maybe more than that if you use several cluster services.) Unless you have physical access to a server rack, you'll be doing this over ssh (so if you're a Windows user use your Linux partition, or Ubuntu for Windows which I honestly can't recommend enough for people new to Linux, or one of the toughbooks.) I'm going to assume that you know the most basic of terminal commands, how to use a text editor such as vim or emacs, how to copy files to a server using ftp, and that your machine has no sudo access and absolutely zero relevant software installed on it (on the off-chance you're trying to install this on either a fresh server, or a server where you can't access the programs for some reason, etc.) Please also take a moment to read through the SU2 github, the documentation seems sparse and overwhelming at first but is actually pretty good.
 
-[ how to copy files to a server using ftp](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[ how to copy files to a server using ftp](/home/new-member-orientation/sftp-access)
 
 [ SU2 github](https://github.com/su2code/SU2)
 

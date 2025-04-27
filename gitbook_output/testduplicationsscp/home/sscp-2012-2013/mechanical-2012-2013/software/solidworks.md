@@ -10,7 +10,7 @@ Download the "SW2013 64 Bit Guillermo Version" from the Software folder on FTP.
 
 To access FTP, follow instructions HERE. 
 
-[ HERE](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[ HERE](/home/new-member-orientation/sftp-access)
 
 ## Installation Procedure for New Members (NOT VALID AFTER DEC 31 2014)
 
@@ -26,7 +26,7 @@ If you're new to SW, you can get started by going through all the tutorials (in 
 
 If you try to install Solidworks but your installer opens with a blank screen visit this page for instructions on using a different installer.
 
-[ this page](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/software/solving-blank-installer-problem-for-solidworks-2012)
+[ this page](/home/sscp-2012-2013/mechanical-2012-2013/software/solving-blank-installer-problem-for-solidworks-2012)
 
 Steps
 
@@ -76,7 +76,7 @@ You're going to need to bootcamp your machine in order to run windows in a separ
 
 First, get access to the FTP server, and download the contents of the /Software/Windows 7 Licensed directory. There should be one .ISO disc image file, and one .txt file with an activation key. Write down the key on a piece of paper.
 
-[ FTP server](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[ FTP server](/home/new-member-orientation/sftp-access)
 
 Next, run a spotlight search (Command + Spacebar) for "Boot Camp Assistant", and open the Boot Camp Assistant tool. Boot Camp Assistant will turn a flash drive (must be 4GB or larger, and any data on the drive will be erased) or blank DVD into a bootable installer device. If you don't have a blank DVD, your dorm chatlist is your friend. 
 

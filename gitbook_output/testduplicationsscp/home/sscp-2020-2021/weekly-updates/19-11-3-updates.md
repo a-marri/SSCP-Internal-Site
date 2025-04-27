@@ -258,7 +258,7 @@ PRL - get safety training/pay dues - required if you are in a PRL course, highly
 
 On-boarding: visit new member page here (once I give you access): https://sites.google.com/a/stanfordsolarcar.com/sscp/home/new-member-onboarding
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/new-member-onboarding](/stanford.edu/testduplicationsscp/home/new-member-orientation)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/new-member-onboarding](/home/new-member-orientation)
 
 * Download solidworksBookmark the internal site/logonLogon to Slack: stanfordsolarcar.slack.comput your email and phone number in your profilejoin general channel - I will add your emails to our drive/internal site
 * Download solidworks

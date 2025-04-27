@@ -4,7 +4,7 @@
 
 These are cars referred to on the Sunwhale Iterations page that have also been run with additional simulations (sidewind, AoA, etc.)
 
-[ Sunwhale Iterations](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/sunwhale-iterations)
+[ Sunwhale Iterations](/home/sscp-2014-2015/aero-2014-2015/sunwhale-iterations)
 
 Sunwhale-014
 

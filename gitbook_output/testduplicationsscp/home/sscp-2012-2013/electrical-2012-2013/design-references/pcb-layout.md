@@ -10,11 +10,11 @@ Layout, which includes both placement of parts as well as routing, is a very cri
 
 1. Make sure the proper design rules are imported
 
-[ design rules](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/altium-design-rules)
+[ design rules](/home/sscp-2012-2013/electrical-2012-2013/design-references/altium-design-rules)
 
 2. Get the board outline from leads or mechanical
 
-[ board outline](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/creating-a-board-outline)
+[ board outline](/home/sscp-2012-2013/electrical-2012-2013/design-references/creating-a-board-outline)
 
 3. To make things simpler, you should add baseline dimensions to your board. 
 

@@ -58,5 +58,5 @@ Small Batch Assembly - pretty much all in the name. They don't make boards, but 
 
 Moved these here: https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/electrical-2016-2017/pick-and-place-pcb-assembly-options
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/electrical-2016-2017/pick-and-place-pcb-assembly-options](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/electrical-2016-2017/pick-and-place-pcb-assembly-options)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/electrical-2016-2017/pick-and-place-pcb-assembly-options](/home/sscp-2016-2017/electrical-2016-2017/pick-and-place-pcb-assembly-options)
 

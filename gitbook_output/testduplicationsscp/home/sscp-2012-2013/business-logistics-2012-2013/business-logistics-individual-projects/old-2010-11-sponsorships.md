@@ -4,7 +4,7 @@
 
 Note: These are old sponsors who donated to help us build Xenith. Add new sponsors to the 2012-13 Sponsors Page.
 
-[ 2012-13 Sponsors Page](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/business-logistics-2012-2013/business-logistics-individual-projects/2012-13-sponsorships)
+[ 2012-13 Sponsors Page](/home/sscp-2012-2013/business-logistics-2012-2013/business-logistics-individual-projects/2012-13-sponsorships)
 
 [](https://docs.google.com/spreadsheets/d/0AqPX017JxLiDdFhUdXFST1hKelBLandXNkUtc1BSZEE/edit)
 

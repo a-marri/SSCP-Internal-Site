@@ -17,7 +17,7 @@ April 10: I've been doing some benchmarking and it turns out the amount of RAM u
 
 April 12: Discovered that FreeRTOS was allocating 96kb for itself, which is way more than necessary (per documentation here). Changed that to 64kb and it flashes!
 
-[ documentation here](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/code-2014-2015/reading-list/freertos)
+[ documentation here](/home/sscp-2014-2015/code-2014-2015/reading-list/freertos)
 
 TBD: Get 2015 IMU board functional. Flash and modify code to populate dummy CAN and ethernet messages. Check that both can be simultaneously sent.
 

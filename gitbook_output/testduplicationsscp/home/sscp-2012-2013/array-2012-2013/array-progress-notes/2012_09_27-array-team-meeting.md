@@ -51,7 +51,7 @@ Use solidworks to determine the module size on the aerobody [Zubair]
 
 Since the last meeting the team has done more testing at D2, the main objectives of this study were to see which encapsulant works best. The results are here. 
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/array-2012-2013/array-progress-notes/2012_09_15-module-results-from-d2)
+[ here](/home/sscp-2012-2013/array-2012-2013/array-progress-notes/2012_09_15-module-results-from-d2)
 
 * ETFE with Saint Gobain along with STR EVA 4 is TPU. (ETFE/TPU/cell/TPU/Reflekt) This was the worse. TPU has better index matching, but Toby thinks that the transmission spectrum is slightly different than EVA. 5 is two ply ETFE / EVA from Saint Gobain  (2-ply/cell/EVA/Reflekt) , we would expect that this would not wrinkle, however, we still saw wrinkles. 6 STR Eva cell  (ETFE/EVA/cell/EVA/Reflekt) . Makes sense that this is better. It is thinner, transmission spectrum is better because the UV spectrum is further into the UVIt is likely that we will use the cell stack for #6, but, Pre lam is the efficiency of the cell by itselfpost lam is efficiency after lamination
 * ETFE with Saint Gobain along with STR EVA 

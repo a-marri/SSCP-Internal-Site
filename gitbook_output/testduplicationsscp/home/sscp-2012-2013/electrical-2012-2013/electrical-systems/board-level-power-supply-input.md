@@ -46,5 +46,5 @@ High side current-sense amplifiers with shunt resistors make it easy to do measu
 
 [ I2C voltage and current monitoring IC](http://www.linear.com/product/LTC4151)
 
-[ current sensing module](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/current-sensing-block)
+[ current sensing module](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/current-sensing-block)
 

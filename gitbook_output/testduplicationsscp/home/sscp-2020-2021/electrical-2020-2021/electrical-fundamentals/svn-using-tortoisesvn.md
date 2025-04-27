@@ -16,7 +16,7 @@ There are five sections, including how to install TortoiseSVN, how to check-out 
 
 Before working with SVN, make sure you look at SVN Protocol/Etiquette!!
 
-[SVN Protocol/Etiquette](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
+[SVN Protocol/Etiquette](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
 
 1. Installing TortoiseSVN
 
@@ -80,7 +80,7 @@ Click on "SVN Commit...". This should bring up the following menu. If you do not
 
 Within the commit window, you have the option to select the files that should be committed and to add a commit message. Please add a clear, concise commit message which tells other members what you have modified. In considering which files to commit, please see the note below (copied from the SVN Protocol/Etiquette page). Once you are ready, click "OK". This should open a window that shows the progress as the repository copy is updated. You should not need to do anything more other than wait till it completes.
 
-[ SVN Protocol/Etiquette](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
+[ SVN Protocol/Etiquette](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
 
 Note: SVN is only for "source" files only. That means that only files that are required to generate outputs are to be stored. Do not commit temporary files (ie, Solidworks ~. files, FreePCB .bak files, TinyCAD .autosave files, etc). You may set up a TortoiseSVN filter to ignore those files. Do not add files that are not needed.  Any file that another user would not click on to open the file/required to open the needed file should not be added. (history files, temporary files, etc.)
 
@@ -106,5 +106,5 @@ TortoiseSVN offers many more features than those discussed here. To learn more, 
 
 Reminder: Please look at the SVN Protocol/Etiquette before working with SVN!
 
-[ SVN Protocol/Etiquette](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
+[ SVN Protocol/Etiquette](/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
 

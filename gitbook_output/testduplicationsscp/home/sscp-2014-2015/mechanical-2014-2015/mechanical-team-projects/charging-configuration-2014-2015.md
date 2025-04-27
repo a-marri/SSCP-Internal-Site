@@ -100,7 +100,7 @@ Potential projects:
 
     - Latching mechanism for top shell/door (see this page)
 
-[ this](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/topshell-latching-and-alignment)
+[ this](/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/topshell-latching-and-alignment)
 
     - Collapsible concentrator design & manufacturing
 

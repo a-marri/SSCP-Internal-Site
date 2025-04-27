@@ -8,11 +8,11 @@ Here's a summary of what we talked about at today's array team meeting.
 
 - We bent a 2 x 2 module over the curviest part of the car and found that the module does not crack. The before and after pictures can be found here
 
-[here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/array-2012-2013/array-progress-notes/2012_10_06-leadership-meeting)
+[here](/home/sscp-2012-2013/array-2012-2013/array-progress-notes/2012_10_06-leadership-meeting)
 
 - Based on our UV-Vis results, we found that STR-EVA has the largest window into the UV by 28nm. This buys us ~20W/m^2 worth of extra power or ~10% more power than we would have otherwise. This page has the calculation details. Erin has found that the gain from improving UV transmission is way higher than the gain from a better index match with TPU.
 
-[This page has the calculation details.](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/array-2012-2013/absorption-data-for-solar-materials/how-absorption-translates-to-current)
+[This page has the calculation details.](/home/sscp-2012-2013/array-2012-2013/absorption-data-for-solar-materials/how-absorption-translates-to-current)
 
 - Our final array stack that we will use for the car is Dupont FEP / STR EVA / cell / STR EVA / Madico Backsheet
 

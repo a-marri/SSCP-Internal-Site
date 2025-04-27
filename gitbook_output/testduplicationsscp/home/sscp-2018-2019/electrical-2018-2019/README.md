@@ -34,7 +34,7 @@ EE Team Overview
 
 Getting Started with Altium
 
-[Getting Started with Altium](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/getting-started-with-altium)
+[Getting Started with Altium](/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/getting-started-with-altium)
 
 Below are the goals to accomplish by the end of WINTER Quarter (2019) :
 

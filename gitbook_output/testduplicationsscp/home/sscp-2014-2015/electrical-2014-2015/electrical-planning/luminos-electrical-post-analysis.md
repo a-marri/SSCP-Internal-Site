@@ -36,13 +36,13 @@
 
 [ That was just the start.](http://i.imgur.com/cx9gk.gif)
 
-[~47.9W continuous](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/luminos-low-voltage-electrical-draw)
+[~47.9W continuous](/home/sscp-2012-2013/electrical-2012-2013/luminos-low-voltage-electrical-draw)
 
-[ 52 extra minutes](/stanford.edu/testduplicationsscp/home/general-design-principles/design-metrics)
+[ 52 extra minutes](/home/general-design-principles/design-metrics)
 
 Max's analysis of BMS fail can be found here.
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/bms-7)
+[ here](/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/bms-7)
 
 ### Other Issues:
 

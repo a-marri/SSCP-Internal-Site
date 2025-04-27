@@ -140,7 +140,7 @@ If I make additional schedule changes before we get to North Carolina I'll put t
 
 [ team calendar](https://www.google.com/calendar/b/2/render?cid=stanfordsolar%40gmail.com)
 
-[ link](/stanford.edu/testduplicationsscp/home/administrative-files/sscp-calendars)
+[ link](/home/administrative-files/sscp-calendars)
 
 Two additional packing notes:
 

@@ -4,7 +4,7 @@
 
 from last cycle: https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/array-2016-2017/lessons-learned-from-topshell-1
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/array-2016-2017/lessons-learned-from-topshell-1](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/array-2016-2017/lessons-learned-from-topshell-1)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2016-2017/array-2016-2017/lessons-learned-from-topshell-1](/home/sscp-2016-2017/array-2016-2017/lessons-learned-from-topshell-1)
 
 Sealant: Dupont dow corning pv-804
 

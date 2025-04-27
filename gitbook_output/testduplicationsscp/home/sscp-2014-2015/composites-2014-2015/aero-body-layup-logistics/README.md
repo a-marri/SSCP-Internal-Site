@@ -24,7 +24,7 @@ Composites Shopping List
 
 Detailed Layup Schedule
 
-[Detailed Layup Schedule](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/composites-2014-2015/aero-body-layup-logistics/layup-schedule-detail)
+[Detailed Layup Schedule](/home/sscp-2014-2015/composites-2014-2015/aero-body-layup-logistics/layup-schedule-detail)
 
 * Sunbad Composites Parts Inventory 2012-13 (for reference)
 
@@ -34,7 +34,7 @@ Sunbad Composites Parts Inventory 2012-13 (for reference)
 
 Composite Inventory
 
-[Composite Inventory](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/composites-inventory)
+[Composite Inventory](/home/sscp-2012-2013/composites-2012-2013/composites-inventory)
 
 Here is a list of materials and items we need for the layups:
 

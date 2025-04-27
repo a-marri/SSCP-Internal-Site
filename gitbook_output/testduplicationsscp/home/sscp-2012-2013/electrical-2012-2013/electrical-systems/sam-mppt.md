@@ -117,7 +117,7 @@ If you set the data to 0x01, the tracker will be reenabled.
 
 The following are very rough calculations to get in the ballpark of necessary cooling for enclosing 6 of Sam's MPPTs. Efficiencies are based on analysis here. Suppose we have an 18"x18"x3" box.
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/array-2012-2013/sunbad-array-layout)
+[ here](/home/sscp-2012-2013/array-2012-2013/sunbad-array-layout)
 
 The worst case efficiency (calculated above) is 97.17% - given that the MPPT channel producing the most power will run ~260W through it, the worst case power dissipation per MPPT is approximately 7.5W. Let's assume that all the power dissipation happens in one FET, for a conservative analysis.
 

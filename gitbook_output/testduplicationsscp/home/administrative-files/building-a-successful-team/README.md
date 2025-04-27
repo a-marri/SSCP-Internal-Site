@@ -8,9 +8,9 @@
 
 Details: Structure Details: New Roles
 
-[Structure](/stanford.edu/testduplicationsscp/home/administrative-files/building-a-successful-team/structure)
+[Structure](/home/administrative-files/building-a-successful-team/structure)
 
-[New Roles](/stanford.edu/testduplicationsscp/home/administrative-files/new-team-roles)
+[New Roles](/home/administrative-files/new-team-roles)
 
 Some teams like the aero and business teams could use more members to build an actual sub-team. We should make sure that we have an organizational structure that doesn't place too much responsibility or pressure on the team leader. We might not always have a baller team lead like Nathan. Creating separate Engineering Lead, Business Lead, and Race Crew Lead roles might allow each director to focus on a core set of responsibilities without being distracted by other matters. There are also roles that need to have one person devoted to that responsibility. Some of these roles have been covered by other members of the team in their spare time. However, if someone is explicitly assigned to these roles we can give new members a sense of purpose and we can better ensure that these jobs are thoroughly completed.
 
@@ -20,7 +20,7 @@ Some teams like the aero and business teams could use more members to build an a
 
 Details: Race Crew
 
-[Race Crew](/stanford.edu/testduplicationsscp/home/administrative-files/building-a-successful-team/race-crew)
+[Race Crew](/home/administrative-files/building-a-successful-team/race-crew)
 
 In the 2011 cycle there was not a lot of pre-organized training or any sort of checklists for the members who were on the race crew. In the future there should be assigned race crew managers who are responsible for defining every aspect of what needs to be prepared and executed for WSC. That race crew manager should assign specific duties to members who will be on the race crew (probably in the form of detailed checklists) with the help of past racers and the current race crew. We should dedicate the summer before WSC to training the race crew and running through all contingencies. We'll be able to swap tires blindfolded...
 
@@ -30,7 +30,7 @@ In the 2011 cycle there was not a lot of pre-organized training or any sort of c
 
 Details: Logistics
 
-[Logistics](/stanford.edu/testduplicationsscp/home/administrative-files/building-a-successful-team/logistics)
+[Logistics](/home/administrative-files/building-a-successful-team/logistics)
 
 In the future it may help if the engineering lead doesn't have to be distracted with coordinating logistics for the team
 
@@ -48,7 +48,7 @@ We need to give people interesting projects right away so they can see how cool 
 
 Details: Knowledge Transfer
 
-[Knowledge Transfer](/stanford.edu/testduplicationsscp/home/administrative-files/building-a-successful-team/knowledge-transfer)
+[Knowledge Transfer](/home/administrative-files/building-a-successful-team/knowledge-transfer)
 
 ## Challenges
 
@@ -56,7 +56,7 @@ Details: Knowledge Transfer
 
 Details: Challenges
 
-[Challenges](/stanford.edu/testduplicationsscp/home/administrative-files/building-a-successful-team/challenges)
+[Challenges](/home/administrative-files/building-a-successful-team/challenges)
 
 ## Fundraising
 
@@ -64,7 +64,7 @@ Details: Challenges
 
 Details: Fundraising
 
-[Fundraising](/stanford.edu/testduplicationsscp/home/administrative-files/building-a-successful-team/fundraising)
+[Fundraising](/home/administrative-files/building-a-successful-team/fundraising)
 
 [edit]
 

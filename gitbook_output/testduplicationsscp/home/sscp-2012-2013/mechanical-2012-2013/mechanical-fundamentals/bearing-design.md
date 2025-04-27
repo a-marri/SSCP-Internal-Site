@@ -25,7 +25,7 @@ Sweet! Now, you can start designing bearings!
 
 Determine the static and dynamic loads for the bearing set in kN or kgF, using math and the loading conditions at the bottom of the Mechanical page. Then select the appropriate factor of safety based on the expected loads. NOTE: THIS IS COUNTER-INTUITIVE AND INVOLVES MATH, SEE BELOW:
 
-[Mechanical](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013)
+[Mechanical](/home/sscp-2012-2013/mechanical-2012-2013)
 
 Static load is the greatest load that the bearing will ever see during a transient event, e.g. shock
 

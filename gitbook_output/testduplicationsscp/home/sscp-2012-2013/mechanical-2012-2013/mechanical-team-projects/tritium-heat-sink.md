@@ -183,7 +183,7 @@ Manual: http://labjack.com/sites/default/files/2011/04/U3_UG_Export_04282011.pdf
 
 SSCP page for temperature sensing for Luminos: https://sites.google.com/a/stanfordsolarcar.com/sscp/home/composites/temperature-sensing
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/composites/temperature-sensing](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/temperature-sensing)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/composites/temperature-sensing](/home/sscp-2012-2013/composites-2012-2013/temperature-sensing)
 
 What do the acronyms mean?
 

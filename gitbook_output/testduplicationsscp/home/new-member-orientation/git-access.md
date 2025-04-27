@@ -43,7 +43,7 @@ Git Policies
 
 See the 'Etiquette' section in SVN Access; much of that is relevant.
 
-[ SVN Access](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/electrical-2018-2019/svn-access)
+[ SVN Access](/home/sscp-2018-2019/electrical-2018-2019/svn-access)
 
 Read this guide on the branching/pull request workflow.
 

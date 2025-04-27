@@ -90,7 +90,7 @@ Some back of the envelope math says that going from the worst to best array simu
 
 Based on some of the design metric takeaways from Luminos, two cars with the same aero and the best and worst arrays simulated here would only vary in overall race speed by ~2kph. This analysis also does not include the benefit of array standing from a more flat car.
 
-[ design metric takeaways](/stanford.edu/testduplicationsscp/home/general-design-principles/design-metrics)
+[ design metric takeaways](/home/general-design-principles/design-metrics)
 
 10/28/14
 

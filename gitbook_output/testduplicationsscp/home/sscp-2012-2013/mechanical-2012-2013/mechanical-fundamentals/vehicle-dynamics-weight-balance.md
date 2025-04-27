@@ -52,7 +52,7 @@ Embedded content: [Embedded Content]()
 
 From Sunwhale 7/12/14 Preliminary Design Review, asymmetric vehicle dynamics should be a main concern. Follow-up email from Ben Stabler on the topic:
 
-[ Sunwhale 7/12/14 Preliminary Design Review](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/alumni-design-reviews-2014-2015/sunwhale-alumni-pdr-71214)
+[ Sunwhale 7/12/14 Preliminary Design Review](/home/sscp-2014-2015/alumni-design-reviews-2014-2015/sunwhale-alumni-pdr-71214)
 
 Hey all,
 

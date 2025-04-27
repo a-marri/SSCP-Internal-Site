@@ -28,7 +28,7 @@ Common 
 
 All Loading Conditions can be found on Loading Conditions under final conditions. Those numbers are applied to the contact patch of the tire. 
 
-[Loading Conditions](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/mechanical-fundamentals/loading-conditions)
+[Loading Conditions](/home/sscp-2012-2013/mechanical-2012-2013/mechanical-fundamentals/loading-conditions)
 
 Corner
 

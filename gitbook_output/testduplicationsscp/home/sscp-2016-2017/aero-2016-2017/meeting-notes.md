@@ -158,7 +158,7 @@ Pizza
 
 See notes here.
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/business-logistics-2016-2017/williams-trip/notes)
+[ here](/home/sscp-2016-2017/business-logistics-2016-2017/williams-trip/notes)
 
 ## 9/7/16 San Diego Wind Tunnel Call
 
@@ -251,7 +251,7 @@ BEN-013 achieved similar results, however the bubble was very large and will sha
 
 Max D did ShellPower analysis between the two cars, which shows the aforementioned effects to the array.
 
-[ ShellPower analysis between the two cars](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/aero-2016-2017/symmetric-vs-asymmetric-array-analysis)
+[ ShellPower analysis between the two cars](/home/sscp-2016-2017/aero-2016-2017/symmetric-vs-asymmetric-array-analysis)
 
 Upcoming for aero team:
 
@@ -1337,7 +1337,7 @@ Aero concept decision meeting: Soon after the rule-reading meeting, we'll have a
 
 Find the recorded video of the meeting here.
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/aero-2016-2017/tutorials/pointwise-new-techniques)
+[ here](/home/sscp-2016-2017/aero-2016-2017/tutorials/pointwise-new-techniques)
 
 * Main takeaways:Improving how we export to Pointwise from Solidworks could make our lives easier.  Specifically, figuring out how to label meshing quilt groups in Solidworks before importing into Pointwise could allow for more automation.Pointwise is scriptable, and Travis has written some starter programs to help us learn how to script.  It should be possible to write a script that allows the computer to do everything beyond surfacing, by itself.  Late summer/early fall, we hope to make use of Pointwise's scriptable meshing and SU2's mesh deformation capabilities to allow the computer to optimize on late-stage aero designs automatically.  For cars that change significantly (there's no black and white between a 'significant change' and an 'insignificant change', so this is a somewhat vague description), which probably includes all of the manual changes we will make during the summer, it seems likely that we will continue to manually mesh. Like was said in the above point, once we begin to make small-scale iterations for a more or less set design, we can use scripting to do lots of quick changes and quick meshes.Glyph scripting: Travis put these scripts together to start us on automatically meshing cars of varying geometry: https://pointwiseenterprise.sharefile.com/d-sc8d6cf52dcd45cbb
 * Improving how we export to Pointwise from Solidworks could make our lives easier.  Specifically, figuring out how to label meshing quilt groups in Solidworks before importing into Pointwise could allow for more automation.
@@ -1460,7 +1460,7 @@ Tom and David present
 
 Max wrote a Python script that allows us to upload our .su2 files to FTP and then SSH into the Azure/Sabalcore cluster and start the CFD run
 
-[ start the CFD run](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/aero-2016-2017/tutorials/how-to-run-a-mesh-through-su2)
+[ start the CFD run](/home/sscp-2016-2017/aero-2016-2017/tutorials/how-to-run-a-mesh-through-su2)
 
 How many cores? 5,000 points per core
 
@@ -1470,7 +1470,7 @@ Last cycle, we began to explore some of the design features like automatic mesh 
 
 Here are some instructions for running CFD on Sabalcore.  
 
-[instructions](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/aero-2016-2017/tutorials/how-to-run-a-mesh-through-su2)
+[instructions](/home/sscp-2016-2017/aero-2016-2017/tutorials/how-to-run-a-mesh-through-su2)
 
 ToDo: Set new parameters in the config file to stop the CFD when it converges, rather than always just waiting for 10000 iterations to complete.
 
@@ -1492,7 +1492,7 @@ Tecplot: 
 
 Tecplot came to show us how to use Tecplot 360 and Tecplot Chorus and also talk about the upcoming Pointwise-Tecplot Webinar.
 
-[ how to use Tecplot 360 and Tecplot Chorus](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/aero-2016-2017/tutorials/tecplot-introduction)
+[ how to use Tecplot 360 and Tecplot Chorus](/home/sscp-2016-2017/aero-2016-2017/tutorials/tecplot-introduction)
 
 We used Tecplot 360 last cycle to view SU2 results, but no current team members had ever used it before.
 
@@ -1504,7 +1504,7 @@ Rear Steer Study Iterations: 
 
 Rachel has surfaced and meshed 2 rear steer study iterations as of tonight.
 
-[ rear steer study iterations](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/aero-2016-2017/sunwhale-rear-steer-study-iterations)
+[ rear steer study iterations](/home/sscp-2016-2017/aero-2016-2017/sunwhale-rear-steer-study-iterations)
 
 ## 2/19/16 - Email Update
 
@@ -1579,7 +1579,7 @@ Daniel, the aero team lead from Cal Poly made these StarCCM tutorials for us. In
 
 [ these](https://drive.google.com/open?id=0Byz6-6Zr_SnKa0g5Z0U4b2U2Uk0)
 
-[ this page](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/aero-2016-2017/star-ccm-resources)
+[ this page](/home/sscp-2016-2017/aero-2016-2017/star-ccm-resources)
 
 We are currently moving forward with SU2 as our CFD software, but StarCCM is still an option (look into importing Pointwise mesh to STAR).  We have StarCCM licenses.
 

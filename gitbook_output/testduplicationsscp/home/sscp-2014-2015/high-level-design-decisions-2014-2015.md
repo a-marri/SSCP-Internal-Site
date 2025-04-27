@@ -4,7 +4,7 @@
 
 This page, based on Max's analysis of Luminos' design trade offs, informed many decisions here.
 
-[This](/stanford.edu/testduplicationsscp/home/general-design-principles/design-metrics)
+[This](/home/general-design-principles/design-metrics)
 
 Power To Drive
 
@@ -40,7 +40,7 @@ See svn://sunwhale/analysis/concentrator_analysis/carLength.m for a script used 
 
 See the Aero design meeting logs for related discussions.
 
-[ Aero design meeting logs](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/sunwhale-design-meeting-notes)
+[ Aero design meeting logs](/home/sscp-2014-2015/aero-2014-2015/sunwhale-design-meeting-notes)
 
 Performance of Different Charging Strategies
 
@@ -88,7 +88,7 @@ HV Bus Voltage
 
 See here for mechanical considerations. TODO: have an electrical discussion of this decision.
 
-[See here](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/2014-2015-battery-pack-design)
+[See here](/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/2014-2015-battery-pack-design)
 
 Buy or Make Array?
 

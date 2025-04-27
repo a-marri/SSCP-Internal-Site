@@ -4,21 +4,21 @@
 
 Altium - make schematics and PCB boards.
 
-[Altium](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/installing-altium)
+[Altium](/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/installing-altium)
 
 TortoiseSVN - used for storage of designs.
 
-[TortoiseSVN](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/electrical-2018-2019/svn-access)
+[TortoiseSVN](/home/sscp-2018-2019/electrical-2018-2019/svn-access)
 
 LTspice - design and simulate circuits. (check out LTSpice-fu for changing to useful shortcuts)
 
 [LTspice](http://www.linear.com/designtools/software/#LTspice)
 
-[ LTSpice-fu](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/toolchain-fu/ltspice-fu)
+[ LTSpice-fu](/home/sscp-2012-2013/electrical-2012-2013/toolchain-fu/ltspice-fu)
 
 IAR - used for coding embedded systems (micro controllers).
 
-[IAR](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/programming-2012-2013/installing-iar)
+[IAR](/home/sscp-2012-2013/programming-2012-2013/installing-iar)
 
 TinyCAD - Old schematic editor. (use it for looking at stuff from last car)
 

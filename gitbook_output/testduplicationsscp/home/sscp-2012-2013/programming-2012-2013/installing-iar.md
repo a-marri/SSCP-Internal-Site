@@ -67,7 +67,7 @@ From SFTP (For a slightly older version of IAR)
 
 Set up SFTP: https://sites.google.com/a/stanfordsolarcar.com/sscp/home/new-member-onboarding/ftp-access
 
-[ https://sites.google.com/a/stanfordsolarcar.com/sscp/home/new-member-onboarding/ftp-access](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[ https://sites.google.com/a/stanfordsolarcar.com/sscp/home/new-member-onboarding/ftp-access](/home/new-member-orientation/sftp-access)
 
 Get IAR from our SFTP server. The file is /Software/EWARM-CD-7403-8938.exe
 
@@ -102,7 +102,7 @@ Unzip the files and install IAR.
 
 If you have licensing errors, the licensing server is probably out of date. Contact a server admin (this page should help). 
 
-[this page should help](/stanford.edu/testduplicationsscp/home/it-administration)
+[this page should help](/home/it-administration)
 
 ## Activating License
 

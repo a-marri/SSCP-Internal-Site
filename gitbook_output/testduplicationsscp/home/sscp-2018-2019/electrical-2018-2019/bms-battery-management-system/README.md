@@ -10,5 +10,5 @@ BMS - 10.0 Block Diagram
 
 Link to general information about the BMS: BMS Information
 
-[BMS Information](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/electrical-2016-2017/bms-9)
+[BMS Information](/home/sscp-2016-2017/electrical-2016-2017/bms-9)
 

@@ -54,7 +54,7 @@ Umicore did analysis also with Altair Optistruct: http://www.fisita.com/educatio
 
 Last but not least, the analysis of Xenith, titled Xenith Impact Report. Old Mechanical Reports
 
-[Old Mechanical Reports](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/mechanical-fundamentals/old-mechanical-reports)
+[Old Mechanical Reports](/home/sscp-2012-2013/mechanical-2012-2013/mechanical-fundamentals/old-mechanical-reports)
 
 ## Fiber/Fabric Choice
 

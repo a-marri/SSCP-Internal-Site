@@ -20,7 +20,7 @@ Embedded content: [Custom embed]()
 
 Connector and Pinout Information can be found on the Sunwhale Connectors, Pinouts, and Part Numbers page.
 
-[Sunwhale Connectors, Pinouts, and Part Numbers](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/electrical-2014-2015/sunwhale-connectors-pinouts-and-part-numbers)
+[Sunwhale Connectors, Pinouts, and Part Numbers](/home/sscp-2014-2015/electrical-2014-2015/sunwhale-connectors-pinouts-and-part-numbers)
 
 ### Non-CAN
 

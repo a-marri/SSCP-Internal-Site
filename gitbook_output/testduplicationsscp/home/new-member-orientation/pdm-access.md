@@ -68,7 +68,7 @@ Follow these instructions to do a complete uninstall of Solidworks.
 
 Download the installation manager located in the SFTP folder named "Solidworks 17 SP5.0 IM". (Instructions on accessing SFTP here).
 
-[ here](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[ here](/home/new-member-orientation/sftp-access)
 
 * Do not download the folder named "Solidworks 17" - it will not work.
 
