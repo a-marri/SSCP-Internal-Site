@@ -1,6 +1,8 @@
-# SSCP - Wiring
+# wiring
 
-# Wiring
+## SSCP - Wiring
+
+## Wiring
 
 Rough sketch of wiring in Sundae:
 
@@ -8,21 +10,13 @@ Rough sketch of wiring in Sundae:
 
 [old diagram](https://docs.google.com/drawings/d/198CTBvlpVDiW_9TMsFFJhCCNxLxcaQPUJWUnu60GV3o/edit?usp=sharing)
 
-[](https://docs.google.com/file/d/1RlxQpM3Mshu7fn7yJw62MvfnwgAq6WG7331qhdKhhN8/edit)
-
-### Embedded Content
+#### Embedded Content
 
 Embedded content: [Embedded Content](https://docs.google.com/drawings/d/1RlxQpM3Mshu7fn7yJw62MvfnwgAq6WG7331qhdKhhN8/preview?ac=true)
 
-<iframe width="100%" height="400" src="https://docs.google.com/drawings/d/1RlxQpM3Mshu7fn7yJw62MvfnwgAq6WG7331qhdKhhN8/preview?ac=true" frameborder="0"></iframe>
+#### Embedded Content
 
-[](https://docs.google.com/spreadsheets/d/1o9pInAjHuNOBxeg1y8DnYTkiehqFCb8QQe031TWGYow/edit)
-
-### Embedded Content
-
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](wiring.md)
 
 ![](../../../../assets/sheets_32dp.png)
 
@@ -32,25 +26,23 @@ Bottomshell
 
 From Vehicle Computer
 
-Each of these connections ends on the Vehicle Computer side in a Deutsch DT12 connector.  Required parts to build the DT connectors mating with the VC Deutsch Box are as follows:
+Each of these connections ends on the Vehicle Computer side in a Deutsch DT12 connector.  Required parts to build the DT connectors mating with the VC Deutsch Box are as follows:
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](wiring.md)
 
 See the instructional video here on how to assemble the connector: https://www.youtube.com/watch?v=jE712DGw8CY
 
 [https://www.youtube.com/watch?v=jE712DGw8CY](https://www.youtube.com/watch?v=jE712DGw8CY)
 
-Additionally, the crimper box contains a sheet with information on how wires should be stripped prior to crimping.  Only use the Deutsch crimper to make these crimps.
+Additionally, the crimper box contains a sheet with information on how wires should be stripped prior to crimping.  Only use the Deutsch crimper to make these crimps.
 
 Below is an image of the VC pinout.
 
 ![](../../../../assets/image_0af3ea667f.png)
 
-Note these are not arranged in the same order as they will be arranged in the header of the box.  The below image shows the order of the connectors when VC is viewed from above:
+Note these are not arranged in the same order as they will be arranged in the header of the box.  The below image shows the order of the connectors when VC is viewed from above:
 
 ![](../../../../assets/image_a7dd003005.png)
 
@@ -80,43 +72,32 @@ D1- > 14 > 13 > 12 > D1+
 
 from Sam Lenius (also see attached document)
 
-AMPSEAL PINOUT (CABLE SIDE, TOP LEFT IS PIN 1, BOTTOM RIGHT IS PIN 14) 
+AMPSEAL PINOUT (CABLE SIDE, TOP LEFT IS PIN 1, BOTTOM RIGHT IS PIN 14)&#x20;
 
-TOP ROW 
+TOP ROW&#x20;
 
-1. ARRAY CHANNEL 0 POSITIVE (6-120V, 0-6.5A) 
+1. ARRAY CHANNEL 0 POSITIVE (6-120V, 0-6.5A)&#x20;
+2. ARRAY CHANNEL 0 RETURN&#x20;
+3. CAN HI&#x20;
+4. CAN LO&#x20;
+5. CAN VCC (9-36V)&#x20;
 
-2. ARRAY CHANNEL 0 RETURN 
+MIDDLE ROW&#x20;
 
-3. CAN HI 
+6. ARRAY CHANNEL 1 POSITIVE (6-120V, 0-6.5A)&#x20;
+7. ARRAY CHANNEL 1 RETURN&#x20;
+8. CAN GND&#x20;
+9. CAN GND&#x20;
 
-4. CAN LO 
+BOTTOM ROW&#x20;
 
-5. CAN VCC (9-36V) 
-
-MIDDLE ROW 
-
-6. ARRAY CHANNEL 1 POSITIVE (6-120V, 0-6.5A) 
-
-7. ARRAY CHANNEL 1 RETURN 
-
-8. CAN GND 
-
-9. CAN GND 
-
-BOTTOM ROW 
-
-10. BATTERY POSITIVE (MAX ARRAY VOLTAGE - 160V) 
-
-11. BATTERY NEGATIVE 
-
-12. CAN VCC (9-36V) 
-
-13. CAN HI 
-
+10. BATTERY POSITIVE (MAX ARRAY VOLTAGE - 160V)&#x20;
+11. BATTERY NEGATIVE&#x20;
+12. CAN VCC (9-36V)&#x20;
+13. CAN HI&#x20;
 14. CAN LO
 
-The below photos show the [MPPT][Channel] each string is connected to
+The below photos show the \[MPPT]\[Channel] each string is connected to
 
 ![](../../../../assets/image_57d8aeefff.png)
 
@@ -152,49 +133,49 @@ Inner circle (MPPT outputs)
 
 B: MPPT A +
 
-C: MPPT B + 
+C: MPPT B +&#x20;
 
-D: MPPT C + 
+D: MPPT C +&#x20;
 
-E   MPPT D + 
+E   MPPT D +&#x20;
 
-F:  MPPT A - 
+F:  MPPT A -&#x20;
 
-G: MPPT B - 
+G: MPPT B -&#x20;
 
-H   MPPT C - 
+H   MPPT C -&#x20;
 
-J:  MPPT D - 
+J:  MPPT D -&#x20;
 
 Outer circle
 
-K:  Blink Left +
+K:  Blink Left +
 
-L:  Blink Left -
+L:  Blink Left -
 
-M:  Blink Right +
+M:  Blink Right +
 
-N:  Blink Right -
+N:  Blink Right -
 
-O:  Brake +
+O:  Brake +
 
-P:  Brake -
+P:  Brake -
 
-Q:  LV+       (Phoenix cable RED)
+Q:  LV+       (Phoenix cable RED)
 
-R:  LV-        (Phoenix cable BLACK)
+R:  LV-        (Phoenix cable BLACK)
 
-S:  CAN H    (Phoenix cable WHITE)
+S:  CAN H    (Phoenix cable WHITE)
 
-T:  CAN L     (Phoneix cable BLUE)
+T:  CAN L     (Phoneix cable BLUE)
 
-U:  EDisc in
+U:  EDisc in
 
-V:  EDisc out
+V:  EDisc out
 
-W:  
+W: &#x20;
 
-X:  
+X: &#x20;
 
 BMS Ethernet:
 
@@ -236,109 +217,109 @@ The wiring and connectors needed for each connection from VC are listed below, o
 
 1. VC-> BMS
 
-    a. Power
+&#x20;   a. Power
 
-        - cable: 2-conductor Alphawire 
+&#x20;       \- cable: 2-conductor Alphawire&#x20;
 
-        - connector (BMS side): 3-position Deutsch HD10 (do not plug leftover pin, it's for Edisc)
+&#x20;       \- connector (BMS side): 3-position Deutsch HD10 (do not plug leftover pin, it's for Edisc)
 
-    b. Ethernet
+&#x20;   b. Ethernet
 
-        - cable: 2-pair/4-conductor Belden
+&#x20;       \- cable: 2-pair/4-conductor Belden
 
-        - connector (BMS side): Deutsch DT4
+&#x20;       \- connector (BMS side): Deutsch DT4
 
 2. VC-> Steering Wheel
 
-    a. Ethernet + Edisc
+&#x20;   a. Ethernet + Edisc
 
-        - cable: 2-pair/4-conductor Belden
+&#x20;       \- cable: 2-pair/4-conductor Belden
 
-        - connector (SW side): Lifeline p/n 410-200-019
+&#x20;       \- connector (SW side): Lifeline p/n 410-200-019
 
 3. VC-> Umbilical
 
-    a. MPPT CAN
+&#x20;   a. MPPT CAN
 
-        - cable: Phoenix 5-conductor
+&#x20;       \- cable: Phoenix 5-conductor
 
-        - connector: Phoenix A-code 5-pin (built in to cable); ends at Umbilical connector
+&#x20;       \- connector: Phoenix A-code 5-pin (built in to cable); ends at Umbilical connector
 
-    b. Edisc
+&#x20;   b. Edisc
 
-        - cable: a single conductor, can be red array wiring
+&#x20;       \- cable: a single conductor, can be red array wiring
 
-        - connector: Umbilical
+&#x20;       \- connector: Umbilical
 
-    c. Power for Taillights, Rear Turn Signals 
+&#x20;   c. Power for Taillights, Rear Turn Signals&#x20;
 
-        - cable: 2-conductor Alphawire x 3 (Taillights, L turn, R turn)
+&#x20;       \- cable: 2-conductor Alphawire x 3 (Taillights, L turn, R turn)
 
-        - connector: Umbilical
+&#x20;       \- connector: Umbilical
 
 4. VC-> Pedals
 
-    a. Power + Signal
+&#x20;   a. Power + Signal
 
-        - cable: 3-conductor Alphawire x 2 (Throttle, Brake)
+&#x20;       \- cable: 3-conductor Alphawire x 2 (Throttle, Brake)
 
-        - connector: Ampseal connector
+&#x20;       \- connector: Ampseal connector
 
 5. VC-> Headlights, Front Turn Signals, and Side Lights
 
-    a. Power
+&#x20;   a. Power
 
 6. VC-> Rear View System
 
-    a. Power
+&#x20;   a. Power
 
 7. VC-> Handheld Radio Microphone
 
-    a. Switch
+&#x20;   a. Switch
 
 8. VC-> GPS Antenna
 
-    a. Feed
+&#x20;   a. Feed
 
 9. VC-> Wifi Antenna
 
-    a. Ethernet
+&#x20;   a. Ethernet
 
 10. VC-> Tritiums
 
-    a. Tritium CAN
+&#x20;   a. Tritium CAN
 
 From BMS
 
-Harnesses that include BMS as one endpoint but do not go to VC are the wiring to power the motors (other endpoint is the Tritiums), wiring to the MPPTs (other endpoint is the Umbilical), and wiring to the 
+Harnesses that include BMS as one endpoint but do not go to VC are the wiring to power the motors (other endpoint is the Tritiums), wiring to the MPPTs (other endpoint is the Umbilical), and wiring to the&#x20;
 
 1. BMS-> Tritiums
 
-    a. HV Power (L+R)
+&#x20;   a. HV Power (L+R)
 
 2. BMS->HV Splitter Box
 
-    a. HV Power
+&#x20;   a. HV Power
 
 HVA-280 Assembly manual
 
-[HVA-280 Assembly manual](http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F408-10299%7FB%7Fpdf%7FEnglish%7FENG_SS_408-10299_B.pdf%7F1587826-2)
+[HVA-280 Assembly manual](http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc\&DocId=Specification+Or+Standard%7F408-10299%7FB%7Fpdf%7FEnglish%7FENG_SS_408-10299_B.pdf%7F1587826-2)
 
 From HV Splitter Box
 
 1. HV Splitter Box-> Umbilical
 
-    a. HV Power (for MPPTs)
+&#x20;   a. HV Power (for MPPTs)
 
 Tritiums->Motors
 
 1. Motor Resolver Cable
 
-    a. Signal
+&#x20;   a. Signal
 
 2. 3-Phase Power
 
-    a. HV Power
+&#x20;   a. HV Power
 
 Topshell
 
@@ -346,15 +327,15 @@ From Umbilical
 
 1. Umbilical-> MPPTs
 
-    a. MPPT CAN
+&#x20;   a. MPPT CAN
 
-    b. HV Power
+&#x20;   b. HV Power
 
-    
+&#x20;  &#x20;
 
 2. Umbilical-> Edisc button
 
-    a. Edisc (x2)
+&#x20;   a. Edisc (x2)
 
 3. Umbilical-> Taillights, Rear Turn Signals
 
@@ -362,19 +343,14 @@ From Array
 
 1. Array-> MPPTs
 
-    cable: Alphawire red/black hook-up wire 
+&#x20;   cable: Alphawire red/black hook-up wire&#x20;
 
-    connector: TE ELCON mini
+&#x20;   connector: TE ELCON mini
 
-    Assembly instructions: see "ENG_SS_114-19110_C.pdf" attached at the bottom of the page.
+&#x20;   Assembly instructions: see "ENG\_SS\_114-19110\_C.pdf" attached at the bottom of the page.
 
- 
+&#x20;
 
-[](https://drive.google.com/folderview?id=150gbJjDgxJ22sl1ATQiqVnxpJUGqPm1X)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=150gbJjDgxJ22sl1ATQiqVnxpJUGqPm1X#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=150gbJjDgxJ22sl1ATQiqVnxpJUGqPm1X#list" frameborder="0"></iframe>
-

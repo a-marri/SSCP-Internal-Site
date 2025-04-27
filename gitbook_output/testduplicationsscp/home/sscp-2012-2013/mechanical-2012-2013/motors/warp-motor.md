@@ -1,26 +1,24 @@
-# SSCP - Warp Motor
+# warp-motor
 
-# Warp Motor
+## SSCP - Warp Motor
+
+## Warp Motor
 
 ![](../../../../../assets/image_4c46e8c71a.jpg)
 
 ![](../../../../../assets/image_cc8e5346a1.jpg)
 
-## Summary
-
-[](#h.5oed8bat5g25)
+### Summary
 
 This motor is a collaboration between Sam Lenius from the University of Minnesota Solar Vehicle Project and Nathan Hall-Snyder of SSCP. The intention is to create a scaled down motor with high efficiency and extremely high reliability for use in the team's 2013 vehicle. The decreased size requires the use of two motors to meet the torque requirements for the World Solar Challenge.
 
-### Motor Log
-
-[](#h.60g9xxok4h2o)
+#### Motor Log
 
 (Insert new log items here!)
 
 October 2017
 
-Warp 1 and 2 (silver motors) were swapped into Sundae in Darwin to evenly wear bearings.  These motors, Warp 1 and 2, were used for all static and dynamic scrutineering and raced WSC 2017 with no issues.
+Warp 1 and 2 (silver motors) were swapped into Sundae in Darwin to evenly wear bearings.  These motors, Warp 1 and 2, were used for all static and dynamic scrutineering and raced WSC 2017 with no issues.
 
 September 2017
 
@@ -28,7 +26,7 @@ Warp 3 and 4 (black motors) were used to test in Australia with no issues.
 
 August 2017
 
-Warp 3 and 4 (black motors) were disassembled by Rachel and Sarah S to swap bearings and motor caps (to mate with Sundae's upright) and reassembled.  Brake rotors of Warp 1, 2, 3, and 4 replaced.  Warp 1 and 2 (silver motors) were used for some dynamic testing at Crow's landing, neighborhood drives, and Sundae's first Central Valley test drive.  Warp 3 and 4 (black motors) were used for the second Central Valley test drive.  No issues.
+Warp 3 and 4 (black motors) were disassembled by Rachel and Sarah S to swap bearings and motor caps (to mate with Sundae's upright) and reassembled.  Brake rotors of Warp 1, 2, 3, and 4 replaced.  Warp 1 and 2 (silver motors) were used for some dynamic testing at Crow's landing, neighborhood drives, and Sundae's first Central Valley test drive.  Warp 3 and 4 (black motors) were used for the second Central Valley test drive.  No issues.
 
 July 2017
 
@@ -38,19 +36,19 @@ November 2016
 
 Disassembled warp 2 completely and performed Zyglow dye penetrant test on it. No cracks were revealed.
 
-[ performed Zyglow dye penetrant test](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-integrity-testing)
+[performed Zyglow dye penetrant test](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-integrity-testing/)
 
 October 2016
 
-Used a fluorescent dye penetration kit (Zyglow) to test the motor spindle for cracks. No cracks were revealed, so we reassembled Warp 1 with that spindle and new bearings. 
+Used a fluorescent dye penetration kit (Zyglow) to test the motor spindle for cracks. No cracks were revealed, so we reassembled Warp 1 with that spindle and new bearings.&#x20;
 
-[ to test the motor spindle](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-integrity-testing)
+[to test the motor spindle](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-integrity-testing/)
 
 April 2016
 
 Used a red dye penetration kit (Spotcheck) to test the motors for cracks. The quality of the test came into question because though we were not able to find any cracks, we were also not able to do so on an aluminum sheet that we hit many times with a hammer. See here for detailed results and photos.
 
-[ here](https://docs.google.com/document/d/10vYskmjBx28TAcDme4u2SZJBrkGw7NQbbiI1rvOsnxM/edit?usp=sharing)
+[here](https://docs.google.com/document/d/10vYskmjBx28TAcDme4u2SZJBrkGw7NQbbiI1rvOsnxM/edit?usp=sharing)
 
 October 2015
 
@@ -68,7 +66,7 @@ August 2014
 
 At the request of team lead Guillermo, Nathan and Michael took a look at the risk of fatigue on the titanium spindles. The results of that analysis are a subpage of this page here.
 
-[here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-spindle-longevity-analysis)
+[here](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/mechanical-2012-2013/motors/motor-spindle-longevity-analysis/)
 
 January 2014
 
@@ -88,9 +86,7 @@ Summer 2013
 
 Motors 1 and 2 were driven a total of one WSC's worth of test miles, mostly in the Central Valley. Several problems were identified, including failed Molex Microfit connectors and heat damage to magnets.
 
-### Motor Status
-
-[](#h.vmq7mee0yq46)
+#### Motor Status
 
 For Luminos, a total of four stators, four cases, and six rotors were manufactured. Rotors 1 and 2 were damaged by excess heat during the magnet glue heating process and as such have lower torque than the other motors. They should be considered mechanical samples or backups only.
 
@@ -102,67 +98,47 @@ The efficiency is is essentially the same between the two rotor configurations (
 
 ![](../../../../../assets/image_53df664407.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
-## Technical Specifications
-
-[](#h.f9lwu35zfosq)
-
-### Absolute Maximum Specifications
-
-[](#h.5ueld0mw3rzj)
-
-### Embedded Content
-
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](warp-motor.md)
 
 ### Technical Specifications
 
-[](#h.2qdgmv6hrcch)
+#### Absolute Maximum Specifications
 
- * For some drive torque, not necessarily a cruise torque. See efficiency maps below
+#### Embedded Content
 
- ** During a day of non-aggressive test-driving around Thunderhill
+Embedded content: [Custom embed](warp-motor.md)
 
- *** Decreased operating temperature recommended to prevent loss of press-fit on stator. The stator can move at 120C
+#### Technical Specifications
 
-### Pinouts
+&#x20;\* For some drive torque, not necessarily a cruise torque. See efficiency maps below
 
-[](#h.17xkzznhbvzj)
+&#x20;\*\* During a day of non-aggressive test-driving around Thunderhill
 
-### Embedded Content
+&#x20;\*\*\* Decreased operating temperature recommended to prevent loss of press-fit on stator. The stator can move at 120C
 
-Embedded content: [Custom embed]()
+#### Pinouts
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+#### Embedded Content
 
-### Embedded Content
+Embedded content: [Custom embed](warp-motor.md)
 
-Embedded content: [Custom embed]()
+#### Embedded Content
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](warp-motor.md)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](warp-motor.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
-## Efficiency Data
-
-[](#h.tqgjleksnq6g)
+### Efficiency Data
 
 The plots are of low speed torque vs current with both the original design and the new design rotors, a plot of estimated system cruise efficiency by convolving max's power to drive curve through a bilinear interpolation of efficiency points collected on the dyno, and an example of the type of data that I have collected (in this case Motor 2 with a high torque rotor).
 
 Remember that this data is of electrical power into the controller to mechanical power output of the motor. It combines the losses of the controller and the motor into a single number.
 
-The new rotors will give ~20% higher torque then the original design. This will come at the expense of a limit to top speed at low battery voltages. With the black edition rotors, top speed will be around 70MPH at top of pack, 62MPH at nominal voltage and 53MPH at effective bottom of pack.
+The new rotors will give \~20% higher torque then the original design. This will come at the expense of a limit to top speed at low battery voltages. With the black edition rotors, top speed will be around 70MPH at top of pack, 62MPH at nominal voltage and 53MPH at effective bottom of pack.
 
 ![](../../../../../assets/image_47e45776f7.png)
 
@@ -170,13 +146,9 @@ The new rotors will give ~20% higher torque then the original design. This will 
 
 ![](../../../../../assets/image_410270df13.png)
 
-## Known Issues
+### Known Issues
 
-[](#h.awjz39jnbqlb)
-
-### In-Service Failures
-
-[](#h.tkgr992dj2i6)
+#### In-Service Failures
 
 Resolver Cable Failure #2
 
@@ -186,7 +158,7 @@ Resolver Cable Failure
 
 The Molex Microfit connectors on the Tritium Resolver adapter board had an intermittent open, causing unpredictable behavior of the motor.
 
-Resolver Connector 
+Resolver Connector&#x20;
 
 The 8 Pin M12 connector on the motor was not fully screwed down, causing unpredictable behavior of the motor.
 
@@ -198,9 +170,7 @@ Bearing Thermal Tolerances (SOLVED)
 
 When the motor heats up to operating temperatures, the tolerance within the bearings changes, causing more play in on the motor shaft. While not known to cause problems, it nonetheless deviates from the motor design intent. This has since been root caused to a tolerance issue on a fillet on the rims. A too-large radius prevented the rims from fully seating. The rims were sanded down and the problem was fixed.
 
-### Suggested Changes
-
-[](#h.1ust0jab4zmk)
+#### Suggested Changes
 
 * Remove vanes from rotor carrier to reduce windage lossesBraze aluminum cover over vanesModify design for two-sided machining with no vanesModify cover to not interfere with brake calipersEasy cadUse a better material for the stator pad. Possibly put the stator pad underneath the stator or control tolerances to an extent that the aluminum provides the squishThe cork worked rather well - the tolerance of any given stator will probably not be close enough to use stator compression. If M19 steel is used, then we can use bolts directly on the statorFigure out how to stop the inner bearing outer race from spinning in place. Reminder: the black grease indicates that aluminum is being worn away from the shell.Skf recommends the use of an o-ring on the outer bearing race to prevent it from rotating.Study, characterize, and eliminate playChange the bolt circle on the front ( make it actually a 7 bolt circle)Figure out a better way to remove the rotor assembly...3D print a rubber wire holder that guides and seals the connector area from the spinning motorEasily said, difficult to find 3d printable rubber that is strong enough. Maybe cast silicone?
 * Remove vanes from rotor carrier to reduce windage lossesBraze aluminum cover over vanesModify design for two-sided machining with no vanes
@@ -217,7 +187,6 @@ When the motor heats up to operating temperatures, the tolerance within the bear
 * Figure out a better way to remove the rotor assembly...
 * 3D print a rubber wire holder that guides and seals the connector area from the spinning motorEasily said, difficult to find 3d printable rubber that is strong enough. Maybe cast silicone?
 * Easily said, difficult to find 3d printable rubber that is strong enough. Maybe cast silicone?
-
 * Remove vanes from rotor carrier to reduce windage lossesBraze aluminum cover over vanesModify design for two-sided machining with no vanes
 * Braze aluminum cover over vanes
 * Modify design for two-sided machining with no vanes
@@ -272,13 +241,9 @@ Figure out a better way to remove the rotor assembly...
 
 Easily said, difficult to find 3d printable rubber that is strong enough. Maybe cast silicone?
 
-## Maintenance Instructions
+### Maintenance Instructions
 
-[](#h.az303z62ikr)
-
-### Brake Rotor Swap
-
-[](#h.ahfxdhrcruat)
+#### Brake Rotor Swap
 
 * Remove nuts using allen wrench of proper size. Minimize spinning of bolts - spinning produces particles inside the motor that are ingested by the bearing.Throw away nuts, they're one use nutsRemove washersRemove brake rotorSwap brake rotor. Ensure that rotation direction is correctReapply washersUsing fresh nuts, torque to 6 N-m in a star patternApply torque putty
 * Remove nuts using allen wrench of proper size. Minimize spinning of bolts - spinning produces particles inside the motor that are ingested by the bearing.
@@ -315,9 +280,7 @@ Using fresh nuts, torque to 6 N-m in a star pattern
 
 Apply torque putty
 
-### Front Face Removal
-
-[](#h.am1mfy8mw13u)
+#### Front Face Removal
 
 * Remove the motor from the vehicleRemove the resolver capRemove the resolver sealing capRemove the 7x M5 bolts on the front of the motor. The rotor can be spun to gain access to all the boltsInstall the m16 backing plate by spinning it into the motor from the backInstall at least 3 M6 bolts in the backing plate, preferably 4PLACE THE ROD CENTERING RING IN THE FRONT OF THE SPINDLETwist the M16 rod, making sure that the threads on the spindle and threads on the backing plate are aligned.Jig the motor on the bridgeport using the vise and a 5/8" colletSpin the spindle to remove the motorOnce the rotor assembly is completely free of the stator, spin it off of the rod.Place the rotor somewhere safe, away from magnetic materialsUsing a sharp razor blade, clean the red sealant from the aluminum faces
 * Remove the motor from the vehicle
@@ -374,9 +337,7 @@ Place the rotor somewhere safe, away from magnetic materials
 
 Using a sharp razor blade, clean the red sealant from the aluminum faces
 
-### Rotor Removal
-
-[](#h.rlikp7z9ts0d)
+#### Rotor Removal
 
 * Loosen the three set screws on the locknutPlace the assembly in a nearby rim, use the bearing nut socket (in the motor kit) or the black spanner tool with a breaker bar to unscrew the bearing nut. This nut is torqued toRemove the upper bearing. Force may be required. IF A PRESS OR OTHER EXCESSIVE FORCE IS USED, THE BEARING MUST BE REPLACED UPON REASSEMBLY!!!Remove the rotor. Force may be required. If a press is used, use extreme caution not to damage bearings or aluminum componentsFor reassembly, see the above section "rotor sub-assembly instructions"
 * Loosen the three set screws on the locknut
@@ -401,9 +362,7 @@ Remove the rotor. Force may be required. If a press is used, use extreme caution
 
 For reassembly, see the above section "rotor sub-assembly instructions"
 
-### Bearing Swap
-
-[](#h.5pnufbfh4ck7)
+#### Bearing Swap
 
 * Complete "Front Face Removal" and "Rotor Removal"Do not remove the circlip for the lower bearingPress the spindle out of the front face. The front face must be carefully supported with aluminum spacers that contact the aluminum, not the brake rotor. The recommended tool is the bridgeport. Excessive force may be required - take care not to damage the titanium spindle. If damage is suspected, find a m16 bolt to press on to spread out loads.Remove the bearing circlip with a small screwdriverPress out the bearing and discard the bearingFollow "Rotor Sub-Assembly Instructions" on this page
 * Complete "Front Face Removal" and "Rotor Removal"
@@ -432,17 +391,15 @@ Press out the bearing and discard the bearing
 
 Follow "Rotor Sub-Assembly Instructions" on this page
 
-### Stator Removal (not recommended)
+#### Stator Removal (not recommended)
 
-[](#h.r7ir33lh2cp8)
-
-* Complete rotor assembly removal as aboveRemove MX150L connectorRemove pins and zip ties from MX150L connectorCut thermal epoxy on thermistor, taking extreme care not to damage the thermistorStraighten phase wiresHeat motor to ~120C (1-2 hours in oven) to expand the aluminumUsing gloves, slide the stator out of the case
+* Complete rotor assembly removal as aboveRemove MX150L connectorRemove pins and zip ties from MX150L connectorCut thermal epoxy on thermistor, taking extreme care not to damage the thermistorStraighten phase wiresHeat motor to \~120C (1-2 hours in oven) to expand the aluminumUsing gloves, slide the stator out of the case
 * Complete rotor assembly removal as above
 * Remove MX150L connector
 * Remove pins and zip ties from MX150L connector
 * Cut thermal epoxy on thermistor, taking extreme care not to damage the thermistor
 * Straighten phase wires
-* Heat motor to ~120C (1-2 hours in oven) to expand the aluminum
+* Heat motor to \~120C (1-2 hours in oven) to expand the aluminum
 * Using gloves, slide the stator out of the case
 
 1. Complete rotor assembly removal as above
@@ -450,7 +407,7 @@ Follow "Rotor Sub-Assembly Instructions" on this page
 3. Remove pins and zip ties from MX150L connector
 4. Cut thermal epoxy on thermistor, taking extreme care not to damage the thermistor
 5. Straighten phase wires
-6. Heat motor to ~120C (1-2 hours in oven) to expand the aluminum
+6. Heat motor to \~120C (1-2 hours in oven) to expand the aluminum
 7. Using gloves, slide the stator out of the case
 
 Complete rotor assembly removal as above
@@ -463,17 +420,13 @@ Cut thermal epoxy on thermistor, taking extreme care not to damage the thermisto
 
 Straighten phase wires
 
-Heat motor to ~120C (1-2 hours in oven) to expand the aluminum
+Heat motor to \~120C (1-2 hours in oven) to expand the aluminum
 
 Using gloves, slide the stator out of the case
 
-## Assembly Instructions
+### Assembly Instructions
 
-[](#h.f2ve7gkqc87u)
-
-### Final Assembly
-
-[](#h.x6bocn8kwy7r)
+#### Final Assembly
 
 ![](../../../../../assets/image_c45f4f54bc.jpg)
 
@@ -541,9 +494,7 @@ Re-install the connector cover with M4 Torx, (Blue) Loctite, torque to 2 N-m
 
 You're done!
 
-### Resolver Sub-Assembly Instructions
-
-[](#h.8cnztmddprf7)
+#### Resolver Sub-Assembly Instructions
 
 ![](../../../../../assets/image_84ccd1af85.jpg)
 
@@ -596,9 +547,7 @@ Wait 3 hours
 
 Place a small ziptie .5" away from the connector to prevent the thermocouple wires from fatiguing before installation (not shown in picture).
 
-### Stator/Case Instructions
-
-[](#h.h5lts46h8e51)
+#### Stator/Case Instructions
 
 ![](../../../../../assets/image_0cdce225a5.png)
 
@@ -616,7 +565,7 @@ Place a small ziptie .5" away from the connector to prevent the thermocouple wir
 12. Zip tie wires and verify that no rubbing will take place during motor vibration
 13. Install the resolver connector, taking care not to over-stress the wires
 14. Verify that the resolver connector is installed at the correct angle for the right-angle M12 cable
-15. Install the nut for the resolver connector 
+15. Install the nut for the resolver connector&#x20;
 16. Verify that no wires can touch metal at any location
 17. Verify that all pins are fully seated by tugging on them with pliers
 18. Install the Connector cover with BLUE LOCTITE tightening each M4 torx button screw to 2 N-m
@@ -651,7 +600,7 @@ Install the resolver connector, taking care not to over-stress the wires
 
 Verify that the resolver connector is installed at the correct angle for the right-angle M12 cable
 
-Install the nut for the resolver connector 
+Install the nut for the resolver connector&#x20;
 
 Verify that no wires can touch metal at any location
 
@@ -663,9 +612,7 @@ Grease and install the bearing spring (shown in purple above) in the inner beari
 
 You're done!
 
-### Spindle Sub-Assembly Instructions
-
-[](#h.p3ox4rrme5mj)
+#### Spindle Sub-Assembly Instructions
 
 ![](../../../../../assets/image_c14050fb66.png)
 
@@ -676,7 +623,7 @@ You're done!
 5. Install 6x 10-32 nuts. Make sure that Cadmium Plated nuts are not used. Waspalloy nuts are ok.
 6. Tighten Hi-loks studs to 6 N-m
 7. Apply Torque Putty to hi-locks
-8. You're done! 
+8. You're done!&#x20;
 
 Press-on the resolver rotor. If it is loose, clean both faces with IPA and use Loctite 638 (high strength green bearing retainer) to glue it in place.
 
@@ -692,11 +639,9 @@ Tighten Hi-loks studs to 6 N-m
 
 Apply Torque Putty to hi-locks
 
-You're done! 
+You're done!&#x20;
 
-### Rotor Sub-Assembly Instructions
-
-[](#h.rnvmfi6fuat9)
+#### Rotor Sub-Assembly Instructions
 
 ![](../../../../../assets/image_7a49ea7886.png)
 
@@ -755,9 +700,7 @@ Apply torque putty to the bearing nut
 
 You're done!
 
-### Rotor Stacking Process
-
-[](#h.94wa8c481sfa)
+#### Rotor Stacking Process
 
 ![](../../../../../assets/image_0300f348b3.png)
 
@@ -793,16 +736,16 @@ Clean Workspace
 
 BEFORE THE ROTOR HOLDER LEAVES THE CNC
 
-* Ensure that laminations have a loose slip fit on the rotor holder aluminum. Turn or mill down part until the laminations slip on. They must not be super tight or you wont be able to align them.Using the Renishaw probe, confirm the concentricity of the bearing race to the outer surface of the rotor holder, runout spec is 0.003"
-* Ensure that laminations have a loose slip fit on the rotor holder aluminum. Turn or mill down part until the laminations slip on. 
+* Ensure that laminations have a loose slip fit on the rotor holder aluminum. Turn or mill down part until the laminations slip on. They must not be super tight or you wont be able to align them.Using the Renishaw probe, confirm the concentricity of the bearing race to the outer surface of the rotor holder, runout spec is 0.003"
+* Ensure that laminations have a loose slip fit on the rotor holder aluminum. Turn or mill down part until the laminations slip on.&#x20;
 * They must not be super tight or you wont be able to align them.
 * Using the Renishaw probe, confirm the concentricity of the bearing race to the outer surface of the rotor holder, runout spec is 0.003"
 
-1. Ensure that laminations have a loose slip fit on the rotor holder aluminum. Turn or mill down part until the laminations slip on. 
+1. Ensure that laminations have a loose slip fit on the rotor holder aluminum. Turn or mill down part until the laminations slip on.&#x20;
 2. They must not be super tight or you wont be able to align them.
 3. Using the Renishaw probe, confirm the concentricity of the bearing race to the outer surface of the rotor holder, runout spec is 0.003"
 
-Ensure that laminations have a loose slip fit on the rotor holder aluminum. Turn or mill down part until the laminations slip on. 
+Ensure that laminations have a loose slip fit on the rotor holder aluminum. Turn or mill down part until the laminations slip on.&#x20;
 
 They must not be super tight or you wont be able to align them.
 
@@ -811,7 +754,7 @@ Using the Renishaw probe, confirm the concentricity of the bearing race to the o
 1. Clear off a worktable
 2. Put on gloves to ensure that laminations don't get human grease on them.
 3. Clean the rotor holder with IPA. Ensure thats it's entirely dry before starting stacking.
-4. Stack laminations on the rotor holder part one by one until the rotor holder is full. 
+4. Stack laminations on the rotor holder part one by one until the rotor holder is full.&#x20;
 
 Clear off a worktable
 
@@ -819,20 +762,20 @@ Put on gloves to ensure that laminations don't get human grease on them.
 
 Clean the rotor holder with IPA. Ensure thats it's entirely dry before starting stacking.
 
-Stack laminations on the rotor holder part one by one until the rotor holder is full. 
+Stack laminations on the rotor holder part one by one until the rotor holder is full.&#x20;
 
-* Pay attention to where the small notch caused by laser cutting is. This should be consistently aligned for maximum accuracy, the magnets will not fit well if you ignore this. It's also used for handy indexing later.
-* Pay attention to where the small notch caused by laser cutting is. 
-* This should be consistently aligned for maximum accuracy, the magnets will not fit well if you ignore this. 
+* Pay attention to where the small notch caused by laser cutting is. This should be consistently aligned for maximum accuracy, the magnets will not fit well if you ignore this. It's also used for handy indexing later.
+* Pay attention to where the small notch caused by laser cutting is.&#x20;
+* This should be consistently aligned for maximum accuracy, the magnets will not fit well if you ignore this.&#x20;
 * It's also used for handy indexing later.
 
-1. Pay attention to where the small notch caused by laser cutting is. 
-2. This should be consistently aligned for maximum accuracy, the magnets will not fit well if you ignore this. 
+1. Pay attention to where the small notch caused by laser cutting is.&#x20;
+2. This should be consistently aligned for maximum accuracy, the magnets will not fit well if you ignore this.&#x20;
 3. It's also used for handy indexing later.
 
-Pay attention to where the small notch caused by laser cutting is. 
+Pay attention to where the small notch caused by laser cutting is.&#x20;
 
-This should be consistently aligned for maximum accuracy, the magnets will not fit well if you ignore this. 
+This should be consistently aligned for maximum accuracy, the magnets will not fit well if you ignore this.&#x20;
 
 It's also used for handy indexing later.
 
@@ -880,9 +823,7 @@ Using a dial indicator, measure the runout of the laminations by measuring the d
 
 Calculate total indicated runout. This must be less then 0.01", preferably on the order of 0.003", large gap variation is bad.
 
-### Magnet Gluing Process
-
-[](#h.nwihkw8s8o6u)
+#### Magnet Gluing Process
 
 ![](../../../../../assets/image_1ee3a498b3.png)
 
@@ -974,28 +915,26 @@ Set aside to cure 24 hours minimum before handling again.
 
 After full cure, use gaussmeter to check magnetic strength.
 
-* Chuck the rotor into the latheWith a 0.005" gap backed by a HSS tool blank, the flux should be ~6000 gauss. Record the magnetic strength of each magnet in a spreadsheet. Ensure that magnetism is consistent, normal variation is ~5%. 
+* Chuck the rotor into the latheWith a 0.005" gap backed by a HSS tool blank, the flux should be \~6000 gauss. Record the magnetic strength of each magnet in a spreadsheet. Ensure that magnetism is consistent, normal variation is \~5%.&#x20;
 * Chuck the rotor into the lathe
-* With a 0.005" gap backed by a HSS tool blank, the flux should be ~6000 gauss. 
-* Record the magnetic strength of each magnet in a spreadsheet. 
-* Ensure that magnetism is consistent, normal variation is ~5%. 
+* With a 0.005" gap backed by a HSS tool blank, the flux should be \~6000 gauss.&#x20;
+* Record the magnetic strength of each magnet in a spreadsheet.&#x20;
+* Ensure that magnetism is consistent, normal variation is \~5%.&#x20;
 
 1. Chuck the rotor into the lathe
-2. With a 0.005" gap backed by a HSS tool blank, the flux should be ~6000 gauss. 
-3. Record the magnetic strength of each magnet in a spreadsheet. 
-4. Ensure that magnetism is consistent, normal variation is ~5%. 
+2. With a 0.005" gap backed by a HSS tool blank, the flux should be \~6000 gauss.&#x20;
+3. Record the magnetic strength of each magnet in a spreadsheet.&#x20;
+4. Ensure that magnetism is consistent, normal variation is \~5%.&#x20;
 
 Chuck the rotor into the lathe
 
-With a 0.005" gap backed by a HSS tool blank, the flux should be ~6000 gauss. 
+With a 0.005" gap backed by a HSS tool blank, the flux should be \~6000 gauss.&#x20;
 
-Record the magnetic strength of each magnet in a spreadsheet. 
+Record the magnetic strength of each magnet in a spreadsheet.&#x20;
 
-Ensure that magnetism is consistent, normal variation is ~5%. 
+Ensure that magnetism is consistent, normal variation is \~5%.&#x20;
 
-### Stator Stacking Process
-
-[](#h.yv1g00vh0okn)
+#### Stator Stacking Process
 
 ![](../../../../../assets/image_8f6e8cd8d0.png)
 
@@ -1060,10 +999,10 @@ Put on and use gloves for the whole process. Grease on the laminations is a big 
 
 Lamination incoming inspection
 
-* Open lamination packagingInspect individual laminations under bright lightBe judicious about rejecting laminations, we rejected ~5% of laminations for cutting defects and burrs.Look for small burrs - these look like tiny metal balls and can be removed carefully with a razor bladeReject any lamination with significant bends or any kinking of the steel or surface blemishes such as rust or other irregularitiesAfter inspection place the lamination in a bath of IPA to remove any residues from the surface of the laminationsShake the excess IPA off and set out laminations to dry on rolled out paper towelsWait until all the IPA has dried off, you can use a hairdryer to accelerate this
+* Open lamination packagingInspect individual laminations under bright lightBe judicious about rejecting laminations, we rejected \~5% of laminations for cutting defects and burrs.Look for small burrs - these look like tiny metal balls and can be removed carefully with a razor bladeReject any lamination with significant bends or any kinking of the steel or surface blemishes such as rust or other irregularitiesAfter inspection place the lamination in a bath of IPA to remove any residues from the surface of the laminationsShake the excess IPA off and set out laminations to dry on rolled out paper towelsWait until all the IPA has dried off, you can use a hairdryer to accelerate this
 * Open lamination packaging
 * Inspect individual laminations under bright light
-* Be judicious about rejecting laminations, we rejected ~5% of laminations for cutting defects and burrs.
+* Be judicious about rejecting laminations, we rejected \~5% of laminations for cutting defects and burrs.
 * Look for small burrs - these look like tiny metal balls and can be removed carefully with a razor blade
 * Reject any lamination with significant bends or any kinking of the steel or surface blemishes such as rust or other irregularities
 * After inspection place the lamination in a bath of IPA to remove any residues from the surface of the laminations
@@ -1072,7 +1011,7 @@ Lamination incoming inspection
 
 1. Open lamination packaging
 2. Inspect individual laminations under bright light
-3. Be judicious about rejecting laminations, we rejected ~5% of laminations for cutting defects and burrs.
+3. Be judicious about rejecting laminations, we rejected \~5% of laminations for cutting defects and burrs.
 4. Look for small burrs - these look like tiny metal balls and can be removed carefully with a razor blade
 5. Reject any lamination with significant bends or any kinking of the steel or surface blemishes such as rust or other irregularities
 6. After inspection place the lamination in a bath of IPA to remove any residues from the surface of the laminations
@@ -1083,7 +1022,7 @@ Open lamination packaging
 
 Inspect individual laminations under bright light
 
-Be judicious about rejecting laminations, we rejected ~5% of laminations for cutting defects and burrs.
+Be judicious about rejecting laminations, we rejected \~5% of laminations for cutting defects and burrs.
 
 Look for small burrs - these look like tiny metal balls and can be removed carefully with a razor blade
 
@@ -1146,38 +1085,32 @@ Add glue to the inside of the teeth, after you add glue to each tooth, reapply t
 After waiting 10-15min for the glue to cure, remove the mass and after confirming that the laminations are all glued, remove the stator from the block. Remove the dowel pins first then twist the stator to unstick it.
 
 1. Double check the stack height, it may have relaxed slightly after the mass is removed. Remove or add laminations as required.
-2. Add glue to the entire surface of the stator, inside and outside. Use a paper towel to spread out drops. 
+2. Add glue to the entire surface of the stator, inside and outside. Use a paper towel to spread out drops.&#x20;
 3. Ensure that extra glue is added to the laminations on the ends, they are the most likely to be accidentally removed.
 
 Double check the stack height, it may have relaxed slightly after the mass is removed. Remove or add laminations as required.
 
-Add glue to the entire surface of the stator, inside and outside. Use a paper towel to spread out drops. 
+Add glue to the entire surface of the stator, inside and outside. Use a paper towel to spread out drops.&#x20;
 
 Ensure that extra glue is added to the laminations on the ends, they are the most likely to be accidentally removed.
 
-### Stator powder-coating process
-
-[](#h.y1uqkf1cd29r)
+#### Stator powder-coating process
 
 ![](../../../../../assets/image_57d85e1cd5.png)
 
-[Insert Powder Coating Process Here]
+\[Insert Powder Coating Process Here]
 
-### Stator winding process
+#### Stator winding process
 
-[](#h.c94l6jh72k5f)
+\[Insert winding process here]
 
-[Insert winding process here]
-
-### Stator vacuum-infusion process
-
-[](#h.y50vdidjk8ls)
+#### Stator vacuum-infusion process
 
 1. Verify that all windings meet the clearance requirements (15mm MAX resolver side, 13mm MAX brake rotor side)
 2. Remove all items from the stator that don't need epoxy(varflex tubing, etc)
 3. Mask the outside with blue tape
 4. Preheat the oven to 90C
-5. Prepare .5L of 3M [INSERT 3M PRODUCT NUMBER HERE] two-part epoxy.
+5. Prepare .5L of 3M \[INSERT 3M PRODUCT NUMBER HERE] two-part epoxy.
 6. Drape a large piece of stretchable vacuum bag into a harbor freight pressure bucket. Zip tie in place around the bucket
 7. Place .5L of casting resin in the vacuum bag
 8. Place the stator, with windings completed and tested, into the bucket.
@@ -1188,7 +1121,7 @@ Ensure that extra glue is added to the laminations on the ends, they are the mos
 13. Bake for 8 hours. Check in at 1 hour to wipe off excess glue droplets
 14. Re-verify that the windings meet the clearance requirements (15mm MAX resolver side, 13mm MAX brake rotor side)
 15. Verify that motor leads are free to twist
-16. Cut motor leads to [INSERT MOTOR LEAD LENGTH HERE]
+16. Cut motor leads to \[INSERT MOTOR LEAD LENGTH HERE]
 17. Install var-flex tubing over motor leads
 18. Install MX150 crimps, Male
 19. Heat-shrink over MX150 crimps, holding var-flex tubing in place
@@ -1203,7 +1136,7 @@ Mask the outside with blue tape
 
 Preheat the oven to 90C
 
-Prepare .5L of 3M [INSERT 3M PRODUCT NUMBER HERE] two-part epoxy.
+Prepare .5L of 3M \[INSERT 3M PRODUCT NUMBER HERE] two-part epoxy.
 
 Drape a large piece of stretchable vacuum bag into a harbor freight pressure bucket. Zip tie in place around the bucket
 
@@ -1225,7 +1158,7 @@ Re-verify that the windings meet the clearance requirements (15mm MAX resolver s
 
 Verify that motor leads are free to twist
 
-Cut motor leads to [INSERT MOTOR LEAD LENGTH HERE]
+Cut motor leads to \[INSERT MOTOR LEAD LENGTH HERE]
 
 Install var-flex tubing over motor leads
 
@@ -1237,31 +1170,21 @@ Glue Varflex tubing to the stator with 3M CA-50 flexible Cyanoacrylate
 
 You're done!
 
-## Bill of Materials 
+### Bill of Materials&#x20;
 
-[](#h.4mjjtnsh6mz9)
+#### Embedded Content
 
-[](https://docs.google.com/spreadsheets/d/0AivfkhXIXYy-dGhLdTVQaW1EODRiMHg2NkJaVExGdXc/edit)
-
-### Embedded Content
-
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](warp-motor.md)
 
 ![](../../../../../assets/sheets_32dp.png)
 
-### Rotor Purchasing
+#### Rotor Purchasing
 
-[](#h.hnh3cmme64wg)
+The high and low torque rotors differ in both laminations and magnets. Drawings (and correspondence from ordering) are attached to this page. The high torque rotors require "rotor2" and "magnet - N42SH - high torque" in "Luminos\_Ordering\_History.zip". Note that the low torque (both N42SH and SM26U) files and quotes may be found in this zip file, but Sam says that low torque rotors should not be re-made without a magnet redesign.
 
-The high and low torque rotors differ in both laminations and magnets. Drawings (and correspondence from ordering) are attached to this page. The high torque rotors require "rotor2" and "magnet - N42SH - high torque" in "Luminos_Ordering_History.zip". Note that the low torque (both N42SH and SM26U) files and quotes may be found in this zip file, but Sam says that low torque rotors should not be re-made without a magnet redesign.
+Rotor lamination stacks are 60mm tall, and high torque magnets are 15mm long. Thus, each rotor requires (60/15)\*14 = 56 North, and the same number of South magnets.&#x20;
 
-Rotor lamination stacks are 60mm tall, and high torque magnets are 15mm long. Thus, each rotor requires (60/15)*14 = 56 North, and the same number of South magnets. 
-
-## Simulation Results
-
-[](#h.ecxlolgq67q4)
+### Simulation Results
 
 ![](../../../../../assets/image_d6a3153b7d.png)
 
@@ -1281,7 +1204,7 @@ Simulated Efficiency Map
 
 8/27/2014 Simulation Progress
 
-By reducing corner radii and adjusting the tooth tip design I was able to increase the copper area available by ~50%. Looking at previous results it looked like the majority of losses were copper losses. By working the iron higher, I was able to bring the losses more into balance. There are some outstanding questions about whether or not the windings will actually fit in the case and if there will be anomalous eddy losses due to lines of flux crossing the slot, but this looks like progress.
+By reducing corner radii and adjusting the tooth tip design I was able to increase the copper area available by \~50%. Looking at previous results it looked like the majority of losses were copper losses. By working the iron higher, I was able to bring the losses more into balance. There are some outstanding questions about whether or not the windings will actually fit in the case and if there will be anomalous eddy losses due to lines of flux crossing the slot, but this looks like progress.
 
 Next I'm going to look into more optimization of the tooth geometry.
 
@@ -1289,29 +1212,20 @@ Next I'm going to look into more optimization of the tooth geometry.
 
 ![](../../../../../assets/image_ff5c9696f1.png)
 
- 
+&#x20;
 
-## Bearing and Iron Loss Estimates
-
-[](#h.tmijhonib6o4)
+### Bearing and Iron Loss Estimates
 
 Silver Motor Upgrade
 
 During the summer of 2015, we made new high torque rotors for the two lower uncoated motors. We made new magnets and rotor steel, we cut new aluminum rotors and we assembled them into the two motors.
 
-Rotor 11 was assembled into motor housing 1 and rotor 8 was assembled into motor housing 2. 
+Rotor 11 was assembled into motor housing 1 and rotor 8 was assembled into motor housing 2.&#x20;
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](warp-motor.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
-[](https://drive.google.com/folderview?id=1WKQA9IzGqeQSe_kLWNHqcYbj49Qj9qqX)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1WKQA9IzGqeQSe_kLWNHqcYbj49Qj9qqX#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1WKQA9IzGqeQSe_kLWNHqcYbj49Qj9qqX#list" frameborder="0"></iframe>
-

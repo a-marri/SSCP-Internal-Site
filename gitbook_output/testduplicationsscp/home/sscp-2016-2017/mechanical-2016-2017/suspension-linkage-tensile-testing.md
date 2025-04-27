@@ -1,14 +1,16 @@
-# SSCP - Suspension Linkage Tensile Testing
+# suspension-linkage-tensile-testing
 
-# Suspension Linkage Tensile Testing
+## SSCP - Suspension Linkage Tensile Testing
 
-During the summer of 2016, we'd like to do tensile testing on the carbon fiber tube suspension linkages that the team used on Luminos. 
+## Suspension Linkage Tensile Testing
+
+During the summer of 2016, we'd like to do tensile testing on the carbon fiber tube suspension linkages that the team used on Luminos.&#x20;
 
 Gluing aluminum inserts in into carbon fiber tubes: DP 420
 
-Tubes: Rock West Composites - No specifications available 
+Tubes: Rock West Composites - No specifications available&#x20;
 
-Email from NHS: 
+Email from NHS:&#x20;
 
 For information about the surface preparation and gluing procedure, please see Sections 1, 2, and 3 of the...
 
@@ -16,7 +18,7 @@ SSCP STRUCTURAL BONDING GUIDE (on the google site)
 
 https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2012-2013/composites/structural-bonding-epoxy
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2012-2013/composites/structural-bonding-epoxy](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/structural-bonding-guide)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/sscp-2012-2013/composites/structural-bonding-epoxy](../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/structural-bonding-guide/)
 
 Notes:
 
@@ -30,9 +32,8 @@ As is the case for most carbon tubes, there are no specifications available. We 
 
 Green Stuff
 
-EW-5000as is an epoxy primer - it lets you bond several days after the AC-130 process. It also does protect the aluminum from corrosion. When you buy it, make sure you get EW-5000as, not EW-5000(rather bad for you). Normally SSCP does Type II Alodine to protect aluminum parts from corrosion without damaging the fatigue strength. Normal sulfuric acid anodizing can reduce the fatigue strength of aluminum by up to 20%. 
+EW-5000as is an epoxy primer - it lets you bond several days after the AC-130 process. It also does protect the aluminum from corrosion. When you buy it, make sure you get EW-5000as, not EW-5000(rather bad for you). Normally SSCP does Type II Alodine to protect aluminum parts from corrosion without damaging the fatigue strength. Normal sulfuric acid anodizing can reduce the fatigue strength of aluminum by up to 20%.&#x20;
 
 [Normal sulfuric acid anodizing can reduce the fatigue strength of aluminum by up to 20%](http://dspace.dsto.defence.gov.au/dspace/bitstream/dsto/10291/1/DSTO-TN-1180%20PR.pdf)
 
 Having fun with team bonding!
-

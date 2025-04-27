@@ -1,112 +1,85 @@
-# SSCP - Array Task List
+# array-task-list
 
-# Array Task List
+## SSCP - Array Task List
+
+## Array Task List
 
 red = gating
 
-### Things that need to happen in June:
+#### Things that need to happen in June:
 
-[](#h.mi2w4g519zup)
+* understand solder paste setup (Cori)
+* figure out module storage system
+* ask Eric when spares ship?
+* confirm silver sharpie supply
+* (UNDERWAY) understand test equipment setup (Cori/Gijun)
 
-- understand solder paste setup (Cori)
+&#x20;   \- does DAQ talk to Keithley, or toughbook to each independently??
 
-- figure out module storage system
+&#x20;   \- try it on a spare Si module
 
-- ask Eric when spares ship?
+* MPPT testing?? (Gijun)
 
-- confirm silver sharpie supply
+&#x20;   \- test 0.96A and 1.92A cases
 
-- (UNDERWAY) understand test equipment setup (Cori/Gijun)
+* (UNDERWAY) receive new solder paste
 
-    - does DAQ talk to Keithley, or toughbook to each independently??
+&#x20;   \- confirm appropriate soldering tips in house
 
-    - try it on a spare Si module
+* (UNDERWAY) confirm wiring diagram/needs (connectors/wires in stock?) (Megan)
+* (UNDERWAY) receive bus bar wire (Kayla)
+* test 2x ee burner modules
 
-- MPPT testing?? (Gijun)
+&#x20;   \- pass confirmed numbers on to Strategy
 
-    - test 0.96A and 1.92A cases
+* (???) test burner modules with MPPT
+* (UNDERWAY) ship array pcbs
+* (EARLY JUNE) receive first shipment of modules
+* practice soldering bus bar segments
+* solder bypass diodes to bus wire segments
 
-- (UNDERWAY) receive new solder paste
+&#x20;   \- on multimeter, do diode check before and after soldering
 
-    - confirm appropriate soldering tips in house
+* test sealant (DuPont PV-804 or 734 or 732)
+* confirm VHB and kapton stock + confirm desired thickness with modules (for inset)
+* order more diamond dremel bits?
+* (UNDERWAY) order silicone (Kayla)
+* confirm potting supply
+* Ask Sarah topshell ready by date --> when do you need for chassis gluing?
+* solder diode segments to array tabs
+* solder bypass diodes and connectors to array pcbs
+* markout topshell passthrough locations (use burner module)
 
-- (UNDERWAY) confirm wiring diagram/needs (connectors/wires in stock?) (Megan)
+&#x20;   \- cut passthrough holes
 
-- (UNDERWAY) receive bus bar wire (Kayla)
+&#x20;   \- pot passthrough holes
 
-- test 2x ee burner modules
+&#x20;   \- dremel passthroughs
 
-    - pass confirmed numbers on to Strategy
+* (??) map out and label modules
 
-- (???) test burner modules with MPPT
+&#x20;   \- confirm polarity is correct for stringing
 
-- (UNDERWAY) ship array pcbs
+* determine VHB mounting pattern
+* mount modules via VHB
 
-- (EARLY JUNE) receive first shipment of modules
+&#x20;   \- fold tabs when necessary
 
-- practice soldering bus bar segments
+&#x20;   \- route tabs through passthroughs
 
-- solder bypass diodes to bus wire segments
-
-    - on multimeter, do diode check before and after soldering
-
-- test sealant (DuPont PV-804 or 734 or 732)
-
-- confirm VHB and kapton stock + confirm desired thickness with modules (for inset)
-
-- order more diamond dremel bits?
-
-- (UNDERWAY) order silicone (Kayla)
-
-- confirm potting supply
-
-- Ask Sarah topshell ready by date --> when do you need for chassis gluing?
-
-- solder diode segments to array tabs
-
-- solder bypass diodes and connectors to array pcbs
-
-- markout topshell passthrough locations (use burner module)
-
-    - cut passthrough holes
-
-    - pot passthrough holes
-
-    - dremel passthroughs
-
-- (??) map out and label modules
-
-    - confirm polarity is correct for stringing
-
-- determine VHB mounting pattern
-
-- mount modules via VHB
-
-    - fold tabs when necessary
-
-    - route tabs through passthroughs
-
-- silicone all passthroughs
-
-- sealant all module channels
-
-- (MID/LATE JUNE) receive second shipment of solar modules
-
-- solder diode segments to array tabs
-
-- wire all tabs
-
-- mount MPPTS
-
-- unveiling scheduled for July 14th?
+* silicone all passthroughs
+* sealant all module channels
+* (MID/LATE JUNE) receive second shipment of solar modules
+* solder diode segments to array tabs
+* wire all tabs
+* mount MPPTS
+* unveiling scheduled for July 14th?
 
 Have an array.
 
-### Cori's Summer Log
+#### Cori's Summer Log
 
-[](#h.ixpy5q8ml2cs)
-
-190618 -- Day 1 (~10hrs)
+190618 -- Day 1 (\~10hrs)
 
 Completed:
 
@@ -191,7 +164,6 @@ Completed:
 * Cut and tinned 10x long length wires
 * Cut and tinned 50x short length wires (var2)
 * Analyzed IV curves for 2x mods from Alta + sent to Eric
-
 * Received modules shipment 1!Inventoried tabs
 * Inventoried tabs
 * Cut and tinned 10x long length wires
@@ -247,7 +219,6 @@ Allocate modules to module map (tabs + efficiency) and label (mod SN to map/stri
 * Markout array holes
 * Update Python IV script with Power/metrics calculationsLook up solar irradiance values?
 * Look up solar irradiance values?
-
 * Markout array holes
 * Update Python IV script with Power/metrics calculationsLook up solar irradiance values?
 * Look up solar irradiance values?
@@ -264,18 +235,17 @@ Look up solar irradiance values?
 
 Completed:
 
-* Assembled ~25x bus bars (using tinned wire, checking diodes)Diodes are ~145 Ohms (137 when hot, 160 when cold)
-* Assembled ~25x bus bars (using tinned wire, checking diodes)Diodes are ~145 Ohms (137 when hot, 160 when cold)
-* Diodes are ~145 Ohms (137 when hot, 160 when cold)
+* Assembled \~25x bus bars (using tinned wire, checking diodes)Diodes are \~145 Ohms (137 when hot, 160 when cold)
+* Assembled \~25x bus bars (using tinned wire, checking diodes)Diodes are \~145 Ohms (137 when hot, 160 when cold)
+* Diodes are \~145 Ohms (137 when hot, 160 when cold)
+* Assembled \~25x bus bars (using tinned wire, checking diodes)Diodes are \~145 Ohms (137 when hot, 160 when cold)
+* Diodes are \~145 Ohms (137 when hot, 160 when cold)
 
-* Assembled ~25x bus bars (using tinned wire, checking diodes)Diodes are ~145 Ohms (137 when hot, 160 when cold)
-* Diodes are ~145 Ohms (137 when hot, 160 when cold)
+Assembled \~25x bus bars (using tinned wire, checking diodes)
 
-Assembled ~25x bus bars (using tinned wire, checking diodes)
+* Diodes are \~145 Ohms (137 when hot, 160 when cold)
 
-* Diodes are ~145 Ohms (137 when hot, 160 when cold)
-
-Diodes are ~145 Ohms (137 when hot, 160 when cold)
+Diodes are \~145 Ohms (137 when hot, 160 when cold)
 
 190621 -- Day 4
 
@@ -283,7 +253,6 @@ Completed:
 
 * (3 hrs) Assembled 23 bus bars
 * (3 hrs) Assembled 23 bus bars
-
 * (3 hrs) Assembled 23 bus bars
 
 (3 hrs) Assembled 23 bus bars
@@ -296,7 +265,6 @@ Completed:
 
 * Try shading cases (uploaded data to drive, need to interpret)
 * Try shading cases (uploaded data to drive, need to interpret)
-
 * Try shading cases (uploaded data to drive, need to interpret)
 
 Try shading cases (uploaded data to drive, need to interpret)
@@ -306,7 +274,6 @@ Try shading cases (uploaded data to drive, need to interpret)
 * 43 4x24s
 * 1x 3x24s
 * (1) Submitted Alta invoice (+ Zeus/STM biz work)
-
 * (0.5) Inventory shipment from Alta43 4x24s1x 3x24s
 * 43 4x24s
 * 1x 3x24s
@@ -323,16 +290,15 @@ Try shading cases (uploaded data to drive, need to interpret)
 
 (1) Submitted Alta invoice (+ Zeus/STM biz work)
 
-* (2) Lookup solar irradiance (day/location) for efficiency calcs --> think need to run this again..18W should be ~22-24W?
+* (2) Lookup solar irradiance (day/location) for efficiency calcs --> think need to run this again..18W should be \~22-24W?
 
-(2) Lookup solar irradiance (day/location) for efficiency calcs --> think need to run this again..18W should be ~22-24W?
+(2) Lookup solar irradiance (day/location) for efficiency calcs --> think need to run this again..18W should be \~22-24W?
 
 Need to Do:
 
 * Determine which VHB to useto a fake taping scenario?
 * Determine which VHB to useto a fake taping scenario?
 * to a fake taping scenario?
-
 * Determine which VHB to useto a fake taping scenario?
 * to a fake taping scenario?
 
@@ -350,14 +316,12 @@ Finish bus bars assembly
 
 * Weigh segments
 * Weigh segments
-
 * Weigh segments
 
 Weigh segments
 
 * Update Python IV script with mpp calculations
 * Update Python IV script with mpp calculations
-
 * Update Python IV script with mpp calculations
 
 Update Python IV script with mpp calculations
@@ -372,7 +336,6 @@ Completed:
 
 * Update Python IV script with mpp calculations --> sorta, did this in Excel
 * Update Python IV script with mpp calculations --> sorta, did this in Excel
-
 * Update Python IV script with mpp calculations --> sorta, did this in Excel
 
 Update Python IV script with mpp calculations --> sorta, did this in Excel
@@ -393,7 +356,6 @@ Finish bus bars assembly (10x more)
 
 * Weigh segments
 * Weigh segments
-
 * Weigh segments
 
 Weigh segments
@@ -403,7 +365,6 @@ Need to Do:
 * Determine which VHB to useto a fake taping scenario?
 * Determine which VHB to useto a fake taping scenario?
 * to a fake taping scenario?
-
 * Determine which VHB to useto a fake taping scenario?
 * to a fake taping scenario?
 
@@ -470,7 +431,6 @@ Completed:
 * Began marking up topshell -- identified need for more array tabs
 * Vetoed shingling method0.64mm is still noticeable and seems like a good way for water to seep in or etc
 * 0.64mm is still noticeable and seems like a good way for water to seep in or etc
-
 * Module map of topshell
 * Determined VHB taping pattern for modulesDetermined VHB to use and orderedDetermined some modules will need extra borders left on
 * Determined VHB to use and ordered
@@ -506,7 +466,6 @@ Completed:
 * LOL WHAT DID I DO TODAY -- jk I remember I stared at the passthroughs a bunch and freaked out and then went running cuz I was stressed lol
 * I did confirm that the spacing is super effing tight in the nose, right in front of the bubble -- but after re-mapping a couple times I got the module to fit (with 2mm borders)
 * Kenyon ran the lam encap
-
 * LOL WHAT DID I DO TODAY -- jk I remember I stared at the passthroughs a bunch and freaked out and then went running cuz I was stressed lol
 * I did confirm that the spacing is super effing tight in the nose, right in front of the bubble -- but after re-mapping a couple times I got the module to fit (with 2mm borders)
 * Kenyon ran the lam encap
@@ -517,20 +476,20 @@ I did confirm that the spacing is super effing tight in the nose, right in front
 
 Kenyon ran the lam encap
 
-* Ran a second sealant test in cooler temps (use a flat object to smooth, mask more of the modules) w/ KaylaThis worked great. Yay cool temps and razor blades to flatten.Definitely mask inset of the module by ~2mm.Overfill. Use a syringe also to fill.
+* Ran a second sealant test in cooler temps (use a flat object to smooth, mask more of the modules) w/ KaylaThis worked great. Yay cool temps and razor blades to flatten.Definitely mask inset of the module by \~2mm.Overfill. Use a syringe also to fill.
 * This worked great. Yay cool temps and razor blades to flatten.
-* Definitely mask inset of the module by ~2mm.
+* Definitely mask inset of the module by \~2mm.
 * Overfill. Use a syringe also to fill.
 
 Ran a second sealant test in cooler temps (use a flat object to smooth, mask more of the modules) w/ Kayla
 
 * This worked great. Yay cool temps and razor blades to flatten.
-* Definitely mask inset of the module by ~2mm.
+* Definitely mask inset of the module by \~2mm.
 * Overfill. Use a syringe also to fill.
 
 This worked great. Yay cool temps and razor blades to flatten.
 
-Definitely mask inset of the module by ~2mm.
+Definitely mask inset of the module by \~2mm.
 
 Overfill. Use a syringe also to fill.
 
@@ -539,7 +498,6 @@ Need to Do:
 * Calculate number of PCBs needed and where holes go on shellAlso note that Sarah W is going to redesign the non-populated board (remove the 0 Ohm resistor, also mitigates losses)
 * Calculate number of PCBs needed and where holes go on shellAlso note that Sarah W is going to redesign the non-populated board (remove the 0 Ohm resistor, also mitigates losses)
 * Also note that Sarah W is going to redesign the non-populated board (remove the 0 Ohm resistor, also mitigates losses)
-
 * Calculate number of PCBs needed and where holes go on shellAlso note that Sarah W is going to redesign the non-populated board (remove the 0 Ohm resistor, also mitigates losses)
 * Also note that Sarah W is going to redesign the non-populated board (remove the 0 Ohm resistor, also mitigates losses)
 
@@ -581,7 +539,6 @@ WHENEVER:
 * Sweep a module throughout the day (every .25 hours?)Weigh modules
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh modules
-
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh modules
 
@@ -600,7 +557,6 @@ Completed:
 * Confirmed need for bus bars with Eric from Alta
 * Took several hours to do a deep dive integration solving session -- worked through several scenarios and had an impromptu peer review of the designSee notes on Array Passthrough Integration
 * See notes on Array Passthrough Integration
-
 * Inventoried remaining module shipmentRequested outstanding invoice from Alta accounts payable
 * Requested outstanding invoice from Alta accounts payable
 * Talked with Sarah/Kenyon about bondo-ing then vinyl wrapping the excess spaces on the array (rather than filling with the lam/encap spacer)
@@ -624,7 +580,7 @@ Took several hours to do a deep dive integration solving session -- worked throu
 
 See notes on Array Passthrough Integration
 
-[ Array Passthrough Integration](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/array-2018-2019/array-passthrough-integration)
+[Array Passthrough Integration](../../../../../stanford.edu/testduplicationsscp/home/sscp-2018-2019/array-2018-2019/array-passthrough-integration/)
 
 For tomorrow (Wednesday), need to:
 
@@ -635,7 +591,6 @@ For tomorrow (Wednesday), need to:
 * Be ready to layout the modules and mark lam borders and passthrough locations on Thursday and areas that need to be masked for bondoMake a hole templateBegin cutting Thursday night if free???
 * Make a hole template
 * Begin cutting Thursday night if free???
-
 * First things first, setup the array tester and have a good plan to hit the ground running at 11am for module testing
 * Test all modules (12pm-2pm?) for quality checks (use Extech solar meter!! be ready to name the files and swap modules!!)Allocate modules to module map (tabs + efficiency) and label (mod SN to map/string num)
 * Allocate modules to module map (tabs + efficiency) and label (mod SN to map/string num)
@@ -675,7 +630,6 @@ Need to Do:
 * All the non-array items (stipends, VAIL access, biz sponsors, unveiling logistics)
 * Calculate number of PCBs needed and where holes go on shell
 * Trial the sealant applied from the large-size syringe? (Dayo also ordered some smol syringes tho)
-
 * Add pictures to wiki pagees
 * Thursday: do a first pass at the SOP and try applying Kapton w/o wrinkles
 * All the non-array items (stipends, VAIL access, biz sponsors, unveiling logistics)
@@ -702,7 +656,6 @@ WHENEVER:
 * Sweep a module throughout the day (every .25 hours?)Weigh modules
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh modules
-
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh modules
 
@@ -717,7 +670,6 @@ Completed:
 * First things first, setup the array tester and have a good plan to hit the ground running at 11am for module testingTest all modules (12pm-2pm?) for quality checks (use Extech solar meter!! be ready to name the files and swap modules!
 * First things first, setup the array tester and have a good plan to hit the ground running at 11am for module testing
 * Test all modules (12pm-2pm?) for quality checks (use Extech solar meter!! be ready to name the files and swap modules!
-
 * First things first, setup the array tester and have a good plan to hit the ground running at 11am for module testing
 * Test all modules (12pm-2pm?) for quality checks (use Extech solar meter!! be ready to name the files and swap modules!
 
@@ -733,19 +685,17 @@ Parse through data to...Allocate modules to module map (tabs + efficiency) and l
 
 * see page alta-module-iv-sweep-testing --> did some thinking on how to compare modules (FF?) and bin them and which strings deserve bin priority..
 * see page alta-module-iv-sweep-testing --> did some thinking on how to compare modules (FF?) and bin them and which strings deserve bin priority..
-
 * see page alta-module-iv-sweep-testing --> did some thinking on how to compare modules (FF?) and bin them and which strings deserve bin priority..
 
 see page alta-module-iv-sweep-testing --> did some thinking on how to compare modules (FF?) and bin them and which strings deserve bin priority..
 
-[ alta-module-iv-sweep-testing](/stanford.edu/testduplicationsscp/home/sscp-2018-2019/array-2018-2019/array-testing/alta-module-iv-sweep-testing)
+[alta-module-iv-sweep-testing](../../../../../stanford.edu/testduplicationsscp/home/sscp-2018-2019/array-2018-2019/array-testing/alta-module-iv-sweep-testing/)
 
-* Would recommend sweeping all mods again tbh, some weird numbers in the beginning due to clouds, but it seemed sunnier THEN than once the clouds were gone around "solar noon" at ~1pm
-* Would recommend sweeping all mods again tbh, some weird numbers in the beginning due to clouds, but it seemed sunnier THEN than once the clouds were gone around "solar noon" at ~1pm
+* Would recommend sweeping all mods again tbh, some weird numbers in the beginning due to clouds, but it seemed sunnier THEN than once the clouds were gone around "solar noon" at \~1pm
+* Would recommend sweeping all mods again tbh, some weird numbers in the beginning due to clouds, but it seemed sunnier THEN than once the clouds were gone around "solar noon" at \~1pm
+* Would recommend sweeping all mods again tbh, some weird numbers in the beginning due to clouds, but it seemed sunnier THEN than once the clouds were gone around "solar noon" at \~1pm
 
-* Would recommend sweeping all mods again tbh, some weird numbers in the beginning due to clouds, but it seemed sunnier THEN than once the clouds were gone around "solar noon" at ~1pm
-
-Would recommend sweeping all mods again tbh, some weird numbers in the beginning due to clouds, but it seemed sunnier THEN than once the clouds were gone around "solar noon" at ~1pm
+Would recommend sweeping all mods again tbh, some weird numbers in the beginning due to clouds, but it seemed sunnier THEN than once the clouds were gone around "solar noon" at \~1pm
 
 Need to Do:
 
@@ -762,7 +712,6 @@ Be ready to layout the modules and mark lam borders and passthrough locations on
 * Make a hole templateBegin cutting Thursday night if free???
 * Make a hole template
 * Begin cutting Thursday night if free???
-
 * Make a hole template
 * Begin cutting Thursday night if free???
 
@@ -782,7 +731,6 @@ sweep all mods again? or at least anything with eff < 20 or a really high FF?
 * All the non-array items (stipends, VAIL access, biz sponsors, unveiling logistics)
 * Calculate number of PCBs needed and where holes go on shell
 * Trial the sealant applied from the large-size syringe? (Dayo also ordered some smol syringes tho)
-
 * Add pictures to wiki pagees
 * Thursday: do a first pass at the SOP and try applying Kapton w/o wrinkles
 * All the non-array items (stipends, VAIL access, biz sponsors, unveiling logistics)
@@ -809,7 +757,6 @@ WHENEVER:
 * Sweep a module throughout the day (every .25 hours?)Weigh modules
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh modules
-
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh modules
 
@@ -827,7 +774,6 @@ Completed:
 * Ordered Kapton and etc.
 * With Ricardo, had all bus bars resoldered with H-tabs
 * Received module performance data from Eric
-
 * Marked out all modules on topshellMarked areas that need bondo or dremeling work
 * Marked areas that need bondo or dremeling work
 * Ordered Kapton and etc.
@@ -854,7 +800,6 @@ Need to Do:
 * All the non-array items (stipends, VAIL access, biz sponsors, unveiling logistics)
 * Calculate number of PCBs needed and where holes go on shell
 * Trial the sealant applied from the large-size syringe? (Dayo also ordered some smol syringes tho)
-
 * Add pictures to wiki pagees
 * Thursday: do a first pass at the SOP and try applying Kapton w/o wrinkles
 * All the non-array items (stipends, VAIL access, biz sponsors, unveiling logistics)
@@ -881,7 +826,6 @@ WHENEVER:
 * Sweep a module throughout the day (every .25 hours?)Weigh modules
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh modules
-
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh modules
 
@@ -902,7 +846,6 @@ Completed:
 * Fit checked all bus barsFixed most of the bus barsMarked where solder joints should go
 * Fixed most of the bus bars
 * Marked where solder joints should go
-
 * Made hole cutout template
 * Fit checked all bus barsFixed most of the bus barsMarked where solder joints should go
 * Fixed most of the bus bars
@@ -928,7 +871,6 @@ Need to do:
 * Determine number of PCBs and types and send to Maisam
 * Check on status of material deliveries0.5" Kapton, 0.5" VHB, PV-804 tubes, syringes
 * 0.5" Kapton, 0.5" VHB, PV-804 tubes, syringes
-
 * Finish fit checking bus bars
 * Make a second hole template? Check the 1x24s for sure
 * Figure out wiring in tail of car
@@ -959,7 +901,6 @@ Completed:
 * Cleaned up array shelf more
 * Fixed all bus bar lengths to module passthrough template
 * Marked out all holes on topshell
-
 * Unpacked old Sundae Si array box (tossed and shelved)Cleaned up array shelf more
 * Cleaned up array shelf more
 * Fixed all bus bar lengths to module passthrough template
@@ -999,7 +940,6 @@ Finish fit checking bus bars
 * Make a second hole template? Check the 1x24s for sureFigure out wiring in tail of car
 * Make a second hole template? Check the 1x24s for sure
 * Figure out wiring in tail of car
-
 * Make a second hole template? Check the 1x24s for sure
 * Figure out wiring in tail of car
 
@@ -1020,7 +960,6 @@ Re-bin and map out module layout with data from Alta (Eric)
 * Trim laminate border
 * Solder bus bars to modules -- make sure how far out on tabs corresponds to the hole locations....
 * Kapton wrap all bus bars and tabs
-
 * Fit check modules to location
 * Trim laminate border
 * Solder bus bars to modules -- make sure how far out on tabs corresponds to the hole locations....
@@ -1038,7 +977,6 @@ Check on status of material deliveries
 
 * 0.5" Kapton, 0.5" VHB, PV-804 tubes, syringes
 * 0.5" Kapton, 0.5" VHB, PV-804 tubes, syringes
-
 * 0.5" Kapton, 0.5" VHB, PV-804 tubes, syringes
 
 0.5" Kapton, 0.5" VHB, PV-804 tubes, syringes
@@ -1047,7 +985,6 @@ Check on status of material deliveries
 * Add pictures to wiki pages
 * do a first pass at the SOP and try applying Kapton w/o wrinkles
 * All the non-array items (stipends, VAIL access, biz sponsors, unveiling logistics)
-
 * Add pictures to wiki pages
 * do a first pass at the SOP and try applying Kapton w/o wrinkles
 * All the non-array items (stipends, VAIL access, biz sponsors, unveiling logistics)
@@ -1073,7 +1010,6 @@ WHENEVER:
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh bus bars
 * Weigh modules
-
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh bus bars
 * Weigh modules
@@ -1090,7 +1026,6 @@ Completed:
 
 * Determined string binning order, and which modules go in which bin based on tab configs and Imp
 * Determined string binning order, and which modules go in which bin based on tab configs and Imp
-
 * Determined string binning order, and which modules go in which bin based on tab configs and Imp
 
 Determined string binning order, and which modules go in which bin based on tab configs and Imp
@@ -1127,7 +1062,6 @@ Need to Do (on Monday):
 * Figure out wiring in tail of car // determine which need extenderstalk to kenyon/sarah about hole integrity? and maisam about how large the holes and pcbs are for spacing?
 * talk to kenyon/sarah about hole integrity? and maisam about how large the holes and pcbs are for spacing?
 * quality check all bus bars
-
 * Figure out wiring in tail of car // determine which need extenderstalk to kenyon/sarah about hole integrity? and maisam about how large the holes and pcbs are for spacing?
 * talk to kenyon/sarah about hole integrity? and maisam about how large the holes and pcbs are for spacing?
 * quality check all bus bars
@@ -1163,7 +1097,6 @@ Rearrange modules into their strings, then:
 * Kapton wrap all bus bars and tabs
 * Fold
 * VHB
-
 * Fit check modules to location
 * Trim laminate border
 * Solder extenders to bus bars
@@ -1191,7 +1124,6 @@ VHB
 * Add pictures to wiki pages
 * do a first pass at the SOP and try applying Kapton w/o wrinkles
 * All the non-array items (stipends, VAIL access, biz sponsors, unveiling logistics)
-
 * Send peter budget break-out categories
 * Add pictures to wiki pages
 * do a first pass at the SOP and try applying Kapton w/o wrinkles
@@ -1220,7 +1152,6 @@ WHENEVER:
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh bus bars
 * Weigh modules
-
 * Sweep a module throughout the day (every .25 hours?)
 * Weigh bus bars
 * Weigh modules
@@ -1249,7 +1180,6 @@ Completed:
 * Re-lay out of modules to map
 * Kapton/vinyl tape of bus bars with diode checks
 * Mapped out wiring of each string and redesign PCBs with Maisam
-
 * Trimming of all modules
 * Soldering of bus bars to modules
 * Re-lay out of modules to map
@@ -1277,7 +1207,6 @@ Need to Do:
 * Fit check all modulesTrim lam more if needed?Do the tail modules
 * Trim lam more if needed?
 * Do the tail modules
-
 * Quality check of all modules (minus 6 in tail)Check tape on edges, and HV vinylTake photos
 * Check tape on edges, and HV vinyl
 * Take photos
@@ -1308,4 +1237,3 @@ Fit check all modules
 Trim lam more if needed?
 
 Do the tail modules
-

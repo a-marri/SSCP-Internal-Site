@@ -1,6 +1,8 @@
-# SSCP - Arctan Mold Disposal
+# arctan-mold-disposal
 
-# Arctan Mold Disposal
+## SSCP - Arctan Mold Disposal
+
+## Arctan Mold Disposal
 
 Since they were used to construct the Arctan aerobody, the molds were stored outside and had holes drilled in them at the low points to drain water.
 
@@ -42,7 +44,7 @@ Michaela Autry (Account Manager)
 
 ABF Logistics
 
- 877.279.8090 Ext..9210 
+&#x20;877.279.8090 Ext..9210&#x20;
 
 Forklift
 
@@ -54,11 +56,6 @@ Ben Cerney
 
 ben@redwoodrental.com
 
-[](https://drive.google.com/folderview?id=1fcgvozFq3a1-9OqDrEW0yby6J1qOK7Lt)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1fcgvozFq3a1-9OqDrEW0yby6J1qOK7Lt#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1fcgvozFq3a1-9OqDrEW0yby6J1qOK7Lt#list" frameborder="0"></iframe>
-

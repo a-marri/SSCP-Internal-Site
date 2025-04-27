@@ -1,21 +1,21 @@
-# SSCP - WiFi Infrastructure
+# wifi-infrastructure
 
-# WiFi Infrastructure
+## SSCP - WiFi Infrastructure
 
-We used PicoStation2HP ethernet bridges on Xenith, and plan to use them again for Luminos. A reference manual for these devices: http://www.afrikanet.net/help/d2/WLAN/ubiquiti/picostations/User-Guide-Pico%20station.pdf. A reference manual for AirOS 3 is here: http://wiki.ubnt.com/AirOS_3
+## WiFi Infrastructure
+
+We used PicoStation2HP ethernet bridges on Xenith, and plan to use them again for Luminos. A reference manual for these devices: http://www.afrikanet.net/help/d2/WLAN/ubiquiti/picostations/User-Guide-Pico%20station.pdf. A reference manual for AirOS 3 is here: http://wiki.ubnt.com/AirOS\_3
 
 [http://www.afrikanet.net/help/d2/WLAN/ubiquiti/picostations/User-Guide-Pico%20station.pdf](http://www.afrikanet.net/help/d2/WLAN/ubiquiti/picostations/User-Guide-Pico%20station.pdf)
 
-[http://wiki.ubnt.com/AirOS_3](http://wiki.ubnt.com/AirOS_3)
+[http://wiki.ubnt.com/AirOS\_3](http://wiki.ubnt.com/AirOS_3)
 
-To reset to defaults: 
+To reset to defaults:&#x20;
 
-1.  Network settings of PC: IP:192.168.1.254; subnet:255.255.255.0
+1\.  Network settings of PC: IP:192.168.1.254; subnet:255.255.255.0
 
-2. Release the reset button ~10 seconds (but not longer) after turning the device on. You will know it's ready when the LEDs change.
-
+2. Release the reset button \~10 seconds (but not longer) after turning the device on. You will know it's ready when the LEDs change.
 3. Ping 192.168.1.20 (Be a static IP like 192.168.1.21
-
 4. Success!
 
 Ubiquiti Credentials: admin/s0larpower
@@ -40,11 +40,9 @@ Primary DNS IP: 8.8.8.4
 
 Network Mode: Bridge
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](wifi-infrastructure.md)
 
 A configuration file for UBNT3 and UBNT in mesh mode is attached.
 
@@ -58,11 +56,6 @@ We ended up dropping the WDS setup all together and configured two Ubiquitis in 
 
 Even though this setup was vastly better than the previous setups, I found that the chase laptop got more packets/sec from just connecting to the solar car AP directly, instead of connecting to the chase AP. We should investigate this further if we want a convoy network for the next race (for IRC, FTP). For the race, the chase strategy laptop was connected to the solar car AP directly.
 
-[](https://drive.google.com/folderview?id=1-hjTeAP98alOUFVib6r3fbLZX9GtWZXN)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1-hjTeAP98alOUFVib6r3fbLZX9GtWZXN#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1-hjTeAP98alOUFVib6r3fbLZX9GtWZXN#list" frameborder="0"></iframe>
-

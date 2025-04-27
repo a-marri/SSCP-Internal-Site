@@ -1,6 +1,8 @@
-# SSCP - Advisory Board Meeting 6/9
+# advisory-board-meeting-69
 
-# Advisory Board Meeting 6/9
+## SSCP - Advisory Board Meeting 6/9
+
+## Advisory Board Meeting 6/9
 
 Present:
 
@@ -47,7 +49,6 @@ Discussion:
 * Nancy - "What are the consequences if someone does not abide by the rules of machine room access?"No explicit discussion about that yetAt the very least, card access can be revoked
 * No explicit discussion about that yet
 * At the very least, card access can be revoked
-
 * Rules came out this past weekendstill figuring out implications of a few items in the rules
 * still figuring out implications of a few items in the rules
 * subscribe to solarpower email list if anyone wants
@@ -173,7 +174,6 @@ Chirs Gerdes arrived
 * ...
 * discussion about Cars & Stanford helping us procure a wind tunnel and/or autoclave - send paragraph to Jeff & Steven
 * Samsung - Gerdes doing event in DC with them
-
 * Spring Quarterarray teammaterial procurement (GaAs)will talk later with Jeff/Brooke about Alta Devices sponsorshipaerobusiness team$80,000 in sponsorshipsmuch better position now than a few months agooutreach eventsstanford connectsadmit weekend @ engineering quadelectrical engineering eventChris Gerdes: discussed Ford meeting + australia vehicleselectrical teammechanical teamthinking of working with some of the labs in VAIL who specialize in vehicle dynamics
 * array teammaterial procurement (GaAs)will talk later with Jeff/Brooke about Alta Devices sponsorship
 * material procurement (GaAs)
@@ -427,5 +427,4 @@ discussion about Cars & Stanford helping us procure a wind tunnel and/or autocla
 
 Samsung - Gerdes doing event in DC with them
 
-TODO: email everyone slides; email Stephen list of intros we'd like from CARS; email Jeff sponsor info, Alta, contacts/intros; send Keithley update to Brooke; initiate safety/training/etc plan 
-
+TODO: email everyone slides; email Stephen list of intros we'd like from CARS; email Jeff sponsor info, Alta, contacts/intros; send Keithley update to Brooke; initiate safety/training/etc plan&#x20;

@@ -1,12 +1,14 @@
-# SSCP - Luminos: Test Driving: Data and Analysis
+# luminos-test-driving-data-and-analysis
 
-# Luminos: Test Driving: Data and Analysis
+## SSCP - Luminos: Test Driving: Data and Analysis
+
+## Luminos: Test Driving: Data and Analysis
 
 Raw data from test drives can be found on the FTP server in the /Strategy/Luminos Data folder, and is arranged by testing trips that we have made.
 
 Max's MATLAB analysis and plotting code can be found in SVN, in /strategy/matlab-max. It was written in the back of the van with the direction of development being driven by what I wanted to see for making good strategy and car performance decisions.
 
-Note that power-to-drive curves are generated from points at which the speed has a small standard deviation over a 30 second timespan. This is an indicator of "cruise". 
+Note that power-to-drive curves are generated from points at which the speed has a small standard deviation over a 30 second timespan. This is an indicator of "cruise".&#x20;
 
 Luminos Central Valley Drive 1
 
@@ -24,11 +26,11 @@ Before correction current into the pack was negative and current out was positiv
 
 Luminos Central Valley Drive 1 - 7/15-7/18
 
-Again, more thorough plotting and analysis should be done using the MATLAB scripts, but below are some of the "eye-candy" plots in which people may be interested: 
+Again, more thorough plotting and analysis should be done using the MATLAB scripts, but below are some of the "eye-candy" plots in which people may be interested:&#x20;
 
 Power vs. speed curve with controlled runs in increments of 10kph, with 5kph increments around the predicted cruise speed. We ran the tests in a random order to prevent things like changing wind from appearing as a meaningful relationship in the data. We made these runs on this very straight and flat stretch of road. This was done on 7-16-13, see data on FTP or relevant MATLAB data in SVN.
 
-[ this very straight and flat stretch of road](https://maps.google.com/maps?saddr=W+Manning+Ave&daddr=W+Manning+Ave&hl=en&sll=36.60285,-120.195558&sspn=0.012764,0.026157&geocode=FYaHLgIdeXTR-A%3BFXKFLgIdMgfW-A&t=h&mra=mift&mrsp=1&sz=16&z=16)
+[this very straight and flat stretch of road](https://maps.google.com/maps?saddr=W+Manning+Ave\&daddr=W+Manning+Ave\&hl=en\&sll=36.60285,-120.195558\&sspn=0.012764,0.026157\&geocode=FYaHLgIdeXTR-A%3BFXKFLgIdMgfW-A\&t=h\&mra=mift\&mrsp=1\&sz=16\&z=16)
 
 ![](../../../../assets/image_b37be247ee.png)
 
@@ -50,7 +52,7 @@ Power vs time curve for 7-17-13. The goal of the day was to run the array in its
 
 Luminos Central Valley Drive 3: Laps from Chico to Red Bluff
 
-The route files and parsed data are in SVN. The raw data is in FTP. 
+The route files and parsed data are in SVN. The raw data is in FTP.&#x20;
 
 We used this drive as a test of our strategy infrastructure and process. Overall, it was a great success! We learned:
 
@@ -59,7 +61,7 @@ We used this drive as a test of our strategy infrastructure and process. Overall
 * Insolation during the morning was significantly less than expected because of trees. We may want a way to combat this
 * The car was more efficient than when we characterized it in San Joaquin, likely because of wheel covers, road surface, array/bubble sealing, etc
 * GPS lock was not as reliable as we had hoped. We may need to manually update our route index in some cases, if we haven't had lock in a while.
-* Due to an error in indexing the route lap (a problem that won't exist in Australia), we burned too much power on one leg of the race. This caused us to end the race in Red Bluff (rather than Chico) with ~5% SOC around 5:15pm on the second day.
+* Due to an error in indexing the route lap (a problem that won't exist in Australia), we burned too much power on one leg of the race. This caused us to end the race in Red Bluff (rather than Chico) with \~5% SOC around 5:15pm on the second day.
 * Daylight headlight sections caused nearly 35W continuous more than expected
 * SOC fluctuates quite a bit while driving - we may want to show multiple methods of computing it before using it in a solver, and have somebody make an educated guess
 * We made a 2 minute stop to put foam in the car - math says this costs us 50W since we had 120km to go before a control stop. We need to be much better about our planning and logistics to not incur these sort of losses.
@@ -78,7 +80,7 @@ The car was more efficient than when we characterized it in San Joaquin, likely 
 
 GPS lock was not as reliable as we had hoped. We may need to manually update our route index in some cases, if we haven't had lock in a while.
 
-Due to an error in indexing the route lap (a problem that won't exist in Australia), we burned too much power on one leg of the race. This caused us to end the race in Red Bluff (rather than Chico) with ~5% SOC around 5:15pm on the second day.
+Due to an error in indexing the route lap (a problem that won't exist in Australia), we burned too much power on one leg of the race. This caused us to end the race in Red Bluff (rather than Chico) with \~5% SOC around 5:15pm on the second day.
 
 Daylight headlight sections caused nearly 35W continuous more than expected
 
@@ -101,4 +103,3 @@ How frequently do you update weather? How do you do this?
 The car is more efficient! 7-31 vs 7-16:
 
 ![](../../../../assets/image_f10858340a.png)
-

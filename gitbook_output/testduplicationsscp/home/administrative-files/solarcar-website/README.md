@@ -1,25 +1,22 @@
-# SSCP - Solarcar Website
+# solarcar-website
 
-# Solarcar Website
+## SSCP - Solarcar Website
 
-## Writing a Blog Post
+## Solarcar Website
 
-[](#h.5rl2bv2d1krh)
+### Writing a Blog Post
 
-Putting a blog post on the solarcar site requires a wordpress account. Email the Team Lead or another administrator to get an account. To log into the workgroup go to this address. Click on the posts tab and click on add new to add a post. 
+Putting a blog post on the solarcar site requires a wordpress account. Email the Team Lead or another administrator to get an account. To log into the workgroup go to this address. Click on the posts tab and click on add new to add a post.&#x20;
 
-[ address](http://solarcar.stanford.edu/wordpress/wp-login.php)
+[address](http://solarcar.stanford.edu/wordpress/wp-login.php)
 
-### Updating the Website Theme and Homepage
-
-[](#h.i870ezf0henb)
+#### Updating the Website Theme and Homepage
 
 * Log onto WordpressClick "Appearance"Click "Tempera Settings"Make your edits
 * Log onto Wordpress
 * Click "Appearance"
 * Click "Tempera Settings"
 * Make your edits
-
 * Log onto Wordpress
 * Click "Appearance"
 * Click "Tempera Settings"
@@ -32,4 +29,3 @@ Click "Appearance"
 Click "Tempera Settings"
 
 Make your edits
-

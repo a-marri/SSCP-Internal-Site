@@ -1,90 +1,91 @@
-# SSCP - Battery Containment and Safety
+# battery-containment-and-safety
 
-# Battery Containment and Safety
+## SSCP - Battery Containment and Safety
 
-·         Williams advanced engineering battery case studies
+## Battery Containment and Safety
 
-o   Jaguar CX75
+·         Williams advanced engineering battery case studies
 
-o   Formula E
+o   Jaguar CX75
 
-§  200 kW maximum, 90 kW average power
+o   Formula E
 
-§  32 kWh stored energy
+§  200 kW maximum, 90 kW average power
 
-§  610 nominal battery voltage
+§  32 kWh stored energy
 
-·         Battery design overview
+§  610 nominal battery voltage
 
-o   Case Design
+·         Battery design overview
 
-§  Impact Analysis
+o   Case Design
 
-·         Create simplified model for analysis
+§  Impact Analysis
 
-·         Simulate front impact
+·         Create simplified model for analysis
 
-·         Simulate side impact
+·         Simulate front impact
 
-·         Ensure battery containment structure integrity
+·         Simulate side impact
 
-§  Fire/heat protection
+·         Ensure battery containment structure integrity
 
-·         Battery fires up to 500 degC
+§  Fire/heat protection
 
-·         Contain a thermal event
+·         Battery fires up to 500 degC
 
-·         Guide a thermal event away from people
+·         Contain a thermal event
 
-·         Reduce the amount of heat transferred to outer surface
+·         Guide a thermal event away from people
 
-§  Electrical Isolation
+·         Reduce the amount of heat transferred to outer surface
 
-·         Provide electric shock protection external to the battery
+§  Electrical Isolation
 
-·         During a misuse case high voltage parts could touch the battery box
+·         Provide electric shock protection external to the battery
 
-·         Prevent electrical path to outside of battery case
+·         During a misuse case high voltage parts could touch the battery box
 
-o   Battery Internals
+·         Prevent electrical path to outside of battery case
 
-§  Installation Integrity    
+o   Battery Internals
 
-·         If the battery is involved in a collision, the batteries stay in place
+§  Installation Integrity   &#x20;
 
-·         Deflection/stress caused by load case
+·         If the battery is involved in a collision, the batteries stay in place
 
-§  Pack Monitoring: temp, voltage, pack balance, state of charge, coolant flow, current draw, isolation checks
+·         Deflection/stress caused by load case
 
-§  Thermal Management
+§  Pack Monitoring: temp, voltage, pack balance, state of charge, coolant flow, current draw, isolation checks
 
-·         Extending battery life
+§  Thermal Management
 
-·         Higher energy densities
+·         Extending battery life
 
-·         Extended range
+·         Higher energy densities
 
-·         Improved endurance
+·         Extended range
 
-·         Faster charging times
+·         Improved endurance
 
-·         Improving safety and reliability
+·         Faster charging times
 
-§  Thermal Runaway: external heating, overcharging, over-discharging, high current charging, nail penetration, crush, external short
+·         Improving safety and reliability
 
-§  High voltage Connections: finger proof, touch safe, no tool required to unmate, integrated internal HVIL, sealed
+§  Thermal Runaway: external heating, overcharging, over-discharging, high current charging, nail penetration, crush, external short
 
-·         Testing and certification
+§  High voltage Connections: finger proof, touch safe, no tool required to unmate, integrated internal HVIL, sealed
 
-o   In order to ensure air transportation safety, IATA require UN38.3 test report before transport the goods
+·         Testing and certification
 
-§  Altitude simulation, thermal test, vibration, shock, external short circuit, impact, overcharge, forced discharge
+o   In order to ensure air transportation safety, IATA require UN38.3 test report before transport the goods
 
-·         Battery build factory tour
+§  Altitude simulation, thermal test, vibration, shock, external short circuit, impact, overcharge, forced discharge
 
-* As soon as High Voltage (>50V by their standards) is present anywhere in any battery pack, Health and Safety regulations force the workers to wear large insulating rubber gloves, which greatly decrease dexterity. As such, a secondary but present design goal is to maximize the amount of manufacturing that can be done before connecting anything that results in said HV (typically many separate and small modules that only get connected at the very last step).  
+·         Battery build factory tour
 
-As soon as High Voltage (>50V by their standards) is present anywhere in any battery pack, Health and Safety regulations force the workers to wear large insulating rubber gloves, which greatly decrease dexterity. As such, a secondary but present design goal is to maximize the amount of manufacturing that can be done before connecting anything that results in said HV (typically many separate and small modules that only get connected at the very last step).  
+* As soon as High Voltage (>50V by their standards) is present anywhere in any battery pack, Health and Safety regulations force the workers to wear large insulating rubber gloves, which greatly decrease dexterity. As such, a secondary but present design goal is to maximize the amount of manufacturing that can be done before connecting anything that results in said HV (typically many separate and small modules that only get connected at the very last step). &#x20;
 
-  
+As soon as High Voltage (>50V by their standards) is present anywhere in any battery pack, Health and Safety regulations force the workers to wear large insulating rubber gloves, which greatly decrease dexterity. As such, a secondary but present design goal is to maximize the amount of manufacturing that can be done before connecting anything that results in said HV (typically many separate and small modules that only get connected at the very last step). &#x20;
 
+&#x20;&#x20;

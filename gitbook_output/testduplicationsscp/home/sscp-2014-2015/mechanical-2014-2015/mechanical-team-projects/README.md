@@ -1,16 +1,14 @@
-# SSCP - Mechanical Team Projects
+# mechanical-team-projects
 
-# Mechanical Team Projects
+## SSCP - Mechanical Team Projects
 
-[](https://docs.google.com/spreadsheets/d/1LfApMsKp6tLtDqs2WKYPmqMA-V_04NTya3Y1oQIkaTc/edit)
+## Mechanical Team Projects
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Embedded Content]()
+Embedded content: [Embedded Content](./)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
-![](../../../../assets/sheets_32dp.png)
+![](../../../../../assets/sheets_32dp.png)
 
 Mech Team Responsibilities (taken from Mechanical 2014-2015 page):
 
@@ -63,7 +61,7 @@ Projects
 
 (Updated 9/30/14)
 
-    In Progress              
+&#x20;   In Progress             &#x20;
 
 * battery pack
 * concentrators - research
@@ -73,25 +71,25 @@ Projects
 
 battery pack
 
-[battery pack](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/2014-2015-battery-pack-design)
+[battery pack](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/2014-2015-battery-pack-design/)
 
 concentrators - research
 
-[concentrators - research](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/array-2014-2015/concentrators)
+[concentrators - research](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/array-2014-2015/concentrators/)
 
 bubble thermoforming
 
-[bubble thermoforming](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/canopy-construction)
+[bubble thermoforming](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/canopy-construction/)
 
 chassis
 
-[chassis](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/2014-2015-chassis)
+[chassis](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/2014-2015-chassis/)
 
 suspension
 
-[suspension](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-2014-2015-suspension-design)
+[suspension](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-2014-2015-suspension-design/)
 
-    New Member
+&#x20;   New Member
 
 * e-brake mechanismcar tilt/array stand support
 * car tilt/array stand support
@@ -102,7 +100,7 @@ suspension
 
 e-brake mechanism
 
-[e-brake mechanism](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-brake-system)
+[e-brake mechanism](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-brake-system/)
 
 * car tilt/array stand support
 
@@ -110,7 +108,7 @@ car tilt/array stand support
 
 topshell detachment & latching
 
-[topshell detachment & latching](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/topshell-latching-and-alignment)
+[topshell detachment & latching](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/topshell-latching-and-alignment/)
 
 * door handle & latch
 
@@ -118,13 +116,13 @@ door handle & latch
 
 bubble thermoforming
 
-[bubble thermoforming](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/canopy-construction)
+[bubble thermoforming](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/canopy-construction/)
 
 * tritium heatsink
 
 tritium heatsink
 
-    Additional
+&#x20;   Additional
 
 * asymmetrical steering rack configurationstrength analysis / comparison of carbon vs. aluminum suspension linkages
 * strength analysis / comparison of carbon vs. aluminum suspension linkages
@@ -137,7 +135,7 @@ tritium heatsink
 
 asymmetrical steering rack configuration
 
-[asymmetrical steering rack configuration](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-steering-rack)
+[asymmetrical steering rack configuration](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-steering-rack/)
 
 * strength analysis / comparison of carbon vs. aluminum suspension linkages
 
@@ -145,7 +143,7 @@ strength analysis / comparison of carbon vs. aluminum suspension linkages
 
 array cooling
 
-[array cooling](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/array-2014-2015/array-cooling)
+[array cooling](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/array-2014-2015/array-cooling/)
 
 * surface finishvinyl vs. paintadditional coatings
 * vinyl vs. paint
@@ -162,13 +160,13 @@ additional coatings
 
 wheel swap / tire change improvement
 
-[wheel swap / tire change improvement](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/wheel-rapid-swap-torque-methods)
+[wheel swap / tire change improvement](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/wheel-rapid-swap-torque-methods/)
 
 roll cage
 
-[roll cage](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-2014-2015-roll-cage)
+[roll cage](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-2014-2015-roll-cage/)
 
-    Upcoming
+&#x20;   Upcoming
 
 * concentratorsmounting & calibration for chargingcollapsing & securing in car
 * mounting & calibration for chargingcollapsing & securing in car
@@ -180,12 +178,11 @@ roll cage
 
 concentrators
 
-[concentrators](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/array-2014-2015/concentrators)
+[concentrators](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/array-2014-2015/concentrators/)
 
 * mounting & calibration for chargingcollapsing & securing in car
 * mounting & calibration for charging
 * collapsing & securing in car
-
 * mounting & calibration for charging
 * collapsing & securing in car
 
@@ -195,12 +192,10 @@ collapsing & securing in car
 
 suspension components
 
-[suspension components](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-2014-2015-suspension-design)
+[suspension components](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/mechanical-2014-2015/mechanical-team-projects/sunwhale-2014-2015-suspension-design/)
 
 * steering arm, tie rods
 * steering arm, tie rods
-
 * steering arm, tie rods
 
 steering arm, tie rods
-

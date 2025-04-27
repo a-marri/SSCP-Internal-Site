@@ -1,6 +1,8 @@
-# SSCP - Team Lead
+# team-lead
 
-# Team Lead
+## SSCP - Team Lead
+
+## Team Lead
 
 Here is a general overview of the types of projects that the Team Lead in the 2012-2013 cycle worked on:
 
@@ -45,7 +47,7 @@ Here is a general overview of the types of projects that the Team Lead in the 20
 * Training new members
 * Aerodyn testing
 * Building and attaching the bubble
-* Test plans 
+* Test plans&#x20;
 * Race crew organization
 * Shipping plans
 * Designing and shipping the crate
@@ -142,7 +144,7 @@ Aerodyn testing
 
 Building and attaching the bubble
 
-Test plans 
+Test plans&#x20;
 
 Race crew organization
 
@@ -221,7 +223,7 @@ Harvard Business School has some really great content for managing teams that I'
 
 At minimum, I'd recommend signing up for their free Management Tip of the Day emails: https://email.hbr.org/preference-center. Almost all of the tips have been really useful for leading Solar Car.
 
-[ https://email.hbr.org/preference-center](https://email.hbr.org/preference-center)
+[https://email.hbr.org/preference-center](https://email.hbr.org/preference-center)
 
 You can also sign up for their other daily emails at the link. The Harvard Business Review magazine is also quite good, but it costs $80-$100 a year for a subscription. The Harvard Business Review does a nice job of summarizing the latest and best peer reviewed research and books on business management and puts everything into magazine form. If you decide to get the magazine subscription I'd recommend signing up through Amazon to get the lowest subscription price.
 
@@ -258,16 +260,15 @@ Use more off the shelf stuff
 
 Innovation
 
-* Don't allow innovation inbreeding. Bring in new outside ideas. Have members post interesting videos or lectures that they find. Don't embrace hacks. If someone says it is a hack then it is shit and it shouldn't be on the car. If it is a hack because the ambitions are too complex, make it simpler and more elegant. If it is a hack because of a time crunch, then let Wesley and Greg know so that we can allocate more time so that you can produce a respectable solution.The team must continue to innovate yet maintain organizational stability
-* Don't allow innovation inbreeding. Bring in new outside ideas. Have members post interesting videos or lectures that they find. 
+* Don't allow innovation inbreeding. Bring in new outside ideas. Have members post interesting videos or lectures that they find. Don't embrace hacks. If someone says it is a hack then it is shit and it shouldn't be on the car. If it is a hack because the ambitions are too complex, make it simpler and more elegant. If it is a hack because of a time crunch, then let Wesley and Greg know so that we can allocate more time so that you can produce a respectable solution.The team must continue to innovate yet maintain organizational stability
+* Don't allow innovation inbreeding. Bring in new outside ideas. Have members post interesting videos or lectures that they find.&#x20;
+* Don't embrace hacks. If someone says it is a hack then it is shit and it shouldn't be on the car. If it is a hack because the ambitions are too complex, make it simpler and more elegant. If it is a hack because of a time crunch, then let Wesley and Greg know so that we can allocate more time so that you can produce a respectable solution.
+* The team must continue to innovate yet maintain organizational stability
+* Don't allow innovation inbreeding. Bring in new outside ideas. Have members post interesting videos or lectures that they find.&#x20;
 * Don't embrace hacks. If someone says it is a hack then it is shit and it shouldn't be on the car. If it is a hack because the ambitions are too complex, make it simpler and more elegant. If it is a hack because of a time crunch, then let Wesley and Greg know so that we can allocate more time so that you can produce a respectable solution.
 * The team must continue to innovate yet maintain organizational stability
 
-* Don't allow innovation inbreeding. Bring in new outside ideas. Have members post interesting videos or lectures that they find. 
-* Don't embrace hacks. If someone says it is a hack then it is shit and it shouldn't be on the car. If it is a hack because the ambitions are too complex, make it simpler and more elegant. If it is a hack because of a time crunch, then let Wesley and Greg know so that we can allocate more time so that you can produce a respectable solution.
-* The team must continue to innovate yet maintain organizational stability
-
-Don't allow innovation inbreeding. Bring in new outside ideas. Have members post interesting videos or lectures that they find. 
+Don't allow innovation inbreeding. Bring in new outside ideas. Have members post interesting videos or lectures that they find.&#x20;
 
 Don't embrace hacks. If someone says it is a hack then it is shit and it shouldn't be on the car. If it is a hack because the ambitions are too complex, make it simpler and more elegant. If it is a hack because of a time crunch, then let Wesley and Greg know so that we can allocate more time so that you can produce a respectable solution.
 
@@ -279,7 +280,6 @@ Testing
 * Do a lot of prototyping and revisions
 * Do vibration and heat cycle testing
 * Iterate early and often. Put a lot of pressure on people who don't want to help
-
 * Do a lot of prototyping and revisions
 * Do vibration and heat cycle testing
 * Iterate early and often. Put a lot of pressure on people who don't want to help
@@ -292,16 +292,15 @@ Iterate early and often. Put a lot of pressure on people who don't want to help
 
 Planning
 
-* if surveys don't work then do personal interviews to get feedback. do hard copy paper surveys in meetings Identifying solutions is a lot better than identifying problemsRainy days are your friend. If you are smart you can beat the rich teams when there is chaos
-* if surveys don't work then do personal interviews to get feedback. do hard copy paper surveys in meetings 
+* if surveys don't work then do personal interviews to get feedback. do hard copy paper surveys in meetings Identifying solutions is a lot better than identifying problemsRainy days are your friend. If you are smart you can beat the rich teams when there is chaos
+* if surveys don't work then do personal interviews to get feedback. do hard copy paper surveys in meetings&#x20;
+* Identifying solutions is a lot better than identifying problems
+* Rainy days are your friend. If you are smart you can beat the rich teams when there is chaos
+* if surveys don't work then do personal interviews to get feedback. do hard copy paper surveys in meetings&#x20;
 * Identifying solutions is a lot better than identifying problems
 * Rainy days are your friend. If you are smart you can beat the rich teams when there is chaos
 
-* if surveys don't work then do personal interviews to get feedback. do hard copy paper surveys in meetings 
-* Identifying solutions is a lot better than identifying problems
-* Rainy days are your friend. If you are smart you can beat the rich teams when there is chaos
-
-if surveys don't work then do personal interviews to get feedback. do hard copy paper surveys in meetings 
+if surveys don't work then do personal interviews to get feedback. do hard copy paper surveys in meetings&#x20;
 
 Identifying solutions is a lot better than identifying problems
 
@@ -309,64 +308,64 @@ Rainy days are your friend. If you are smart you can beat the rich teams when th
 
 Yourself
 
-* Don't care about getting credit for yourself. Care about results. 
-* Leaders know how to be extroverted when in public although they may or not be introvertedMultitasking doesn't workNot deciding is worse than deciding wrongEstablish your credibility by working hard and being a good role  modelRealize and publicize when we have problems that do not have a viable solution-Make a very detailed list of things that we need and things that we wantAlways being nice and respectful may not be the best for the teamThings you should think about: defect prevention, identifying managing and controlling changes, project closure (project debrief), what are objectives, assessing and controlling risk, estimating and allocating resources, controlling project execution, forecasting future trends of the project, Things to create: a project charter, business case, scope statement, project management plan, work breakdown structure, risk management plan, communications plan, governance model, issue log, action item list, project schedule, stakeholder analysis, document management.
+* Don't care about getting credit for yourself. Care about results.&#x20;
+* Leaders know how to be extroverted when in public although they may or not be introvertedMultitasking doesn't workNot deciding is worse than deciding wrongEstablish your credibility by working hard and being a good role  modelRealize and publicize when we have problems that do not have a viable solution-Make a very detailed list of things that we need and things that we wantAlways being nice and respectful may not be the best for the teamThings you should think about: defect prevention, identifying managing and controlling changes, project closure (project debrief), what are objectives, assessing and controlling risk, estimating and allocating resources, controlling project execution, forecasting future trends of the project, Things to create: a project charter, business case, scope statement, project management plan, work breakdown structure, risk management plan, communications plan, governance model, issue log, action item list, project schedule, stakeholder analysis, document management.
 * Multitasking doesn't work
 * Not deciding is worse than deciding wrong
-* Establish your credibility by working hard and being a good role  model
+* Establish your credibility by working hard and being a good role  model
 * Realize and publicize when we have problems that do not have a viable solution-Make a very detailed list of things that we need and things that we want
 * Always being nice and respectful may not be the best for the team
-* Things you should think about: defect prevention, identifying managing and controlling changes, project closure (project debrief), what are objectives, assessing and controlling risk, estimating and allocating resources, controlling project execution, forecasting future trends of the project, 
+* Things you should think about: defect prevention, identifying managing and controlling changes, project closure (project debrief), what are objectives, assessing and controlling risk, estimating and allocating resources, controlling project execution, forecasting future trends of the project,&#x20;
 * Things to create: a project charter, business case, scope statement, project management plan, work breakdown structure, risk management plan, communications plan, governance model, issue log, action item list, project schedule, stakeholder analysis, document management.
-* Carnegie: Don't criticize, condemn or complain. Give honest and sincere appreciation. Arouse in the person an eager to want. 
+* Carnegie: Don't criticize, condemn or complain. Give honest and sincere appreciation. Arouse in the person an eager to want.&#x20;
 * Carnegie: Become genuinely interested in other people. Smile. Remember that a person's name is to that person the sweetest and most important sound in any language. Be a good listener. Encourage others to talk about themselves. Talk in terms of the other person's interests. Make the other person feel important-and do it sincerely.
-* Carnegie: The only way to get the best of an argument is to avoid it. Show respect for the other person's opinions. Never say, "You're wrong." If you are wrong, admit it quickly and emphatically. Begin in a friendly way. Get the other person saying "yes, yes" immediately. Let the other person do a great deal of the talking. Let the other person feel that the idea is his or hers. Try honestly to see things from the other person's point of view. Be sympathetic with the other person's ideas and desires. Appeal to the nobler motives. Dramatize your ideas. Throw down a challenge. 
-* Carnegie: Be sincere. Know exactly what you want the other person to do. Be empathetic. Ask yourself what it is that the other person wants. Consider the benefits that person will receive from doing what you suggest. Match those benefits to the other person's wants. Put suggestions in the form that will convey to the other person the idea that he personally will benefit. 
-* Carnegie: Being a leader: Begin with praise and honest appreciation. Call attention to people's mistakes indirectly. Talk about your own mistakes before critiquing the other people. Ask questions instead of giving direct orders. Let the other person save face. Praise the slightest improvement and praise every improvement. Be "hearty in your approbation and lavish in your praise". Give the other person a fine reputation to live up to. Use encouragement. Make the fault seem easy to correct. Make the other person happy about doing the thing you suggest. 
+* Carnegie: The only way to get the best of an argument is to avoid it. Show respect for the other person's opinions. Never say, "You're wrong." If you are wrong, admit it quickly and emphatically. Begin in a friendly way. Get the other person saying "yes, yes" immediately. Let the other person do a great deal of the talking. Let the other person feel that the idea is his or hers. Try honestly to see things from the other person's point of view. Be sympathetic with the other person's ideas and desires. Appeal to the nobler motives. Dramatize your ideas. Throw down a challenge.&#x20;
+* Carnegie: Be sincere. Know exactly what you want the other person to do. Be empathetic. Ask yourself what it is that the other person wants. Consider the benefits that person will receive from doing what you suggest. Match those benefits to the other person's wants. Put suggestions in the form that will convey to the other person the idea that he personally will benefit.&#x20;
+* Carnegie: Being a leader: Begin with praise and honest appreciation. Call attention to people's mistakes indirectly. Talk about your own mistakes before critiquing the other people. Ask questions instead of giving direct orders. Let the other person save face. Praise the slightest improvement and praise every improvement. Be "hearty in your approbation and lavish in your praise". Give the other person a fine reputation to live up to. Use encouragement. Make the fault seem easy to correct. Make the other person happy about doing the thing you suggest.&#x20;
 
-Don't care about getting credit for yourself. Care about results. 
+Don't care about getting credit for yourself. Care about results.&#x20;
 
 Leaders know how to be extroverted when in public although they may or not be introverted
 
 * Multitasking doesn't work
 * Not deciding is worse than deciding wrong
-* Establish your credibility by working hard and being a good role  model
+* Establish your credibility by working hard and being a good role  model
 * Realize and publicize when we have problems that do not have a viable solution-Make a very detailed list of things that we need and things that we want
 * Always being nice and respectful may not be the best for the team
-* Things you should think about: defect prevention, identifying managing and controlling changes, project closure (project debrief), what are objectives, assessing and controlling risk, estimating and allocating resources, controlling project execution, forecasting future trends of the project, 
+* Things you should think about: defect prevention, identifying managing and controlling changes, project closure (project debrief), what are objectives, assessing and controlling risk, estimating and allocating resources, controlling project execution, forecasting future trends of the project,&#x20;
 * Things to create: a project charter, business case, scope statement, project management plan, work breakdown structure, risk management plan, communications plan, governance model, issue log, action item list, project schedule, stakeholder analysis, document management.
 
 Multitasking doesn't work
 
 Not deciding is worse than deciding wrong
 
-Establish your credibility by working hard and being a good role  model
+Establish your credibility by working hard and being a good role  model
 
 Realize and publicize when we have problems that do not have a viable solution-Make a very detailed list of things that we need and things that we want
 
 Always being nice and respectful may not be the best for the team
 
-Things you should think about: defect prevention, identifying managing and controlling changes, project closure (project debrief), what are objectives, assessing and controlling risk, estimating and allocating resources, controlling project execution, forecasting future trends of the project, 
+Things you should think about: defect prevention, identifying managing and controlling changes, project closure (project debrief), what are objectives, assessing and controlling risk, estimating and allocating resources, controlling project execution, forecasting future trends of the project,&#x20;
 
 Things to create: a project charter, business case, scope statement, project management plan, work breakdown structure, risk management plan, communications plan, governance model, issue log, action item list, project schedule, stakeholder analysis, document management.
 
-Carnegie: Don't criticize, condemn or complain. Give honest and sincere appreciation. Arouse in the person an eager to want. 
+Carnegie: Don't criticize, condemn or complain. Give honest and sincere appreciation. Arouse in the person an eager to want.&#x20;
 
 Carnegie: Become genuinely interested in other people. Smile. Remember that a person's name is to that person the sweetest and most important sound in any language. Be a good listener. Encourage others to talk about themselves. Talk in terms of the other person's interests. Make the other person feel important-and do it sincerely.
 
-Carnegie: The only way to get the best of an argument is to avoid it. Show respect for the other person's opinions. Never say, "You're wrong." If you are wrong, admit it quickly and emphatically. Begin in a friendly way. Get the other person saying "yes, yes" immediately. Let the other person do a great deal of the talking. Let the other person feel that the idea is his or hers. Try honestly to see things from the other person's point of view. Be sympathetic with the other person's ideas and desires. Appeal to the nobler motives. Dramatize your ideas. Throw down a challenge. 
+Carnegie: The only way to get the best of an argument is to avoid it. Show respect for the other person's opinions. Never say, "You're wrong." If you are wrong, admit it quickly and emphatically. Begin in a friendly way. Get the other person saying "yes, yes" immediately. Let the other person do a great deal of the talking. Let the other person feel that the idea is his or hers. Try honestly to see things from the other person's point of view. Be sympathetic with the other person's ideas and desires. Appeal to the nobler motives. Dramatize your ideas. Throw down a challenge.&#x20;
 
-Carnegie: Be sincere. Know exactly what you want the other person to do. Be empathetic. Ask yourself what it is that the other person wants. Consider the benefits that person will receive from doing what you suggest. Match those benefits to the other person's wants. Put suggestions in the form that will convey to the other person the idea that he personally will benefit. 
+Carnegie: Be sincere. Know exactly what you want the other person to do. Be empathetic. Ask yourself what it is that the other person wants. Consider the benefits that person will receive from doing what you suggest. Match those benefits to the other person's wants. Put suggestions in the form that will convey to the other person the idea that he personally will benefit.&#x20;
 
-Carnegie: Being a leader: Begin with praise and honest appreciation. Call attention to people's mistakes indirectly. Talk about your own mistakes before critiquing the other people. Ask questions instead of giving direct orders. Let the other person save face. Praise the slightest improvement and praise every improvement. Be "hearty in your approbation and lavish in your praise". Give the other person a fine reputation to live up to. Use encouragement. Make the fault seem easy to correct. Make the other person happy about doing the thing you suggest. 
+Carnegie: Being a leader: Begin with praise and honest appreciation. Call attention to people's mistakes indirectly. Talk about your own mistakes before critiquing the other people. Ask questions instead of giving direct orders. Let the other person save face. Praise the slightest improvement and praise every improvement. Be "hearty in your approbation and lavish in your praise". Give the other person a fine reputation to live up to. Use encouragement. Make the fault seem easy to correct. Make the other person happy about doing the thing you suggest.&#x20;
 
 People
 
-* http://www.wimp.com/creativityaffected/If people say they just want to do fun projects then say they are being wasteful and selfishMaintain team visionMake sure new members know how hard older members workYou need think about respect, communication, assertiveness, and optimism Think about hierarchy of needs: physiological and safety may not matter. Social (friendship etc), esteem (self-respect, autonomy, achievement, status, recognition, attention), self-actualization( the drive to become what one is capable of becoming).Task significance, social interaction, knowledge of results, responsibility for resultsHave end of the year awards. Stanford students need rewardStanford students strive for success in the classroom, success in extracurricular, and success in social life. There are time conflicts between these.Have team leads let you know who is good and who needs to be offered additional responsibility on the team. Then it is sub team leads job to keep. Those people. I am going to be really disturbed if I see that people that we want to keep have started leaving your areaYour job is to make people be successfulHave team leads present what they have done the last weekPay attention to when people come in sadDon't assume that everyone is a dedicated to solar car as you areHold people accountable to the goals of their project. If they say it will help us collect data, then they should produce a data report at the end. If they say it will increase efficiency, then they should produce tests that show whether or not there was a statistically significant change. If the change was negative then revert back to the old. Have face to face meetings Missing meetings and missing deadlines is an indication that people aren't unified with overall visionBe willing to fire people from the team or just forget about them if they don't show up any moreTell people if they are not a good fit. Most Stanford students aren't actually fit for solar car, and you aren't doing them any favors by letting them hang on.Tell people they are part of a special group of peopleMake deadlines even harder and make sure people realize that they are letting their teammates downOnly invest in people who will return value to the team. If they can't produce then we will take them off the listPeople want to feel like they are being listened to and that they are making a differenceAvoid applying extreme time constraints. Competitive pressure with coworkers can also be a killer. Instead, use positive pressure in the form of a challenging assignment that's tough but that the team has the skills to solve.Ease people into changeDesign manufacturing work spaces to be open and flexible like McLaren. Open office spaces may hamper individual creativity in the sense that people can't spend time alone to focus on a problem. They need a space they can go to to not be interrupted. Open spaces vs cubicles should be up to the employees. Ask what they prefer. If you have motivated and talented people they should be encouraged to work alone when creativity or efficiency is the highest priority. (Except when online brainstorming)
+* http://www.wimp.com/creativityaffected/If people say they just want to do fun projects then say they are being wasteful and selfishMaintain team visionMake sure new members know how hard older members workYou need think about respect, communication, assertiveness, and optimism Think about hierarchy of needs: physiological and safety may not matter. Social (friendship etc), esteem (self-respect, autonomy, achievement, status, recognition, attention), self-actualization( the drive to become what one is capable of becoming).Task significance, social interaction, knowledge of results, responsibility for resultsHave end of the year awards. Stanford students need rewardStanford students strive for success in the classroom, success in extracurricular, and success in social life. There are time conflicts between these.Have team leads let you know who is good and who needs to be offered additional responsibility on the team. Then it is sub team leads job to keep. Those people. I am going to be really disturbed if I see that people that we want to keep have started leaving your areaYour job is to make people be successfulHave team leads present what they have done the last weekPay attention to when people come in sadDon't assume that everyone is a dedicated to solar car as you areHold people accountable to the goals of their project. If they say it will help us collect data, then they should produce a data report at the end. If they say it will increase efficiency, then they should produce tests that show whether or not there was a statistically significant change. If the change was negative then revert back to the old. Have face to face meetings Missing meetings and missing deadlines is an indication that people aren't unified with overall visionBe willing to fire people from the team or just forget about them if they don't show up any moreTell people if they are not a good fit. Most Stanford students aren't actually fit for solar car, and you aren't doing them any favors by letting them hang on.Tell people they are part of a special group of peopleMake deadlines even harder and make sure people realize that they are letting their teammates downOnly invest in people who will return value to the team. If they can't produce then we will take them off the listPeople want to feel like they are being listened to and that they are making a differenceAvoid applying extreme time constraints. Competitive pressure with coworkers can also be a killer. Instead, use positive pressure in the form of a challenging assignment that's tough but that the team has the skills to solve.Ease people into changeDesign manufacturing work spaces to be open and flexible like McLaren. Open office spaces may hamper individual creativity in the sense that people can't spend time alone to focus on a problem. They need a space they can go to to not be interrupted. Open spaces vs cubicles should be up to the employees. Ask what they prefer. If you have motivated and talented people they should be encouraged to work alone when creativity or efficiency is the highest priority. (Except when online brainstorming)
 * If people say they just want to do fun projects then say they are being wasteful and selfish
 * Maintain team vision
 * Make sure new members know how hard older members work
-* You need think about respect, communication, assertiveness, and optimism 
+* You need think about respect, communication, assertiveness, and optimism&#x20;
 * Think about hierarchy of needs: physiological and safety may not matter. Social (friendship etc), esteem (self-respect, autonomy, achievement, status, recognition, attention), self-actualization( the drive to become what one is capable of becoming).
 * Task significance, social interaction, knowledge of results, responsibility for results
 * Have end of the year awards. Stanford students need reward
@@ -376,8 +375,8 @@ People
 * Have team leads present what they have done the last week
 * Pay attention to when people come in sad
 * Don't assume that everyone is a dedicated to solar car as you are
-* Hold people accountable to the goals of their project. If they say it will help us collect data, then they should produce a data report at the end. If they say it will increase efficiency, then they should produce tests that show whether or not there was a statistically significant change. If the change was negative then revert back to the old. 
-* Have face to face meetings 
+* Hold people accountable to the goals of their project. If they say it will help us collect data, then they should produce a data report at the end. If they say it will increase efficiency, then they should produce tests that show whether or not there was a statistically significant change. If the change was negative then revert back to the old.&#x20;
+* Have face to face meetings&#x20;
 * Missing meetings and missing deadlines is an indication that people aren't unified with overall vision
 * Be willing to fire people from the team or just forget about them if they don't show up any more
 * Tell people if they are not a good fit. Most Stanford students aren't actually fit for solar car, and you aren't doing them any favors by letting them hang on.
@@ -387,7 +386,7 @@ People
 * People want to feel like they are being listened to and that they are making a difference
 * Avoid applying extreme time constraints. Competitive pressure with coworkers can also be a killer. Instead, use positive pressure in the form of a challenging assignment that's tough but that the team has the skills to solve.
 * Ease people into change
-* Design manufacturing work spaces to be open and flexible like McLaren. Open office spaces may hamper individual creativity in the sense that people can't spend time alone to focus on a problem. They need a space they can go to to not be interrupted. Open spaces vs cubicles should be up to the employees. Ask what they prefer. 
+* Design manufacturing work spaces to be open and flexible like McLaren. Open office spaces may hamper individual creativity in the sense that people can't spend time alone to focus on a problem. They need a space they can go to to not be interrupted. Open spaces vs cubicles should be up to the employees. Ask what they prefer.&#x20;
 * If you have motivated and talented people they should be encouraged to work alone when creativity or efficiency is the highest priority. (Except when online brainstorming)
 * If you have to criticize someone use "and" instead of " you did this, 'but' you didn't do that).
 
@@ -398,7 +397,7 @@ http://www.wimp.com/creativityaffected/
 * If people say they just want to do fun projects then say they are being wasteful and selfish
 * Maintain team vision
 * Make sure new members know how hard older members work
-* You need think about respect, communication, assertiveness, and optimism 
+* You need think about respect, communication, assertiveness, and optimism&#x20;
 * Think about hierarchy of needs: physiological and safety may not matter. Social (friendship etc), esteem (self-respect, autonomy, achievement, status, recognition, attention), self-actualization( the drive to become what one is capable of becoming).
 * Task significance, social interaction, knowledge of results, responsibility for results
 * Have end of the year awards. Stanford students need reward
@@ -408,8 +407,8 @@ http://www.wimp.com/creativityaffected/
 * Have team leads present what they have done the last week
 * Pay attention to when people come in sad
 * Don't assume that everyone is a dedicated to solar car as you are
-* Hold people accountable to the goals of their project. If they say it will help us collect data, then they should produce a data report at the end. If they say it will increase efficiency, then they should produce tests that show whether or not there was a statistically significant change. If the change was negative then revert back to the old. 
-* Have face to face meetings 
+* Hold people accountable to the goals of their project. If they say it will help us collect data, then they should produce a data report at the end. If they say it will increase efficiency, then they should produce tests that show whether or not there was a statistically significant change. If the change was negative then revert back to the old.&#x20;
+* Have face to face meetings&#x20;
 * Missing meetings and missing deadlines is an indication that people aren't unified with overall vision
 * Be willing to fire people from the team or just forget about them if they don't show up any more
 * Tell people if they are not a good fit. Most Stanford students aren't actually fit for solar car, and you aren't doing them any favors by letting them hang on.
@@ -419,7 +418,7 @@ http://www.wimp.com/creativityaffected/
 * People want to feel like they are being listened to and that they are making a difference
 * Avoid applying extreme time constraints. Competitive pressure with coworkers can also be a killer. Instead, use positive pressure in the form of a challenging assignment that's tough but that the team has the skills to solve.
 * Ease people into change
-* Design manufacturing work spaces to be open and flexible like McLaren. Open office spaces may hamper individual creativity in the sense that people can't spend time alone to focus on a problem. They need a space they can go to to not be interrupted. Open spaces vs cubicles should be up to the employees. Ask what they prefer. 
+* Design manufacturing work spaces to be open and flexible like McLaren. Open office spaces may hamper individual creativity in the sense that people can't spend time alone to focus on a problem. They need a space they can go to to not be interrupted. Open spaces vs cubicles should be up to the employees. Ask what they prefer.&#x20;
 * If you have motivated and talented people they should be encouraged to work alone when creativity or efficiency is the highest priority. (Except when online brainstorming)
 
 If people say they just want to do fun projects then say they are being wasteful and selfish
@@ -428,7 +427,7 @@ Maintain team vision
 
 Make sure new members know how hard older members work
 
-You need think about respect, communication, assertiveness, and optimism 
+You need think about respect, communication, assertiveness, and optimism&#x20;
 
 Think about hierarchy of needs: physiological and safety may not matter. Social (friendship etc), esteem (self-respect, autonomy, achievement, status, recognition, attention), self-actualization( the drive to become what one is capable of becoming).
 
@@ -448,9 +447,9 @@ Pay attention to when people come in sad
 
 Don't assume that everyone is a dedicated to solar car as you are
 
-Hold people accountable to the goals of their project. If they say it will help us collect data, then they should produce a data report at the end. If they say it will increase efficiency, then they should produce tests that show whether or not there was a statistically significant change. If the change was negative then revert back to the old. 
+Hold people accountable to the goals of their project. If they say it will help us collect data, then they should produce a data report at the end. If they say it will increase efficiency, then they should produce tests that show whether or not there was a statistically significant change. If the change was negative then revert back to the old.&#x20;
 
-Have face to face meetings 
+Have face to face meetings&#x20;
 
 Missing meetings and missing deadlines is an indication that people aren't unified with overall vision
 
@@ -470,9 +469,8 @@ Avoid applying extreme time constraints. Competitive pressure with coworkers can
 
 Ease people into change
 
-Design manufacturing work spaces to be open and flexible like McLaren. Open office spaces may hamper individual creativity in the sense that people can't spend time alone to focus on a problem. They need a space they can go to to not be interrupted. Open spaces vs cubicles should be up to the employees. Ask what they prefer. 
+Design manufacturing work spaces to be open and flexible like McLaren. Open office spaces may hamper individual creativity in the sense that people can't spend time alone to focus on a problem. They need a space they can go to to not be interrupted. Open spaces vs cubicles should be up to the employees. Ask what they prefer.&#x20;
 
 If you have motivated and talented people they should be encouraged to work alone when creativity or efficiency is the highest priority. (Except when online brainstorming)
 
 If you have to criticize someone use "and" instead of " you did this, 'but' you didn't do that).
-

@@ -1,16 +1,18 @@
-# SSCP - Getting Started with Altium
+# getting-started-with-altium
 
-# Getting Started with Altium
+## SSCP - Getting Started with Altium
+
+## Getting Started with Altium
 
 After designing and modeling a circuit, making the schematic in CAD is somewhat straight forward. The only difficulty is using the CAD tool. For schematics and PCBs, we use Altium. It's power, versatility, and use in industry will aid you well, but getting started can be a little overwhelming. When it comes to learning anything the web is your friend and you can find the information you need, but this page should save you a bit of searching with tutorial videos. While in the design process and learning how to use Altium, make sure your design is a good one with this Checklist.
 
 [find the information you need](http://www.altium.com/training/en/training-videos.cfm#,0)
 
-[ Checklist](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
+[Checklist](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines/)
 
 Just in case you didn't know:
 
-What in the world is a schematic? 
+What in the world is a schematic?&#x20;
 
 [What in the world is a schematic?](http://www.youtube.com/watch?v=9cps7Q_IrX0)
 
@@ -20,19 +22,17 @@ What is a PCB?
 
 How to install our libraries.
 
-[How to install our libraries.](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/installing-altium-libraries)
+[How to install our libraries.](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/installing-altium-libraries/)
 
 Overall Tutorial from Altium wiki
 
 [Overall Tutorial from Altium wiki](http://wiki.altium.com/display/ADOH/Tutorial+-+Getting+Started+with+PCB+Design)
 
-### Make a schematic:
-
-[](#h.yxsfo8l44rpr)
+#### Make a schematic:
 
 Altium schematics for beginners (ignore the library aspect of the video, we have our own libraries and will teach you how to work with them)
 
-[Altium schematics for beginners](http://www.youtube.com/watch?v=Y7PY1nBtImk&feature=plcp&context=C31fd84fUDOEgsToPDskLZW-XWqlLXYxZZ7xqrukJq)
+[Altium schematics for beginners](http://www.youtube.com/watch?v=Y7PY1nBtImk\&feature=plcp\&context=C31fd84fUDOEgsToPDskLZW-XWqlLXYxZZ7xqrukJq)
 
 A different perspective (this is part one, check out the other parts)
 
@@ -50,9 +50,7 @@ Setting trace width in the schematic (used mainly for high voltage)
 
 [Setting trace width in the schematic](http://videos.altium.com/trainingcenter/player.html?ep=1017)
 
-### Navigate a schematic:
-
-[](#h.4d3clzc92umo)
+#### Navigate a schematic:
 
 From the altium website
 
@@ -60,15 +58,13 @@ From the altium website
 
 From youtube
 
-[From youtube](http://www.youtube.com/watch?v=hew6bPADJZ0&feature=plcp&context=C3afe0cfUDOEgsToPDskIfEoCAW4Ulp0UCV2N9eXg1)
+[From youtube](http://www.youtube.com/watch?v=hew6bPADJZ0\&feature=plcp\&context=C3afe0cfUDOEgsToPDskIfEoCAW4Ulp0UCV2N9eXg1)
 
-### Create a component symbol:
-
-[](#h.7ttflk19pnak)
+#### Create a component symbol:
 
 Follow the Component library style guide:
 
-[ Component library style guide](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/component-library-style-guide)
+[Component library style guide](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/component-library-style-guide/)
 
 Making a schematic Symbol
 
@@ -88,19 +84,17 @@ Connecting a schematic to a footprint
 
 A list of the rough steps is here.
 
-[ here](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/making-schematic-symbol-steps)
+[here](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-fundamentals/making-schematic-symbol-steps/)
 
-### Make the PCB: 
-
-[](#h.jz4qbewxouyf)
+#### Make the PCB:&#x20;
 
 (don't forget to look at the Checklist)
 
-[ Checklist](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines)
+[Checklist](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-administation/board-design-guidelines/)
 
 A good overview
 
-[A good overview](http://www.youtube.com/watch?v=9u0Fzpb0yZU&feature=plcp&context=C30e8116UDOEgsToPDskJ09L5VakLX6tzsWWRkOl9p)
+[A good overview](http://www.youtube.com/watch?v=9u0Fzpb0yZU\&feature=plcp\&context=C30e8116UDOEgsToPDskJ09L5VakLX6tzsWWRkOl9p)
 
 Making the board outline (you should ask what the specs for your footprint are)
 
@@ -114,7 +108,7 @@ Making a power plane (polygon) or Youtube (Making a ground plane is a great plac
 
 [Making a power plane (polygon)](http://videos.altium.com/trainingcenter/player.html?ep=1009)
 
-[Youtube](http://www.youtube.com/watch?v=pg6l02Rinos&feature=plcp&context=C30b1cc7UDOEgsToPDskK8YnGwyQSzd_wMZgyXo6Dg)
+[Youtube](http://www.youtube.com/watch?v=pg6l02Rinos\&feature=plcp\&context=C30b1cc7UDOEgsToPDskK8YnGwyQSzd_wMZgyXo6Dg)
 
 How to route components
 
@@ -124,9 +118,7 @@ Route Multiple Traces
 
 [Route Multiple Traces](http://videos.altium.com/trainingcenter/player.html?ep=1010)
 
-### Other + Tips:
-
-[](#h.s3ladzl6gzvw)
+#### Other + Tips:
 
 Multiple Layer Boards:
 
@@ -136,7 +128,7 @@ From altium website (Do NOT use blind or buried vias!)
 
 From youtube
 
-[From youtube](http://www.youtube.com/watch?v=OaefGeQrRkA&feature=plcp&context=C36cef86UDOEgsToPDskIX1Hn1oBMeuZ8SFzqD8uv1)
+[From youtube](http://www.youtube.com/watch?v=OaefGeQrRkA\&feature=plcp\&context=C36cef86UDOEgsToPDskIX1Hn1oBMeuZ8SFzqD8uv1)
 
 Finally Done?
 
@@ -147,4 +139,3 @@ Create a Bill of Materials
 Basic Tips and Keyboard Shortcuts (Press Shift F1 for a full list of keyboard shortcuts pertaining to your current action)
 
 [Basic Tips and Keyboard Shortcuts](http://www.johnstowers.co.nz/blog/index.php/reference/altium-designer-tips/)
-

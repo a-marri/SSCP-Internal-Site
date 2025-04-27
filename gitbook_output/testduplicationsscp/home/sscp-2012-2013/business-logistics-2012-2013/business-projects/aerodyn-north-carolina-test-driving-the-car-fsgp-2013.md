@@ -1,6 +1,8 @@
-# SSCP - Aerodyn, North Carolina, Test Driving The Car, FSGP 2013
+# aerodyn-north-carolina-test-driving-the-car-fsgp-2013
 
-# Aerodyn, North Carolina, Test Driving The Car, FSGP 2013
+## SSCP - Aerodyn, North Carolina, Test Driving The Car, FSGP 2013
+
+## Aerodyn, North Carolina, Test Driving The Car, FSGP 2013
 
 Glossary of Aero Coefficients
 
@@ -34,7 +36,6 @@ Notes about Excel File
 * Coefficients are calculated assuming a 7.3ft^2 area (so we could compare directly to Xenith when in the wind tunnel)
 * Anemometer and duct values should be ignored: they are for NASCAR teams to use when they instrument parts of their cars
 * Mapping of floor pressure sensors is shown in an attached document.
-
 * Use the "Stanford Luminos 16 2013.xlsx" file, not the one in the .zip. The one in the .zip is saved as a flat CSV (no formulas)
 * Force values are calculated from the speed entered at the top of the sheet.
 * Coefficients are calculated assuming a 7.3ft^2 area (so we could compare directly to Xenith when in the wind tunnel)
@@ -55,13 +56,9 @@ Mapping of floor pressure sensors is shown in an attached document.
 
 ![](../../../../../assets/image_0a73eb8160.png)
 
-[](https://docs.google.com/spreadsheets/d/0AmGjGoaxVlX0dFBINEpVcnQ2eFE0WjJpalNqdWhpRWc/edit)
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](aerodyn-north-carolina-test-driving-the-car-fsgp-2013.md)
 
 ![](../../../../../assets/sheets_32dp.png)
 
@@ -86,11 +83,11 @@ Right light 16.75
 
 Notes
 
-Lift/drag (a measure went up with nonzero yaw 
+Lift/drag (a measure went up with nonzero yaw&#x20;
 
 The map of the pressure gauges on the floor matched CFD. High pressure in front of nose of car. low pressure between front fairings
 
-drag coefficient * times q * times area = drag force
+drag coefficient \* times q \* times area = drag force
 
 Coefficients are a function of input from sensors
 
@@ -102,7 +99,7 @@ The speed that the tunnel is at is less than the speed that we set the test at. 
 
 If you take the pressure sensors data and arrange them into a color coded grid you can get a pressure distribution of the car on the ground surface
 
- 
+&#x20;
 
 ![](../../../../../assets/image_d7f9c36907.png)
 
@@ -138,9 +135,9 @@ The new timeline gives us less time on the road driving the car, but it allows u
 
 If I make additional schedule changes before we get to North Carolina I'll put the on the team calendar (or this link if the first one is private).
 
-[ team calendar](https://www.google.com/calendar/b/2/render?cid=stanfordsolar%40gmail.com)
+[team calendar](https://www.google.com/calendar/b/2/render?cid=stanfordsolar%40gmail.com)
 
-[ link](/stanford.edu/testduplicationsscp/home/administrative-files/sscp-calendars)
+[link](../../../../../../stanford.edu/testduplicationsscp/home/administrative-files/sscp-calendars/)
 
 Two additional packing notes:
 
@@ -150,13 +147,13 @@ Two additional packing notes:
 
 -Wesley
 
---
+\--
 
 T. Wesley Ford
 
 NEW EMAIL: twsford@gmail.com
 
-[ twsford@gmail.com](mailto:twsford@gmail.com)
+[twsford@gmail.com](mailto:twsford@gmail.com)
 
 650-387-6374
 
@@ -200,19 +197,19 @@ There are still some unknowns regarding the delivery of parts, the CNC instal, a
 
 I'll be back on campus Friday night, so I can do a spot check to see if you all missed any items to pack for the trip, but you all need to do the majority of packing earlier in the week. We need supplies for the wind tunnel session and car repairs for the drive back. I'll start a packing list here.
 
-[ here.](https://docs.google.com/spreadsheet/ccc?key=0AmGjGoaxVlX0dFBINEpVcnQ2eFE0WjJpalNqdWhpRWc#gid=0)
+[here.](https://docs.google.com/spreadsheet/ccc?key=0AmGjGoaxVlX0dFBINEpVcnQ2eFE0WjJpalNqdWhpRWc#gid=0)
 
 Let me know if you have any questions about the trip. I'll send updates throughout the week.
 
 -Wesley
 
---
+\--
 
 T. Wesley Ford
 
 NEW EMAIL: twsford@gmail.com
 
-[ twsford@gmail.com](mailto:twsford@gmail.com)
+[twsford@gmail.com](mailto:twsford@gmail.com)
 
 650-387-6374
 
@@ -220,19 +217,19 @@ PO Box 14243
 
 Stanford, CA 94309
 
--------- Original Message --------
+\-------- Original Message --------
 
 Here is the last reminder to let me know if you plan to come to Aerodyn and FSGP in Texas. I'll start searching for hotel rooms in Charlotte and Austin Wednesday evening.
 
 -Wesley
 
---
+\--
 
 T. Wesley Ford
 
 NEW EMAIL: twsford@gmail.com
 
-[ twsford@gmail.com](mailto:twsford@gmail.com)
+[twsford@gmail.com](mailto:twsford@gmail.com)
 
 650-387-6374
 
@@ -246,35 +243,35 @@ Here is a reminder to sign up for the Aerodyn trip if you haven't already.
 
 We will try to stop by FSGP at the Circuit of the Americas in Austin Texas on our way back. FSGP is a solar car race that happens in the US. The Circuit of the Americas is a brand spanking new racetrack in Austin and the newest addition to the F1 Grands Prix circuit.
 
-[ FSGP](http://americansolarchallenge.org)
+[FSGP](http://americansolarchallenge.org)
 
-[ Circuit of the Americas](http://circuitoftheamericas.com)
+[Circuit of the Americas](http://circuitoftheamericas.com)
 
 Our team won't be racing in FSGP since our car doesn't qualify, but it will be a great chance to see a solar car race if you haven't seen one before or if you are going to miss the World Solar Challenge this fall.
 
-You've probably seen this: http://www.youtube.com/watch?v=0tEHQJn_hxo
+You've probably seen this: http://www.youtube.com/watch?v=0tEHQJn\_hxo
 
-[ http://www.youtube.com/watch?v=0tEHQJn_hxo](http://www.youtube.com/watch?v=0tEHQJn_hxo)
+[http://www.youtube.com/watch?v=0tEHQJn\_hxo](http://www.youtube.com/watch?v=0tEHQJn_hxo)
 
 Now you can see it yourself with tarmac: http://www.youtube.com/watch?v=S5gLoxNE7ms
 
-[ http://www.youtube.com/watch?v=S5gLoxNE7ms](http://www.youtube.com/watch?v=S5gLoxNE7ms)
+[http://www.youtube.com/watch?v=S5gLoxNE7ms](http://www.youtube.com/watch?v=S5gLoxNE7ms)
 
-Horsepower--, so it will be more like this: http://www.youtube.com/watch?v=1MOe_WPJq08  and this http://www.youtube.com/watch?v=9rkFlyFRcQw (I think I know that guy)
+Horsepower--, so it will be more like this: http://www.youtube.com/watch?v=1MOe\_WPJq08  and this http://www.youtube.com/watch?v=9rkFlyFRcQw (I think I know that guy)
 
-[ http://www.youtube.com/watch?v=1MOe_WPJq08](http://www.youtube.com/watch?v=1MOe_WPJq08)
+[http://www.youtube.com/watch?v=1MOe\_WPJq08](http://www.youtube.com/watch?v=1MOe_WPJq08)
 
-[ http://www.youtube.com/watch?v=9rkFlyFRcQw](http://www.youtube.com/watch?v=9rkFlyFRcQw)
+[http://www.youtube.com/watch?v=9rkFlyFRcQw](http://www.youtube.com/watch?v=9rkFlyFRcQw)
 
 PS: Thanks to Greg for paying attention to the FSGP schedule.
 
---
+\--
 
 T. Wesley Ford
 
 NEW EMAIL: twsford@gmail.com
 
-[ twsford@gmail.com](mailto:twsford@gmail.com)
+[twsford@gmail.com](mailto:twsford@gmail.com)
 
 650-387-6374
 
@@ -298,7 +295,7 @@ June 14: Drive from Bakersfield to Albuquerque (13 hours)
 
 June 15: Drive from Albuquerque to Fort Smith (12 hours)
 
-June 16: Drive from Fort Smith to Knoxville  (11 hours). Graduation ceremony for Seniors
+June 16: Drive from Fort Smith to Knoxville  (11 hours). Graduation ceremony for Seniors
 
 June 17: Drive from Knoxville to Charlotte (4 hours). Denis, Wesley, and any other graduating seniors fly from SFO to CLT
 
@@ -318,7 +315,6 @@ Here are some additional notes:
 * The team will be staying at America's Best Value Inn near the Charlotte Airport or a similar hotel. I'll try to get a place with a free airport shuttle and possibly free breakfast
 * The team will probably buy a couple of dinners along the trip, but students will be responsible for most of the meal expenses. I'm going to try to get Gerdes to start paying the stipend receiving students during this trip, so you have plenty of funds to buy your own meals and snacks.
 * The team will pay for lodging in Charlotte. During the drives lodging is up to the team members. If enough people want a roof over their head you can book hotel rooms, but the team probably can't pay for them. Otherwise we will be car camping.
-
 * If you plan to go and you want to walk through the graduation ceremony please let me know. You'll have to buy yourself a plane ticket to get yourself to Charlotte. If you want to be on the same flight as me I can give you my travel plans
 * Please let me know if you plan to come on the trip
 * The team will be staying at America's Best Value Inn near the Charlotte Airport or a similar hotel. I'll try to get a place with a free airport shuttle and possibly free breakfast
@@ -343,13 +339,13 @@ TLDR: We are going to North Carolina to use a wind tunnel. Leaving on June 13th.
 
 -Wesley
 
---
+\--
 
 T. Wesley Ford
 
 NEW EMAIL: twsford@gmail.com
 
-[ twsford@gmail.com](mailto:twsford@gmail.com)
+[twsford@gmail.com](mailto:twsford@gmail.com)
 
 650-387-6374
 
@@ -357,21 +353,14 @@ PO Box 14243
 
 Stanford, CA 94309
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](aerodyn-north-carolina-test-driving-the-car-fsgp-2013.md)
 
 ![](../../../../../assets/image_4834fdc116.png)
 
 ![](../../../../../assets/image_109c51aa22.png)
 
-[](https://drive.google.com/folderview?id=1awBFq11f1kmokreQ2HPO9R5-sVSKdB8X)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1awBFq11f1kmokreQ2HPO9R5-sVSKdB8X#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1awBFq11f1kmokreQ2HPO9R5-sVSKdB8X#list" frameborder="0"></iframe>
-

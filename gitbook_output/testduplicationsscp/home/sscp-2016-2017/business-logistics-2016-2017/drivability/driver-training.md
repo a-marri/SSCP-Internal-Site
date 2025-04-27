@@ -1,10 +1,12 @@
-# SSCP - Driver Training
+# driver-training
 
-# Driver Training
+## SSCP - Driver Training
+
+## Driver Training
 
 PLAN
 
-Autocross School & Autocross Fun Run: February 25-26 
+Autocross School & Autocross Fun Run: February 25-26&#x20;
 
 We were originally going to have you guys do a car control clinic before autocross, but this is just the way the dates worked out on the BMW CCA calendar. This is a 2 day event geared towards people who have no experience with autocross, which is basically a cone course in a big parking lot that makes you really focus on vehicle handling rather than just going fast. I did this school last year and it was amazing. Plan on driving down the Friday evening prior and returning Sunday evening.
 
@@ -26,7 +28,7 @@ Housing
 
 From Erina about DDL's driver training program:
 
-We have an amazing relationship with the track manager. 
+We have an amazing relationship with the track manager.&#x20;
 
 He donates his time to train everyone. So the cost is the track rental and vehicle rentals.
 
@@ -54,9 +56,9 @@ http://cityrentacar.com/fleet-convertibles-fun-cars.html
 
 [http://cityrentacar.com/fleet-convertibles-fun-cars.html](http://cityrentacar.com/fleet-convertibles-fun-cars.html)
 
-https://www.google.com/search?q=Sunbelt+Car+Rental&rlz=1C5CHFA_enUS726US728&oq=Sunbelt+Car+Rental&aqs=chrome..69i57j0l5.303j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=Sunbelt+Car+Rental\&rlz=1C5CHFA\_enUS726US728\&oq=Sunbelt+Car+Rental\&aqs=chrome..69i57j0l5.303j0j7\&sourceid=chrome\&ie=UTF-8
 
-[https://www.google.com/search?q=Sunbelt+Car+Rental&rlz=1C5CHFA_enUS726US728&oq=Sunbelt+Car+Rental&aqs=chrome..69i57j0l5.303j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=Sunbelt+Car+Rental&rlz=1C5CHFA_enUS726US728&oq=Sunbelt+Car+Rental&aqs=chrome..69i57j0l5.303j0j7&sourceid=chrome&ie=UTF-8)
+[https://www.google.com/search?q=Sunbelt+Car+Rental\&rlz=1C5CHFA\_enUS726US728\&oq=Sunbelt+Car+Rental\&aqs=chrome..69i57j0l5.303j0j7\&sourceid=chrome\&ie=UTF-8](https://www.google.com/search?q=Sunbelt+Car+Rental\&rlz=1C5CHFA_enUS726US728\&oq=Sunbelt+Car+Rental\&aqs=chrome..69i57j0l5.303j0j7\&sourceid=chrome\&ie=UTF-8)
 
 Rachel:
 
@@ -74,11 +76,6 @@ email address: rabril@stanford.edu
 
 password: s0lar.p0w3r
 
-[](https://drive.google.com/folderview?id=1oCwBSFIu4pwr29Y44eYsycm9MlL4Safp)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1oCwBSFIu4pwr29Y44eYsycm9MlL4Safp#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1oCwBSFIu4pwr29Y44eYsycm9MlL4Safp#list" frameborder="0"></iframe>
-

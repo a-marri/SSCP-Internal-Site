@@ -1,16 +1,14 @@
-# SSCP - Fasteners and Bolts
+# fasteners-and-bolts
 
-# Fasteners and Bolts
+## SSCP - Fasteners and Bolts
 
-## Fastener Selection Matrix
+## Fasteners and Bolts
 
-[](#h.9ljxepuvmhhp)
+### Fastener Selection Matrix
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](fasteners-and-bolts.md)
 
 Sourcing Specific Bolts
 
@@ -21,36 +19,27 @@ Sourcing Specific Bolts
 
 10-32 1" aerospace bolts, 12pt bolts. 500 pcs listed on eBay - http://r.ebay.com/LnTor5.
 
-## Technical Guides
+### Technical Guides
 
-[](#h.2ck8ihtsqwyl)
-
-### NASA Bolt Manual
-
-[](#h.fgzyb7qdhjis)
+#### NASA Bolt Manual
 
 Required reading for anyone doing calculations for fastener design: http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19900009424.pdf
 
 [http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19900009424.pdf](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19900009424.pdf)
 
-### How to secure fasteners 
-
-[](#h.11hd8pxz15tk)
+#### How to secure fasteners&#x20;
 
 Excellent guide about when to secure fasteners with loctite or other anti-backout techniques: http://www.bossard.com/en/application-engineering/technical-resources/securely-fastened-connections.aspx
 
 [http://www.bossard.com/en/application-engineering/technical-resources/securely-fastened-connections.aspx](http://www.bossard.com/en/application-engineering/technical-resources/securely-fastened-connections.aspx)
 
-### Pro Tips from NHS
-
-[](#h.gocwqk3lst6i)
+#### Pro Tips from NHS
 
 * Use Torx drive whenever possible even to the extent of forcing the design. You'll thank yourself later when you don't have to drill out a stripped bolt.Use high strength bolts not only because of the needed loads weaker bolts are easily damaged by repeated removal.Throw away bolts after each use. The lubricious coating on most bolts is destroyed after the first installation so the torque properties will not be as consistent.Throw away distorted thread nuts after each use.
 * Use Torx drive whenever possible even to the extent of forcing the design. You'll thank yourself later when you don't have to drill out a stripped bolt.
 * Use high strength bolts not only because of the needed loads weaker bolts are easily damaged by repeated removal.
 * Throw away bolts after each use. The lubricious coating on most bolts is destroyed after the first installation so the torque properties will not be as consistent.
 * Throw away distorted thread nuts after each use.
-
 * Use Torx drive whenever possible even to the extent of forcing the design. You'll thank yourself later when you don't have to drill out a stripped bolt.
 * Use high strength bolts not only because of the needed loads weaker bolts are easily damaged by repeated removal.
 * Throw away bolts after each use. The lubricious coating on most bolts is destroyed after the first installation so the torque properties will not be as consistent.
@@ -84,4 +73,3 @@ Never use stainless bolts unless the application requires it (cosmetic or non-ma
 Never use black oxide bolts - they corrode and do not store well in the salty (ocean shipping) and humid environments of solar cars.
 
 Do not use set screws ever. They may only be used as a secondary locking technique - another feature must constrain the rotation of the shaft.
-

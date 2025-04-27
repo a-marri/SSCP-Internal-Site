@@ -1,14 +1,16 @@
-# SSCP - Luminos Design Review with Dorian 2013
+# luminos-design-review-with-dorian-2013
 
-# Luminos Design Review with Dorian 2013
+## SSCP - Luminos Design Review with Dorian 2013
+
+## Luminos Design Review with Dorian 2013
 
 Send him race rules by PDF
 
 Make sure no grease on wheels
 
-Make sure all blind nuts are lock tight 
+Make sure all blind nuts are lock tight&#x20;
 
-Make backup suspension pieces. Bolt on aluminum. 
+Make backup suspension pieces. Bolt on aluminum.&#x20;
 
 Check the bearing seals
 
@@ -22,13 +24,13 @@ Bad molex on tritium
 
 Bad housings in tritium
 
-Steering column strength on pillow bearing 
+Steering column strength on pillow bearing&#x20;
 
-FSAE requires 30% of cells temp sense 
+FSAE requires 30% of cells temp sense&#x20;
 
-Ensure that battery bars are all well tightened 
+Ensure that battery bars are all well tightened&#x20;
 
-Velvils  need a washer below them. Should not be fully tightened to the point that Velcro is flat. Should be able to Olsen a half turn with noticeable force
+Velvils  need a washer below them. Should not be fully tightened to the point that Velcro is flat. Should be able to Olsen a half turn with noticeable force
 
 A locking nut joining modules would be good
 
@@ -36,7 +38,7 @@ Don't use nylon lock but if pack is too hot
 
 Doesn't like split washers
 
-Sometimes nylock nut on top of regular nut. 
+Sometimes nylock nut on top of regular nut.&#x20;
 
 Test resistance on joints with four line resistance
 
@@ -44,7 +46,7 @@ Set torque specs and torque putty in battery pack
 
 All tesla HV joints are micro ohm tested
 
-If you know what temp rise should be you can measure temp rise with current 
+If you know what temp rise should be you can measure temp rise with current&#x20;
 
 Torque bolts to failure if you don't know what torque to use
 
@@ -60,7 +62,7 @@ Product by binder. Will measure isolation between high voltage low voltage and c
 
 Check isolation before closing contractors
 
-Everything conductive carbon needs to have max if 5 ohm resistance to ground so if there is ever a short you will never create a path. Chassis should. 
+Everything conductive carbon needs to have max if 5 ohm resistance to ground so if there is ever a short you will never create a path. Chassis should.&#x20;
 
 Bad that chassis is capacitively connected to motors
 
@@ -70,7 +72,7 @@ Use y caps to hold chassis voltage in the middle of high and low
 
 Since chassis is 120v we may be okay. Over 40v is somewhat dangerous. You can get burns with arcing
 
-A DC shock you feel when you grab and when. You let go. As long as not during 5% critical cycle of heart best okay.  AC you will always shock heart during bad phase of cycle
+A DC shock you feel when you grab and when. You let go. As long as not during 5% critical cycle of heart best okay.  AC you will always shock heart during bad phase of cycle
 
 DC had no let go current. AC has a let concurrent problem.
 
@@ -84,7 +86,7 @@ You should be able to drop a screwdriver in the pack. Have individual isolators 
 
 Have a gutter under the door seam to channel water away from the pack
 
-Vinyl or paint the top of the pack 
+Vinyl or paint the top of the pack&#x20;
 
 Water ingress in the pack is bad
 
@@ -92,7 +94,7 @@ No way for the water to get out of the pack
 
 Have a water drain in the pack
 
-You don't want to producer hydrogen and oxygen through electrolysis 
+You don't want to producer hydrogen and oxygen through electrolysis&#x20;
 
 Make sure there is clearance around fasteners for nuts. Never use wrong but size
 
@@ -116,13 +118,8 @@ Watch for condensation on modules
 
 Have backup straps to hold car in
 
-Water protect mppt box 
+Water protect mppt box&#x20;
 
-[](https://drive.google.com/folderview?id=1TS3FS0cU3sjGO9RmBZ2eXtchziLlif1b)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1TS3FS0cU3sjGO9RmBZ2eXtchziLlif1b#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1TS3FS0cU3sjGO9RmBZ2eXtchziLlif1b#list" frameborder="0"></iframe>
-

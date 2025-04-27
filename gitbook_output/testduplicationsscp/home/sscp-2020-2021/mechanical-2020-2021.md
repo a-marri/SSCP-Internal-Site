@@ -1,16 +1,17 @@
-# SSCP - Mechanical 2020-2021
+# mechanical-2020-2021
 
-# Mechanical 2020-2021
+## SSCP - Mechanical 2020-2021
 
- Sub-team Leadership
+## Mechanical 2020-2021
 
- Cameron Haynesworth (Mech. lead)
+&#x20;Sub-team Leadership
 
- Erik Roise (Director of Production)
+&#x20;Cameron Haynesworth (Mech. lead)
 
- Contact
+&#x20;Erik Roise (Director of Production)
+
+&#x20;Contact
 
 chaynes5@stanford.edu
 
 esroise@stanford.edu
-

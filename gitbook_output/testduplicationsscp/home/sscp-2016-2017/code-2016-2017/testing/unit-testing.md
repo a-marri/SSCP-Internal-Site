@@ -1,6 +1,8 @@
-# SSCP - Unit Testing
+# unit-testing
 
-# Unit Testing
+## SSCP - Unit Testing
+
+## Unit Testing
 
 We're using CppUTest (https://github.com/cpputest/cpputest) for unit testing, since we can directly run unit tests for our projects within IAR.
 
@@ -16,25 +18,25 @@ More detailed documentation for IAR projects specifically: https://cpputest.gith
 
 How to create unit tests for a project (note: this assumes that you are writing a unit test for an actual IAR project.)
 
-* Open the original workspace for the project to be tested.While you are in this workspace, go to project -> Create New Project...In the "Create New Project" popup, choose the C++ project with an empty main.cpp file.Make the following changes to the project's options by navigating to Project -> Options:General Options -> Processor Variant -> Device -> Set to STM32F407VGC/C++ Compiler -> Language 1 -> Language = AutoC/C++ Compiler -> Language 1 -> C++ Dialect = C++C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)In the project directory you created, create a tests directory. Add a file AllTests.cpp in this tests directory with the following code:
+* Open the original workspace for the project to be tested.While you are in this workspace, go to project -> Create New Project...In the "Create New Project" popup, choose the C++ project with an empty main.cpp file.Make the following changes to the project's options by navigating to Project -> Options:General Options -> Processor Variant -> Device -> Set to STM32F407VGC/C++ Compiler -> Language 1 -> Language = AutoC/C++ Compiler -> Language 1 -> C++ Dialect = C++C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ\_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)In the project directory you created, create a tests directory. Add a file AllTests.cpp in this tests directory with the following code:
 * Open the original workspace for the project to be tested.
 * While you are in this workspace, go to project -> Create New Project...
 * In the "Create New Project" popup, choose the C++ project with an empty main.cpp file.
-* Make the following changes to the project's options by navigating to Project -> Options:General Options -> Processor Variant -> Device -> Set to STM32F407VGC/C++ Compiler -> Language 1 -> Language = AutoC/C++ Compiler -> Language 1 -> C++ Dialect = C++C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
+* Make the following changes to the project's options by navigating to Project -> Options:General Options -> Processor Variant -> Device -> Set to STM32F407VGC/C++ Compiler -> Language 1 -> Language = AutoC/C++ Compiler -> Language 1 -> C++ Dialect = C++C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ\_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
 * General Options -> Processor Variant -> Device -> Set to STM32F407VG
 * C/C++ Compiler -> Language 1 -> Language = Auto
 * C/C++ Compiler -> Language 1 -> C++ Dialect = C++
-* C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
+* C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ\_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
 * In the project directory you created, create a tests directory. Add a file AllTests.cpp in this tests directory with the following code:
 
 1. Open the original workspace for the project to be tested.
 2. While you are in this workspace, go to project -> Create New Project...
 3. In the "Create New Project" popup, choose the C++ project with an empty main.cpp file.
-4. Make the following changes to the project's options by navigating to Project -> Options:General Options -> Processor Variant -> Device -> Set to STM32F407VGC/C++ Compiler -> Language 1 -> Language = AutoC/C++ Compiler -> Language 1 -> C++ Dialect = C++C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
+4. Make the following changes to the project's options by navigating to Project -> Options:General Options -> Processor Variant -> Device -> Set to STM32F407VGC/C++ Compiler -> Language 1 -> Language = AutoC/C++ Compiler -> Language 1 -> C++ Dialect = C++C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ\_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
 5. General Options -> Processor Variant -> Device -> Set to STM32F407VG
 6. C/C++ Compiler -> Language 1 -> Language = Auto
 7. C/C++ Compiler -> Language 1 -> C++ Dialect = C++
-8. C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
+8. C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ\_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
 9. In the project directory you created, create a tests directory. Add a file AllTests.cpp in this tests directory with the following code:
 
 Open the original workspace for the project to be tested.
@@ -48,7 +50,7 @@ Make the following changes to the project's options by navigating to Project -> 
 1. General Options -> Processor Variant -> Device -> Set to STM32F407VG
 2. C/C++ Compiler -> Language 1 -> Language = Auto
 3. C/C++ Compiler -> Language 1 -> C++ Dialect = C++
-4. C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
+4. C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ\_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
 
 General Options -> Processor Variant -> Device -> Set to STM32F407VG
 
@@ -56,48 +58,46 @@ C/C++ Compiler -> Language 1 -> Language = Auto
 
 C/C++ Compiler -> Language 1 -> C++ Dialect = C++
 
-C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
+C/C++ Compiler -> Preprocessor -> Additional include directories -> Add $PROJ\_DIR$/../lib/cpputest. Add any additional directories for which you need files for testing. (Often, you can just copy the include directories from the desired project to be tested.)
 
 In the project directory you created, create a tests directory. Add a file AllTests.cpp in this tests directory with the following code:
 
-* #include "CppUTest/CommandLineTestRunner.h"int main(int ac, char** av){  const char * av_override[] = { "exe", "-v" }; //turn on verbose mode  //return CommandLineTestRunner::RunAllTests(ac, av);  return CommandLineTestRunner::RunAllTests(2, av_override);}
-* #include "CppUTest/CommandLineTestRunner.h"int main(int ac, char** av){  const char * av_override[] = { "exe", "-v" }; //turn on verbose mode  //return CommandLineTestRunner::RunAllTests(ac, av);  return CommandLineTestRunner::RunAllTests(2, av_override);}
-* #include "CppUTest/CommandLineTestRunner.h"
-* int main(int ac, char** av)
+* \#include "CppUTest/CommandLineTestRunner.h"int main(int ac, char\*\* av){  const char \* av\_override\[] = { "exe", "-v" }; //turn on verbose mode  //return CommandLineTestRunner::RunAllTests(ac, av);  return CommandLineTestRunner::RunAllTests(2, av\_override);}
+* \#include "CppUTest/CommandLineTestRunner.h"int main(int ac, char\*\* av){  const char \* av\_override\[] = { "exe", "-v" }; //turn on verbose mode  //return CommandLineTestRunner::RunAllTests(ac, av);  return CommandLineTestRunner::RunAllTests(2, av\_override);}
+* \#include "CppUTest/CommandLineTestRunner.h"
+* int main(int ac, char\*\* av)
 * {
-*   const char * av_override[] = { "exe", "-v" }; //turn on verbose mode
-*   //return CommandLineTestRunner::RunAllTests(ac, av);
-*   return CommandLineTestRunner::RunAllTests(2, av_override);
+* &#x20; const char \* av\_override\[] = { "exe", "-v" }; //turn on verbose mode
+* &#x20; //return CommandLineTestRunner::RunAllTests(ac, av);
+* &#x20; return CommandLineTestRunner::RunAllTests(2, av\_override);
+* }
+* \#include "CppUTest/CommandLineTestRunner.h"int main(int ac, char\*\* av){  const char \* av\_override\[] = { "exe", "-v" }; //turn on verbose mode  //return CommandLineTestRunner::RunAllTests(ac, av);  return CommandLineTestRunner::RunAllTests(2, av\_override);}
+* \#include "CppUTest/CommandLineTestRunner.h"
+* int main(int ac, char\*\* av)
+* {
+* &#x20; const char \* av\_override\[] = { "exe", "-v" }; //turn on verbose mode
+* &#x20; //return CommandLineTestRunner::RunAllTests(ac, av);
+* &#x20; return CommandLineTestRunner::RunAllTests(2, av\_override);
+* }
+* \#include "CppUTest/CommandLineTestRunner.h"
+* int main(int ac, char\*\* av)
+* {
+* &#x20; const char \* av\_override\[] = { "exe", "-v" }; //turn on verbose mode
+* &#x20; //return CommandLineTestRunner::RunAllTests(ac, av);
+* &#x20; return CommandLineTestRunner::RunAllTests(2, av\_override);
 * }
 
-* #include "CppUTest/CommandLineTestRunner.h"int main(int ac, char** av){  const char * av_override[] = { "exe", "-v" }; //turn on verbose mode  //return CommandLineTestRunner::RunAllTests(ac, av);  return CommandLineTestRunner::RunAllTests(2, av_override);}
-* #include "CppUTest/CommandLineTestRunner.h"
-* int main(int ac, char** av)
-* {
-*   const char * av_override[] = { "exe", "-v" }; //turn on verbose mode
-*   //return CommandLineTestRunner::RunAllTests(ac, av);
-*   return CommandLineTestRunner::RunAllTests(2, av_override);
-* }
+\#include "CppUTest/CommandLineTestRunner.h"
 
-* #include "CppUTest/CommandLineTestRunner.h"
-* int main(int ac, char** av)
-* {
-*   const char * av_override[] = { "exe", "-v" }; //turn on verbose mode
-*   //return CommandLineTestRunner::RunAllTests(ac, av);
-*   return CommandLineTestRunner::RunAllTests(2, av_override);
-* }
-
-#include "CppUTest/CommandLineTestRunner.h"
-
-int main(int ac, char** av)
+int main(int ac, char\*\* av)
 
 {
 
-  const char * av_override[] = { "exe", "-v" }; //turn on verbose mode
+&#x20; const char \* av\_override\[] = { "exe", "-v" }; //turn on verbose mode
 
-  //return CommandLineTestRunner::RunAllTests(ac, av);
+&#x20; //return CommandLineTestRunner::RunAllTests(ac, av);
 
-  return CommandLineTestRunner::RunAllTests(2, av_override);
+&#x20; return CommandLineTestRunner::RunAllTests(2, av\_override);
 
 }
 
@@ -108,90 +108,89 @@ int main(int ac, char** av)
 
 In the tests directory, add cpp files describing each of your tests, using the following format:
 
-* extern "C"{  // Include c files from your project in this block!  // If you don't do this, you will get a mysterious error.}#include "CppUTest/TestHarness.h"TEST_GROUP(FirstTestGroup){  void setup() {    // Put setup code here. The setup code is run before each test,    // and each test runs independently of each other.  }  void teardown() {    // Put teardown code here. The teardown code is run after each test,    // and each test runs independently of each other.  }};TEST(FirstTestGroup, FirstTest){  FAIL("Fail me!");  // Should fail}TEST(FirstTestGroup, SecondTest){  STRCMP_EQUAL("hello", "world");  // Should also fail}
+* extern "C"{  // Include c files from your project in this block!  // If you don't do this, you will get a mysterious error.}#include "CppUTest/TestHarness.h"TEST\_GROUP(FirstTestGroup){  void setup() {    // Put setup code here. The setup code is run before each test,    // and each test runs independently of each other.  }  void teardown() {    // Put teardown code here. The teardown code is run after each test,    // and each test runs independently of each other.  \}};TEST(FirstTestGroup, FirstTest){  FAIL("Fail me!");  // Should fail}TEST(FirstTestGroup, SecondTest){  STRCMP\_EQUAL("hello", "world");  // Should also fail}
 * extern "C"
 * {
-*   // Include c files from your project in this block!
-*   // If you don't do this, you will get a mysterious error.
+* &#x20; // Include c files from your project in this block!
+* &#x20; // If you don't do this, you will get a mysterious error.
 * }
-* #include "CppUTest/TestHarness.h"
-* TEST_GROUP(FirstTestGroup)
+* \#include "CppUTest/TestHarness.h"
+* TEST\_GROUP(FirstTestGroup)
 * {
-*   void setup() {
-*     // Put setup code here. The setup code is run before each test,
-*     // and each test runs independently of each other.
-*   }
-*   void teardown() {
-*     // Put teardown code here. The teardown code is run after each test,
-*     // and each test runs independently of each other.
-*   }
+* &#x20; void setup() {
+* &#x20;   // Put setup code here. The setup code is run before each test,
+* &#x20;   // and each test runs independently of each other.
+* &#x20; }
+* &#x20; void teardown() {
+* &#x20;   // Put teardown code here. The teardown code is run after each test,
+* &#x20;   // and each test runs independently of each other.
+* &#x20; }
 * };
 * TEST(FirstTestGroup, FirstTest)
 * {
-*   FAIL("Fail me!");  // Should fail
+* &#x20; FAIL("Fail me!");  // Should fail
 * }
 * TEST(FirstTestGroup, SecondTest)
 * {
-*   STRCMP_EQUAL("hello", "world");  // Should also fail
+* &#x20; STRCMP\_EQUAL("hello", "world");  // Should also fail
 * }
-
 * extern "C"
 * {
-*   // Include c files from your project in this block!
-*   // If you don't do this, you will get a mysterious error.
+* &#x20; // Include c files from your project in this block!
+* &#x20; // If you don't do this, you will get a mysterious error.
 * }
-* #include "CppUTest/TestHarness.h"
-* TEST_GROUP(FirstTestGroup)
+* \#include "CppUTest/TestHarness.h"
+* TEST\_GROUP(FirstTestGroup)
 * {
-*   void setup() {
-*     // Put setup code here. The setup code is run before each test,
-*     // and each test runs independently of each other.
-*   }
-*   void teardown() {
-*     // Put teardown code here. The teardown code is run after each test,
-*     // and each test runs independently of each other.
-*   }
+* &#x20; void setup() {
+* &#x20;   // Put setup code here. The setup code is run before each test,
+* &#x20;   // and each test runs independently of each other.
+* &#x20; }
+* &#x20; void teardown() {
+* &#x20;   // Put teardown code here. The teardown code is run after each test,
+* &#x20;   // and each test runs independently of each other.
+* &#x20; }
 * };
 * TEST(FirstTestGroup, FirstTest)
 * {
-*   FAIL("Fail me!");  // Should fail
+* &#x20; FAIL("Fail me!");  // Should fail
 * }
 * TEST(FirstTestGroup, SecondTest)
 * {
-*   STRCMP_EQUAL("hello", "world");  // Should also fail
+* &#x20; STRCMP\_EQUAL("hello", "world");  // Should also fail
 * }
 
 extern "C"
 
 {
 
-  // Include c files from your project in this block!
+&#x20; // Include c files from your project in this block!
 
-  // If you don't do this, you will get a mysterious error.
+&#x20; // If you don't do this, you will get a mysterious error.
 
 }
 
-#include "CppUTest/TestHarness.h"
+\#include "CppUTest/TestHarness.h"
 
-TEST_GROUP(FirstTestGroup)
+TEST\_GROUP(FirstTestGroup)
 
 {
 
-  void setup() {
+&#x20; void setup() {
 
-    // Put setup code here. The setup code is run before each test,
+&#x20;   // Put setup code here. The setup code is run before each test,
 
-    // and each test runs independently of each other.
+&#x20;   // and each test runs independently of each other.
 
-  }
+&#x20; }
 
-  void teardown() {
+&#x20; void teardown() {
 
-    // Put teardown code here. The teardown code is run after each test,
+&#x20;   // Put teardown code here. The teardown code is run after each test,
 
-    // and each test runs independently of each other.
+&#x20;   // and each test runs independently of each other.
 
-  }
+&#x20; }
 
 };
 
@@ -199,7 +198,7 @@ TEST(FirstTestGroup, FirstTest)
 
 {
 
-  FAIL("Fail me!");  // Should fail
+&#x20; FAIL("Fail me!");  // Should fail
 
 }
 
@@ -207,22 +206,22 @@ TEST(FirstTestGroup, SecondTest)
 
 {
 
-  STRCMP_EQUAL("hello", "world");  // Should also fail
+&#x20; STRCMP\_EQUAL("hello", "world");  // Should also fail
 
 }
 
-* Add these test files created above to the project within IAR.Add the file lib/cpputest/cpputest.a to the project.Add any other solar car library files that are needed to run.Remove main.cpp from the project and delete it from the project directory.Run your unit tests as you would a normal IAR project. 
+* Add these test files created above to the project within IAR.Add the file lib/cpputest/cpputest.a to the project.Add any other solar car library files that are needed to run.Remove main.cpp from the project and delete it from the project directory.Run your unit tests as you would a normal IAR project.&#x20;
 * Add these test files created above to the project within IAR.
 * Add the file lib/cpputest/cpputest.a to the project.
 * Add any other solar car library files that are needed to run.
 * Remove main.cpp from the project and delete it from the project directory.
-* Run your unit tests as you would a normal IAR project. 
+* Run your unit tests as you would a normal IAR project.&#x20;
 
 1. Add these test files created above to the project within IAR.
 2. Add the file lib/cpputest/cpputest.a to the project.
 3. Add any other solar car library files that are needed to run.
 4. Remove main.cpp from the project and delete it from the project directory.
-5. Run your unit tests as you would a normal IAR project. 
+5. Run your unit tests as you would a normal IAR project.&#x20;
 
 Add these test files created above to the project within IAR.
 
@@ -232,5 +231,4 @@ Add any other solar car library files that are needed to run.
 
 Remove main.cpp from the project and delete it from the project directory.
 
-Run your unit tests as you would a normal IAR project. 
-
+Run your unit tests as you would a normal IAR project.&#x20;

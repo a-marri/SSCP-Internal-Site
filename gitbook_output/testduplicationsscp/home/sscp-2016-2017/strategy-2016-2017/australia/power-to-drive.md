@@ -1,20 +1,21 @@
-# SSCP - Power to Drive
+# power-to-drive
 
-# Power to Drive
+## SSCP - Power to Drive
+
+## Power to Drive
 
 The data used in the scatterplot can be found on ftp
 
-red - 9_24_coober_pedy
+red - 9\_24\_coober\_pedy
 
-yellow - 9_25_coober_pedy (this was a day of controlled speed runs)
+yellow - 9\_25\_coober\_pedy (this was a day of controlled speed runs)
 
-green - 9_26_dingo_fence  (this was a day of controlled speed runs)
+green - 9\_26\_dingo\_fence  (this was a day of controlled speed runs)
 
-blue - 9_27_south_of_marla
+blue - 9\_27\_south\_of\_marla
 
-purple - 9_28_kulgera
+purple - 9\_28\_kulgera
 
 It was windy on 9/25, the yellow day.
 
 ![](../../../../../assets/image_396f103168.png)
-

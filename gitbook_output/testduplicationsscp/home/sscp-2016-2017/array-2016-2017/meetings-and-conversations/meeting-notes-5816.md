@@ -1,20 +1,18 @@
-# SSCP - Meeting Notes 5/8/16
+# meeting-notes-5816
 
-# Meeting Notes 5/8/16
+## SSCP - Meeting Notes 5/8/16
+
+## Meeting Notes 5/8/16
 
 Things for Today:
 
 1. Backsheets in oven
-
 2. Another encapsulation with same materials, backsheet the right way
-
 3. Cleaning -- figure out how to organize.
-
 4. Module Holder
 
-        Drying racks?
+&#x20;       Drying racks?
 
-        Permanent storage for Arctan backups
+&#x20;       Permanent storage for Arctan backups
 
 5. Determine budget for later on
-

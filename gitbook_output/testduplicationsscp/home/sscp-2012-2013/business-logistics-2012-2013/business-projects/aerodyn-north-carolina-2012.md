@@ -1,6 +1,8 @@
-# SSCP - Aerodyn North Carolina 2012
+# aerodyn-north-carolina-2012
 
-# Aerodyn North Carolina 2012
+## SSCP - Aerodyn North Carolina 2012
+
+## Aerodyn North Carolina 2012
 
 The email thread will probably be the most up-to-date source for information on the trip.
 
@@ -46,11 +48,10 @@ June 22: Last people fly back
 
 Early July: Carole's dad drives the van back to Stanford.
 
-Booking flights might be a good place to start. Could everyone look into prices for your respective flights? Let everyone know what ticket prices you find. 
+Booking flights might be a good place to start. Could everyone look into prices for your respective flights? Let everyone know what ticket prices you find.&#x20;
 
 Things that didn't work:
 
 -We had concerns that our van might not hold up to driving across the country and back. We looked into shipping options, but all of the quotes that we received were $8,000 to $9,000 to ship the car both ways.
 
--Craters and Freighters seemed like the best option since they specialize in transporting speciality and prototype equipment. 
-
+-Craters and Freighters seemed like the best option since they specialize in transporting speciality and prototype equipment.&#x20;

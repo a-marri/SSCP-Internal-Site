@@ -1,6 +1,8 @@
-# SSCP - Tritium Heat Sink
+# tritium-heat-sink
 
-# Tritium Heat Sink
+## SSCP - Tritium Heat Sink
+
+## Tritium Heat Sink
 
 Description:
 
@@ -18,7 +20,6 @@ To-Do:
 * Layup some carbon fiber and test it (talk to Jamie)
 * Model different geometries + materials
 * Design heat sink to fit specs of 2015 car!
-
 * Set up a testing apparatus to find thermal conductivities of various materialsSet up LabJack U3-LVFind temperature probes for the LabJackSet up Tritium (spare or from Luminos) to be able to measure temperature of materials while running LuminosTest existing heat sink or some other rectangular block of aluminumCut a rectangle out of a honeycomb slab (there are some at the back of the shop) and test itLayup some carbon fiber and test it (talk to Jamie)
 * Set up LabJack U3-LV
 * Find temperature probes for the LabJack
@@ -63,7 +64,6 @@ Tritium WaveSculptor 22 Specs:
 * Max automatic shutdown temperature: 80°C
 * Cold plate / thermal interface dimensions: 250 mm X 117 mmThreads: 8x M4, 14mm max depth (see Tritium website - Mechanical Assembly doc for hole locations)
 * Threads: 8x M4, 14mm max depth (see Tritium website - Mechanical Assembly doc for hole locations)
-
 * Max design temperature: 70°C
 * Max automatic shutdown temperature: 80°C
 * Cold plate / thermal interface dimensions: 250 mm X 117 mmThreads: 8x M4, 14mm max depth (see Tritium website - Mechanical Assembly doc for hole locations)
@@ -87,18 +87,17 @@ The rate of heat to be dissipated equals the power loss in the Tritium controlle
 
 where
 
-* R = 1.0800e-2 Ohms is the equivalent resistance of the controllera = 3.3450e-3 is the linear component of switching lossb = 1.8153e-2 is the constant component of switching lossC = 1.5625e-4 is the eq. capacitance * frequency product of the controllerI is the output current in Amps root mean square (Arms)V is the bus (battery) voltage to the controller.
+* R = 1.0800e-2 Ohms is the equivalent resistance of the controllera = 3.3450e-3 is the linear component of switching lossb = 1.8153e-2 is the constant component of switching lossC = 1.5625e-4 is the eq. capacitance \* frequency product of the controllerI is the output current in Amps root mean square (Arms)V is the bus (battery) voltage to the controller.
 * R = 1.0800e-2 Ohms is the equivalent resistance of the controller
 * a = 3.3450e-3 is the linear component of switching loss
 * b = 1.8153e-2 is the constant component of switching loss
-* C = 1.5625e-4 is the eq. capacitance * frequency product of the controller
+* C = 1.5625e-4 is the eq. capacitance \* frequency product of the controller
 * I is the output current in Amps root mean square (Arms)
 * V is the bus (battery) voltage to the controller.
-
 * R = 1.0800e-2 Ohms is the equivalent resistance of the controller
 * a = 3.3450e-3 is the linear component of switching loss
 * b = 1.8153e-2 is the constant component of switching loss
-* C = 1.5625e-4 is the eq. capacitance * frequency product of the controller
+* C = 1.5625e-4 is the eq. capacitance \* frequency product of the controller
 * I is the output current in Amps root mean square (Arms)
 * V is the bus (battery) voltage to the controller.
 
@@ -108,7 +107,7 @@ a = 3.3450e-3 is the linear component of switching loss
 
 b = 1.8153e-2 is the constant component of switching loss
 
-C = 1.5625e-4 is the eq. capacitance * frequency product of the controller
+C = 1.5625e-4 is the eq. capacitance \* frequency product of the controller
 
 I is the output current in Amps root mean square (Arms)
 
@@ -118,7 +117,7 @@ See the Tritium WaveSculptor 22 manual, Ch. 7 for more (see Tritium controller l
 
 Overall, the heat sink (including thermal paste, the heat sink itself, and convection into the ambient) must satisfy
 
-where T_j = cold plate temp., T_a = ambient, P_loss = power loss from the Tritium, and R_th = thermal resistance of the heatsink, measured in °C/W. Note R_th is a specific property of the sink, dependent on geometry, etc.
+where T\_j = cold plate temp., T\_a = ambient, P\_loss = power loss from the Tritium, and R\_th = thermal resistance of the heatsink, measured in °C/W. Note R\_th is a specific property of the sink, dependent on geometry, etc.
 
 For a rectangular geometry, of length L, perpendicular area A, & thermal conductivity k, the thermal resistance is
 
@@ -139,7 +138,6 @@ Tentative materials to test:
 * Carbon fiber + aluminum honeycomb
 * Carbon fiber used on Luminos outer shell
 * Other composites that Jamie finds
-
 * Aluminum
 * Carbon fiber + aluminum honeycomb
 * Carbon fiber used on Luminos outer shell
@@ -159,31 +157,31 @@ Compute thermal conductivity with
 
 Setup:
 
- [ MOSFETS]
+&#x20;\[ MOSFETS]
 
 Results:
 
 Aluminum:
 
-    L = 5 cm, A = 6.3 cm * 3.9 cm = 24.57 cm^2, Ta = 47.3 C, Tj = 53.2 C, P = (1.87V*10.01A + 1.82V*10.03A + 2.02V*10.08A + 1.87V*10.06A) = 76.15 W
+&#x20;   L = 5 cm, A = 6.3 cm \* 3.9 cm = 24.57 cm^2, Ta = 47.3 C, Tj = 53.2 C, P = (1.87&#x56;_&#x31;0.01A + 1.82&#x56;_&#x31;0.03A + 2.02&#x56;_&#x31;0.08A + 1.87&#x56;_&#x31;0.06A) = 76.15 W
 
-    => k = (LP)/(A*(Tj-Ta)) = 262.6 W/m-K
+&#x20;   \=> k = (LP)/(A\*(Tj-Ta)) = 262.6 W/m-K
 
 Carbon Honeycomb:
 
-    L = 1.3 cm, A (trapezoid) = 0.5 * 6.8 cm * (7.0 + 6.1) cm = 44.54 cm^2, Ta = 41.2 C, Tj = 43.4 C, P = (same as above) 76.15 W
+&#x20;   L = 1.3 cm, A (trapezoid) = 0.5 \* 6.8 cm \* (7.0 + 6.1) cm = 44.54 cm^2, Ta = 41.2 C, Tj = 43.4 C, P = (same as above) 76.15 W
 
-    => k = 101.0 W/m-K
+&#x20;   \=> k = 101.0 W/m-K
 
 Using the LabJack U3-LV
 
-Manual: http://labjack.com/sites/default/files/2011/04/U3_UG_Export_04282011.pdf
+Manual: http://labjack.com/sites/default/files/2011/04/U3\_UG\_Export\_04282011.pdf
 
-[http://labjack.com/sites/default/files/2011/04/U3_UG_Export_04282011.pdf](http://labjack.com/sites/default/files/2011/04/U3_UG_Export_04282011.pdf)
+[http://labjack.com/sites/default/files/2011/04/U3\_UG\_Export\_04282011.pdf](http://labjack.com/sites/default/files/2011/04/U3_UG_Export_04282011.pdf)
 
 SSCP page for temperature sensing for Luminos: https://sites.google.com/a/stanfordsolarcar.com/sscp/home/composites/temperature-sensing
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/composites/temperature-sensing](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/temperature-sensing)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/composites/temperature-sensing](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/temperature-sensing/)
 
 What do the acronyms mean?
 
@@ -191,7 +189,7 @@ GND = Ground
 
 SGND = Thermal fuse in series with ground, for attaching ground from other powered devices
 
-VS = Supply voltage ~5V
+VS = Supply voltage \~5V
 
 FI00-07 = Flexible analog/digital input or digital output
 
@@ -199,29 +197,25 @@ Temperature sensor: LM35 temperature sensor.
 
 [LM35](http://www.ti.com/lit/ds/symlink/lm35.pdf)
 
-    * Change the Range to U_rgUNI2p5V for unipolar 2.5V Range.
+&#x20;   \* Change the Range to U\_rgUNI2p5V for unipolar 2.5V Range.
 
 Output: The sensor has a valid output from 0-150C (0-300F) and is calibrated in centigrade where each 10mV = 1C with no offset factor so multiplying the sensor output voltage by 100x yields the temperature in Centigrade.
 
 Setting up:
 
 1. The programs are installed on one of the Toughbooks.
-
 2. Plug in the LabJack and open up the LJControlPanel to find the device. Close the Panel.
-
 3. Open up LJStreamUD.
-
 4. Plug in sensor:
 
-    * White/orange to VS
+&#x20;   \* White/orange to VS
 
-    * White/blue to GND
+&#x20;   \* White/blue to GND
 
-    * White to FIO input/output
+&#x20;   \* White to FIO input/output
 
-5. For one thermocouple: Set the # of channels to 1. Set Ch+ to the connected channel. Set Ranges to LJ_rgUNI2P5V.
-
-6. The voltage reading should be 10mV / °C with no offset. So for the Scaling Equation, type y=a*100 (replace a with the proper letter depending on the row). The scaled value should be the temperature in °C.
+5. For one thermocouple: Set the # of channels to 1. Set Ch+ to the connected channel. Set Ranges to LJ\_rgUNI2P5V.
+6. The voltage reading should be 10mV / °C with no offset. So for the Scaling Equation, type y=a\*100 (replace a with the proper letter depending on the row). The scaled value should be the temperature in °C.
 
 Links:
 
@@ -234,4 +228,3 @@ Heat sink design: http://www.ti.com/lit/an/slva462/slva462.pdf
 [http://www.ti.com/lit/an/slva462/slva462.pdf](http://www.ti.com/lit/an/slva462/slva462.pdf)
 
 ![](../../../../../assets/image_ce5853069b.png)
-

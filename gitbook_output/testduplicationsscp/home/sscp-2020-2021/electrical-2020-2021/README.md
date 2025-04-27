@@ -1,28 +1,30 @@
-# SSCP - Electrical 2020-2021
+# electrical-2020-2021
 
-# Electrical 2020-2021
+## SSCP - Electrical 2020-2021
 
-Welcome to the Electrical Engineering Team Sub-page! 
+## Electrical 2020-2021
+
+Welcome to the Electrical Engineering Team Sub-page!&#x20;
 
 Here you'll find information about current projects and the tools we use to fulfill them. You'll also find some FAQs, teaching tools, and information regarding safety.
 
 Questions? Feel free to reach out!
 
- Sub-team Leadership
+&#x20;Sub-team Leadership
 
- Simon Acker (Electrical lead)
+&#x20;Simon Acker (Electrical lead)
 
- Maisam Pyarali (Engineering Director)
+&#x20;Maisam Pyarali (Engineering Director)
 
- Contact
+&#x20;Contact
 
 simonack@stanford.edu
 
 maisam@stanford.edu
 
-As a sub-team, we are in charge of all of the electrical systems in the car, which means everything from the motors to the vehicle computer to the circuit boards which utilize the power provided by the solar array. 
+As a sub-team, we are in charge of all of the electrical systems in the car, which means everything from the motors to the vehicle computer to the circuit boards which utilize the power provided by the solar array.&#x20;
 
-New to the team? 
+New to the team?&#x20;
 
 Awesome! We are excited to have you. Before you can get work on one of the big projects, you will need to get up to speed on some of our tools. See the link below for our recommended sequence of activities/small projects to complete in order to get yourself up to speed on circuit design, Altium, LT Spice, and soldering. You will find that there are extensive resources under links on this page to help you get up to speed. See the subpage listing above.
 
@@ -35,7 +37,7 @@ Onboarding Steps (Click me)
 
 EE Style Guide (Read me)
 
-[EE Style Guide (Read me)](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/ee-style-guide-2020-2021)
+[EE Style Guide (Read me)](../../../../../stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/ee-style-guide-2020-2021/)
 
 Helpful links:
 
@@ -55,5 +57,4 @@ What past teams have done
 
 EE Style Guide
 
-[EE Style Guide](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/ee-style-guide-2020-2021)
-
+[EE Style Guide](../../../../../stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/ee-style-guide-2020-2021/)

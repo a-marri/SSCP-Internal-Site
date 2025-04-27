@@ -1,6 +1,8 @@
-# SSCP - Protobufs
+# protobufs
 
-# Protobufs
+## SSCP - Protobufs
+
+## Protobufs
 
 We are using nanopb (https://github.com/nanopb/nanopb) for data serialization through ethernet.
 
@@ -8,47 +10,46 @@ We are using nanopb (https://github.com/nanopb/nanopb) for data serialization th
 
 Code structure:
 
-* libdrivers pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.*/pb.h: Macros. May or may not be useful.*.pb.h, *.pb.c: Automatically generated protobuf files.protobufsPut .proto files here.scriptscompile_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
-* libdrivers pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.*/pb.h: Macros. May or may not be useful.*.pb.h, *.pb.c: Automatically generated protobuf files.protobufsPut .proto files here.
-* drivers pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.*/pb.h: Macros. May or may not be useful.*.pb.h, *.pb.c: Automatically generated protobuf files.
-*  pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.
-* */pb.h: Macros. May or may not be useful.
-* *.pb.h, *.pb.c: Automatically generated protobuf files.
+* libdrivers pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic._/pb.h: Macros. May or may not be useful._.pb.h, \*.pb.c: Automatically generated protobuf files.protobufsPut .proto files here.scriptscompile\_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
+* libdrivers pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic._/pb.h: Macros. May or may not be useful._.pb.h, \*.pb.c: Automatically generated protobuf files.protobufsPut .proto files here.
+* drivers pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic._/pb.h: Macros. May or may not be useful._.pb.h, \*.pb.c: Automatically generated protobuf files.
+* &#x20;pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic.
+* \*/pb.h: Macros. May or may not be useful.
+* \*.pb.h, \*.pb.c: Automatically generated protobuf files.
 * protobufsPut .proto files here.
 * Put .proto files here.
-* scriptscompile_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
-* compile_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
-
-* libdrivers pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.*/pb.h: Macros. May or may not be useful.*.pb.h, *.pb.c: Automatically generated protobuf files.protobufsPut .proto files here.
-* drivers pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.*/pb.h: Macros. May or may not be useful.*.pb.h, *.pb.c: Automatically generated protobuf files.
-*  pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.
-* */pb.h: Macros. May or may not be useful.
-* *.pb.h, *.pb.c: Automatically generated protobuf files.
+* scriptscompile\_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
+* compile\_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
+* libdrivers pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic._/pb.h: Macros. May or may not be useful._.pb.h, \*.pb.c: Automatically generated protobuf files.protobufsPut .proto files here.
+* drivers pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic._/pb.h: Macros. May or may not be useful._.pb.h, \*.pb.c: Automatically generated protobuf files.
+* &#x20;pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic.
+* \*/pb.h: Macros. May or may not be useful.
+* \*.pb.h, \*.pb.c: Automatically generated protobuf files.
 * protobufsPut .proto files here.
 * Put .proto files here.
-* scriptscompile_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
-* compile_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
+* scriptscompile\_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
+* compile\_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
 
 lib
 
-* drivers pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.*/pb.h: Macros. May or may not be useful.*.pb.h, *.pb.c: Automatically generated protobuf files.
-*  pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.
-* */pb.h: Macros. May or may not be useful.
-* *.pb.h, *.pb.c: Automatically generated protobuf files.
+* drivers pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic._/pb.h: Macros. May or may not be useful._.pb.h, \*.pb.c: Automatically generated protobuf files.
+* &#x20;pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic.
+* \*/pb.h: Macros. May or may not be useful.
+* \*.pb.h, \*.pb.c: Automatically generated protobuf files.
 * protobufsPut .proto files here.
 * Put .proto files here.
 
 drivers
 
-*  pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.
-* */pb.h: Macros. May or may not be useful.
-* *.pb.h, *.pb.c: Automatically generated protobuf files.
+* &#x20;pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic.
+* \*/pb.h: Macros. May or may not be useful.
+* \*.pb.h, \*.pb.c: Automatically generated protobuf files.
 
- pb_common(.h, .c), pb_encode(.h, .c), pb_decode(.h, .c): Provides protobuf encoding/decoding logic.
+&#x20;pb\_common(.h, .c), pb\_encode(.h, .c), pb\_decode(.h, .c): Provides protobuf encoding/decoding logic.
 
-*/pb.h: Macros. May or may not be useful.
+\*/pb.h: Macros. May or may not be useful.
 
-*.pb.h, *.pb.c: Automatically generated protobuf files.
+\*.pb.h, \*.pb.c: Automatically generated protobuf files.
 
 protobufs
 
@@ -58,27 +59,26 @@ Put .proto files here.
 
 scripts
 
-* compile_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
+* compile\_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
 
-compile_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
+compile\_pb.sh: Run this script in this directory to generate protobuf files for the .proto files.
 
 Protobuf Structure:
 
 message CarStateMessage {
 
-    required uint32 datetime = 1;
+&#x20;   required uint32 datetime = 1;
 
-    required uint32 board_id = 2;
+&#x20;   required uint32 board\_id = 2;
 
-    
+&#x20;  &#x20;
 
-    // Vehicle computer
+&#x20;   // Vehicle computer
 
-    // BMS
+&#x20;   // BMS
 
-    // Pedal variables
+&#x20;   // Pedal variables
 
-    // Steering wheel
+&#x20;   // Steering wheel
 
 }
-

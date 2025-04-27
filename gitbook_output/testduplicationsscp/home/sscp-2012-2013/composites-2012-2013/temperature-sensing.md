@@ -1,71 +1,60 @@
-# SSCP - Temperature Sensing
+# temperature-sensing
 
-# Temperature Sensing
+## SSCP - Temperature Sensing
 
-## Introduction
+## Temperature Sensing
 
-[](#h.nunyp0c1xjo)
+### Introduction
 
-## Sensors
+### Sensors
 
-[](#h.qa06ico7r6ru)
+#### Pinout
 
-### Pinout
+&#x20;White/Orange
 
-[](#h.o2o082d02ubc)
+&#x20;+5V
 
- White/Orange
+&#x20;Whitle/Blue
 
- +5V
+&#x20;Ground
 
- Whitle/Blue
+&#x20;White
 
- Ground
+&#x20;Output
 
- White
+#### Sensor Construction
 
- Output
+The Sensor consists of an LM35 temperature sensor in a siliconed in a brass tube connected to high temperature (396F) wire.&#x20;
 
-### Sensor Construction
+[LM35](http://www.ti.com/lit/ds/symlink/lm35.pdf)
 
-[](#h.77lxl0jhf807)
+#### Output
 
-The Sensor consists of an LM35 temperature sensor in a siliconed in a brass tube connected to high temperature (396F) wire. 
+The sensor has a valid output from 0-150C (0-300F) and is calibrated in centigrade where each 10mV = 1C with no offset factor so multiplying the sensor output voltage by 100x yields the temperature in Centigrade.&#x20;
 
-[ LM35](http://www.ti.com/lit/ds/symlink/lm35.pdf)
+### Labjack U3
 
-### Output
-
-[](#h.1n5nadiamwb1)
-
-The sensor has a valid output from 0-150C (0-300F) and is calibrated in centigrade where each 10mV = 1C with no offset factor so multiplying the sensor output voltage by 100x yields the temperature in Centigrade. 
-
-## Labjack U3
-
-[](#h.b5igrajcls8a)
-
-* Download the U3 software from the Labjack websiteInstall the U3 DriverOpen the LJStreamUD Plug the sensors into to the FIOChange the Range to U_rgUNI2p5V for unipolar 2.5V Range
+* Download the U3 software from the Labjack websiteInstall the U3 DriverOpen the LJStreamUD Plug the sensors into to the FIOChange the Range to U\_rgUNI2p5V for unipolar 2.5V Range
 * Download the U3 software from the Labjack website
 * Install the U3 Driver
-* Open the LJStreamUD 
+* Open the LJStreamUD&#x20;
 * Plug the sensors into to the FIO
-* Change the Range to U_rgUNI2p5V for unipolar 2.5V Range
+* Change the Range to U\_rgUNI2p5V for unipolar 2.5V Range
 
 1. Download the U3 software from the Labjack website
 2. Install the U3 Driver
-3. Open the LJStreamUD 
+3. Open the LJStreamUD&#x20;
 4. Plug the sensors into to the FIO
-5. Change the Range to U_rgUNI2p5V for unipolar 2.5V Range
+5. Change the Range to U\_rgUNI2p5V for unipolar 2.5V Range
 
 Download the U3 software from the Labjack website
 
-[ website](http://labjack.com/support/software)
+[website](http://labjack.com/support/software)
 
 Install the U3 Driver
 
-Open the LJStreamUD 
+Open the LJStreamUD&#x20;
 
 Plug the sensors into to the FIO
 
-Change the Range to U_rgUNI2p5V for unipolar 2.5V Range
-
+Change the Range to U\_rgUNI2p5V for unipolar 2.5V Range

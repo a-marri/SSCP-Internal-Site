@@ -1,6 +1,8 @@
-# SSCP - Wheels Shrouds
+# wheels-shrouds
 
-# Wheels Shrouds
+## SSCP - Wheels Shrouds
+
+## Wheels Shrouds
 
 Southco Quarter-Turn Fasteners: Receptacle, Stud, and Retainer
 
@@ -10,7 +12,7 @@ Southco Quarter-Turn Fasteners: Receptacle, Stud, and Retainer
 
 ![](../../../../assets/image_fef8a32a38.jpg)
 
-Intended panel thickness: 0.075" (~5 layers of carbon)
+Intended panel thickness: 0.075" (\~5 layers of carbon)
 
 For receptacle, drill 15/32" hole, larger if alignment issues arise
 
@@ -36,7 +38,7 @@ A shroud rigidly attached to the suspension is usually targeted at (1), and will
 
 I really like Punch's leading-edge shroud - a thin, uncored layup of Kevlar that is a little flexy and very abrasion resistant, so it can brush the road occasionally without getting destroyed. Tokai's little leading/trailing bumps were replaceable and they had several spares. Nuon in years past has also utilized ablative/expendable parts to accomplish (2) and (3).
 
-On Mon, Nov 28, 2016 at 9:20 PM, Hayden Robert Hall <hhall8@stanford.edu> wrote:
+On Mon, Nov 28, 2016 at 9:20 PM, Hayden Robert Hall [hhall8@stanford.edu](mailto:hhall8@stanford.edu) wrote:
 
 [hhall8@stanford.edu](mailto:hhall8@stanford.edu)
 
@@ -53,7 +55,6 @@ These are the things that we still need to research:
 * The height of the wheel shroud above the ground - possibility of broken shroud puncturing tire
 * Closing the gap between the wheel shroud and the car body - possibly use bristle skirt (like punch used)
 * Reducing the effects of the rolling wheel on the flow of the exterior of the car
-
 * The distance between the wheel and the wheel shroud
 * The height of the wheel shroud above the ground - possibility of broken shroud puncturing tire
 * Closing the gap between the wheel shroud and the car body - possibly use bristle skirt (like punch used)
@@ -77,7 +78,6 @@ These photos certainly caught our attention:
 
 We currently don't think it will be possible to test at a wind tunnel with rolling wheels. It's likely that our decisions will be based on applying best principles rather than proven efficiency increases. We'd really appreciate any guidance, advice, or suggestions that either of you could offer.
 
-Best, 
+Best,&#x20;
 
-Hayden 
-
+Hayden&#x20;

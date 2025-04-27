@@ -1,70 +1,58 @@
-# SSCP - Wiring
+# wiring
 
-# Wiring
+## SSCP - Wiring
+
+## Wiring
 
 Sunrise Wiring Diagram
 
-           
+&#x20;         &#x20;
 
 ![](../../../../assets/image_c8a7e540f4.png)
 
 EE Box Contains:
 
-- Mid Lights Controller Board
-
-- Vehicle Computer
-
-- BMS + Battery
-
-- Tritium Motor Controllers x2
-
-- High Voltage Box
+* Mid Lights Controller Board
+* Vehicle Computer
+* BMS + Battery
+* Tritium Motor Controllers x2
+* High Voltage Box
 
 Wire lengths, connectors, and crimps for Sunrise
 
-[](https://docs.google.com/spreadsheets/d/1F4H_gSjWlQuzTUHeCpajRKAhk-WbJposA6sBZliOACM/edit)
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](wiring.md)
 
 ![](../../../../assets/sheets_32dp.png)
 
 Below is a list of wiring and connectors for each point-to-point connection in the car:
 
-### Bottomshell
-
-[](#h.tsuljliargle)
+#### Bottomshell
 
 From Vehicle Computer
 
-Each of these connections ends on the Vehicle Computer side in a Deutsch DT12 connector.  Required parts to build the DT connectors mating with the VC Deutsch Box are as follows:
+Each of these connections ends on the Vehicle Computer side in a Deutsch DT12 connector.  Required parts to build the DT connectors mating with the VC Deutsch Box are as follows:
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](wiring.md)
 
 See the instructional video here on how to assemble the connector: https://www.youtube.com/watch?v=jE712DGw8CY
 
 [https://www.youtube.com/watch?v=jE712DGw8CY](https://www.youtube.com/watch?v=jE712DGw8CY)
 
-Additionally, the crimper box contains a sheet with information on how wires should be stripped prior to crimping.  Only use the Deutsch crimper to make these crimps.
+Additionally, the crimper box contains a sheet with information on how wires should be stripped prior to crimping.  Only use the Deutsch crimper to make these crimps.
 
-Below is an image of the VC pinout for Sunrise VC 1_2_0.
+Below is an image of the VC pinout for Sunrise VC 1\_2\_0.
 
 ![](../../../../assets/image_e96b56a363.png)
 
-Note these are not arranged in the same order as they will be arranged in the header of the box.  The below image shows the order of the connectors when VC is viewed from above:
+Note these are not arranged in the same order as they will be arranged in the header of the box.  The below image shows the order of the connectors when VC is viewed from above:
 
 ![](../../../../assets/image_9511077ffc.png)
 
-### Umbilical Cord Connector
-
-[](#h.g825e032o49e)
+#### Umbilical Cord Connector
 
 (MALE -> 1734-1203-ND / FEMALE -> 1734-1226-ND)
 
@@ -78,59 +66,55 @@ Inner circle (MPPT outputs)
 
 B: MPPT A +
 
-C: MPPT B + 
+C: MPPT B +&#x20;
 
-D: MPPT C + 
+D: MPPT C +&#x20;
 
-E  
+E &#x20;
 
-F:  MPPT A - 
+F:  MPPT A -&#x20;
 
-G: MPPT B - 
+G: MPPT B -&#x20;
 
-H   MPPT C - 
+H   MPPT C -&#x20;
 
-J: 
+J:&#x20;
 
 Outer circle
 
-K:  Blink Left Enable (RED)
+K:  Blink Left Enable (RED)
 
-L:  Blink Right Enable (GREEN)
+L:  Blink Right Enable (GREEN)
 
-M:  Brake Enable (WHITE)
+M:  Brake Enable (WHITE)
 
-N:  Headlight Enable (BLACK)
+N:  Headlight Enable (BLACK)
 
-O:  12 V
+O:  12 V
 
-P:  GND
+P:  GND
 
-Q:  LV+       (Phoenix cable RED)
+Q:  LV+       (Phoenix cable RED)
 
-R:  LV-        (Phoenix cable BLACK)
+R:  LV-        (Phoenix cable BLACK)
 
-S:  CAN H    (Phoenix cable WHITE)
+S:  CAN H    (Phoenix cable WHITE)
 
-T:  CAN L     (Phoneix cable BLUE)
+T:  CAN L     (Phoneix cable BLUE)
 
-U:  EDisc in
+U:  EDisc in
 
-V:  EDisc out
+V:  EDisc out
 
-W:  
+W: &#x20;
 
-X:  
+X: &#x20;
 
-### CAN:
-
-[](#h.eq4rv5wt7k1m)
+#### CAN:
 
 ![](../../../../assets/image_a3ed67eab0.png)
 
-### Ethernet:
-
-[](#h.9tibarsk31ve)
+#### Ethernet:
 
 BMS Pack-side Connector:
 
@@ -158,9 +142,7 @@ Car-side Connector:
 
 ![](../../../../assets/image_1397e08207.jpg)
 
-### Steering Wheel Connector:
-
-[](#h.d5efdm9fyrr)
+#### Steering Wheel Connector:
 
 Make many of these, you will need the spares. Altertivelym solder them well the first time and add a ton of super glue / Epoxy to it
 
@@ -168,9 +150,7 @@ Make many of these, you will need the spares. Altertivelym solder them well the 
 
 ![](../../../../assets/image_500703518f.jpg)
 
-### Ethernet wire to RJ45 wire
-
-[](#h.8kgewlcm1nps)
+#### Ethernet wire to RJ45 wire
 
 Red - Striped Orange
 
@@ -184,117 +164,111 @@ The wiring and connectors needed for each connection from VC are listed below, o
 
 1. VC-> BMS
 
-    a. Power
+&#x20;   a. Power
 
-        - cable: 2-conductor Alphawire 
+&#x20;       \- cable: 2-conductor Alphawire&#x20;
 
-        - connector (BMS side): 3-position Deutsch HD10 (do not plug leftover pin, it's for Edisc)
+&#x20;       \- connector (BMS side): 3-position Deutsch HD10 (do not plug leftover pin, it's for Edisc)
 
-    b. Ethernet
+&#x20;   b. Ethernet
 
-        - cable: 2-pair/4-conductor Belden
+&#x20;       \- cable: 2-pair/4-conductor Belden
 
-        - connector (BMS side): Deutsch DT4
+&#x20;       \- connector (BMS side): Deutsch DT4
 
 2. VC-> Steering Wheel
 
-    a. Ethernet + Edisc
+&#x20;   a. Ethernet + Edisc
 
-        - cable: 2-pair/4-conductor Belden
+&#x20;       \- cable: 2-pair/4-conductor Belden
 
-        - connector (SW side): Lifeline p/n 410-200-019
+&#x20;       \- connector (SW side): Lifeline p/n 410-200-019
 
 3. VC-> Umbilical
 
-    a. MPPT CAN
+&#x20;   a. MPPT CAN
 
-        - cable: Phoenix 5-conductor
+&#x20;       \- cable: Phoenix 5-conductor
 
-        - connector: Phoenix A-code 5-pin (built in to cable); ends at Umbilical connector
+&#x20;       \- connector: Phoenix A-code 5-pin (built in to cable); ends at Umbilical connector
 
-    b. Edisc
+&#x20;   b. Edisc
 
-        - cable: a single conductor, can be red array wiring
+&#x20;       \- cable: a single conductor, can be red array wiring
 
-        - connector: Umbilical
+&#x20;       \- connector: Umbilical
 
-    c. Power for Taillights, Rear Turn Signals 
+&#x20;   c. Power for Taillights, Rear Turn Signals&#x20;
 
-        - cable: 2-conductor Alphawire x 3 (Taillights, L turn, R turn)
+&#x20;       \- cable: 2-conductor Alphawire x 3 (Taillights, L turn, R turn)
 
-        - connector: Umbilical
+&#x20;       \- connector: Umbilical
 
 4. VC-> Pedals
 
-    a. Power + Signal
+&#x20;   a. Power + Signal
 
-        - cable: 3-conductor Alphawire x 2 (Throttle, Brake)
+&#x20;       \- cable: 3-conductor Alphawire x 2 (Throttle, Brake)
 
-        - connector: Ampseal connector
+&#x20;       \- connector: Ampseal connector
 
 5. VC-> Headlights, Front Turn Signals, and Side Lights
 
-    a. Controller Boards
+&#x20;   a. Controller Boards
 
-    b. LED boards
+&#x20;   b. LED boards
 
 6. VC-> Rear View System
 
-    a. Power
+&#x20;   a. Power
 
 7. VC-> Handheld Radio Microphone
 
-    a. Switch
+&#x20;   a. Switch
 
 8. VC-> GPS Antenna
 
-    a. Feed
+&#x20;   a. Feed
 
 9. VC-> Wifi Antenna
 
-    a. Ethernet
+&#x20;   a. Ethernet
 
 10. VC-> Tritiums
 
-    a. Tritium CAN
+&#x20;   a. Tritium CAN
 
-### From BMS
+#### From BMS
 
-[](#h.nf1qnq12ror)
-
-Harnesses that include BMS as one endpoint but do not go to VC are the wiring to power the motors (other endpoint is the Tritiums), wiring to the MPPTs (other endpoint is the Umbilical), and wiring to the 
+Harnesses that include BMS as one endpoint but do not go to VC are the wiring to power the motors (other endpoint is the Tritiums), wiring to the MPPTs (other endpoint is the Umbilical), and wiring to the&#x20;
 
 1. BMS-> Tritiums
 
-    a. HV Power (L+R)
+&#x20;   a. HV Power (L+R)
 
 2. BMS->HV Splitter Box
 
-    a. HV Power
+&#x20;   a. HV Power
 
 HVA-280 Assembly manual
 
-[HVA-280 Assembly manual](http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F408-10299%7FB%7Fpdf%7FEnglish%7FENG_SS_408-10299_B.pdf%7F1587826-2)
+[HVA-280 Assembly manual](http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc\&DocId=Specification+Or+Standard%7F408-10299%7FB%7Fpdf%7FEnglish%7FENG_SS_408-10299_B.pdf%7F1587826-2)
 
-### From HV Splitter Box
-
-[](#h.kidrts2ibaah)
+#### From HV Splitter Box
 
 1. HV Splitter Box-> Umbilical
 
-    a. HV Power (for MPPTs)
+&#x20;   a. HV Power (for MPPTs)
 
-### Tritiums->Motors
-
-[](#h.ffyv6e5oq8p0)
+#### Tritiums->Motors
 
 1. Motor Resolver Cable
 
-    a. Signal
+&#x20;   a. Signal
 
 2. 3-Phase Power
 
-    a. HV Power
+&#x20;   a. HV Power
 
 Lights Controllers:
 
@@ -336,29 +310,27 @@ Left Indicator EN - Black (3 Pair)
 
 Brake EN - Red (3 Pair)
 
-### Topshell:
-
-[](#h.h7e0jaidxtif)
+#### Topshell:
 
 From Umbilical
 
 1. Umbilical-> MPPTs
 
-    a. MPPT CAN
+&#x20;   a. MPPT CAN
 
-    b. HV Power
+&#x20;   b. HV Power
 
-    
+&#x20;  &#x20;
 
 2. Umbilical-> Edisc button
 
-    a. Edisc (x2)
+&#x20;   a. Edisc (x2)
 
 3. Umbilical-> Taillights, Rear Turn Signals
 
 Array:
 
-We used 22 AWG speaker wire for all module tab connections (soldered to PCB boards to attach to the array flat wire tabs). We used ~350ft of wire.
+We used 22 AWG speaker wire for all module tab connections (soldered to PCB boards to attach to the array flat wire tabs). We used \~350ft of wire.
 
 ![](../../../../assets/image_33b7cdf563.png)
 
@@ -376,7 +348,7 @@ We use the Ampseal 14 POS Housing for array wiring with 1.3 mm crimps. The pinou
 
 [Ampseal 14 POS](https://www.te.com/usa-en/product-776273-1.html)
 
-[1.3 mm crimps](https://www.te.com/usa-en/product-CAT-AM78-T273.html?c=538089&compatible=776273-1)
+[1.3 mm crimps](https://www.te.com/usa-en/product-CAT-AM78-T273.html?c=538089\&compatible=776273-1)
 
 ![](../../../../assets/image_ef3ffb6384.png)
 
@@ -392,11 +364,6 @@ Harness Overview Image:
 
 ![](../../../../assets/image_dc1630aa74.jpg)
 
-[](https://drive.google.com/folderview?id=1uygxgJ-h0BhuSPjIUrTgxoMrbFEyPy38)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1uygxgJ-h0BhuSPjIUrTgxoMrbFEyPy38#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1uygxgJ-h0BhuSPjIUrTgxoMrbFEyPy38#list" frameborder="0"></iframe>
-

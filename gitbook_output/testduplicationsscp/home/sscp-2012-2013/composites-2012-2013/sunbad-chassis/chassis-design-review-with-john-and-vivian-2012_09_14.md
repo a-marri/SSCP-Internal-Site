@@ -1,6 +1,8 @@
-# SSCP - Chassis Design Review with John and Vivian 2012_09_14
+# chassis-design-review-with-john-and-vivian-2012\_09\_14
 
-# Chassis Design Review with John and Vivian 2012_09_14
+## SSCP - Chassis Design Review with John and Vivian 2012\_09\_14
+
+## Chassis Design Review with John and Vivian 2012\_09\_14
 
 Chassis design review with Vivian and John (I came in on the tail end of this conversation...)
 
@@ -24,9 +26,9 @@ If we put tubes in at all then have a roll cage that is entirely built with tube
 
 Have ribs within the roll cage to have adequate load transfer from front high points to lower points.
 
-Forest suggested laying up metal tubing into the roll cage. 
+Forest suggested laying up metal tubing into the roll cage.&#x20;
 
-John says don't reinvent the wheel. Inserts are fine. They are all over the 787 Vivian says. We don't have to co-mold necessarily. 
+John says don't reinvent the wheel. Inserts are fine. They are all over the 787 Vivian says. We don't have to co-mold necessarily.&#x20;
 
 Vivian: it will take a while to do fillets etc.
 
@@ -38,13 +40,13 @@ Do some crash testing. You will make assumptions about which panels will break f
 
 Friday nights work well for design reviews with Vivian and John
 
-Don't forget to model torsional loads on your chassis caused by suspension bumping. 
+Don't forget to model torsional loads on your chassis caused by suspension bumping.&#x20;
 
 I-beams are good at torsion
 
 Do more free body diagrams, do free body diagrams for torsion too
 
-We can CNC our core. 
+We can CNC our core.&#x20;
 
 "Nathan said you can do it without core" Vivian and John shriek in horror. "do not want"
 
@@ -63,4 +65,3 @@ Model Solutions: is also good for injection molding
 Vivian has contacts
 
 Chassis you like: Vivian: carbon work on Equinox. John, Michigan 3 or 5?
-

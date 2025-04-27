@@ -1,16 +1,16 @@
-# SSCP - Tires
+# tires
 
-# Tires
+## SSCP - Tires
 
-### Purchasing Michelin X
+## Tires
 
-[](#h.3w9zx15nlwwa)
+#### Purchasing Michelin X
 
 Urban Concept 95/80 R16
 
-Best to order all at once. 
+Best to order all at once.&#x20;
 
-Will Whitley is the contact. $425  each ~$500 USD a piece including tax and shipping
+Will Whitley is the contact. $425  each \~$500 USD a piece including tax and shipping
 
 All information will come from customer service in terms of ship date
 
@@ -18,7 +18,7 @@ Check or Credit Card
 
 Other Contacts
 
-Steve Dolby  -  Product Marketing
+Steve Dolby  -  Product Marketing
 
 Michelin Tyre Public Limited Company
 
@@ -28,17 +28,17 @@ Stoke-on-Trent
 
 ST4 4EY
 
-Telephone:        +44 (0) 1782 402338
+Telephone:        +44 (0) 1782 402338
 
-Facsimile:        +44 (0) 1782 402334
+Facsimile:        +44 (0) 1782 402334
 
-Mobile:                +44 (0) 7967 478952
+Mobile:                +44 (0) 7967 478952
 
-Email:                steve.dolby@uk.michelin.com
+Email:                steve.dolby@uk.michelin.com
 
 [steve.dolby@uk.michelin.com](mailto:steve.dolby@uk.michelin.com)
 
-website:         www.michelin.co.uk
+website:         www.michelin.co.uk
 
 [www.michelin.co.uk](http://www.michelin.co.uk/)
 
@@ -50,7 +50,7 @@ $500 with shipping and tax
 
 Tires have shipped
 
-Should arrive 
+Should arrive&#x20;
 
 Shipped yesterday
 
@@ -70,29 +70,25 @@ Then Will will send invoice to you
 
 The whole process may take a while
 
-Michelin is nor 
+Michelin is nor&#x20;
 
-## Michelin Blog Post on Radial X
+### Michelin Blog Post on Radial X
 
-[](#h.vaxsdg69lt3k)
-
-This is from the WSC and Michelin AU site in 2013 and is the authoritative source for CRR. 
+This is from the WSC and Michelin AU site in 2013 and is the authoritative source for CRR.&#x20;
 
 The MICHELIN Radial X offers an extremely low rolling resistance of around 1.3 kg/t. This is equivalent to climbing a permanent slope of 0.13%. Many passenger car tyres today have rolling resistance equivalent to climb a permanent slope of 1%.
 
 The energy efficiency of the new MICHELIN Radial X tyre is approximately 7 to 8 times better than the average passenger car tyre meaning it remains the tyre of choice for the front running competitors.
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](tires.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+&#x20;
 
- 
+&#x20;
 
- 
-
- 
+&#x20;
 
 ....
 
@@ -112,25 +108,18 @@ To find out more about MICHELIN tyres, visit www.michelin.com.au
 
 [www.michelin.com.au](http://www.michelin.com.au/)
 
-## Tire Crr Theory 
+### Tire Crr Theory&#x20;
 
-[](#h.dozrnqpbmi6d)
-
-Check out the Michelin_Rolling_resistance PDF which is attached to this page for everything you want to know about CRR, how it changes in real life conditions, and how it is measured. 
+Check out the Michelin\_Rolling\_resistance PDF which is attached to this page for everything you want to know about CRR, how it changes in real life conditions, and how it is measured.&#x20;
 
 Tire Wear Examples
 
-Moderate                                                            Heavy Wear
+Moderate                                                            Heavy Wear
 
 ![](../../../../../assets/image_e4134e6baf.jpg)
 
 ![](../../../../../assets/image_61e4980779.jpg)
 
-[](https://drive.google.com/folderview?id=1IUZBCjZnG13gssd3AGgR9x2wAr5cKVAK)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1IUZBCjZnG13gssd3AGgR9x2wAr5cKVAK#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1IUZBCjZnG13gssd3AGgR9x2wAr5cKVAK#list" frameborder="0"></iframe>
-

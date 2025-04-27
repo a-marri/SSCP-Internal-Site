@@ -1,8 +1,10 @@
-# SSCP - EL Testing Race Topshell
+# el-testing-race-topshell
 
-# EL Testing Race Topshell
+## SSCP - EL Testing Race Topshell
 
-Here are some images from EL testing the race topshell on August 24.  All 8 strings were tested and all look good. 
+## EL Testing Race Topshell
+
+Here are some images from EL testing the race topshell on August 24.  All 8 strings were tested and all look good.&#x20;
 
 ![](../../../../../assets/image_ab52c99678.jpg)
 
@@ -15,4 +17,3 @@ Here are some images from EL testing the race topshell on August 24.  All 8 str
 ![](../../../../../assets/image_6c79ffad9b.jpg)
 
 ![](../../../../../assets/image_01d7a6f65e.jpg)
-

@@ -1,6 +1,8 @@
-# SSCP - Race Crew Advice from Previous Generations
+# race-crew-advice-from-previous-generations
 
-# Race Crew Advice from Previous Generations
+## SSCP - Race Crew Advice from Previous Generations
+
+## Race Crew Advice from Previous Generations
 
 February 20, 2012 (Wyles):
 
@@ -54,13 +56,8 @@ Graham Dudley
 
 February 10, 2012:
 
-Race crew, please upload additional files here from the filing cabinet and organize them and rename them so that they are easy to browse through. I'll upload a few to get you all started. 
+Race crew, please upload additional files here from the filing cabinet and organize them and rename them so that they are easy to browse through. I'll upload a few to get you all started.&#x20;
 
-[](https://drive.google.com/folderview?id=1t-eLotDyMtGjQGZfCXbhoAnbUMxgh1lU)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1t-eLotDyMtGjQGZfCXbhoAnbUMxgh1lU#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1t-eLotDyMtGjQGZfCXbhoAnbUMxgh1lU#list" frameborder="0"></iframe>
-

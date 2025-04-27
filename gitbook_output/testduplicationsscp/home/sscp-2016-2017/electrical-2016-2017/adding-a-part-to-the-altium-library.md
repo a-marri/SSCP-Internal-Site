@@ -1,12 +1,14 @@
-# SSCP - Adding a Part to the Altium Library
+# adding-a-part-to-the-altium-library
 
-# Adding a Part to the Altium Library
+## SSCP - Adding a Part to the Altium Library
 
-For the following example, I will be adding a charge pump chip by Linear Technology called the LTC3265. 
+## Adding a Part to the Altium Library
+
+For the following example, I will be adding a charge pump chip by Linear Technology called the LTC3265.&#x20;
 
 [LTC3265](http://cds.linear.com/docs/en/datasheet/3265fa.pdf)
 
-First, navigate to the specific schematic library that you are going to add a part to. Since the charge pump is a voltage regulator, I am going to add it to ic_pmic.schlib, which stands for 'power management integrated circuit.' Use svn to get the lock for this library so that no one else can change the library while you are working on it.
+First, navigate to the specific schematic library that you are going to add a part to. Since the charge pump is a voltage regulator, I am going to add it to ic\_pmic.schlib, which stands for 'power management integrated circuit.' Use svn to get the lock for this library so that no one else can change the library while you are working on it.
 
 ![](../../../../assets/image_ba6d7b2fe7.png)
 
@@ -24,7 +26,7 @@ Now, do this crazy thing..
 
 ![](../../../../assets/image_1ec563a236.png)
 
-Search for the part you are adding, right click on the supplier you want and click on 'Add Supplier Link and Parameters to COMPONENT_NAME.' 
+Search for the part you are adding, right click on the supplier you want and click on 'Add Supplier Link and Parameters to COMPONENT\_NAME.'&#x20;
 
 ![](../../../../assets/image_5641fbb6c4.png)
 
@@ -36,7 +38,7 @@ Change the default designator to some letter followed by a question mark. The qu
 
 ![](../../../../assets/image_a69c99f835.png)
 
-Now click Add Footprint at the bottom of the window and click on Browse...   Add the appropriate pcb footprint from the corresponding pcb library. In my case, this was the 20TSSOP, which I found out from the component description. If that information isn't there, you can also find it in the little informational window on your component at the bottom left of the screen.
+Now click Add Footprint at the bottom of the window and click on Browse...   Add the appropriate pcb footprint from the corresponding pcb library. In my case, this was the 20TSSOP, which I found out from the component description. If that information isn't there, you can also find it in the little informational window on your component at the bottom left of the screen.
 
 ![](../../../../assets/image_47969a668c.png)
 
@@ -57,4 +59,3 @@ Double click each of the pins on the schematic and change the Display Name on to
 ![](../../../../assets/image_45b91da752.png)
 
 And you're done! Now just switch back to the normal project view (bottom left corner), save your changes, and commit. Committing automatically releases your lock. Please feel free to edit this page if there is anything you find lacking or unclear and think you could improve.
-

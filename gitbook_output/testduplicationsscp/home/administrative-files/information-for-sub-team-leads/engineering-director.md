@@ -1,88 +1,49 @@
-# SSCP - Engineering Director
+# engineering-director
 
-# Engineering Director
+## SSCP - Engineering Director
 
-Here is a collection of advice about leadership organized by portion of the design cycle. I found that where I spent my time changed dramatically as the design cycle evolved. 
+## Engineering Director
 
-## Description of Responsibilities
+Here is a collection of advice about leadership organized by portion of the design cycle. I found that where I spent my time changed dramatically as the design cycle evolved.&#x20;
 
-[](#h.2de6ezv6aoyh)
+### Description of Responsibilities
 
 As Engineering Director rather than being responsible for the development of one part or subsystem, you are responsible for the car as a whole. This requ
 
-### Values Enforcement
+#### Values Enforcement
 
-[](#h.hnvewlm73a6u)
+#### Tradeoff Evaluation and Enforcement
 
-### Tradeoff Evaluation and Enforcement
+#### Risk Mitigation&#x20;
 
-[](#h.54y7kiu6q1hg)
+#### Scheduling
 
-### Risk Mitigation 
+#### Subteam Coordination
 
-[](#h.i99xugoakak)
+#### Responsible Engineer
 
-### Scheduling
+#### &#x20;
 
-[](#h.q1rkmvz36fj8)
+### Role Models/Famous Examples
 
-### Subteam Coordination
+### Leadership Tips
 
-[](#h.1wmgye6spsfn)
+#### Being right does not mean you are in the right
 
-### Responsible Engineer
+#### A strong visions and set of values makes hard decisions easier
 
-[](#h.irl1gv2r7cfy)
+#### Enforcing team values is always harder to do tomorrow
 
-###  
+#### Setting achievable goals avoids disappointment and still provides motivation&#x20;
 
-[](#h.vgfj89ogfpax)
+#### Set painful externally enforced deadlines before WSC
 
-## Role Models/Famous Examples
+### Solarcar Universal Truths(that aren't obvious)
 
-[](#h.op6l4r4z7o4v)
+#### The best team members are the most likely to fail
 
-## Leadership Tips
+#### Any problem requires a minimum of two
 
-[](#h.62scjwrg9ogz)
+#### Your Competition are less perfect than they look&#x20;
 
-### Being right does not mean you are in the right
-
-[](#h.9wbv8mcppyof)
-
-### A strong visions and set of values makes hard decisions easier
-
-[](#h.bch7ck3j8sgo)
-
-### Enforcing team values is always harder to do tomorrow
-
-[](#h.9ox7wa9yr0d6)
-
-### Setting achievable goals avoids disappointment and still provides motivation 
-
-[](#h.14r9twwlkk1z)
-
-### Set painful externally enforced deadlines before WSC
-
-[](#h.85vydwdy6nzr)
-
-## Solarcar Universal Truths(that aren't obvious)
-
-[](#h.9x56967t2hl9)
-
-### The best team members are the most likely to fail
-
-[](#h.1g4cb0f38jy9)
-
-### Any problem requires a minimum of two
-
-[](#h.vds7c1uyk8i4)
-
-### Your Competition are less perfect than they look 
-
-[](#h.ty059w35sidm)
-
-### Members try to maximize personal utility
-
-[](#h.svvnjt6yynbb)
-
+#### Members try to maximize personal utility

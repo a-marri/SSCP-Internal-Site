@@ -1,6 +1,8 @@
-# SSCP - High voltage lights
+# high-voltage-lights
 
-# High voltage lights
+## SSCP - High voltage lights
+
+## High voltage lights
 
 (This information is from a previous cycle but I'm moving it here for convenience)
 
@@ -11,22 +13,21 @@ One of the design considerations for this design cycle is to drive the lights fr
 Our two options are:
 
 1. Use the existing LT3475-1 board to drive an external FET to control the LEDs. This would require some tricky isolation techniques
-
 2. Use a forward converter (like the LT3799). The LT3799 is meant to take in wall AC voltage and convert the voltage to DC voltage for the lights, but we only need to take in DC voltage. We can exclude the Power Factor Correction and the AC to DC conversion features as well.
 
 Currently developing the LT3799 option.
 
 Base Specs
 
-Vin Max =  27*4.2  = 113.4. Designing for 120V input max. 
+Vin Max =  27\*4.2  = 113.4. Designing for 120V input max.&#x20;
 
-Vin Min = 27*2.4    = 64.8. Designing for 60V input min.
+Vin Min = 27\*2.4    = 64.8. Designing for 60V input min.
 
 Iout Typical = .35A.
 
 Iout Max = .5A.
 
-Vout Typical = 6*2.963V = 17.8V. Design for 18V output typical
+Vout Typical = 6\*2.963V = 17.8V. Design for 18V output typical
 
 Frequency of Operation
 
@@ -34,23 +35,23 @@ Page 4 of datasheet depicts oscillator maximum and minimum frequency vs temperat
 
 We need to ensure that this chip will always be operating within those bounds. By approximating that there is only magnetizing inductance, we can assume the following:
 
-D = Vout * N/ (Vout * N + Vin)                     (see page 12)
+D = Vout \* N/ (Vout \* N + Vin)                     (see page 12)
 
-Iout = .5 * (1-D) * N * Ipk,pri                        (see page 10, assuming triangular waveform)
+Iout = .5 \* (1-D) \* N \* Ipk,pri                        (see page 10, assuming triangular waveform)
 
-Ton = L*Ipk,pri/Vin                                       (When Input is applied to primary of transformer)
+Ton = L\*Ipk,pri/Vin                                       (When Input is applied to primary of transformer)
 
-Toff = L*Ipk,pri/(N*Vout)                              (When Output is applied to secondary of transformer)
+Toff = &#x4C;_&#x49;pk,pri/(&#x4E;_&#x56;out)                              (When Output is applied to secondary of transformer)
 
-f = 1/(Ton+Toff)                                            (Ensure the resulting frequency is in range)
+f = 1/(Ton+Toff)                                            (Ensure the resulting frequency is in range)
 
 Transformer Selection (Page 14 for predesigned transformers)
 
-Model: 750813144 
+Model: 750813144&#x20;
 
-Dimension: 16.5mm × 18mm × 18mm 
+Dimension: 16.5mm × 18mm × 18mm&#x20;
 
-Primary Inductance: 600uH 
+Primary Inductance: 600uH&#x20;
 
 Turns Ratio (Primary, Secondary, Ancillary): 4:1:0.71 (Nps = 4.166)
 
@@ -64,21 +65,21 @@ N = 4
 
 Picking Rsense (Page 12)
 
-Rsense primarily determines the maximum output current. 
+Rsense primarily determines the maximum output current.&#x20;
 
-Rsense = 2*(1-D)N/(Iout,max * 42) *.95
+Rsense = 2\*(1-D)N/(Iout,max \* 42) \*.95
 
 .95 factor is for error tolerancing.
 
 Voltage and Current Control (Page 11)
 
-The important equation is to output the correct amount of current for the LEDs. 
+The important equation is to output the correct amount of current for the LEDs.&#x20;
 
 We can set the output current by setting the voltage on the CTRL pins with a resistor divider. This divider can be set with the equation:
 
-Iout = Ctrl*N/(42*Rsense)
+Iout = Ctr&#x6C;_&#x4E;/(4&#x32;_&#x52;sense)
 
-R1 = R2 (2*N/(42*Iout*Rsense) - 1).
+R1 = R2 (&#x32;_&#x4E;/(4&#x32;_&#x49;out\*Rsense) - 1).
 
 Winding Ratio
 
@@ -88,11 +89,11 @@ Winding Ratio
 
 Switch Voltage Clamp Requirement
 
-TVS diode necessary to protect the FET from leakage inductance. 
+TVS diode necessary to protect the FET from leakage inductance.&#x20;
 
 Put in series with flyback.
 
-Reverse breakdown must be larger than (Vout + Vf)*N where Vout is output of flyback, Vf is secondary diode forward voltage, N is turns ratio.
+Reverse breakdown must be larger than (Vout + Vf)\*N where Vout is output of flyback, Vf is secondary diode forward voltage, N is turns ratio.
 
 MOSFET Selection
 
@@ -100,7 +101,7 @@ LT3799 has 1.9A gate driver. Standard MOSFETs are fine since chip can drive with
 
 Low Qg needed for max efficiency
 
-Drain will be strained to Vout*Nps+Vin when off, but double check the voltage spike. 
+Drain will be strained to Vout\*Nps+Vin when off, but double check the voltage spike.&#x20;
 
 http://www.digikey.com/product-detail/en/IPD50R3K0CE/IPD50R3K0CECT-ND/4214658
 
@@ -112,19 +113,17 @@ RC snubber in parallel can reduce the stress.
 
 Calculations
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](high-voltage-lights.md)
 
 The frequencies are within range.
 
-Secondary Diode must handle = 18 + 2*120/4 = 78.0V
+Secondary Diode must handle = 18 + 2\*120/4 = 78.0V
 
-TVS diode must handle (assume Vf = .7) =  (18+.7)4 = 74.2V
+TVS diode must handle (assume Vf = .7) =  (18+.7)4 = 74.2V
 
-MOSFET must handle 18 * 4 + 120 = 192V
+MOSFET must handle 18 \* 4 + 120 = 192V
 
 Rsense = .2
 
@@ -134,7 +133,7 @@ Because we are using the battery as an input voltage source as opposed to an AC 
 
 Pin considerations:
 
-Vin_sense - Feed the output of a voltage divider that takes in Vin and scales from 120 to 1.25V~1.5V.
+Vin\_sense - Feed the output of a voltage divider that takes in Vin and scales from 120 to 1.25V\~1.5V.
 
 Luminos Light Board Development:
 
@@ -150,23 +149,23 @@ Protecting the LEDs from overvoltage or over current is essential, especially if
 
 Power Constraints.
 
-All the lights should be kept at a low power. The max power for the entire electrical system is 60 Watts (due to the replacement vicor), and one should assume the system will draw 10 Watts with no lights on, so that's less than 50 Watts for ALL the lights. The more power you put into the lights, the more power the needs to be dissipated. The typical way to dissipate large amounts of power from the LEDs is to distribute the heat to the back of the board through numerous vias and attache a heat sink to the back. 
+All the lights should be kept at a low power. The max power for the entire electrical system is 60 Watts (due to the replacement vicor), and one should assume the system will draw 10 Watts with no lights on, so that's less than 50 Watts for ALL the lights. The more power you put into the lights, the more power the needs to be dissipated. The typical way to dissipate large amounts of power from the LEDs is to distribute the heat to the back of the board through numerous vias and attache a heat sink to the back.&#x20;
 
 Here's some preliminary power values for the lights:
 
-Headlights:    6 White XT-E's.      926 lumens at 6.222 watts total. 0.35A and 2.963V each LED.       2 headlights, 12.444 watts.
+Headlights:    6 White XT-E's.      926 lumens at 6.222 watts total. 0.35A and 2.963V each LED.       2 headlights, 12.444 watts.
 
-Front Turn:     6 Amber XP-E's.    285 lumens at 4.374 watts total. 0.35A and 2.073V each LED.       2 turn lights, 8.748 watts.
+Front Turn:     6 Amber XP-E's.    285 lumens at 4.374 watts total. 0.35A and 2.073V each LED.       2 turn lights, 8.748 watts.
 
-Brake:           6 Red XP-E's         363 lumens at 4.356 watts total. 0.35A and 2.073V each LED.       2 brake light, 8.712 watts.
+Brake:           6 Red XP-E's         363 lumens at 4.356 watts total. 0.35A and 2.073V each LED.       2 brake light, 8.712 watts.
 
-Front Turn:     6 Amber XP-E's.    285 lumens at 4.374 watts total. 0.35A and 2.073 each LED.         2 turn lights, 8.748 watts.
+Front Turn:     6 Amber XP-E's.    285 lumens at 4.374 watts total. 0.35A and 2.073 each LED.         2 turn lights, 8.748 watts.
 
 38.7 total watts so far. The amount of lumens emitted is a bit small, so they can be increased. Tail Lights are excluded.
 
-Note: Can Red-Orange lights be used instead? 
+Note: Can Red-Orange lights be used instead?&#x20;
 
-These are more efficient than red lights (can operate 435.6 Lumens at 4.356 watts at .35A. ~100 more lumens than red lights at the same power draw).
+These are more efficient than red lights (can operate 435.6 Lumens at 4.356 watts at .35A. \~100 more lumens than red lights at the same power draw).
 
 LED Driver Chip Selection:
 
@@ -176,25 +175,25 @@ Sizing Components and Design Considerations:
 
 Input Voltage: The driver will be protected from over/undervoltage with the help of a power module, which outputs around 24V. Decoupling capacitors rated at that voltage will be placed.
 
-Switching Frequency: We want a slow enough frequency to not have significant switching and efficiency losses, but fast enough to prevent voltage over/undershoots and have faster transient response. 
+Switching Frequency: We want a slow enough frequency to not have significant switching and efficiency losses, but fast enough to prevent voltage over/undershoots and have faster transient response.&#x20;
 
 This board operates the light board at 1.8MHz. The resistor to select this frequency has been set to 4.7kOhm (the table on page 8 of the datasheet helps the selection)
 
-Inductor: Equation for picking the inductor is (Vout+Vf)(1.2MHz/f). If f=1.8Mhz, Vout=12, Vf (voltage of catch diode)~.4V.
+Inductor: Equation for picking the inductor is (Vout+Vf)(1.2MHz/f). If f=1.8Mhz, Vout=12, Vf (voltage of catch diode)\~.4V.
 
-10uH rated at around 5A is good. 
+10uH rated at around 5A is good.&#x20;
 
 Catch Diode: Has to be switching really fast and can handle the voltage (24V) and current (4.5A) that is being boosted. Schottky Diode Selected was rated at those values.
 
 Current Output: A voltage divider that goes into VAdj that uses VRef as the high voltage is used to set the output current. Tying VRef directly to VAdj will cause the driver to operate 1.5A. The current design is for .35mA, so a voltage divider that uses 33k and 10k will give the correct output current.
 
-SHDN: Chip shutdown when shdn is pulled low, so this pin is connected to the mc with pull-up resistors. 
+SHDN: Chip shutdown when shdn is pulled low, so this pin is connected to the mc with pull-up resistors.&#x20;
 
-PWM: These pins are connected to mc as well. 
+PWM: These pins are connected to mc as well.&#x20;
 
 Fuse: Since we're using LEDs that operate at around .35A and 12V, an appropriate fuse is needed as protection, so one rated at 32V and .5A is placed.
 
-For LT3475-1 applications with higher output voltages, an additional Zener diode may be necessary (Figure 5d) to maintain pin voltage 
+For LT3475-1 applications with higher output voltages, an additional Zener diode may be necessary (Figure 5d) to maintain pin voltage&#x20;
 
 below the absolute maximum. (Sasha notes that it is not ncessary for our purposes)
 
@@ -208,33 +207,28 @@ Future Considerations:
 
 Board Bring-Up, Rev 1.1.0
 
-Major changes for this revision: 
+Major changes for this revision:&#x20;
 
 3 driver chips per board for 6 output channels.
 
 Massive reduction in driver section area by means of using 4-layer boards and physically smaller inductors from coilcraft.
 
-[ inductors from coilcraft](http://www.coilcraft.com/xal50xx.cfm)
+[inductors from coilcraft](http://www.coilcraft.com/xal50xx.cfm)
 
-New form factor to match the standard box design including Deutsch and Phoenix connectors. 
+New form factor to match the standard box design including Deutsch and Phoenix connectors.&#x20;
 
-Some notes: 
+Some notes:&#x20;
 
 LEDs are being driven!
 
 The LT chips' orientation could be marked more clearly.
 
-PWM3L and PWM3R are currently attached to STM32F4 pins PC4 and PC5, which are not PWM enabled. Luckily, pins PB0 and PB1 (directly next door) are PWM enabled, and it's an easy fix. 
+PWM3L and PWM3R are currently attached to STM32F4 pins PC4 and PC5, which are not PWM enabled. Luckily, pins PB0 and PB1 (directly next door) are PWM enabled, and it's an easy fix.&#x20;
 
-Lower PWM duty cycles (<50%) result in a fairly tremendous whining racket. However, this appears it will drop off tremendously when it'll be sealed in the box. 
+Lower PWM duty cycles (<50%) result in a fairly tremendous whining racket. However, this appears it will drop off tremendously when it'll be sealed in the box.&#x20;
 
 LT Spice simulation:
 
-[](https://drive.google.com/folderview?id=1GjNezHUN3-VdD7QfLPi_xWP6t3HtOI-o)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1GjNezHUN3-VdD7QfLPi_xWP6t3HtOI-o#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1GjNezHUN3-VdD7QfLPi_xWP6t3HtOI-o#list" frameborder="0"></iframe>
-

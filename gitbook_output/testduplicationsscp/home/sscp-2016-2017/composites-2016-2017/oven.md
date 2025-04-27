@@ -1,18 +1,16 @@
-# SSCP - Oven
+# oven
 
-# Oven
+## SSCP - Oven
+
+## Oven
 
 We have several options for curing composites this cycle (2016-2017).
 
-## Space Systems Loral (Large oven, large autoclave)
+### Space Systems Loral (Large oven, large autoclave)
 
-[](#h.sdmwzwtiuxih)
+Has expressed interest in letting us use their autoclave / oven.  We need to confirm out layup schedule with them.
 
-Has expressed interest in letting us use their autoclave / oven.  We need to confirm out layup schedule with them.
-
-## ACP Composites (Large oven, small autoclave, plycutter)
-
-[](#h.eock2w9wrbjn)
+### ACP Composites (Large oven, small autoclave, plycutter)
 
 Peter Nusser (pnusser@acpsales.com) on autoclaves and plycutter:
 
@@ -26,27 +24,24 @@ Guillermo on sourcing chassis panels and oven:
 
 Sourcing Composites Panels
 
-Fiberglass-aluminum panels are really hard to find because they are usually a custom product. ACP Composites is willing to make these on request, or give us discounted panels if any are left over from related projects. ACP's nearby factory can make any panel type with their rolls of material or our rolls of, say, carbon, if we happen to have a lot of "useless" high-temperature cure material that we can't use. 
+Fiberglass-aluminum panels are really hard to find because they are usually a custom product. ACP Composites is willing to make these on request, or give us discounted panels if any are left over from related projects. ACP's nearby factory can make any panel type with their rolls of material or our rolls of, say, carbon, if we happen to have a lot of "useless" high-temperature cure material that we can't use.&#x20;
 
-[ACP Composites ](http://www.acpsales.com/home.html)
+[ACP Composites](http://www.acpsales.com/home.html)
 
 Large Oven
 
-I have found an oven large enough to bake a car in. ACP Composites has an oven about 1.5 times the size of the wooden box oven we built this year, in addition to their large laminators, and two large autoclaves (not large enough for  car though). They can do bakes up to 350F. ACP Composites is 1.5 hours away from us in Livermore, CA. 
+I have found an oven large enough to bake a car in. ACP Composites has an oven about 1.5 times the size of the wooden box oven we built this year, in addition to their large laminators, and two large autoclaves (not large enough for  car though). They can do bakes up to 350F. ACP Composites is 1.5 hours away from us in Livermore, CA.&#x20;
 
-I do not recommend using a professional oven, since we got good temperature control with our own in-house fiberglass-insulated beast and have a workcycle that cannot be matched by industry (namely, 4 am bakes). However, I think it's my duty to pass on this oven information nonetheless. 
+I do not recommend using a professional oven, since we got good temperature control with our own in-house fiberglass-insulated beast and have a workcycle that cannot be matched by industry (namely, 4 am bakes). However, I think it's my duty to pass on this oven information nonetheless.&#x20;
 
-## Building our own oven
-
-[](#h.wh82umzf2cyi)
+### Building our own oven
 
 It may be necessary to do this for logistical reasons.
 
-According Vivian Lee, who worked on Equinox and Apogee, we have used 350F prepreg in home-built oven on previous cars, see email below.  
+According Vivian Lee, who worked on Equinox and Apogee, we have used 350F prepreg in home-built oven on previous cars, see email below. &#x20;
 
-I'm an alumni from Equinox and Apogee. Yup, a ways back. On the composites, it's pretty standard to use 350F cute prepreg. We've done it in the past at solar car actually and pretty standard when I was at Boeing. Let me know if you guys have questions. Led mech on Apogee and worked composites on a few cars. 
+I'm an alumni from Equinox and Apogee. Yup, a ways back. On the composites, it's pretty standard to use 350F cute prepreg. We've done it in the past at solar car actually and pretty standard when I was at Boeing. Let me know if you guys have questions. Led mech on Apogee and worked composites on a few cars.&#x20;
 
 Cheers,
 
 Vivian (vivianlee@alumni.stanford.edu)
-

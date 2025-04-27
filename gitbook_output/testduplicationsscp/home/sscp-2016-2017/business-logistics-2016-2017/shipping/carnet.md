@@ -1,8 +1,10 @@
-# SSCP - CARNET
+# carnet
 
-# CARNET
+## SSCP - CARNET
 
-From: "carnets@atacarnet.com" <carnets@atacarnet.com>
+## CARNET
+
+From: "carnets@atacarnet.com" [carnets@atacarnet.com](mailto:carnets@atacarnet.com)
 
 [carnets@atacarnet.com](mailto:carnets@atacarnet.com)
 
@@ -10,7 +12,7 @@ From: "carnets@atacarnet.com" <carnets@atacarnet.com>
 
 Date: July 6, 2017 at 6:54:27 AM PDT
 
-To: Roman Toma Decca <decca@stanford.edu>, "carnets@atacarnet.com" <carnets@atacarnet.com>
+To: Roman Toma Decca [decca@stanford.edu](mailto:decca@stanford.edu), "carnets@atacarnet.com" [carnets@atacarnet.com](mailto:carnets@atacarnet.com)
 
 [decca@stanford.edu](mailto:decca@stanford.edu)
 
@@ -22,19 +24,19 @@ Subject: RE: Stanford Solar Car Shipment
 
 Hello Roman,
 
- 
+&#x20;
 
 Can you please include any serial, model or part numbers?
 
- 
+&#x20;
 
 Everything else looks good. You will be able to attach an Excel spreadsheet in the application.
 
- 
+&#x20;
 
 Regards,
 
- 
+&#x20;
 
 Monika Jadeszko
 
@@ -58,33 +60,33 @@ www.ATACarnet.com
 
 [www.ATACarnet.com](http://www.atacarnet.com/)
 
- 
+&#x20;
 
-                   helpline | 800.282.2900
+&#x20;                  helpline | 800.282.2900
 
 [800.282.2900](tel:%28800%29%20282-2900)
 
-                   phone | 847.852.3134
+&#x20;                  phone | 847.852.3134
 
 [847.852.3134](tel:%28847%29%20852-3134)
 
-                   fax | 847.381.3857
+&#x20;                  fax | 847.381.3857
 
 [847.381.3857](tel:%28847%29%20381-3857)
 
-    
+&#x20;  &#x20;
 
-                
+&#x20;              &#x20;
 
-                          
+&#x20;                        &#x20;
 
- 
+&#x20;
 
- 
+&#x20;
 
- 
+&#x20;
 
-From: Roman Toma Decca [mailto:decca@stanford.edu] 
+From: Roman Toma Decca \[mailto:decca@stanford.edu]&#x20;
 
 [mailto:decca@stanford.edu](mailto:decca@stanford.edu)
 
@@ -96,7 +98,7 @@ To: carnets@atacarnet.com
 
 Subject: Re: Stanford Solar Car Shipment
 
- 
+&#x20;
 
 Hi Monika,
 
@@ -110,33 +112,33 @@ Roman
 
 [carnets@atacarnet.com](mailto:carnets@atacarnet.com)
 
-> 
+> &#x20;
 
-> Roman, 
+> Roman,&#x20;
 
-> 
+> &#x20;
 
 > Per our conversation, please fill out an online application on our website: www.atacarnet.com.
 
 [www.atacarnet.com](http://www.atacarnet.com/)
 
-> 
+> &#x20;
 
 > For the list of the goods, please itemize the list including any serial/identification numbers, quantity, value and the country of manufacture.
 
-> 
+> &#x20;
 
 > Please DO NOT include any consumables/giveaways on the Carnet.
 
-> 
+> &#x20;
 
 > Once the application is submitted, we can process a Carnet within 24-48 hours.
 
-> 
+> &#x20;
 
 > Regards,
 
-> 
+> &#x20;
 
 > Monika Jadeszko
 
@@ -158,37 +160,37 @@ Roman
 
 [www.CPDCarnet.com](http://www.cpdcarnet.com/)
 
-> 
+> &#x20;
 
-> 
+> &#x20;
 
-> 
+> &#x20;
 
->                    helpline | 800.282.2900
+> &#x20;                   helpline | 800.282.2900
 
 [800.282.2900](tel:%28800%29%20282-2900)
 
->                    phone | 847.852.3134
+> &#x20;                   phone | 847.852.3134
 
 [847.852.3134](tel:%28847%29%20852-3134)
 
->                    fax | 847.852.3123
+> &#x20;                   fax | 847.852.3123
 
 [847.852.3123](tel:%28847%29%20852-3123)
 
->      
+> &#x20;    &#x20;
 
->                                           
+> &#x20;                                         &#x20;
 
-> 
+> &#x20;
 
-> 
+> &#x20;
 
-> 
+> &#x20;
 
-> -----Original Message-----
+> \-----Original Message-----
 
-> From: Roman Toma Decca [mailto:decca@stanford.edu] 
+> From: Roman Toma Decca \[mailto:decca@stanford.edu]&#x20;
 
 [mailto:decca@stanford.edu](mailto:decca@stanford.edu)
 
@@ -200,19 +202,18 @@ Roman
 
 > Subject: Re: Stanford Solar Car Shipment
 
-> 
+> &#x20;
 
 > Hi Monica,
 
-> 
+> &#x20;
 
 > My name is Roman and I’m the business lead of the Stanford Solar Car team. We need to prepare a CARNET for the shipment of our battery pack and vehicle to Australia slated for arrival in the last week of August, 2017. The departure/arrival date is not finalized yet, but the airline we’re using is Qantas. Beyond that, I don’t know much else about starting the process so if you could give me a call at (628) 800-1036 at your soonest convenience, that would be great.
 
 [(628) 800-1036](tel:%28628%29%20800-1036)
 
-> 
+> &#x20;
 
 > Thank you,
 
 > Roman
-

@@ -1,6 +1,8 @@
-# SSCP - Unveiling Plan
+# unveiling-plan
 
-# Unveiling Plan
+## SSCP - Unveiling Plan
+
+## Unveiling Plan
 
 before noon: move Shelly, chairs + tables inside
 
@@ -14,7 +16,7 @@ before noon: move Shelly, chairs + tables inside
 
 4:30pm: speeches
 
-    during speeches, someone who is not talking needs to set out the ice cream!
+&#x20;   during speeches, someone who is not talking needs to set out the ice cream!
 
 5pm: reception begins
 
@@ -37,4 +39,3 @@ Decide whose computers to use for slide show, time lapse, and telemetry demo
 Select items for show and tell
 
 Write speeches
-

@@ -1,6 +1,8 @@
-# SSCP - Vinyl Wrapping VW Vehicles
+# vinyl-wrapping-vw-vehicles
 
-# Vinyl Wrapping VW Vehicles
+## SSCP - Vinyl Wrapping VW Vehicles
+
+## Vinyl Wrapping VW Vehicles
 
 From Mark @ Maverick Label
 
@@ -12,9 +14,9 @@ I found a high resolution stock image of our VW car. I laid out some graphics in
 
 I'll attach the logo files I sent to Maverick Labels. Here are my contacts from Maverick
 
-Rick Kent            
+Rick Kent           &#x20;
 
-rickkent@mavericklabel.com    
+rickkent@mavericklabel.com   &#x20;
 
 [rickkent@mavericklabel.com](mailto:rickkent@mavericklabel.com)
 
@@ -46,11 +48,6 @@ An SSCP Contact. secondary contact at Maverick Labels
 
 Also, if Maverick Labels falls through I think we had a Vistaprint Sponsorship for Xenith.
 
-[](https://drive.google.com/folderview?id=15UXK4Q94bmSqFxoQG3hbtZi7LCCKUXAx)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=15UXK4Q94bmSqFxoQG3hbtZi7LCCKUXAx#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=15UXK4Q94bmSqFxoQG3hbtZi7LCCKUXAx#list" frameborder="0"></iframe>
-

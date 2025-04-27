@@ -1,18 +1,16 @@
-# SSCP - Oven
+# oven
 
-# Oven
+## SSCP - Oven
 
-[](https://docs.google.com/document/d/1v1Zw8eyjNDWLSuH-y-EMDE8IfzWF8D05CLdsfT6XCCQ/edit)
+## Oven
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](oven.md)
 
 ![](../../../../../assets/docs_32dp.png)
 
-[COPY]
+\[COPY]
 
 How to Build a Composites Oven
 
@@ -26,18 +24,18 @@ Warnings:
 
 Do not…
 
-* recycle hot air into the intakes of the heaters (only pull in outside air)*attempt to modify the heaters’ built-in thermostats in order to control oven temperature (disabling them is ok)
-* recycle hot air into the intakes of the heaters (only pull in outside air)*
+* recycle hot air into the intakes of the heaters (only pull in outside air)\*attempt to modify the heaters’ built-in thermostats in order to control oven temperature (disabling them is ok)
+* recycle hot air into the intakes of the heaters (only pull in outside air)\*
 * attempt to modify the heaters’ built-in thermostats in order to control oven temperature (disabling them is ok)
 
-1. recycle hot air into the intakes of the heaters (only pull in outside air)*
+1. recycle hot air into the intakes of the heaters (only pull in outside air)\*
 2. attempt to modify the heaters’ built-in thermostats in order to control oven temperature (disabling them is ok)
 
-recycle hot air into the intakes of the heaters (only pull in outside air)*
+recycle hot air into the intakes of the heaters (only pull in outside air)\*
 
 attempt to modify the heaters’ built-in thermostats in order to control oven temperature (disabling them is ok)
 
-*If you do this, the plastic compression chamber will melt and lose air pressure. This will prevent the fuel from atomizing and it will instead drip down and collect in the fan housing. In our case, this led to a small fire precariously close to the fuel tank.
+\*If you do this, the plastic compression chamber will melt and lose air pressure. This will prevent the fuel from atomizing and it will instead drip down and collect in the fan housing. In our case, this led to a small fire precariously close to the fuel tank.
 
 Timeline:
 
@@ -45,27 +43,23 @@ Preparation should begin at least three weeks in advance.
 
 (approximate/divided by individual sessions/not including experimentation time)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](oven.md)
 
 Materials Used:
 
 (not an exhaustive list)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](oven.md)
 
 Structure:
 
-A basic SketchUp model of the oven’s structure can be found in the file ‘sscp_oven.skp’. Dimensions may vary based on mold size, but ours was approximately 5.5 x 5.5 x 17.5ft. All following analysis will be based on those measurements.       
+A basic SketchUp model of the oven’s structure can be found in the file ‘sscp\_oven.skp’. Dimensions may vary based on mold size, but ours was approximately 5.5 x 5.5 x 17.5ft. All following analysis will be based on those measurements.      &#x20;
 
-The 2x4-ribbed plywood design was structurally sufficient and efficient to build. Each of the four long faces should be assembled flat on the ground with the 2x4s centered under the vertical seams in the plywood. It is extremely important, however, that their spacing is kept consistent in order to match the joints between panels. 1.5” screws placed every ~14in along both sides of the seams will secure the segments together. Disassembly will be easier if no screws are within 2in of the outer edge (so they don’t interfere with the walls). The 2x4s on the walls must then be trimmed to interface with the roof and floor.
+The 2x4-ribbed plywood design was structurally sufficient and efficient to build. Each of the four long faces should be assembled flat on the ground with the 2x4s centered under the vertical seams in the plywood. It is extremely important, however, that their spacing is kept consistent in order to match the joints between panels. 1.5” screws placed every \~14in along both sides of the seams will secure the segments together. Disassembly will be easier if no screws are within 2in of the outer edge (so they don’t interfere with the walls). The 2x4s on the walls must then be trimmed to interface with the roof and floor.
 
 The walls can each be raised into place and secured with corner brackets on both sides of each 2x4 joint. The plywood for the doors can be clamped in place temporarily to provide extra support. The roof should then be lifted into place and secured in the same manner.
 
@@ -75,11 +69,11 @@ Insulation:
 
 We used 1in thick high-temperature mineral wool insulation on all the inside surfaces of the box as well as around the holes for the air intakes (to protect the wood from the metal). This material can easily be cut with scissors, razor blades, or box knives. On the walls, ceiling, and doors, this was secured using screws and fender washers. A sheet of insulation was also temporarily laid over the caster tracks near the air inlet in order to prevent the angle iron from overheating and charring the wood.
 
-Together, the insulation and plywood should provide a thermal resistance of about R = 5 ft2*hr*ºFBtu. This means that maintaining a temperature of 275ºF should require a power input of approximately 20,000 Btuhr. After considering the effects of heat leaks, this is pretty consistent with our findings, as temperature can be maintained relatively easily using one 80,000 Btuhrheater intermittently. However, this should be avoided as it may overheat the vents or create hotspots on the mold.
+Together, the insulation and plywood should provide a thermal resistance of about R = 5 ft&#x32;_&#x68;&#x72;_&#xBA;FBtu. This means that maintaining a temperature of 275ºF should require a power input of approximately 20,000 Btuhr. After considering the effects of heat leaks, this is pretty consistent with our findings, as temperature can be maintained relatively easily using one 80,000 Btuhrheater intermittently. However, this should be avoided as it may overheat the vents or create hotspots on the mold.
 
 Tracks:
 
-Steel angle irons laid angle-up serve as tracks that interface with the grooved casters. They can be secured to the floor using standard wood screws driven directly on either side but should be placed on top of a ~4in wide secondary layer of plywood in order to clear the insulation and better support the weight of the mold. Consistent spacing can be achieved by cutting scraps of plywood to the length of the desired track width and using them as templates.
+Steel angle irons laid angle-up serve as tracks that interface with the grooved casters. They can be secured to the floor using standard wood screws driven directly on either side but should be placed on top of a \~4in wide secondary layer of plywood in order to clear the insulation and better support the weight of the mold. Consistent spacing can be achieved by cutting scraps of plywood to the length of the desired track width and using them as templates.
 
 Two extra track segments should be kept available in order to facilitate the loading of the molds. These will slide on top of the secured track and protrude from the door of the box, each resting on a block with a height equal to the level of the track bed (one 2x4 and two plywood layers in our case).
 
@@ -93,11 +87,11 @@ The heaters can be integrated into the ductwork using the reducers. To do this, 
 
 Ducting:
 
-We used 6in aluminum ducting for all of our connections. These ran from each heater nozzle to their respective vent locations on the walls of the oven and were secured using hose clamps at each end. We found it was necessary to ensure that these pipes were never shorter than ~4ft, even for those that connected near the base of the oven. This is to allow the air to cool slightly before entering the chamber and to further prevent hotspots or vent overheating.
+We used 6in aluminum ducting for all of our connections. These ran from each heater nozzle to their respective vent locations on the walls of the oven and were secured using hose clamps at each end. We found it was necessary to ensure that these pipes were never shorter than \~4ft, even for those that connected near the base of the oven. This is to allow the air to cool slightly before entering the chamber and to further prevent hotspots or vent overheating.
 
-The vents were placed on a secondary layer of insulation and secured to the walls using wood screws. This better separated them from the wood to prevent charring. We pointed these vents ~30º downwards in order to both encourage circulation and fight the natural tendency for the heat gradient to bias towards the top.
+The vents were placed on a secondary layer of insulation and secured to the walls using wood screws. This better separated them from the wood to prevent charring. We pointed these vents \~30º downwards in order to both encourage circulation and fight the natural tendency for the heat gradient to bias towards the top.
 
- 
+&#x20;
 
 Over the course of our experimentation, we tried several vent orientations and locations before arriving at this solution:
 
@@ -105,9 +99,9 @@ Because the airflow rate is high and thus the drop between inlet and outlet temp
 
 Charring:
 
-Though, for the most part, the oven was well-insulated, there were several locations where charring occurred. To prevent this, it is important to minimize gaps in the insulation (especially on the ceiling) and to avoid direct contact between metal and wood. 
+Though, for the most part, the oven was well-insulated, there were several locations where charring occurred. To prevent this, it is important to minimize gaps in the insulation (especially on the ceiling) and to avoid direct contact between metal and wood.&#x20;
 
-   
+&#x20; &#x20;
 
 Loading/Unloading:
 
@@ -163,4 +157,3 @@ For the cooldown period, we found that little-to-no input was needed from the he
 Disassembly:
 
 The insulation should be removed first, followed by the vents and rails. The plywood panels can be removed individually, leaving the 2x4 frame mostly in place. This should happen in segments, moving from one end to the other and working from top to bottom for each section.
-

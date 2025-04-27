@@ -1,46 +1,31 @@
-# SSCP - Suspension Design
+# suspension-design
 
-# Suspension Design
+## SSCP - Suspension Design
 
-[](https://docs.google.com/spreadsheets/d/1Zp8zMhIgZFCE8FdHclceK01hBbmwLpBkDris7GeLFFo/edit)
+## Suspension Design
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Embedded Content]()
+Embedded content: [Embedded Content](./)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+![](../../../../../assets/sheets_32dp.png)
 
-![](../../../../assets/sheets_32dp.png)
+#### Embedded Content
 
-[](https://docs.google.com/presentation/d/1ulX4mgT1kgH6tzq1BuBVa6u85nMEEaarqCDRLPyswVs/present)
+Embedded content: [Embedded Content](./)
 
-### Embedded Content
-
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
-![](../../../../assets/slides_32dp.png)
+![](../../../../../assets/slides_32dp.png)
 
 Suspension Design Review #1
 
-[](https://docs.google.com/presentation/d/1DLHN1GrXiHdQARd_INBniY3TBW7KYRdiOu1whlJegYI/present)
+#### Embedded Content
 
-### Embedded Content
+Embedded content: [Embedded Content](./)
 
-Embedded content: [Embedded Content]()
+![](../../../../../assets/slides_32dp.png)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+#### Embedded Content
 
-![](../../../../assets/slides_32dp.png)
+Embedded content: [Embedded Content](./)
 
-[](https://docs.google.com/document/d/1VMEyJKnu1cHdJK0GEh5puAfbeDo-9hmxD36hkFCUbdE/edit)
-
-### Embedded Content
-
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
-![](../../../../assets/docs_32dp.png)
-
+![](../../../../../assets/docs_32dp.png)

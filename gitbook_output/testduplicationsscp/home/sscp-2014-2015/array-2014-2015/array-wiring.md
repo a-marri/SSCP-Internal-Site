@@ -1,14 +1,14 @@
-# SSCP - Array Wiring
+# array-wiring
 
-# Array Wiring
+## SSCP - Array Wiring
 
-8/18/15 Added layout (which module is in which string) and which string leads to which MPPT (see attachment). Note: Modules are numbered in this doc according to where they are on the car, not which array modules we used for each one. 
+## Array Wiring
 
-### Embedded Content
+8/18/15 Added layout (which module is in which string) and which string leads to which MPPT (see attachment). Note: Modules are numbered in this doc according to where they are on the car, not which array modules we used for each one.&#x20;
 
-Embedded content: [Custom embed]()
+#### Embedded Content
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](array-wiring.md)
 
 Note: On the trackers, the higher number string is closer to the HV cabling.
 
@@ -28,19 +28,17 @@ Red: Chassis Panels
 
 Purple: Planned door outline
 
-Large Green X: area inaccessible for soldering when chassis is glued. 
+Large Green X: area inaccessible for soldering when chassis is glued.&#x20;
 
 Small green dots: array drop-in locations for potentially tricky areas (AKA everywhere that's not the door)
 
-Green line: run with Laminax wiring in top channel. 
+Green line: run with Laminax wiring in top channel.&#x20;
 
-Green L: Drop through outer shell underneath, for immediate soldering to board. 
+Green L: Drop through outer shell underneath, for immediate soldering to board.&#x20;
 
 ![](../../../../assets/image_d03bb06d2c.jpg)
 
-## Procedure for dropping tab through top of car:
-
-[](#h.yta5okrf5p2s)
+### Procedure for dropping tab through top of car:
 
 ![](../../../../assets/image_e701aa02fa.jpg)
 
@@ -54,15 +52,10 @@ Steps:
 
 4: Router with 1/2" carbide bur in plunge mode to route hole in epoxy (NOT carbon).
 
-5: Run flat tab wire through newly routed hole, then silicone around it for water tightness. 
+5: Run flat tab wire through newly routed hole, then silicone around it for water tightness.&#x20;
 
-Special note: The wire should remain kapton-insulated on both sides *until* it has been brought through the shell. Only after the wire is secured should the insulation be peeled back as necessary to allow soldering to board. 
+Special note: The wire should remain kapton-insulated on both sides _until_ it has been brought through the shell. Only after the wire is secured should the insulation be peeled back as necessary to allow soldering to board.&#x20;
 
-[](https://drive.google.com/folderview?id=1Ms0yb0x-ri4Evw2T6TlPNokwq29sHndU)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1Ms0yb0x-ri4Evw2T6TlPNokwq29sHndU#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1Ms0yb0x-ri4Evw2T6TlPNokwq29sHndU#list" frameborder="0"></iframe>
-

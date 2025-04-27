@@ -1,6 +1,8 @@
-# SSCP - Meetings and Conversations
+# meetings-and-conversations
 
-# Meetings and Conversations
+## SSCP - Meetings and Conversations
+
+## Meetings and Conversations
 
 This is a placeholder to put all array meeting and conversation pages under.
 
@@ -12,19 +14,18 @@ bypass diodes?
 
 Cool way to clean off car:
 
-    cooled, compressed air
+&#x20;   cooled, compressed air
 
-    lint rollers?
+&#x20;   lint rollers?
 
 Backsheets: Thermal coefficient of expansion!!!
 
-    Heat transfer if topshell will be perforated
+&#x20;   Heat transfer if topshell will be perforated
 
 Texture: try putting a sunpower cell on it!
 
-    start this now
+&#x20;   start this now
 
-    talk to Cori about starting the nanofab part ahora
+&#x20;   talk to Cori about starting the nanofab part ahora
 
-    
-
+&#x20;  &#x20;

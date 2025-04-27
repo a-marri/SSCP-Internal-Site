@@ -1,10 +1,10 @@
-# SSCP - VPUE Grant Funding
+# vpue-grant-funding
 
-# VPUE Grant Funding
+## SSCP - VPUE Grant Funding
 
-## Notes from 2012_10_12 meeting with Chris Gerdes
+## VPUE Grant Funding
 
-[](#h.jbcfhxmqa9hv)
+### Notes from 2012\_10\_12 meeting with Chris Gerdes
 
 I met with Gerdes this morning. He was happy to be our advisor and he offered the following advice.
 
@@ -31,7 +31,6 @@ I met with Gerdes this morning. He was happy to be our advisor and he offered th
 * Since there is a chance that people may object to fall quarter or spring quarter funding we should delineate the request into clearly separated sections. Then they could reject fall quarter funding without rejecting summer quarter funding.
 * It is always possible to expand the size of funding once the proposal has been approved.
 * Start with requesting funding for ten or less. Less would be better.
-
 * I should double check with Brian Thomas again to confirm that asking for a VPUE Departmental Grant is our best option. We could also request funding through the ME department or through the School of Engineering's SURF program.
 * If we ever email Gerdes about stuff we should CC Brad Osgood.
 * Make sure we leave out discussions of our group's flaws. We should be relentlessly positive in the proposal.
@@ -122,26 +121,23 @@ It is always possible to expand the size of funding once the proposal has been a
 
 Start with requesting funding for ten or less. Less would be better.
 
-## Notes from Meeting with Brad Osgood
+### Notes from Meeting with Brad Osgood
 
-[](#h.hjmoysv79qd4)
-
-* The SoE SURI program could be a good fit. The money is SoE money, but the VPUE's office administers funding in conjunction with individual departments$6,000 per student. 10 students is a lot. Talk to Chris EdwardsVPUE support will not cover the spring or the fall probablyWe would be paid in two half-lump sums at the start and middle of the summer
+* The SoE SURI program could be a good fit. The money is SoE money, but the VPUE's office administers funding in conjunction with individual departments$6,000 per student. 10 students is a lot. Talk to Chris EdwardsVPUE support will not cover the spring or the fall probablyWe would be paid in two half-lump sums at the start and middle of the summer
 * The SoE SURI program could be a good fit. The money is SoE money, but the VPUE's office administers funding in conjunction with individual departments
-* $6,000 per student. 10 students is a lot. 
+* $6,000 per student. 10 students is a lot.&#x20;
 * Talk to Chris Edwards
 * VPUE support will not cover the spring or the fall probably
 * We would be paid in two half-lump sums at the start and middle of the summer
-
 * The SoE SURI program could be a good fit. The money is SoE money, but the VPUE's office administers funding in conjunction with individual departments
-* $6,000 per student. 10 students is a lot. 
+* $6,000 per student. 10 students is a lot.&#x20;
 * Talk to Chris Edwards
 * VPUE support will not cover the spring or the fall probably
 * We would be paid in two half-lump sums at the start and middle of the summer
 
 The SoE SURI program could be a good fit. The money is SoE money, but the VPUE's office administers funding in conjunction with individual departments
 
-$6,000 per student. 10 students is a lot. 
+$6,000 per student. 10 students is a lot.&#x20;
 
 Talk to Chris Edwards
 
@@ -149,38 +145,35 @@ VPUE support will not cover the spring or the fall probably
 
 We would be paid in two half-lump sums at the start and middle of the summer
 
-## Notes from 2012_10_23 meeting with Chris Gerdes
+### Notes from 2012\_10\_23 meeting with Chris Gerdes
 
-[](#h.wbftof28s1as)
-
-* We would have everyone apply for funding through the SoEThere was some discussion about having us apply through multiple professors: one professor for each department. Brad would have been the person to figure out what department administers the fundingBut Gerdes will be able to sponsor everyoneWe can submit a proposal to Brad directly and then the School of Engineering will administer the fundingIf we tried to get outside grants those would require a PI. The university needs there to be a PI to control what grants the school applies to. Outside grants would be challenging for us to do. Gerdes wasn't thrilled about being our PI or having us find another PI for an outside grantsUpdate the proposal to say that we will comply with SoE general procedure for stipends. we will make presentations as per the ME final poster sessionmake the proposal shortThe timeline is unknown at the moment. Chris and the solar car team lead will decide who receives funding 
+* We would have everyone apply for funding through the SoEThere was some discussion about having us apply through multiple professors: one professor for each department. Brad would have been the person to figure out what department administers the fundingBut Gerdes will be able to sponsor everyoneWe can submit a proposal to Brad directly and then the School of Engineering will administer the fundingIf we tried to get outside grants those would require a PI. The university needs there to be a PI to control what grants the school applies to. Outside grants would be challenging for us to do. Gerdes wasn't thrilled about being our PI or having us find another PI for an outside grantsUpdate the proposal to say that we will comply with SoE general procedure for stipends. we will make presentations as per the ME final poster sessionmake the proposal shortThe timeline is unknown at the moment. Chris and the solar car team lead will decide who receives funding&#x20;
 * We would have everyone apply for funding through the SoE
-* There was some discussion about having us apply through multiple professors: one professor for each department. Brad would have been the person to figure out what department administers the fundingBut Gerdes will be able to sponsor everyone
+* There was some discussion about having us apply through multiple professors: one professor for each department. Brad would have been the person to figure out what department administers the fundingBut Gerdes will be able to sponsor everyone
 * Brad would have been the person to figure out what department administers the funding
 * But Gerdes will be able to sponsor everyone
 * We can submit a proposal to Brad directly and then the School of Engineering will administer the funding
 * If we tried to get outside grants those would require a PI. The university needs there to be a PI to control what grants the school applies to. Outside grants would be challenging for us to do. Gerdes wasn't thrilled about being our PI or having us find another PI for an outside grants
-* Update the proposal to say that we will comply with SoE general procedure for stipends. we will make presentations as per the ME final poster sessionmake the proposal short
+* Update the proposal to say that we will comply with SoE general procedure for stipends. we will make presentations as per the ME final poster sessionmake the proposal short
 * we will make presentations as per the ME final poster session
 * make the proposal short
-* The timeline is unknown at the moment. 
-* Chris and the solar car team lead will decide who receives funding 
-
+* The timeline is unknown at the moment.&#x20;
+* Chris and the solar car team lead will decide who receives funding&#x20;
 * We would have everyone apply for funding through the SoE
-* There was some discussion about having us apply through multiple professors: one professor for each department. Brad would have been the person to figure out what department administers the fundingBut Gerdes will be able to sponsor everyone
+* There was some discussion about having us apply through multiple professors: one professor for each department. Brad would have been the person to figure out what department administers the fundingBut Gerdes will be able to sponsor everyone
 * Brad would have been the person to figure out what department administers the funding
 * But Gerdes will be able to sponsor everyone
 * We can submit a proposal to Brad directly and then the School of Engineering will administer the funding
 * If we tried to get outside grants those would require a PI. The university needs there to be a PI to control what grants the school applies to. Outside grants would be challenging for us to do. Gerdes wasn't thrilled about being our PI or having us find another PI for an outside grants
-* Update the proposal to say that we will comply with SoE general procedure for stipends. we will make presentations as per the ME final poster sessionmake the proposal short
+* Update the proposal to say that we will comply with SoE general procedure for stipends. we will make presentations as per the ME final poster sessionmake the proposal short
 * we will make presentations as per the ME final poster session
 * make the proposal short
-* The timeline is unknown at the moment. 
-* Chris and the solar car team lead will decide who receives funding 
+* The timeline is unknown at the moment.&#x20;
+* Chris and the solar car team lead will decide who receives funding&#x20;
 
 We would have everyone apply for funding through the SoE
 
-There was some discussion about having us apply through multiple professors: one professor for each department. 
+There was some discussion about having us apply through multiple professors: one professor for each department.&#x20;
 
 * Brad would have been the person to figure out what department administers the funding
 * But Gerdes will be able to sponsor everyone
@@ -193,7 +186,7 @@ We can submit a proposal to Brad directly and then the School of Engineering wil
 
 If we tried to get outside grants those would require a PI. The university needs there to be a PI to control what grants the school applies to. Outside grants would be challenging for us to do. Gerdes wasn't thrilled about being our PI or having us find another PI for an outside grants
 
-Update the proposal to say that we will comply with SoE general procedure for stipends. 
+Update the proposal to say that we will comply with SoE general procedure for stipends.&#x20;
 
 * we will make presentations as per the ME final poster session
 * make the proposal short
@@ -202,26 +195,18 @@ we will make presentations as per the ME final poster session
 
 make the proposal short
 
-The timeline is unknown at the moment. 
+The timeline is unknown at the moment.&#x20;
 
-Chris and the solar car team lead will decide who receives funding 
+Chris and the solar car team lead will decide who receives funding&#x20;
 
-## Notes from ongoing emails with Chris Edwards, Chris Gerdes, and Brad Osgood
-
-[](#h.sbf55lb7zh6s)
+### Notes from ongoing emails with Chris Edwards, Chris Gerdes, and Brad Osgood
 
 * Undeclared majors can apply. Declared non-engineering majors can't apply.
 * Undeclared majors can apply. Declared non-engineering majors can't apply.
-
 * Undeclared majors can apply. Declared non-engineering majors can't apply.
 
 Undeclared majors can apply. Declared non-engineering majors can't apply.
 
-[](https://drive.google.com/folderview?id=1OKIZe0ZEnXlPMkR61e4vf2Wb1_GUTFpy)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1OKIZe0ZEnXlPMkR61e4vf2Wb1_GUTFpy#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1OKIZe0ZEnXlPMkR61e4vf2Wb1_GUTFpy#list" frameborder="0"></iframe>
-

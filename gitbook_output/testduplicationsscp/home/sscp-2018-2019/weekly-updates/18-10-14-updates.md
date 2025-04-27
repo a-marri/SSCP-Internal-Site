@@ -1,6 +1,8 @@
-# SSCP - 18-10-14 Updates
+# 18-10-14-updates
 
-# 18-10-14 Updates
+## SSCP - 18-10-14 Updates
+
+## 18-10-14 Updates
 
 SPONSOR UPDATES
 
@@ -13,7 +15,6 @@ Tell the team who you talked to.
 * Will reach out again after Aero is done to see if Cradle will be good for future cycles.
 * Sarah - Firestonereplied to our composites inquiry but can only offer dry fabrics; we'll reply with a selection of wet-layup materials.
 * replied to our composites inquiry but can only offer dry fabrics; we'll reply with a selection of wet-layup materials.
-
 * Julia - MSC SoftwareMSC is interested in giving us their CFD Software, Cradle, for Aero to use. Tokai uses CradleWe're too deep in the cycle to switch up the pipeline, so we're finishing with Pointwise/SU2.Will reach out again after Aero is done to see if Cradle will be good for future cycles.
 * MSC is interested in giving us their CFD Software, Cradle, for Aero to use. Tokai uses Cradle
 * We're too deep in the cycle to switch up the pipeline, so we're finishing with Pointwise/SU2.
@@ -57,7 +58,6 @@ Key Points:
 * We made an updated tutorial video for Pointwise!If you're interested in joining Aero and learning how to mesh, this video is 10/10Goes over how to use Pointwise and mesh a bullet car
 * If you're interested in joining Aero and learning how to mesh, this video is 10/10
 * Goes over how to use Pointwise and mesh a bullet car
-
 * Updated the GANTT chart with drag reduction goals for upcoming iterationsIdeally will finish with 20N of drag
 * Ideally will finish with 20N of drag
 * Experimenting with different CAD modificationsrounding the nose shape to reduce pressuretesting asymmetrical bubble shape for better laminar flow
@@ -114,7 +114,6 @@ Wins:
 * new people meshing!
 * new Pointwise tutorial video! for more new people!!
 * new iterations! woo!!!
-
 * new people meshing!
 * new Pointwise tutorial video! for more new people!!
 * new iterations! woo!!!
@@ -129,7 +128,6 @@ Losses:
 
 * Unable to run any meshes through SU2 this week
 * Unable to run any meshes through SU2 this week
-
 * Unable to run any meshes through SU2 this week
 
 Unable to run any meshes through SU2 this week
@@ -141,7 +139,6 @@ Key Points:
 * Demo encapsulation today with Sundae array alumni (one old Si cell, no soldering for now)Next steps are --> understanding how to test Cells (EQE, Reflectance, EL) and practicing on Si cells while also researching stack materials for GaAs --> then getting GaAs and testing on GaAs
 * Demo encapsulation today with Sundae array alumni (one old Si cell, no soldering for now)
 * Next steps are --> understanding how to test Cells (EQE, Reflectance, EL) and practicing on Si cells while also researching stack materials for GaAs --> then getting GaAs and testing on GaAs
-
 * Demo encapsulation today with Sundae array alumni (one old Si cell, no soldering for now)
 * Next steps are --> understanding how to test Cells (EQE, Reflectance, EL) and practicing on Si cells while also researching stack materials for GaAs --> then getting GaAs and testing on GaAs
 
@@ -154,7 +151,6 @@ Wins:
 * With help from Array Daddy John (Sundae Array Team Lead), cleaned up encapsulation SOPWill also clean up soldering SOP documentation today
 * With help from Array Daddy John (Sundae Array Team Lead), cleaned up encapsulation SOPWill also clean up soldering SOP documentation today
 * Will also clean up soldering SOP documentation today
-
 * With help from Array Daddy John (Sundae Array Team Lead), cleaned up encapsulation SOPWill also clean up soldering SOP documentation today
 * Will also clean up soldering SOP documentation today
 
@@ -174,7 +170,6 @@ Not-Wins:
 * Don't actually have any GaAs cells in stock?
 * Waiting game with Alta Devices
 * Nobody remembers ShellPower (software to design module layout on car) --> will ask Gawan again
-
 * Don't actually have any GaAs cells in stock?
 * Waiting game with Alta Devices
 * Nobody remembers ShellPower (software to design module layout on car) --> will ask Gawan again
@@ -189,20 +184,19 @@ Business
 
 Key Points:
 
-* Signup for alumni reunion event shifts at here RSVP to alumni reunion event on 10/28 here
-* Signup for alumni reunion event shifts at here 
+* Signup for alumni reunion event shifts at here RSVP to alumni reunion event on 10/28 here
+* Signup for alumni reunion event shifts at here&#x20;
+* RSVP to alumni reunion event on 10/28 here
+* Signup for alumni reunion event shifts at here&#x20;
 * RSVP to alumni reunion event on 10/28 here
 
-* Signup for alumni reunion event shifts at here 
-* RSVP to alumni reunion event on 10/28 here
+Signup for alumni reunion event shifts at here&#x20;
 
-Signup for alumni reunion event shifts at here 
-
-[ here](https://docs.google.com/spreadsheets/d/1W7N2uozehaCuqEtI_KlPQxxsH9N72SjinPI9Aumn7uc/edit?usp=sharing)
+[here](https://docs.google.com/spreadsheets/d/1W7N2uozehaCuqEtI_KlPQxxsH9N72SjinPI9Aumn7uc/edit?usp=sharing)
 
 RSVP to alumni reunion event on 10/28 here
 
-[ here](https://docs.google.com/spreadsheets/d/1f5g1aO5Rh1IFheK-fYnz2LZNnad2fgCANhg0PCj8tYY/edit#gid=0)
+[here](https://docs.google.com/spreadsheets/d/1f5g1aO5Rh1IFheK-fYnz2LZNnad2fgCANhg0PCj8tYY/edit#gid=0)
 
 Wins:
 
@@ -210,7 +204,6 @@ Wins:
 * Have a few new members that we are onboarding.
 * Followed up with Lockheed, Lyft, and Magna
 * Got a contact for Northop, and possible Walmart contact.
-
 * Have a few new members that we are onboarding.
 * Followed up with Lockheed, Lyft, and Magna
 * Got a contact for Northop, and possible Walmart contact.
@@ -226,7 +219,6 @@ Losses:
 * We only have 5 sponsors RSVPed for the Alumni Reunion Event.Boeing will only sponsor us with 3,000 dollars.
 * We only have 5 sponsors RSVPed for the Alumni Reunion Event.
 * Boeing will only sponsor us with 3,000 dollars.
-
 * We only have 5 sponsors RSVPed for the Alumni Reunion Event.
 * Boeing will only sponsor us with 3,000 dollars.
 
@@ -250,7 +242,6 @@ Key Points:
 * Attempted efficiency tests on FridayMade kelvin resistor boardsFaked out edisc
 * Made kelvin resistor boards
 * Faked out edisc
-
 * Attempted efficiency tests on FridayMade kelvin resistor boardsFaked out edisc
 * Made kelvin resistor boards
 * Faked out edisc
@@ -276,7 +267,6 @@ Car-side contactors would not close
 * Determined that we need to fake out HV connections... hardware for this in battery packNeed to reattempt tests, this time with HV 'connected'
 * Determined that we need to fake out HV connections... hardware for this in battery pack
 * Need to reattempt tests, this time with HV 'connected'
-
 * Determined that we need to fake out HV connections... hardware for this in battery pack
 * Need to reattempt tests, this time with HV 'connected'
 
@@ -294,7 +284,6 @@ Losses:
 * Efficiency testing didn't go as expected
 * Small kelvin resistors started sparking (small edges = high electric field)Will have to rely on less accurate power supply readings
 * Will have to rely on less accurate power supply readings
-
 * Efficiency testing didn't go as expected
 * Small kelvin resistors started sparking (small edges = high electric field)Will have to rely on less accurate power supply readings
 * Will have to rely on less accurate power supply readings
@@ -311,7 +300,6 @@ Wins:
 
 * Learned a lot about BMS
 * Learned a lot about BMS
-
 * Learned a lot about BMS
 
 Learned a lot about BMS
@@ -325,7 +313,6 @@ Key Points:
 * Exploring vehicle packaging for an asymmetrical bullet design (tl;dr: it looks really great/easy)
 * aggressively brainstorming solutions to small steering mechanism problem
 * RSVP to Mech Bay Training on 10/21 here
-
 * Today after general meeting: Vehicle dynamics intro with Sarah in the small conference room (will cover basic concepts and introduce the existing code base for people who are interested in working on this type of project)
 * Exploring vehicle packaging for an asymmetrical bullet design (tl;dr: it looks really great/easy)
 * aggressively brainstorming solutions to small steering mechanism problem
@@ -339,9 +326,8 @@ aggressively brainstorming solutions to small steering mechanism problem
 
 RSVP to Mech Bay Training on 10/21 here
 
-[ here](https://docs.google.com/spreadsheets/d/1f5g1aO5Rh1IFheK-fYnz2LZNnad2fgCANhg0PCj8tYY/edit#gid=0)
+[here](https://docs.google.com/spreadsheets/d/1f5g1aO5Rh1IFheK-fYnz2LZNnad2fgCANhg0PCj8tYY/edit#gid=0)
 
 Wins:
 
 Losses:
-

@@ -1,6 +1,8 @@
-# SSCP - SVN - Using Altium's Internal SVN Tools
+# svn-using-altiums-internal-svn-tools
 
-# SVN - Using Altium's Internal SVN Tools
+## SSCP - SVN - Using Altium's Internal SVN Tools
+
+## SVN - Using Altium's Internal SVN Tools
 
 Introduction
 
@@ -10,15 +12,15 @@ There are four sections, including how to use version control software built int
 
 [SVN](https://en.wikipedia.org/wiki/Apache_Subversion)
 
-[ SVN with Altium Designer](https://www.altium.com/documentation/altium-designer/using-version-control-ad)
+[SVN with Altium Designer](https://www.altium.com/documentation/altium-designer/using-version-control-ad)
 
 Before working with SVN, make sure you look at SVN Protocol/Etiquette!!
 
-[SVN Protocol/Etiquette](/stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices)
+[SVN Protocol/Etiquette](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2020-2021/electrical-2020-2021/electrical-fundamentals/svn-best-practices/)
 
 1. Adding the SVN repository into Altium Designer
 
-The first step is to provide Altium Designer with the server information of the Solar Car SVN repository. To do this, open Altium Designer and click on the gear (settings button) in the upper right corner of the application. This will open up a window that should look something like the screenshot below. Once you have preferences open, navigate to "Data Management"->"Design Repositories". 
+The first step is to provide Altium Designer with the server information of the Solar Car SVN repository. To do this, open Altium Designer and click on the gear (settings button) in the upper right corner of the application. This will open up a window that should look something like the screenshot below. Once you have preferences open, navigate to "Data Management"->"Design Repositories".&#x20;
 
 ![](../../../../../assets/image_01e25099b7.jpg)
 
@@ -28,42 +30,41 @@ Then click the "Connect To" button. This will open up a pane that looks like the
 
 Fill in the boxes with the following info:
 
-* Name: <Project Name>Default Checkout Path: <Path to where you want files to be stored locally (while you are working on them)>Method: httpsServer: solarcar.stanford.eduServer port: defaultRepository Subfolder:Available repositories:/svn/apogee/       - WSC 2009 entry, Apogee/svn/sunflower/    - WSC 2011 entry, Xenith/svn/sunbad/       - WSC 2013 entry, Luminos/svn/sunwhale/    - WSC 2015 entry, Arctan/svn/sundae/       - WSC 2017 entry, Sundae/svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)Username: SUNet Password: SUNet password
-* Name: <Project Name>
-* Default Checkout Path: <Path to where you want files to be stored locally (while you are working on them)>
+* Name: Default Checkout Path: \<Path to where you want files to be stored locally (while you are working on them)>Method: httpsServer: solarcar.stanford.eduServer port: defaultRepository Subfolder:Available repositories:/svn/apogee/       - WSC 2009 entry, Apogee/svn/sunflower/    - WSC 2011 entry, Xenith/svn/sunbad/       - WSC 2013 entry, Luminos/svn/sunwhale/    - WSC 2015 entry, Arctan/svn/sundae/       - WSC 2017 entry, Sundae/svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)Username: SUNet Password: SUNet password
+* Name:
+* Default Checkout Path: \<Path to where you want files to be stored locally (while you are working on them)>
 * Method: https
 * Server: solarcar.stanford.edu
 * Server port: default
-* Repository Subfolder:Available repositories:/svn/apogee/       - WSC 2009 entry, Apogee/svn/sunflower/    - WSC 2011 entry, Xenith/svn/sunbad/       - WSC 2013 entry, Luminos/svn/sunwhale/    - WSC 2015 entry, Arctan/svn/sundae/       - WSC 2017 entry, Sundae/svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
+* Repository Subfolder:Available repositories:/svn/apogee/       - WSC 2009 entry, Apogee/svn/sunflower/    - WSC 2011 entry, Xenith/svn/sunbad/       - WSC 2013 entry, Luminos/svn/sunwhale/    - WSC 2015 entry, Arctan/svn/sundae/       - WSC 2017 entry, Sundae/svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
 * Available repositories:
-* /svn/apogee/       - WSC 2009 entry, Apogee
-* /svn/sunflower/    - WSC 2011 entry, Xenith
-* /svn/sunbad/       - WSC 2013 entry, Luminos
-* /svn/sunwhale/    - WSC 2015 entry, Arctan
-* /svn/sundae/       - WSC 2017 entry, Sundae
-* /svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
-* Username: SUNet 
+* /svn/apogee/       - WSC 2009 entry, Apogee
+* /svn/sunflower/    - WSC 2011 entry, Xenith
+* /svn/sunbad/       - WSC 2013 entry, Luminos
+* /svn/sunwhale/    - WSC 2015 entry, Arctan
+* /svn/sundae/       - WSC 2017 entry, Sundae
+* /svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
+* Username: SUNet&#x20;
 * Password: SUNet password
-
-* Name: <Project Name>
-* Default Checkout Path: <Path to where you want files to be stored locally (while you are working on them)>
+* Name:
+* Default Checkout Path: \<Path to where you want files to be stored locally (while you are working on them)>
 * Method: https
 * Server: solarcar.stanford.edu
 * Server port: default
-* Repository Subfolder:Available repositories:/svn/apogee/       - WSC 2009 entry, Apogee/svn/sunflower/    - WSC 2011 entry, Xenith/svn/sunbad/       - WSC 2013 entry, Luminos/svn/sunwhale/    - WSC 2015 entry, Arctan/svn/sundae/       - WSC 2017 entry, Sundae/svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
+* Repository Subfolder:Available repositories:/svn/apogee/       - WSC 2009 entry, Apogee/svn/sunflower/    - WSC 2011 entry, Xenith/svn/sunbad/       - WSC 2013 entry, Luminos/svn/sunwhale/    - WSC 2015 entry, Arctan/svn/sundae/       - WSC 2017 entry, Sundae/svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
 * Available repositories:
-* /svn/apogee/       - WSC 2009 entry, Apogee
-* /svn/sunflower/    - WSC 2011 entry, Xenith
-* /svn/sunbad/       - WSC 2013 entry, Luminos
-* /svn/sunwhale/    - WSC 2015 entry, Arctan
-* /svn/sundae/       - WSC 2017 entry, Sundae
-* /svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
-* Username: SUNet 
+* /svn/apogee/       - WSC 2009 entry, Apogee
+* /svn/sunflower/    - WSC 2011 entry, Xenith
+* /svn/sunbad/       - WSC 2013 entry, Luminos
+* /svn/sunwhale/    - WSC 2015 entry, Arctan
+* /svn/sundae/       - WSC 2017 entry, Sundae
+* /svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
+* Username: SUNet&#x20;
 * Password: SUNet password
 
-Name: <Project Name>
+Name:
 
-Default Checkout Path: <Path to where you want files to be stored locally (while you are working on them)>
+Default Checkout Path: \<Path to where you want files to be stored locally (while you are working on them)>
 
 Method: https
 
@@ -74,28 +75,28 @@ Server port: default
 Repository Subfolder:
 
 * Available repositories:
-* /svn/apogee/       - WSC 2009 entry, Apogee
-* /svn/sunflower/    - WSC 2011 entry, Xenith
-* /svn/sunbad/       - WSC 2013 entry, Luminos
-* /svn/sunwhale/    - WSC 2015 entry, Arctan
-* /svn/sundae/       - WSC 2017 entry, Sundae
-* /svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
+* /svn/apogee/       - WSC 2009 entry, Apogee
+* /svn/sunflower/    - WSC 2011 entry, Xenith
+* /svn/sunbad/       - WSC 2013 entry, Luminos
+* /svn/sunwhale/    - WSC 2015 entry, Arctan
+* /svn/sundae/       - WSC 2017 entry, Sundae
+* /svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
 
 Available repositories:
 
-/svn/apogee/       - WSC 2009 entry, Apogee
+/svn/apogee/       - WSC 2009 entry, Apogee
 
-/svn/sunflower/    - WSC 2011 entry, Xenith
+/svn/sunflower/    - WSC 2011 entry, Xenith
 
-/svn/sunbad/       - WSC 2013 entry, Luminos
+/svn/sunbad/       - WSC 2013 entry, Luminos
 
-/svn/sunwhale/    - WSC 2015 entry, Arctan
+/svn/sunwhale/    - WSC 2015 entry, Arctan
 
-/svn/sundae/       - WSC 2017 entry, Sundae
+/svn/sundae/       - WSC 2017 entry, Sundae
 
-/svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
+/svn/sunrise/       - WSC 2019 entry, Black Mamba (Most recent)
 
-Username: SUNet 
+Username: SUNet&#x20;
 
 Password: SUNet password
 
@@ -111,7 +112,7 @@ This will open up the following window.
 
 If you do not see any folders or you get an error, you may have mistyped some part of the SVN repository information, so go back to step 1 and check that you entered it correctly.
 
-From here, choose any files or folders that you want to "Check Out" and then click "OK". It may take a minute, but a window will show the progress of your download. By checking out a file, you are downloading a copy to the selected folder (AKA the folder listed underneath the text "Check out to:". 
+From here, choose any files or folders that you want to "Check Out" and then click "OK". It may take a minute, but a window will show the progress of your download. By checking out a file, you are downloading a copy to the selected folder (AKA the folder listed underneath the text "Check out to:".&#x20;
 
 Once the download is complete, you will be able to interact with the downloaded file just like any other local file. To begin editing it within Altium Designer, just click "File"->"Open" and select the file(s) you just downloaded via the "Check Out" menu.
 
@@ -119,7 +120,7 @@ Once the download is complete, you will be able to interact with the downloaded 
 
 Once you have edited a file and you are ready to send your changes to everyone else working on the project, select the file in the "Project" pane and then right click on it. Then hold your mouse over "Version Control" and click "Commit".
 
-A window will pop up asking you to write a commit message and confirming which files you want to commit. Please write a descriptive commit message so other people know what you changed. Finally, click "OK" to commit your changes. That's it! 
+A window will pop up asking you to write a commit message and confirming which files you want to commit. Please write a descriptive commit message so other people know what you changed. Finally, click "OK" to commit your changes. That's it!&#x20;
 
 You will know for sure that the file has been committed when the red circle next to modified the file becomes a green check mark. That means that the changes have been successfully committed to the master copy.
 
@@ -127,7 +128,7 @@ Note: If you want to undo changes made to a file, select it in the "Project" pan
 
 4. Updating your local copy of a file
 
-Before you start working on a project or a file, it is a good idea to ensure that your local copy is up to date with the master copy. 
+Before you start working on a project or a file, it is a good idea to ensure that your local copy is up to date with the master copy.&#x20;
 
 To do this, right click the "Project" pane, hover over "Version Control", and then click on "Refresh". This will tell Altium Designer to check if there are any changes which need to be downloaded. If there are outdated files, you will see an orange clock symbol next to the name of the file which is out of date with the master copy.
 
@@ -135,7 +136,7 @@ To update the file(s), simply right click the "Project" pane, hover over "Versio
 
 5. Looking at Revision History
 
-If you would like to see the past revisions to a file, you can open the "Storage Manager" panel by clicking "Panels" in the bottom right and selecting "Storage Manager". 
+If you would like to see the past revisions to a file, you can open the "Storage Manager" panel by clicking "Panels" in the bottom right and selecting "Storage Manager".&#x20;
 
 ![](../../../../../assets/image_c0fb2bc464.jpg)
 
@@ -144,4 +145,3 @@ If you would like to see the past revisions to a file, you can open the "Storage
 ![](../../../../../assets/image_cd2fe19788.jpg)
 
 ![](../../../../../assets/image_c8ef807a49.jpg)
-

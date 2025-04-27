@@ -1,8 +1,10 @@
-# SSCP - TAP Plastics
+# tap-plastics
 
-# TAP Plastics
+## SSCP - TAP Plastics
 
-TAP Plastics has offered us 40% off on order per year in the past. 
+## TAP Plastics
+
+TAP Plastics has offered us 40% off on order per year in the past.&#x20;
 
 Here is a sample shopping list
 
@@ -60,9 +62,8 @@ Paper Masks
 
 non sag additive for micro bubbles and West
 
-paper cups with a wax interior. A red line and a leaf. 
+paper cups with a wax interior. A red line and a leaf.&#x20;
 
 Foam for covering the concrete
 
 TAP X-30 Polyurethane Foam
-

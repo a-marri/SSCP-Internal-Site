@@ -1,54 +1,40 @@
-# SSCP - Trailing Edge
+# trailing-edge
 
-# Trailing Edge
+## SSCP - Trailing Edge
 
-[](https://docs.google.com/document/d/1WEGsqyrrjekIXHxnBANi6Hk4Z1zViKVjapJul69wMjQ/edit)
+## Trailing Edge
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](trailing-edge.md)
 
 ![](../../../../../assets/docs_32dp.png)
 
-[COPY]
+\[COPY]
 
-# Intro:
-
-[](#h.ak1f1o94bnz2)
+## Intro:
 
 When the top and bottom shells are mated, the tail inevitably tapers not into a thin edge, but rather into a blunt cutoff. This trailing edge was as thick as half an inch in our case and proves unideal for aero. So, we constructed a carbon fiber wedge to establish a more gradual taper and more cleanly release the flow of air.
 
-# Layup:
+## Layup:
 
-[](#h.w1yifxx1aw6y)
+Two strips were made from two-ply, prepreg twill. These were cut to leave plenty of room for the total length and width needed, then cut to size with a dremel.&#x20;
 
-Two strips were made from two-ply, prepreg twill. These were cut to leave plenty of room for the total length and width needed, then cut to size with a dremel. 
+## Gluing:
 
-# Gluing:
+A \~⅜” edge of the matte face of each strip was surface-prepped and coated with DP-420 using a popsicle stick. These were pressed together and clamped between two aluminum rails (the edges rested against parallels in the rails’ slots in order to assure a consistent margin). The opposing edges were then separated by angled spacers and pens so as to prevent the glue from establishing an incorrect angle.
 
-[](#h.m31w7r5acz2a)
-
-A ~⅜” edge of the matte face of each strip was surface-prepped and coated with DP-420 using a popsicle stick. These were pressed together and clamped between two aluminum rails (the edges rested against parallels in the rails’ slots in order to assure a consistent margin). The opposing edges were then separated by angled spacers and pens so as to prevent the glue from establishing an incorrect angle.
-
-# Wedges:
-
-[](#h.jlwu842smaa)
+## Wedges:
 
 To hold the taper in a smooth and consistent shape, we supported it with internal wedges like an airfoil. By spreading the glued layup piece across the tail, we determined the approximate angle needed to spread this airfoil. We then measured the thickness of the existing tail at each wedge location to determine the height dimension of each of these wedges and cut and sanded them. We used eighth-inch aluminum core sandwich panel.
 
-# Finishing:
-
-[](#h.f31v2rw0um8v)
+## Finishing:
 
 We used a gloss polyurethane finish. For more details, see the ‘finishing’ section of How to build composite parts.
 
-[ How to build composite parts](https://docs.google.com/document/d/12u7DkP32B5QTf6KuCVDd8CNsz-523QnphIVNnZkIW0Y/edit)
+[How to build composite parts](https://docs.google.com/document/d/12u7DkP32B5QTf6KuCVDd8CNsz-523QnphIVNnZkIW0Y/edit)
 
-# Assembly:
-
-[](#h.s2rdhzaskz6h)
+## Assembly:
 
 It was at this point that we realized the car was within millimeters of the length dimension limit and scrapped this plan. However, what we would have done is:
 
@@ -78,4 +64,3 @@ Trim layup piece to fit around these flush with the tail.
 Add glue to layup piece and sandwich it over wedges.
 
 Trim ends and glue on finished end caps if necessary
-

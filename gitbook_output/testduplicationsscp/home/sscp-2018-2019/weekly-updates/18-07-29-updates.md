@@ -1,6 +1,8 @@
-# SSCP - 18-07-29 Updates
+# 18-07-29-updates
 
-# 18-07-29 Updates
+## SSCP - 18-07-29 Updates
+
+## 18-07-29 Updates
 
 Aero
 
@@ -14,7 +16,6 @@ Key Points:
 * Yuji is advising
 * Coming up on Week 6Definitely need to push to have CFD results by end of week
 * Definitely need to push to have CFD results by end of week
-
 * SU2 is waiting only on a valid config fileJason is working on putting one together, with help from Tom
 * Jason is working on putting one together, with help from Tom
 * Several meshes through Pointwise
@@ -47,7 +48,6 @@ Wins:
 
 * Team kinda actually knows what it's doing this year
 * Team kinda actually knows what it's doing this year
-
 * Team kinda actually knows what it's doing this year
 
 Team kinda actually knows what it's doing this year
@@ -56,7 +56,6 @@ Lessons:
 
 * Establishing new pipelines takes time
 * Establishing new pipelines takes time
-
 * Establishing new pipelines takes time
 
 Establishing new pipelines takes time
@@ -67,7 +66,6 @@ Key Points:
 
 * PFA is a more robust structural relative of FEP; FEP outperforms ETFE in terms of transmission; thickness of topsheet only negligibly affects transmission losses
 * PFA is a more robust structural relative of FEP; FEP outperforms ETFE in terms of transmission; thickness of topsheet only negligibly affects transmission losses
-
 * PFA is a more robust structural relative of FEP; FEP outperforms ETFE in terms of transmission; thickness of topsheet only negligibly affects transmission losses
 
 PFA is a more robust structural relative of FEP; FEP outperforms ETFE in terms of transmission; thickness of topsheet only negligibly affects transmission losses
@@ -76,7 +74,6 @@ Wins:
 
 * PFA recipe could be used in the SunPower laminators; Mitsui polyolefin can be sourced in film form, and has stronger bond strength per temp than 3M polyolefin
 * PFA recipe could be used in the SunPower laminators; Mitsui polyolefin can be sourced in film form, and has stronger bond strength per temp than 3M polyolefin
-
 * PFA recipe could be used in the SunPower laminators; Mitsui polyolefin can be sourced in film form, and has stronger bond strength per temp than 3M polyolefin
 
 PFA recipe could be used in the SunPower laminators; Mitsui polyolefin can be sourced in film form, and has stronger bond strength per temp than 3M polyolefin
@@ -85,7 +82,6 @@ Losses:
 
 * difficult to model convective heat transfer gains from fins :(
 * difficult to model convective heat transfer gains from fins :(
-
 * difficult to model convective heat transfer gains from fins :(
 
 difficult to model convective heat transfer gains from fins :(
@@ -94,20 +90,19 @@ Business
 
 Key Points:
 
-* Had Quarterly Board meeting, we have a few meetings we need to set up with CARS, Snehal, and Jeff.Business Cards are in the process of being ordered. Logo is done and we will begin applying it in our accounts.talking to Airbus about composites
+* Had Quarterly Board meeting, we have a few meetings we need to set up with CARS, Snehal, and Jeff.Business Cards are in the process of being ordered. Logo is done and we will begin applying it in our accounts.talking to Airbus about composites
 * Had Quarterly Board meeting, we have a few meetings we need to set up with CARS, Snehal, and Jeff.
-* Business Cards are in the process of being ordered. 
+* Business Cards are in the process of being ordered.&#x20;
 * Logo is done and we will begin applying it in our accounts.
 * talking to Airbus about composites
-
 * Had Quarterly Board meeting, we have a few meetings we need to set up with CARS, Snehal, and Jeff.
-* Business Cards are in the process of being ordered. 
+* Business Cards are in the process of being ordered.&#x20;
 * Logo is done and we will begin applying it in our accounts.
 * talking to Airbus about composites
 
 Had Quarterly Board meeting, we have a few meetings we need to set up with CARS, Snehal, and Jeff.
 
-Business Cards are in the process of being ordered. 
+Business Cards are in the process of being ordered.&#x20;
 
 Logo is done and we will begin applying it in our accounts.
 
@@ -118,7 +113,6 @@ Wins:
 * CARS renewal is ready to go.Subteam organization is better.
 * CARS renewal is ready to go.
 * Subteam organization is better.
-
 * CARS renewal is ready to go.
 * Subteam organization is better.
 
@@ -130,7 +124,6 @@ Losses:
 
 * Quarterly newsletter needs to go out.
 * Quarterly newsletter needs to go out.
-
 * Quarterly newsletter needs to go out.
 
 Quarterly newsletter needs to go out.
@@ -151,7 +144,6 @@ Key Points:
 * Began Arctan BMS study doc. -> giving consideration to isolated implementation
 * Met w/ Dayo about BMS size constraints and connector locations (last week)
 * Began research into current sense solutions, and got access to Sundae's WSC current data.
-
 * Began Arctan BMS study doc. -> giving consideration to isolated implementation
 * Met w/ Dayo about BMS size constraints and connector locations (last week)
 * Began research into current sense solutions, and got access to Sundae's WSC current data.
@@ -174,7 +166,6 @@ Key Points:
 * Initial models of COP show that winds push the car laterally but don't seem to lead to unstable yawing regardless of where COP is locatedhowever, these models will be much better and more trustworthy once I get real tire software tomorrow (yay)so until then we don't trust them all the way
 * however, these models will be much better and more trustworthy once I get real tire software tomorrow (yay)
 * so until then we don't trust them all the way
-
 * Initial models of COP show that winds push the car laterally but don't seem to lead to unstable yawing regardless of where COP is locatedhowever, these models will be much better and more trustworthy once I get real tire software tomorrow (yay)so until then we don't trust them all the way
 * however, these models will be much better and more trustworthy once I get real tire software tomorrow (yay)
 * so until then we don't trust them all the way
@@ -202,7 +193,6 @@ Wins:
 
 * we can probably get away with not building new leading arms for MuleCar
 * we can probably get away with not building new leading arms for MuleCar
-
 * we can probably get away with not building new leading arms for MuleCar
 
 we can probably get away with not building new leading arms for MuleCar
@@ -211,8 +201,6 @@ Losses:
 
 * no word yet from McLaren on composites :/
 * no word yet from McLaren on composites :/
-
 * no word yet from McLaren on composites :/
 
 no word yet from McLaren on composites :/
-

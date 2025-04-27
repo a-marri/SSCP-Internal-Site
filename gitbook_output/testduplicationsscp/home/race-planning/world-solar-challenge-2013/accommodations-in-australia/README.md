@@ -1,42 +1,40 @@
-# SSCP - Accommodations in Australia
+# accommodations-in-australia
 
-# Accommodations in Australia
+## SSCP - Accommodations in Australia
 
-## Darwin Promising Options
+## Accommodations in Australia
 
-[](#h.gjhseujg7kab)
+### Darwin Promising Options
 
-12 minutes away from the complex http://www.flipkey.com/darwin-vacation-rentals/p229570/  $385 a night, ~$2000 a week
+12 minutes away from the complex http://www.flipkey.com/darwin-vacation-rentals/p229570/  $385 a night, \~$2000 a week
 
 http://darwinholidayapartments.com/property?pid=5888
 
 http://www.topendshortstays.com.au/
 
-## Darwin Dead Ends
+### Darwin Dead Ends
 
-[](#h.x35556l5eb8g)
-
-Ideal House [Probs the one MIT is looking at ] 
+Ideal House \[Probs the one MIT is looking at ]&#x20;
 
 $950 - 6 br, 3 bath, pool, garage === http://www.realestate.com.au/property-house-nt-millner-404447142
 
-[ http://www.realestate.com.au/property-house-nt-millner-404447142](http://www.realestate.com.au/property-house-nt-millner-404447142)
+[http://www.realestate.com.au/property-house-nt-millner-404447142](http://www.realestate.com.au/property-house-nt-millner-404447142)
 
 Super cheap :
 
 $650 - 4 br, 2 bath, no garage === http://www.realestateview.com.au/Real-Estate/10-emma-court-driver/Property-Details-rent-residential-4415659.html
 
-[ http://www.realestateview.com.au/Real-Estate/10-emma-court-driver/Property-Details-rent-residential-4415659.html](http://www.realestateview.com.au/Real-Estate/10-emma-court-driver/Property-Details-rent-residential-4415659.html)
+[http://www.realestateview.com.au/Real-Estate/10-emma-court-driver/Property-Details-rent-residential-4415659.html](http://www.realestateview.com.au/Real-Estate/10-emma-court-driver/Property-Details-rent-residential-4415659.html)
 
-Housing based on number of bathrooms/ price: 
+Housing based on number of bathrooms/ price:&#x20;
 
-$1K - 4/5br, 3 bath, no pool, garage ====  http://www.realestate.com.au/property-house-nt-lyons-404791679
+$1K - 4/5br, 3 bath, no pool, garage ====  http://www.realestate.com.au/property-house-nt-lyons-404791679
 
 [http://www.realestate.com.au/property-house-nt-lyons-404791679](http://www.realestate.com.au/property-house-nt-lyons-404791679)
 
 $1.5K - 5br, 3 bath, pool, garage === http://www.realestate.com.au/property-house-nt-lyons-408118139
 
-[ http://www.realestate.com.au/property-house-nt-lyons-408118139](http://www.realestate.com.au/property-house-nt-lyons-408118139)
+[http://www.realestate.com.au/property-house-nt-lyons-408118139](http://www.realestate.com.au/property-house-nt-lyons-408118139)
 
 http://www.realestate.com.au/property-house-nt-fannie+bay-404914319
 
@@ -49,4 +47,3 @@ http://www.realestate.com.au/property-house-nt-woolner-408618575
 http://www.realestate.com.au/property-house-nt-lyons-408118139
 
 [http://www.realestate.com.au/property-house-nt-lyons-408118139](http://www.realestate.com.au/property-house-nt-lyons-408118139)
-

@@ -1,6 +1,8 @@
-# SSCP - Michelin
+# michelin
 
-# Michelin
+## SSCP - Michelin
+
+## Michelin
 
 Hello,
 
@@ -14,7 +16,7 @@ Thanks!
 
 ![](../../../../../assets/image_cf4655f6dc.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 11/14/16
 
@@ -40,7 +42,7 @@ Kelsey
 
 ![](../../../../../assets/image_3a6b7c5b29.png)
 
-Leesa Owens <leesa.owens@michelin.com>
+Leesa Owens [leesa.owens@michelin.com](mailto:leesa.owens@michelin.com)
 
 11/15/16
 
@@ -56,15 +58,15 @@ to Esther, me
 
 Hi Kelsey –
 
- 
+&#x20;
 
-We have tires in stock.  How many are you looking for?  Esther Berberian, who is copied on this email can give you a price on the tires.
+We have tires in stock.  How many are you looking for?  Esther Berberian, who is copied on this email can give you a price on the tires.
 
- 
+&#x20;
 
 Sincerely,
 
- 
+&#x20;
 
 Leesa Owens
 
@@ -88,9 +90,9 @@ Leesa.owens@michelin.com
 
 [Leesa.owens@michelin.com](mailto:Leesa.owens@michelin.com)
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -100,13 +102,13 @@ To: Leesa Owens
 
 Subject: Re: Stanford Solar Car Project
 
-______________________________________________________________________________________
+***
 
 This email is being filtered with a new and better anti-spam solution. During the tuning phase, this solution may temporarily let some marketing emails pass through.
 
-______________________________________________________________________________________
+***
 
-______________________________________________________________________
+***
 
 This email has been scanned by the Symantec Email Security.cloud service.
 
@@ -114,11 +116,11 @@ For more information please visit http://www.symanteccloud.com
 
 [http://www.symanteccloud.com](http://www.symanteccloud.com/)
 
-______________________________________________________________________
+***
 
 ![](../../../../../assets/image_a56becea31.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 11/15/16
 
@@ -146,7 +148,7 @@ Kelsey
 
 ![](../../../../../assets/image_95eaef32d8.png)
 
-Esther Berberian <esther.berberian@michelin.com>
+Esther Berberian [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
 11/16/16
 
@@ -164,7 +166,7 @@ Kelsey,
 
 Just to clarify the tire size is 95/80R16 TL Urban Concept and the cost is $444.00 per tire.
 
- 
+&#x20;
 
 Sincerely,
 
@@ -186,15 +188,15 @@ esther.berberian@michelin.com
 
 [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
- 
+&#x20;
 
-D3-Michelin Restricted 
+D3-Michelin Restricted&#x20;
 
 Retention: 201-103 <90 days
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -208,7 +210,7 @@ Cc: Esther Berberian
 
 ![](../../../../../assets/image_f719dc7de9.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 11/16/16
 
@@ -234,7 +236,7 @@ Kelsey
 
 ![](../../../../../assets/image_7ebaca22f1.png)
 
-Leesa Owens <leesa.owens@michelin.com>
+Leesa Owens [leesa.owens@michelin.com](mailto:leesa.owens@michelin.com)
 
 11/17/16
 
@@ -250,15 +252,15 @@ to me, Esther
 
 Hi Kelsey –
 
- 
+&#x20;
 
-We can’t save or set aside tires.  You are welcome to go ahead and purchase the tires, so you can secure your request.
+We can’t save or set aside tires.  You are welcome to go ahead and purchase the tires, so you can secure your request.
 
- 
+&#x20;
 
 Sincerely,
 
- 
+&#x20;
 
 Leesa Owens
 
@@ -282,9 +284,9 @@ Leesa.owens@michelin.com
 
 [Leesa.owens@michelin.com](mailto:Leesa.owens@michelin.com)
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -298,7 +300,7 @@ Cc: Leesa Owens
 
 ![](../../../../../assets/image_320bf511fe.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 11/17/16
 
@@ -318,7 +320,7 @@ Ok. Before we purchase, we want to clarify -- will these tires be acceptable for
 
 ![](../../../../../assets/image_e44ba2b943.png)
 
-Leesa Owens <leesa.owens@michelin.com>
+Leesa Owens [leesa.owens@michelin.com](mailto:leesa.owens@michelin.com)
 
 ![](../../../../../assets/image_6bacfbc805.gif)
 
@@ -336,15 +338,15 @@ to me
 
 Hi Kelsey –
 
- 
+&#x20;
 
-Attached is the datasheet on the 95-80 R16 tires. 
+Attached is the datasheet on the 95-80 R16 tires.&#x20;
 
- 
+&#x20;
 
 Sincerely,
 
- 
+&#x20;
 
 Leesa Owens
 
@@ -368,9 +370,9 @@ Leesa.owens@michelin.com
 
 [Leesa.owens@michelin.com](mailto:Leesa.owens@michelin.com)
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -382,7 +384,7 @@ Attachments area
 
 ![](../../../../../assets/image_88e3682ffc.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 11/21/16
 
@@ -402,7 +404,7 @@ These were manufactured in 2011? Is that going to be the case for all WSC2017 ti
 
 ![](../../../../../assets/image_bc4950eb26.png)
 
-Leesa Owens <leesa.owens@michelin.com>
+Leesa Owens [leesa.owens@michelin.com](mailto:leesa.owens@michelin.com)
 
 11/21/16
 
@@ -416,9 +418,9 @@ Leesa Owens <leesa.owens@michelin.com>
 
 to me
 
-These are the only tires I have available at this time.  I am not if/when we will get additional tires.
+These are the only tires I have available at this time.  I am not if/when we will get additional tires.
 
- 
+&#x20;
 
 Leesa Owens
 
@@ -442,9 +444,9 @@ Leesa.owens@michelin.com
 
 [Leesa.owens@michelin.com](mailto:Leesa.owens@michelin.com)
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -454,7 +456,7 @@ Sent: Monday, November 21, 2016 11:31 AM
 
 ![](../../../../../assets/image_6b5f6ddea9.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 12/1/16
 
@@ -480,7 +482,7 @@ Kelsey
 
 ![](../../../../../assets/image_8ee61ed792.png)
 
-Leesa Owens <leesa.owens@michelin.com>
+Leesa Owens [leesa.owens@michelin.com](mailto:leesa.owens@michelin.com)
 
 12/2/16
 
@@ -496,15 +498,15 @@ to me, Esther
 
 Hi Kelsey –
 
- 
+&#x20;
 
-Let us know the quantity and shipping address.  Once we have that information Esther Berberian, who is copied on this email will give you a total cost. 
+Let us know the quantity and shipping address.  Once we have that information Esther Berberian, who is copied on this email will give you a total cost.&#x20;
 
- 
+&#x20;
 
 Sincerely,
 
- 
+&#x20;
 
 Leesa Owens
 
@@ -528,9 +530,9 @@ Leesa.owens@michelin.com
 
 [Leesa.owens@michelin.com](mailto:Leesa.owens@michelin.com)
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -540,7 +542,7 @@ Sent: Thursday, December 01, 2016 8:49 PM
 
 ![](../../../../../assets/image_2273951a35.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 ![](../../../../../assets/image_87839687db.gif)
 
@@ -570,7 +572,7 @@ Attachments area
 
 ![](../../../../../assets/image_a201341437.png)
 
-Esther Berberian <esther.berberian@michelin.com>
+Esther Berberian [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
 12/9/16
 
@@ -586,9 +588,9 @@ to me, Leesa
 
 Kelsey,
 
-I need a phone number for you for the order.  Once I receive it I will submit the order.
+I need a phone number for you for the order.  Once I receive it I will submit the order.
 
- 
+&#x20;
 
 Sincerely,
 
@@ -612,7 +614,7 @@ esther.berberian@michelin.com
 
 ![](../../../../../assets/image_0dd8933ece.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 12/11/16
 
@@ -642,7 +644,7 @@ Kelsey
 
 ![](../../../../../assets/image_87536ba775.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 12/14/16
 
@@ -664,7 +666,7 @@ We recently received an update from the World Solar Challenge that Michelin has 
 
 ![](../../../../../assets/image_fbbda9c051.png)
 
-Esther Berberian <esther.berberian@michelin.com>
+Esther Berberian [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
 12/15/16
 
@@ -678,9 +680,9 @@ Esther Berberian <esther.berberian@michelin.com>
 
 to me, Leesa
 
-I have already placed this order and they due to ship out today.  I need to know whether to proceed or not.
+I have already placed this order and they due to ship out today.  I need to know whether to proceed or not.
 
- 
+&#x20;
 
 Sincerely,
 
@@ -702,15 +704,15 @@ esther.berberian@michelin.com
 
 [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
- 
+&#x20;
 
-D3-Michelin Restricted 
+D3-Michelin Restricted&#x20;
 
 Retention: 201-103 <90 days
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -718,13 +720,13 @@ Sent: Wednesday, December 14, 2016 2:43 PM
 
 ...
 
-[Message clipped]  View entire message
+\[Message clipped]  View entire message
 
-[View entire message](https://mail.google.com/mail/u/0/?ui=2&ik=9a21395fb7&view=lg&msg=15902be1a7bc2137)
+[View entire message](https://mail.google.com/mail/u/0/?ui=2\&ik=9a21395fb7\&view=lg\&msg=15902be1a7bc2137)
 
 ![](../../../../../assets/image_86f8489d7d.png)
 
-Leesa Owens <leesa.owens@michelin.com>
+Leesa Owens [leesa.owens@michelin.com](mailto:leesa.owens@michelin.com)
 
 12/15/16
 
@@ -740,19 +742,19 @@ to Serge, Esther, me
 
 Kelsey –
 
- 
+&#x20;
 
 The appropriate person to contact regarding the certification of the tires is Serge Grisin, who is copied on this email
 
- 
+&#x20;
 
 We will wait to place the tire order until we hear back from you.
 
- 
+&#x20;
 
 Sincerely,
 
- 
+&#x20;
 
 Leesa Owens
 
@@ -776,9 +778,9 @@ Leesa.owens@michelin.com
 
 [Leesa.owens@michelin.com](mailto:Leesa.owens@michelin.com)
 
- 
+&#x20;
 
-From: Esther Berberian 
+From: Esther Berberian&#x20;
 
 Sent: Thursday, December 15, 2016 8:49 AM
 
@@ -790,13 +792,13 @@ Subject: RE: Stanford Solar Car Project
 
 ...
 
-[Message clipped]  View entire message
+\[Message clipped]  View entire message
 
-[View entire message](https://mail.google.com/mail/u/0/?ui=2&ik=9a21395fb7&view=lg&msg=15902db84b29eeb0)
+[View entire message](https://mail.google.com/mail/u/0/?ui=2\&ik=9a21395fb7\&view=lg\&msg=15902db84b29eeb0)
 
 ![](../../../../../assets/image_a1e02cef75.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 12/15/16
 
@@ -822,7 +824,7 @@ Kelsey
 
 ![](../../../../../assets/image_7bf8742a11.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 12/20/16
 
@@ -844,13 +846,13 @@ Kelsey
 
 ...
 
-[Message clipped]  View entire message
+\[Message clipped]  View entire message
 
-[View entire message](https://mail.google.com/mail/u/0/?ui=2&ik=9a21395fb7&view=lg&msg=1591e0da21dd582f)
+[View entire message](https://mail.google.com/mail/u/0/?ui=2\&ik=9a21395fb7\&view=lg\&msg=1591e0da21dd582f)
 
 ![](../../../../../assets/image_831bb11557.png)
 
-Leesa Owens <leesa.owens@michelin.com>
+Leesa Owens [leesa.owens@michelin.com](mailto:leesa.owens@michelin.com)
 
 12/21/16
 
@@ -866,15 +868,15 @@ to me, Serge, Esther
 
 Serge –
 
- 
+&#x20;
 
-Can you answer the question below?  I am not involved in the technical certification of the tires.
+Can you answer the question below?  I am not involved in the technical certification of the tires.
 
- 
+&#x20;
 
 Sincerely,
 
- 
+&#x20;
 
 Leesa Owens
 
@@ -898,9 +900,9 @@ Leesa.owens@michelin.com
 
 [Leesa.owens@michelin.com](mailto:Leesa.owens@michelin.com)
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -912,23 +914,23 @@ Cc: Esther Berberian; Serge Grisin
 
 Subject: Re: Stanford Solar Car Project
 
- 
+&#x20;
 
 Hello,
 
- 
+&#x20;
 
 Just wanted to check in about this. We would really like to order tires if they are applicable for the World Solar Challenge; do you know if they will be?
 
 ...
 
-[Message clipped]  View entire message
+\[Message clipped]  View entire message
 
-[View entire message](https://mail.google.com/mail/u/0/?ui=2&ik=9a21395fb7&view=lg&msg=159226a4f79d56dd)
+[View entire message](https://mail.google.com/mail/u/0/?ui=2\&ik=9a21395fb7\&view=lg\&msg=159226a4f79d56dd)
 
 ![](../../../../../assets/image_131ae4cc13.png)
 
-Serge Grisin <serge.grisin@michelin.com>
+Serge Grisin [serge.grisin@michelin.com](mailto:serge.grisin@michelin.com)
 
 12/22/16
 
@@ -946,19 +948,19 @@ Dear Kelsey,
 
 Thank you for your confidence in our tyres !
 
- 
+&#x20;
 
 I confirm that we are doing the process requested by WSC organizers and that our tyres are applicable to the WSC, even if they don’t have the DOT mention. As last year we will have the official agreement.
 
- 
+&#x20;
 
 Let me wish you the best for the Christmas season and for the coming new year
 
- 
+&#x20;
 
 Best regards
 
- 
+&#x20;
 
 Please note my new email adress : serge.grisin@michelin.com
 
@@ -968,7 +970,7 @@ Attention : mon adresse email change : serge.grisin@michelin.com
 
 [serge.grisin@michelin.com](mailto:serge.grisin@michelin.com)
 
-- Salutations - MfG - Best Regards -
+* Salutations - MfG - Best Regards -
 
 Serge GRISIN
 
@@ -976,11 +978,11 @@ MICHELIN Motorsport
 
 Formula E & Motorsport Services manager
 
-Tel :   00 33 (0) 4 73 30 22 25 (int: 42 225)
+Tel :   00 33 (0) 4 73 30 22 25 (int: 42 225)
 
 Mob : 00 33 (0) 6 70 04 46 75
 
-Fax :  00 33 (0) 4 73 30 49 81
+Fax :  00 33 (0) 4 73 30 49 81
 
 E-mail : serge.grisin@michelin.com
 
@@ -990,21 +992,21 @@ E-mail : serge.grisin@michelin.com
 
 63 100 Clermont Ferrand
 
-______________________________________
+***
 
 Classification D3
 
-** This message is from Michelin and may contain confidential business
+\*\* This message is from Michelin and may contain confidential business
 
 information.It is intended for the addressee only and may not be copied without
 
 our permission.If you are not the intended recipient please contact the sender
 
-as soon as possible.**
+as soon as possible.\*\*
 
- 
+&#x20;
 
-De : Kelsey Josund [mailto:kelsey2@stanford.edu] 
+De : Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -1016,23 +1018,23 @@ Cc : Esther Berberian; Serge Grisin
 
 Objet : Re: Stanford Solar Car Project
 
- 
+&#x20;
 
 Hello,
 
- 
+&#x20;
 
 Just wanted to check in about this. We would really like to order tires if they are applicable for the World Solar Challenge; do you know if they will be?
 
 ...
 
-[Message clipped]  View entire message
+\[Message clipped]  View entire message
 
-[View entire message](https://mail.google.com/mail/u/0/?ui=2&ik=9a21395fb7&view=lg&msg=1592764747ed54d6)
+[View entire message](https://mail.google.com/mail/u/0/?ui=2\&ik=9a21395fb7\&view=lg\&msg=1592764747ed54d6)
 
 ![](../../../../../assets/image_4305d3aecd.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Jan 22
 
@@ -1056,7 +1058,7 @@ Kelsey
 
 ![](../../../../../assets/image_40164074c7.png)
 
-Esther Berberian <esther.berberian@michelin.com>
+Esther Berberian [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
 Jan 23
 
@@ -1072,9 +1074,9 @@ to me, Serge, Leesa
 
 Kelsey,
 
-Just confirming that you still want 28 tires?  Once the tire order is placed that will generate an invoice and then I can send it to you.
+Just confirming that you still want 28 tires?  Once the tire order is placed that will generate an invoice and then I can send it to you.
 
- 
+&#x20;
 
 Sincerely,
 
@@ -1096,15 +1098,15 @@ esther.berberian@michelin.com
 
 [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
- 
+&#x20;
 
-D3-Michelin Restricted 
+D3-Michelin Restricted&#x20;
 
 Retention: 201-103 <90 days
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -1116,13 +1118,13 @@ Cc: Leesa Owens; Esther Berberian
 
 ...
 
-[Message clipped]  View entire message
+\[Message clipped]  View entire message
 
-[View entire message](https://mail.google.com/mail/u/0/?ui=2&ik=9a21395fb7&view=lg&msg=159cb6bd1b32edf1)
+[View entire message](https://mail.google.com/mail/u/0/?ui=2\&ik=9a21395fb7\&view=lg\&msg=159cb6bd1b32edf1)
 
 ![](../../../../../assets/image_dbe7212758.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 Jan 23
 
@@ -1140,7 +1142,7 @@ Yes, we would still like 28 tires. Thanks!
 
 ![](../../../../../assets/image_24510796c3.png)
 
-Esther Berberian <esther.berberian@michelin.com>
+Esther Berberian [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
 Jan 30
 
@@ -1156,9 +1158,9 @@ to me, Serge, Leesa
 
 Kelsey,
 
-Your tire order was placed and has been shipped to the location you requested.  They were shipped via Old Dominion Freight Line from our Laurens, SC distribution center.  I will need an address to send the invoice to.
+Your tire order was placed and has been shipped to the location you requested.  They were shipped via Old Dominion Freight Line from our Laurens, SC distribution center.  I will need an address to send the invoice to.
 
- 
+&#x20;
 
 Sincerely,
 
@@ -1180,15 +1182,15 @@ esther.berberian@michelin.com
 
 [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
- 
+&#x20;
 
-D3-Michelin Restricted 
+D3-Michelin Restricted&#x20;
 
 Retention: 201-103 <90 days
 
- 
+&#x20;
 
-From: Kelsey Josund [mailto:kelsey2@stanford.edu] 
+From: Kelsey Josund \[mailto:kelsey2@stanford.edu]&#x20;
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
@@ -1200,13 +1202,13 @@ Cc: Serge Grisin; Leesa Owens
 
 ...
 
-[Message clipped]  View entire message
+\[Message clipped]  View entire message
 
-[View entire message](https://mail.google.com/mail/u/0/?ui=2&ik=9a21395fb7&view=lg&msg=159f00b395f7e74e)
+[View entire message](https://mail.google.com/mail/u/0/?ui=2\&ik=9a21395fb7\&view=lg\&msg=159f00b395f7e74e)
 
 ![](../../../../../assets/image_94916c9f54.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 ![](../../../../../assets/image_1292deeb93.gif)
 
@@ -1230,15 +1232,15 @@ Kelsey
 
 ...
 
-[Message clipped]  View entire message
+\[Message clipped]  View entire message
 
-[View entire message](https://mail.google.com/mail/u/0/?ui=2&ik=9a21395fb7&view=lg&msg=159f0561c74a8405)
+[View entire message](https://mail.google.com/mail/u/0/?ui=2\&ik=9a21395fb7\&view=lg\&msg=159f0561c74a8405)
 
 4 Attachments
 
 ![](../../../../../assets/image_949d24e1ad.png)
 
-Esther Berberian <esther.berberian@michelin.com>
+Esther Berberian [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
 ![](../../../../../assets/image_6e78a5b35b.gif)
 
@@ -1258,7 +1260,7 @@ Kelsey,
 
 Attached is the invoice.
 
- 
+&#x20;
 
 Sincerely,
 
@@ -1284,7 +1286,7 @@ Attachments area
 
 ![](../../../../../assets/image_db2533f4a1.png)
 
-Kelsey Josund <kelsey2@stanford.edu>
+Kelsey Josund [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
 ![](../../../../../assets/image_ab599759e5.gif)
 
@@ -1300,9 +1302,9 @@ Jan 30
 
 to Jim
 
----------- Forwarded message ---------
+\---------- Forwarded message ---------
 
-From: Esther Berberian <esther.berberian@michelin.com>
+From: Esther Berberian [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
 [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
@@ -1312,9 +1314,9 @@ Subject: RE: Stanford Solar Car Project
 
 ...
 
-[Message clipped]  View entire message
+\[Message clipped]  View entire message
 
-[View entire message](https://mail.google.com/mail/u/0/?ui=2&ik=9a21395fb7&view=lg&msg=159f0a432671fcee)
+[View entire message](https://mail.google.com/mail/u/0/?ui=2\&ik=9a21395fb7\&view=lg\&msg=159f0a432671fcee)
 
 2 Attachments
 
@@ -1336,11 +1338,11 @@ to me, Leesa
 
 Kelsey,
 
-Old Dominion is trying to schedule a delivery time for the tires.  Please contact them at (408) 956-8827.
+Old Dominion is trying to schedule a delivery time for the tires.  Please contact them at (408) 956-8827.
 
 [(408) 956-8827](tel:%28408%29%20956-8827)
 
- 
+&#x20;
 
 Sincerely,
 
@@ -1362,11 +1364,6 @@ esther.berberian@michelin.com
 
 [esther.berberian@michelin.com](mailto:esther.berberian@michelin.com)
 
-[](https://drive.google.com/folderview?id=17dOkpgfcf6wBnH1J5LsP8tPfgs_FH8Qc)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=17dOkpgfcf6wBnH1J5LsP8tPfgs_FH8Qc#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=17dOkpgfcf6wBnH1J5LsP8tPfgs_FH8Qc#list" frameborder="0"></iframe>
-

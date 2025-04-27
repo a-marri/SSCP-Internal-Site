@@ -1,10 +1,10 @@
-# SSCP - 2016-2017 Array Test Coupon Database
+# 2016-2017-array-test-coupon-database
 
-# 2016-2017 Array Test Coupon Database
+## SSCP - 2016-2017 Array Test Coupon Database
 
-## Flash Tester Nomenclature
+## 2016-2017 Array Test Coupon Database
 
-[](#h.m8vavtxomwb3)
+### Flash Tester Nomenclature
 
 Write it as "Topsheet - Encapsulant - Backsheet (Notes)"
 
@@ -18,15 +18,15 @@ ETFE - E
 
 Encapsulants:
 
-Mitsui Polyolefin -   M
+Mitsui Polyolefin -   M
 
-STR EVA -   E
+STR EVA -   E
 
-3M Polyolefin -  3
+3M Polyolefin -  3
 
-Dow Corning Silicone -  S
+Dow Corning Silicone -  S
 
-DuPont Ionomer -  I
+DuPont Ionomer -  I
 
 Backsheets:
 
@@ -44,23 +44,14 @@ Madico R Light - T
 
 Aka light - A
 
-## Small Samples for Total Reflectance Testing
+### Small Samples for Total Reflectance Testing
 
-[](#h.cpvd5qbzb02c)
+#### Embedded Content
 
-### Embedded Content
+Embedded content: [Custom embed](2016-2017-array-test-coupon-database.md)
 
-Embedded content: [Custom embed]()
+### Single Cell Samples
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+#### Embedded Content
 
-## Single Cell Samples
-
-[](#h.c9mipoocn766)
-
-### Embedded Content
-
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
+Embedded content: [Custom embed](2016-2017-array-test-coupon-database.md)

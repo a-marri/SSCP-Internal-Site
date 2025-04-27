@@ -1,8 +1,10 @@
-# SSCP - 18-07-08 Updates
+# 18-07-08-updates
 
-# 18-07-08 Updates
+## SSCP - 18-07-08 Updates
 
----------------------------
+## 18-07-08 Updates
+
+***
 
 Aero
 
@@ -11,7 +13,6 @@ Key Points:
 * Had a goals meeting Friday to discuss first two bullet cars and next goalsWant to cut 10N of drag from current to next car
 * Had a goals meeting Friday to discuss first two bullet cars and next goals
 * Want to cut 10N of drag from current to next car
-
 * Had a goals meeting Friday to discuss first two bullet cars and next goals
 * Want to cut 10N of drag from current to next car
 
@@ -24,7 +25,6 @@ Wins:
 * Everyone is working hard to finish surfacing our first few carsMay be able to 3D print quarter or half scale models in sections for testing
 * Everyone is working hard to finish surfacing our first few cars
 * May be able to 3D print quarter or half scale models in sections for testing
-
 * Everyone is working hard to finish surfacing our first few cars
 * May be able to 3D print quarter or half scale models in sections for testing
 
@@ -36,7 +36,6 @@ Losses:
 
 * Maggie is still fighting for NX licensing
 * Maggie is still fighting for NX licensing
-
 * Maggie is still fighting for NX licensing
 
 Maggie is still fighting for NX licensing
@@ -48,7 +47,6 @@ Key Points:
 * Developing library for solar irradiance in Australia during course of routePacking up the Sinton flash tester
 * Developing library for solar irradiance in Australia during course of route
 * Packing up the Sinton flash tester
-
 * Developing library for solar irradiance in Australia during course of route
 * Packing up the Sinton flash tester
 
@@ -60,7 +58,6 @@ Wins:
 
 * Alta cells have supposedly arrived
 * Alta cells have supposedly arrived
-
 * Alta cells have supposedly arrived
 
 Alta cells have supposedly arrived
@@ -83,7 +80,6 @@ Key Points:
 * Synced with EE team on embedded requirements
 * Creating a plan for summer work and next milestones in embedded ramp-up
 * Established code meeting for July 15th
-
 * Synced with EE team on embedded requirements
 * Creating a plan for summer work and next milestones in embedded ramp-up
 * Established code meeting for July 15th
@@ -98,7 +94,6 @@ Wins:
 
 * Everyone's excited to get started!
 * Everyone's excited to get started!
-
 * Everyone's excited to get started!
 
 Everyone's excited to get started!
@@ -112,7 +107,6 @@ Key Points:
 * Ordered 2x DTMS (Digital Temperature Measurement System) boards from SierraETA: Thursday or Friday of this week
 * Ordered 2x DTMS (Digital Temperature Measurement System) boards from SierraETA: Thursday or Friday of this week
 * ETA: Thursday or Friday of this week
-
 * Ordered 2x DTMS (Digital Temperature Measurement System) boards from SierraETA: Thursday or Friday of this week
 * ETA: Thursday or Friday of this week
 
@@ -145,7 +139,6 @@ Wins:
 
 * Super excited to come in town next weekend! Please HMU if you need to meet about anything! I'll be at VAIL all Friday and Saturday. -- Sarah
 * Super excited to come in town next weekend! Please HMU if you need to meet about anything! I'll be at VAIL all Friday and Saturday. -- Sarah
-
 * Super excited to come in town next weekend! Please HMU if you need to meet about anything! I'll be at VAIL all Friday and Saturday. -- Sarah
 
 Super excited to come in town next weekend! Please HMU if you need to meet about anything! I'll be at VAIL all Friday and Saturday. -- Sarah
@@ -156,28 +149,27 @@ Mechanical + Composites
 
 Key Points:
 
-* Progress made on defining suspension/steering geometry Have identified bounding box for aero including max wheel travel from lock to lock*IMPENDING DECISION*: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffsFor Mule Car, we can reuse much of Sundae's suspension but need to redesign the leading arms and the control arms in the front
-* Progress made on defining suspension/steering geometry Have identified bounding box for aero including max wheel travel from lock to lock*IMPENDING DECISION*: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
+* Progress made on defining suspension/steering geometry Have identified bounding box for aero including max wheel travel from lock to loc&#x6B;_&#x49;MPENDING DECISION_: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffsFor Mule Car, we can reuse much of Sundae's suspension but need to redesign the leading arms and the control arms in the front
+* Progress made on defining suspension/steering geometry Have identified bounding box for aero including max wheel travel from lock to loc&#x6B;_&#x49;MPENDING DECISION_: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
 * Have identified bounding box for aero including max wheel travel from lock to lock
-* *IMPENDING DECISION*: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
+* _IMPENDING DECISION_: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
+* cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
+* For Mule Car, we can reuse much of Sundae's suspension but need to redesign the leading arms and the control arms in the front
+* Progress made on defining suspension/steering geometry Have identified bounding box for aero including max wheel travel from lock to loc&#x6B;_&#x49;MPENDING DECISION_: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
+* Have identified bounding box for aero including max wheel travel from lock to lock
+* _IMPENDING DECISION_: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
 * cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
 * For Mule Car, we can reuse much of Sundae's suspension but need to redesign the leading arms and the control arms in the front
 
-* Progress made on defining suspension/steering geometry Have identified bounding box for aero including max wheel travel from lock to lock*IMPENDING DECISION*: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
-* Have identified bounding box for aero including max wheel travel from lock to lock
-* *IMPENDING DECISION*: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
-* cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
-* For Mule Car, we can reuse much of Sundae's suspension but need to redesign the leading arms and the control arms in the front
-
-Progress made on defining suspension/steering geometry 
+Progress made on defining suspension/steering geometry&#x20;
 
 * Have identified bounding box for aero including max wheel travel from lock to lock
-* *IMPENDING DECISION*: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
+* _IMPENDING DECISION_: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
 * cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
 
 Have identified bounding box for aero including max wheel travel from lock to lock
 
-*IMPENDING DECISION*: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)
+_IMPENDING DECISION_: if we build a narrow car, are we going to make it boat shaped (from top view) to fit the steering (IE Tokai, Kogakuin) or just make it straight and narrow and try to do some cute push-out fairings (IE Michigan)
 
 * cute push-out fairings will maybe be easier for Aero but harder for Mech/Composites. We <3 tradeoffs
 
@@ -190,8 +182,8 @@ For Mule Car, we can reuse much of Sundae's suspension but need to redesign the 
 * exploring feasibility of putting our tire on a bike-sized mount of some sort
 * Basic tire info will be useful for us; more in depth tire info is more of an educational thing
 * still cool tho
-* Lewis is developing a test plan for exploring the feasibility of magnet-clasped, vacuum-formed, beautiful plastic wheel shroudsFirst packaging scheme was ~not awful~ and looks hella stable from a weight distribution perspective: we were able to hit all our target numbersbut... we forgot to include the weight of the roll cage. It probably won't matter that much but will be included in further iterations.more final ideas of array positioning in aero may necessitate changes to the chassis length, which will cause more aerobody fit changes but shouldn't affect much else
-* First packaging scheme was ~not awful~ and looks hella stable from a weight distribution perspective: we were able to hit all our target numbersbut... we forgot to include the weight of the roll cage. It probably won't matter that much but will be included in further iterations.more final ideas of array positioning in aero may necessitate changes to the chassis length, which will cause more aerobody fit changes but shouldn't affect much else
+* Lewis is developing a test plan for exploring the feasibility of magnet-clasped, vacuum-formed, beautiful plastic wheel shroudsFirst packaging scheme was ~~not awful~~ and looks hella stable from a weight distribution perspective: we were able to hit all our target numbersbut... we forgot to include the weight of the roll cage. It probably won't matter that much but will be included in further iterations.more final ideas of array positioning in aero may necessitate changes to the chassis length, which will cause more aerobody fit changes but shouldn't affect much else
+* First packaging scheme was ~~not awful~~ and looks hella stable from a weight distribution perspective: we were able to hit all our target numbersbut... we forgot to include the weight of the roll cage. It probably won't matter that much but will be included in further iterations.more final ideas of array positioning in aero may necessitate changes to the chassis length, which will cause more aerobody fit changes but shouldn't affect much else
 * but... we forgot to include the weight of the roll cage. It probably won't matter that much but will be included in further iterations.
 * more final ideas of array positioning in aero may necessitate changes to the chassis length, which will cause more aerobody fit changes but shouldn't affect much else
 
@@ -211,11 +203,11 @@ still cool tho
 
 Lewis is developing a test plan for exploring the feasibility of magnet-clasped, vacuum-formed, beautiful plastic wheel shrouds
 
-* First packaging scheme was ~not awful~ and looks hella stable from a weight distribution perspective: we were able to hit all our target numbersbut... we forgot to include the weight of the roll cage. It probably won't matter that much but will be included in further iterations.more final ideas of array positioning in aero may necessitate changes to the chassis length, which will cause more aerobody fit changes but shouldn't affect much else
+* First packaging scheme was ~~not awful~~ and looks hella stable from a weight distribution perspective: we were able to hit all our target numbersbut... we forgot to include the weight of the roll cage. It probably won't matter that much but will be included in further iterations.more final ideas of array positioning in aero may necessitate changes to the chassis length, which will cause more aerobody fit changes but shouldn't affect much else
 * but... we forgot to include the weight of the roll cage. It probably won't matter that much but will be included in further iterations.
 * more final ideas of array positioning in aero may necessitate changes to the chassis length, which will cause more aerobody fit changes but shouldn't affect much else
 
-First packaging scheme was ~not awful~ and looks hella stable from a weight distribution perspective: we were able to hit all our target numbers
+First packaging scheme was ~~not awful~~ and looks hella stable from a weight distribution perspective: we were able to hit all our target numbers
 
 * but... we forgot to include the weight of the roll cage. It probably won't matter that much but will be included in further iterations.
 * more final ideas of array positioning in aero may necessitate changes to the chassis length, which will cause more aerobody fit changes but shouldn't affect much else
@@ -230,7 +222,6 @@ Wins:
 * Congrats to Josh and Eric for completing their first composite wet layups!
 * wheel shrouds are GOING TO HAPPEN THIS CYCLE
 * It looks like the battery might fit in the very small box where we want to put it, pending further design work from Temi
-
 * Congrats to Josh and Eric for completing their first composite wet layups!
 * wheel shrouds are GOING TO HAPPEN THIS CYCLE
 * It looks like the battery might fit in the very small box where we want to put it, pending further design work from Temi
@@ -245,10 +236,8 @@ Losses:
 
 * See above re: Altair sponsorship deal
 * See above re: Altair sponsorship deal
-
 * See above re: Altair sponsorship deal
 
 See above re: Altair sponsorship deal
 
-----------------------------------
-
+***

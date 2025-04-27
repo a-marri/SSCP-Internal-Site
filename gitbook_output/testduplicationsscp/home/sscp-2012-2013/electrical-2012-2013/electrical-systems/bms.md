@@ -1,10 +1,11 @@
-# SSCP - BMS
+# bms
 
-# BMS
+## SSCP - BMS
 
-Battery Management System. 
+## BMS
 
-This board's main responsibility is to protect the battery pack from over charge or under charge. To do this it must monitor the voltage across each battery brick. 
+Battery Management System.&#x20;
+
+This board's main responsibility is to protect the battery pack from over charge or under charge. To do this it must monitor the voltage across each battery brick.&#x20;
 
 BBS must also accurately measure the amount of power going in and out of the pack. Charge counting is essential to measure the energy left in the pack. In order to get an accurate discharge curve of the batteries, temperature must also be measured
-

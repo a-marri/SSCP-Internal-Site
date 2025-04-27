@@ -1,6 +1,8 @@
-# SSCP - Weekly Planning
+# weekly-planning
 
-# Weekly Planning
+## SSCP - Weekly Planning
+
+## Weekly Planning
 
 Week of October 10th:
 
@@ -16,5 +18,4 @@ Get outdoor tester set up for relative comparison between Gochermann and F3K enc
 
 EL Test the Gochermann module for Logan to verify cracks
 
-Verify power loss due to dicing from A-Laser (go to SunPower for this). 
-
+Verify power loss due to dicing from A-Laser (go to SunPower for this).&#x20;

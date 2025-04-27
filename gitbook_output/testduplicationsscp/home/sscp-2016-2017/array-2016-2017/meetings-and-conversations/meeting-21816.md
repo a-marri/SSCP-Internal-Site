@@ -1,74 +1,73 @@
-# SSCP - Meeting 2/18/16
+# meeting-21816
 
-# Meeting 2/18/16
+## SSCP - Meeting 2/18/16
+
+## Meeting 2/18/16
 
 TLDR!
 
-1) We are going to get more information from Chuzel and Gocherman regarding order deadlines and testing advice (which they have both offered).  
-
-2) We will continue to secure encapsulation materials for our pipeline in the spring.
-
-3) An alum from Michigan State may help us put together a device that allows us to easily encapsulate cells.
+1. We are going to get more information from Chuzel and Gocherman regarding order deadlines and testing advice (which they have both offered). &#x20;
+2. We will continue to secure encapsulation materials for our pipeline in the spring.
+3. An alum from Michigan State may help us put together a device that allows us to easily encapsulate cells.
 
 Soldering:
 
-    63-37 (utactic?)
+&#x20;   63-37 (utactic?)
 
-    Lead-free isn't great. (silver)
+&#x20;   Lead-free isn't great. (silver)
 
-    best solder is lead-tin-copper-silver
+&#x20;   best solder is lead-tin-copper-silver
 
-        2%silver, 1%copper. 
+&#x20;       2%silver, 1%copper.&#x20;
 
-    2-3 seconds for solder joint, let it cool
+&#x20;   2-3 seconds for solder joint, let it cool
 
-    no sharp points on the top.
+&#x20;   no sharp points on the top.
 
-    
+&#x20;  &#x20;
 
 Encapsulation
 
-    Laminator is optimal
+&#x20;   Laminator is optimal
 
-    Aluminum plates with vacuum seal could work
+&#x20;   Aluminum plates with vacuum seal could work
 
-    Resistance heater could also work. 
+&#x20;   Resistance heater could also work.&#x20;
 
 Alain Chuzel:
 
-    Should we encapsulate with him?
+&#x20;   Should we encapsulate with him?
 
-        How much can he improve on us vs how much would it cost. 
+&#x20;       How much can he improve on us vs how much would it cost.&#x20;
 
-    What is his technology?
+&#x20;   What is his technology?
 
-        Fiberglass texturing?!
+&#x20;       Fiberglass texturing?!
 
-            Military grade fiberglass with high transmittance
+&#x20;           Military grade fiberglass with high transmittance
 
-        Encapsulant thingy
+&#x20;       Encapsulant thingy
 
-    
+&#x20;  &#x20;
 
 To Do:
 
-    Chuzel: Kelsey will continue talking, figure out important dates
+&#x20;   Chuzel: Kelsey will continue talking, figure out important dates
 
-    Gochermann: Alex will talk, ask about testing, FEP vs ETFE, etc. 
+&#x20;   Gochermann: Alex will talk, ask about testing, FEP vs ETFE, etc.&#x20;
 
-    Pursue materials obtainment
+&#x20;   Pursue materials obtainment
 
-    Microstructures too
+&#x20;   Microstructures too
 
-    Dupont would be awesome
+&#x20;   Dupont would be awesome
 
-    Willow Glass -- Abrisa
+&#x20;   Willow Glass -- Abrisa
 
-    Laminating system: work on getting one donated
+&#x20;   Laminating system: work on getting one donated
 
-        Or get Steve's system working
+&#x20;       Or get Steve's system working
 
-    Solmetric (John)
+&#x20;   Solmetric (John)
 
-    Email companies from conference: John
-
+&#x20;   Email companies from conference: John

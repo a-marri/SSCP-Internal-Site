@@ -1,6 +1,8 @@
-# SSCP - Sunbad Module Wiring
+# sunbad-module-wiring
 
-# Sunbad Module Wiring
+## SSCP - Sunbad Module Wiring
+
+## Sunbad Module Wiring
 
 ![](../../../../../assets/image_4b183b2d27.jpg)
 
@@ -10,7 +12,7 @@ Each individual module has 2 bypass diodes. Engineering design and CAD complimen
 
 When looking at the array from the back of the cells (i.e. when soldering) with the tabs on the left, the positive is the top tab and negative is the bottom tab
 
-Here's what it look likes schematically. 
+Here's what it look likes schematically.&#x20;
 
 ![](../../../../../assets/image_a0cbee1bd4.jpg)
 
@@ -23,4 +25,3 @@ http://www.digikey.com/product-detail/en/STPS30L30DJF-TR/497-12867-1-ND/3043778
 For arrays 2,5,and 8, the wiring is a little different
 
 ![](../../../../../assets/image_e1b135c00d.jpg)
-

@@ -1,6 +1,8 @@
-# SSCP - Unveiling Plan
+# unveiling-plan
 
-# Unveiling Plan
+## SSCP - Unveiling Plan
+
+## Unveiling Plan
 
 Saturday July 1 4-6pm
 
@@ -56,7 +58,7 @@ kelsey2@stanford.edu
 
 [kelsey2@stanford.edu](mailto:kelsey2@stanford.edu)
 
-2064629470&nbsp&nbsp&nbsp&nbsp&nbsp
+2064629470\&nbsp\&nbsp\&nbsp\&nbsp\&nbsp
 
 [2064629470](tel:%28206%29%20462-9470)
 
@@ -74,7 +76,7 @@ Outside the building
 
 We are holding the solar car unveiling. We will need chairs for event attendees and a stage set up in the parking lot of 473 Oak Road. Someone from the team will be there to direct.
 
-Furniture/Stages: 
+Furniture/Stages:&#x20;
 
 White Plastic Folding Chair
 
@@ -83,4 +85,3 @@ Portable stage
 80
 
 20 x 8 x 8 (width x depth x height)
-

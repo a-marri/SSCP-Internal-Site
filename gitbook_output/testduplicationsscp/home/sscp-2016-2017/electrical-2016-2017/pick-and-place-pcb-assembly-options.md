@@ -1,6 +1,8 @@
-# SSCP - Pick-And-Place PCB Assembly Options
+# pick-and-place-pcb-assembly-options
 
-# Pick-And-Place PCB Assembly Options
+## SSCP - Pick-And-Place PCB Assembly Options
+
+## Pick-And-Place PCB Assembly Options
 
 We are looking into Pick-And-Place PCB assembly for reliability and manufacturing speed this cycle.
 
@@ -14,11 +16,11 @@ Sierra Circuits - an already-existing PCB printing sponsor who also does assembl
 
 [Sierra Circuits](https://www.protoexpress.com/)
 
-Macrofab - they accept ODB++ files from Altium, Max Praglin used for new DC-DC converter. Sasha: domestic turn-key (board+assembly) which gives discounts for using parts from their library. High-quality PCB, low-quality 
+Macrofab - they accept ODB++ files from Altium, Max Praglin used for new DC-DC converter. Sasha: domestic turn-key (board+assembly) which gives discounts for using parts from their library. High-quality PCB, low-quality&#x20;
 
 [Macrofab](https://macrofab.com/)
 
-CircuitHub - option, don't know much about them.  Ben Stabler recommended.
+CircuitHub - option, don't know much about them.  Ben Stabler recommended.
 
 [CircuitHub](https://circuithub.com/)
 
@@ -50,11 +52,6 @@ Small Batch Assembly - pretty much all in the name. They don't make boards, but 
 
 [Small Batch Assembly](http://www.smallbatchassembly.com/)
 
-[](https://drive.google.com/folderview?id=1xa29x8EMJcyuzze6cdP3T8iarebGN_aK)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1xa29x8EMJcyuzze6cdP3T8iarebGN_aK#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1xa29x8EMJcyuzze6cdP3T8iarebGN_aK#list" frameborder="0"></iframe>
-

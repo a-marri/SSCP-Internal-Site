@@ -1,10 +1,12 @@
-# SSCP - Lessons Learned From Topshell 1
+# lessons-learned-from-topshell-1
 
-# Lessons Learned From Topshell 1
+## SSCP - Lessons Learned From Topshell 1
 
-We began our manufacturing process with a setback: we could not get our encapsulation recipe to work successfully in SunPower's laminator. This set us behind in terms of time and experience; we needed to create entirely new processes to encapsulate our largest modules internally.  That refinement process itself then took time to reach a level at which we could be confident that we could make an array that would go on Sundae.  With an accelerated timeline, we had to rush some things and work long nights to complete the array. Special thanks to Sir Eddy for his hard work, and rest in piece tempered glass, we hardly knew you.
+## Lessons Learned From Topshell 1
 
-This page serves as a starting point to our mental reset for topshell 2. We made all the mistakes we needed to make with topshell 1, and probably a few more, to make the manufacturing of topshell 2 a smooth process. As long as we keep in mind everything we have learned so far, we will have a beautiful race topshell. If we don't, our burns will be for nought. 
+We began our manufacturing process with a setback: we could not get our encapsulation recipe to work successfully in SunPower's laminator. This set us behind in terms of time and experience; we needed to create entirely new processes to encapsulate our largest modules internally.  That refinement process itself then took time to reach a level at which we could be confident that we could make an array that would go on Sundae.  With an accelerated timeline, we had to rush some things and work long nights to complete the array. Special thanks to Sir Eddy for his hard work, and rest in piece tempered glass, we hardly knew you.
+
+This page serves as a starting point to our mental reset for topshell 2. We made all the mistakes we needed to make with topshell 1, and probably a few more, to make the manufacturing of topshell 2 a smooth process. As long as we keep in mind everything we have learned so far, we will have a beautiful race topshell. If we don't, our burns will be for nought.&#x20;
 
 Note: this is not intended to provide a thorough SOP for any of our processes, but rather to remind us of the most common errors we have come across/could come across while manufacturing our next topshell.
 
@@ -14,7 +16,7 @@ issue: hand-mixing materials will not provide proper cure for epoxy.
 
 solution: use air gun and dp 420
 
-issue: tape covering underside of topshell not leaving a smooth finish on the epoxy. 
+issue: tape covering underside of topshell not leaving a smooth finish on the epoxy.&#x20;
 
 solution: place flat masking tape over hole, then several layers of duct tape behind that (preferably single) piece to provide support
 
@@ -30,7 +32,7 @@ Drilling
 
 issue: router scratching paint/carbon
 
-solution: cover painted areas on topshell with masking then flash breaker tape. fold over edges so dust does not accumulate. also cover underside of router with flash breaker tape. 
+solution: cover painted areas on topshell with masking then flash breaker tape. fold over edges so dust does not accumulate. also cover underside of router with flash breaker tape.&#x20;
 
 issue: channel epoxy layer not being drilled deeply enough
 
@@ -42,11 +44,11 @@ solution: mark absolute boundaries with sharpie; go slowly and be careful.
 
 issue: poor measurements of tab placement on topshell
 
-solution: do not begin to mark placement of cutouts for tabs until all modules have been trimmed 
+solution: do not begin to mark placement of cutouts for tabs until all modules have been trimmed&#x20;
 
 VHB taping
 
-issue: uneven level of paint along edges of topshell 
+issue: uneven level of paint along edges of topshell&#x20;
 
 solution: measure and mark variations in height, noting which thickness of VHB works best in each location
 
@@ -68,7 +70,7 @@ solution: attach to end of tab some string/tape to feed through hole early in th
 
 issue: front module
 
-solution: an SOP involving at least six people, and a lot of patience. 
+solution: an SOP involving at least six people, and a lot of patience.&#x20;
 
 Large glass
 
@@ -78,7 +80,7 @@ solution: lay vacuum tape along top and bottom edge of glass and put vacuum bag 
 
 issue: poor bond strength
 
-solution: use both vacuums and do not start the timer until oven has equilibrated and is above 175C. 
+solution: use both vacuums and do not start the timer until oven has equilibrated and is above 175C.&#x20;
 
 issue: vacuum hoses pulling and losing seal
 
@@ -86,9 +88,9 @@ solution: when placing them on the tape, orient them diagonally to better facili
 
 Encapsulation issues
 
-        issue: forgetting to cut out openings for the tabs in the back layer of encapsulant and in the back sheet, then threading the tabs through those openings
+&#x20;       issue: forgetting to cut out openings for the tabs in the back layer of encapsulant and in the back sheet, then threading the tabs through those openings
 
-        solution: have the group double check that we have performed all major tasks at regular intervals
+&#x20;       solution: have the group double check that we have performed all major tasks at regular intervals
 
 issue: double sided tape imprinting upon module
 
@@ -100,21 +102,21 @@ solution: spray mold release in area with good air circulation onto a paper towe
 
 issue: poor bond strength + bubbling
 
-solution: ensure vacuum is pulled well (clamp hoses to check for changes in pitch and inspect exhaust from the red oil vacuum for visible smoke—both are indications of poor vacuum). if bond strength is an issue, vacuum was likely not providing necessary pressure.  pull vacuum on the module again, heat in oven again—preferably before trimming to limit encapsulant spillover. this will pull bubbles closer to the edges and should help with bond strength issues. could use dp-105 method if still necessary (see Manufacturing Logistics 2017 page)
+solution: ensure vacuum is pulled well (clamp hoses to check for changes in pitch and inspect exhaust from the red oil vacuum for visible smoke—both are indications of poor vacuum). if bond strength is an issue, vacuum was likely not providing necessary pressure.  pull vacuum on the module again, heat in oven again—preferably before trimming to limit encapsulant spillover. this will pull bubbles closer to the edges and should help with bond strength issues. could use dp-105 method if still necessary (see Manufacturing Logistics 2017 page)
 
 issue: adhesive from double sided tape sticking to glass post-encapsulation
 
-solution: bathe in goo gone for ~20 minutes before using new razor blades to scrape glass
+solution: bathe in goo gone for \~20 minutes before using new razor blades to scrape glass
 
-        issue: back sheet sticks to release film.
+&#x20;       issue: back sheet sticks to release film.
 
-        solution: make sure top sheet covers everywhere there is encapsulant and back sheet, and then some.
+&#x20;       solution: make sure top sheet covers everywhere there is encapsulant and back sheet, and then some.
 
 Vacuum issues
 
 issue: red vacuum leaking oil onto glass when blue vacuum is on and red is off.
 
-solution: do not leave one vacuum on while other is off for more than a few minutes—just enough to check your vacuum seal. 
+solution: do not leave one vacuum on while other is off for more than a few minutes—just enough to check your vacuum seal.&#x20;
 
 issue: blue vacuum not turning on
 
@@ -130,15 +132,15 @@ issue: touchy controls—setting temperature to anything lower than current temp
 
 solution: we want our modules to feel the burn. nothing lower than 175C should appear on the temp readout while timer is going. modules will go into oven when the screen reads 210 (for large glass) or 190 (for small glass) and then the temp will drop; once temp has bottomed out and started rising again, set temp to 185 and start timer. raise or lower temp setting as needed.
 
-        issue: large glass, small oven
+&#x20;       issue: large glass, small oven
 
-        solution: wear PPE and get extra help holding doors!
+&#x20;       solution: wear PPE and get extra help holding doors!
 
 Outdoor tester
 
 issue: inconsistent test variables
 
-solution(s): normalize pyronometer to sun. shade cells until immediately before test is run and then immediately after to keep temperature-related efficiency loss to a minimum. perform I_sc test simultaneously on modules in question. perform all tests on cloudless days. standardize distance from vail at which the tests will occur to provide similar levels of ambient irradiance. always note the test environment.
+solution(s): normalize pyronometer to sun. shade cells until immediately before test is run and then immediately after to keep temperature-related efficiency loss to a minimum. perform I\_sc test simultaneously on modules in question. perform all tests on cloudless days. standardize distance from vail at which the tests will occur to provide similar levels of ambient irradiance. always note the test environment.
 
 issue: wires coming loose
 
@@ -146,21 +148,21 @@ solution: to be determined. talk to john
 
 Trimming
 
-issue: cracking cells 
+issue: cracking cells&#x20;
 
 solution: do not place clamps near cells; lean on straight edge not cells
 
 issue: edge not straight
 
-solution: use multiple clamps on straight edge, be diligent. 
+solution: use multiple clamps on straight edge, be diligent.&#x20;
 
-issue: blank encapsulations needing trimmed 
+issue: blank encapsulations needing trimmed&#x20;
 
 solution: talk to danielle!
 
-        issue: not enough extra blank area for trimming
+&#x20;       issue: not enough extra blank area for trimming
 
-        solution: have aero sign off on our dimensions before encapsulating. 
+&#x20;       solution: have aero sign off on our dimensions before encapsulating.&#x20;
 
 Soldering
 
@@ -172,15 +174,15 @@ issue: reaching power supply wire clamps beneath cells
 
 solution: tape interconnect tabs to edge of corner tabs while cells are still face down so they stick out from beneath the cells and allow for easy access
 
-Silicone seams 
+Silicone seams&#x20;
 
 issue: cracking
 
 solution: more testing to determine specific silicone type and time relative to its curing process at which masking tape surrounding silicone should be removed
 
-        issue: seams not covering the top of the modules 
+&#x20;       issue: seams not covering the top of the modules&#x20;
 
-        solution: place tape a little bit back from the edge of the module. Won't lose any aero, and it'll seal in the module better and will make masking easier. 
+&#x20;       solution: place tape a little bit back from the edge of the module. Won't lose any aero, and it'll seal in the module better and will make masking easier.&#x20;
 
 Module handling
 
@@ -190,7 +192,7 @@ solution: clean (deferring to others on methodology here)
 
 issue: module surface scratches
 
-solution: unless currently needed for testing, always tape tabs! and dog-ear one of the ends to ensure easy tape removal. Also, give each module its own poster board covered in clean room paper.  tape it down. minimize sliding of modules while face-down. if something (module or otherwise) is placed on top of a module, lift the thing off rather than sliding it off. preferred tape to use on modules are masking and scotch (and Kapton in specific areas)
+solution: unless currently needed for testing, always tape tabs! and dog-ear one of the ends to ensure easy tape removal. Also, give each module its own poster board covered in clean room paper.  tape it down. minimize sliding of modules while face-down. if something (module or otherwise) is placed on top of a module, lift the thing off rather than sliding it off. preferred tape to use on modules are masking and scotch (and Kapton in specific areas)
 
 issue: cracking
 
@@ -198,9 +200,9 @@ solution: only carry trimmed modules by pinching areas between cells. modules CA
 
 Top shell handling
 
-        Issue: array dust cover blows off in wind; tape does not stick to carbon but does stick to paint/top sheet and will leave residue.
+&#x20;       Issue: array dust cover blows off in wind; tape does not stick to carbon but does stick to paint/top sheet and will leave residue.
 
-        solution: don't tape to the top shell itself; anchor sheet to ground/objects around top shell in strategic locations. if residue is on paint, use ONR (Optimum No Rinse) and a microfiber cloth to wipe off. Do NOT use ONR on top sheet: ONR is designed to fill in small bumps in a surface, which is great for paint, but not so much for a texturized top sheet. Use IPA instead. 
+&#x20;       solution: don't tape to the top shell itself; anchor sheet to ground/objects around top shell in strategic locations. if residue is on paint, use ONR (Optimum No Rinse) and a microfiber cloth to wipe off. Do NOT use ONR on top sheet: ONR is designed to fill in small bumps in a surface, which is great for paint, but not so much for a texturized top sheet. Use IPA instead.&#x20;
 
 Logistics
 
@@ -216,21 +218,20 @@ issue: organization
 
 solution: if a subset of people clean the array area, debrief with anyone not present where the items of import (scissors, modules, tape) were placed. array shelving should be reorganized before manufacturing of second top shell.
 
-In closing, I would like to emphasize the issue of the human factor, which does not exactly fit in any of the above categories. We needed to put in many late nights to get this array completed. Fatigue and miscommunication among the array team led to greater inefficiencies, more late nights, and thus more fatigue and miscommunication.  Here are some lessons I have learned myself about working optimally under high stress and limited time: 
+In closing, I would like to emphasize the issue of the human factor, which does not exactly fit in any of the above categories. We needed to put in many late nights to get this array completed. Fatigue and miscommunication among the array team led to greater inefficiencies, more late nights, and thus more fatigue and miscommunication.  Here are some lessons I have learned myself about working optimally under high stress and limited time:&#x20;
 
-* Listen to others' suggestions, even if you think you are well-versed in the area in contention. The likely cause of miscommunication is they already made the mistake you are about to, and a page like this didn't exist for you to gain the experience from. 
+* Listen to others' suggestions, even if you think you are well-versed in the area in contention. The likely cause of miscommunication is they already made the mistake you are about to, and a page like this didn't exist for you to gain the experience from.&#x20;
 * Triple check on the details of your project and on the intuition behind why you're doing it at all. For example, knowing fewer seams on the car leads to better aero performance will likely help you remember to cut out an extra large top sheet, encapsulant, and back sheet during your module encapsulation.
-* Speed does not directly translate to improved efficiency. Take your time, do it well the first time, and we won't have to worry about it again. 
+* Speed does not directly translate to improved efficiency. Take your time, do it well the first time, and we won't have to worry about it again.&#x20;
 * In major multi-person projects, like encapsulations, drilling and potting, and laying down modules, review the SOP of what you are about to do, and have quality checks of the process before every point of "no turning back." For example, before putting a module in the oven, or drilling holes in the topshell. Few mistakes we can make are irrevocable, but many can set us back days, especially when we are low on materials.
 * If you are tired and noticing a degradation of work quality, switch out with someone else and take a break/nap/go home as necessary. There is a time (June 30th) for all nighters, but we also need to be healthy!
 
-Listen to others' suggestions, even if you think you are well-versed in the area in contention. The likely cause of miscommunication is they already made the mistake you are about to, and a page like this didn't exist for you to gain the experience from. 
+Listen to others' suggestions, even if you think you are well-versed in the area in contention. The likely cause of miscommunication is they already made the mistake you are about to, and a page like this didn't exist for you to gain the experience from.&#x20;
 
 Triple check on the details of your project and on the intuition behind why you're doing it at all. For example, knowing fewer seams on the car leads to better aero performance will likely help you remember to cut out an extra large top sheet, encapsulant, and back sheet during your module encapsulation.
 
-Speed does not directly translate to improved efficiency. Take your time, do it well the first time, and we won't have to worry about it again. 
+Speed does not directly translate to improved efficiency. Take your time, do it well the first time, and we won't have to worry about it again.&#x20;
 
 In major multi-person projects, like encapsulations, drilling and potting, and laying down modules, review the SOP of what you are about to do, and have quality checks of the process before every point of "no turning back." For example, before putting a module in the oven, or drilling holes in the topshell. Few mistakes we can make are irrevocable, but many can set us back days, especially when we are low on materials.
 
 If you are tired and noticing a degradation of work quality, switch out with someone else and take a break/nap/go home as necessary. There is a time (June 30th) for all nighters, but we also need to be healthy!
-

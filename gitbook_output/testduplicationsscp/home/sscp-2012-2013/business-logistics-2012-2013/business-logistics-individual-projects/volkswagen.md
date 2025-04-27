@@ -1,12 +1,14 @@
-# SSCP - Volkswagen
+# volkswagen
 
-# Volkswagen
+## SSCP - Volkswagen
 
-Volkswagen is one of the top sponsors of the Stanford Solar Car Project. During the 2010-2012 sponsorship cycle Volkswagen provided the team with two $25,000 donations, a loaned VW Touareg for use in California, and a set of four loaned vehicles (a bluemotion golf, a Amarok, a caddymaxi, and a T-5 transporter) to use during our time in Australia. They also facilitated our Panasonic battery sponsorship and provided general engineering advice for the team. 
+## Volkswagen
+
+Volkswagen is one of the top sponsors of the Stanford Solar Car Project. During the 2010-2012 sponsorship cycle Volkswagen provided the team with two $25,000 donations, a loaned VW Touareg for use in California, and a set of four loaned vehicles (a bluemotion golf, a Amarok, a caddymaxi, and a T-5 transporter) to use during our time in Australia. They also facilitated our Panasonic battery sponsorship and provided general engineering advice for the team.&#x20;
 
 In 2010 VW asked the SSCP to sign a contract giving VW exclusivity rights and other benefits. However, this contract didn't actually comply with Stanford policies regarding corporate gifts.
 
-In 2012, the School of Engineering's Corporate Relations office (mainly Todd Logan) realized that the SSCP contract with VW violated university policies and stepped in to change the contract. After months of negotiation, VW agreed to donate to the team without signing a contract. Instead VW referenced our team's sponsorship packet and Todd Logan provided a modified gift letter for Volkswagen. However, VW would now (as of November 2012) like the team to sign a loan agreement on the cars that they loan our team. Stanford has some unresolved concerns regarding this contract. 
+In 2012, the School of Engineering's Corporate Relations office (mainly Todd Logan) realized that the SSCP contract with VW violated university policies and stepped in to change the contract. After months of negotiation, VW agreed to donate to the team without signing a contract. Instead VW referenced our team's sponsorship packet and Todd Logan provided a modified gift letter for Volkswagen. However, VW would now (as of November 2012) like the team to sign a loan agreement on the cars that they loan our team. Stanford has some unresolved concerns regarding this contract.&#x20;
 
 Attachments:
 
@@ -22,9 +24,9 @@ Stanford- Automobile Loan... This is the initial draft of the loan agreement fro
 
 Stanford SoE Conditions of Gift... This is the standard gift letter for the SoE. Touch base with Todd if you think you need to use this for any reason
 
-Stanford_VWGoA... this is an annotated version of VW's proposed contract with Todd Logan's comments. The team never ended up signing this document
+Stanford\_VWGoA... this is an annotated version of VW's proposed contract with Todd Logan's comments. The team never ended up signing this document
 
-Susan Winsteins comments.... this is Susan Weinstein's comments on the original draft of the Stanford_VWGoA Sponsorship Agreement
+Susan Winsteins comments.... this is Susan Weinstein's comments on the original draft of the Stanford\_VWGoA Sponsorship Agreement
 
 VW and Stanford Signed Sponsors Agreement: This was the contract from 2010-2011. The team should not have signed this contract. Do not agree to sign any contracts like this in the future. Have Todd Logan intervene for you
 
@@ -32,11 +34,11 @@ VW vehicle request from the SSCP: this was our letter to VW formally requesting 
 
 Volkswagen Ask v2. This was our 2012 letter asking for general support from VW. The ERL asked us to write this for documentation purposes. You'll have to ask the board to approve drafts of this letter before you send it
 
-Volkswagen_SSCP Sponsorship Invoice: here is an invoice to update and send to VW whenever they ask for an invoice or the $25,000 payment. 
+Volkswagen\_SSCP Sponsorship Invoice: here is an invoice to update and send to VW whenever they ask for an invoice or the $25,000 payment.&#x20;
 
-4299_001.pdf Final contract for 2013 VW vehicles in Australia
+4299\_001.pdf Final contract for 2013 VW vehicles in Australia
 
-4300_001.pdf Final contract for 2013 VW vehicles in Australia
+4300\_001.pdf Final contract for 2013 VW vehicles in Australia
 
 (some documents are not included in this list. You'll have to check them out below.)
 
@@ -44,7 +46,7 @@ People to know
 
 Todd Logan: SoE Corporate Relations Director. He is pretty chill and is our main liaison/university oversight for sponsorship issues. Keep him in the loop regarding our negotiations with VW and stay on his good side
 
-Susan Weinstein: she works with Todd Logan 
+Susan Weinstein: she works with Todd Logan&#x20;
 
 Matthew Montgomery: The SSCP's engineering/business contact during 2010 and 2011. A Stanford alum?
 
@@ -56,7 +58,7 @@ Peter Oel: The director of the ERL
 
 Prasanth:
 
-Jim Edwards: Contact for cars in Australia. Talk to the ERL people before you reach out to Jim. 
+Jim Edwards: Contact for cars in Australia. Talk to the ERL people before you reach out to Jim.&#x20;
 
 Timothy Adkins: He is a marketing guy for VW who invited the team to present Xenith at the 2012 Sea Otter Classic
 
@@ -70,19 +72,19 @@ Chris Gerdes: His group also negotiates deals with the ERL and VW. He can throw 
 
 Sven Beiker: He'll always have something to say regarding VW
 
-Nanci Howe: She will always have something to say regarding VW. 
+Nanci Howe: She will always have something to say regarding VW.&#x20;
 
 Stephanie Bonovich: Have VW and other sponsors send checks to Stephanie. Sending checks to her office avoids university service fees for donations. Make sure the checks are written to "Stanford Solar Car Project"
 
 Things to Remember
 
-Although the SoE Corporate Relations office may seem like a barrier when they force the team to stick to Stanford's policies they do have an investment in the team's success. Todd Logan ended up spending many hours sending emails and making phone calls throughout the university and to VW's corporate counsel to mediate the dispute. As long as you get Todd Logan or other people in that office to like you they can fight your battles for you. 
+Although the SoE Corporate Relations office may seem like a barrier when they force the team to stick to Stanford's policies they do have an investment in the team's success. Todd Logan ended up spending many hours sending emails and making phone calls throughout the university and to VW's corporate counsel to mediate the dispute. As long as you get Todd Logan or other people in that office to like you they can fight your battles for you.&#x20;
 
 Be sure to maintain good relationships with our business and engineering contacts at the ERL. In the end of the day the ERL is the entity that has the most interest in sponsorship our team. Lawyers at the VWGoA headquarters in Virginia may not have the same kind of interest in our team. As long as the ERL engineers and director REALLY like us they can make contractual demands disappear. If there are legal issues in the future Todd Logan is willing to play the bad cop so you can play the good cop with the ERL.
 
-When we got the cars from VW in Australia VW registered our group as a media team. Technically we were on an extended test drive of the cars and then we wrote up a "review" of the cars that we used on our blog. Check with NHS for the details. 
+When we got the cars from VW in Australia VW registered our group as a media team. Technically we were on an extended test drive of the cars and then we wrote up a "review" of the cars that we used on our blog. Check with NHS for the details.&#x20;
 
-VW is a huge donor for our team. You don't want to screw up our relationship with VW. Feel free to take some time to think before you send any emails to people at VW. Make sure the university is aware of what you are doing with VW so that draining conflicts don't arrise in the future. Feel free to email Wesley if you have any questions or concerns regarding the team's relations with VW and university admins. 
+VW is a huge donor for our team. You don't want to screw up our relationship with VW. Feel free to take some time to think before you send any emails to people at VW. Make sure the university is aware of what you are doing with VW so that draining conflicts don't arrise in the future. Feel free to email Wesley if you have any questions or concerns regarding the team's relations with VW and university admins.&#x20;
 
 Tips on first interaction of the cycle with VW
 
@@ -96,7 +98,7 @@ E-Mobility & Services
 
 Electronics Research Laboratory
 
-Description: Description: Description: Description: ERLlogo_small
+Description: Description: Description: Description: ERLlogo\_small
 
 Volkswagen Group of America, Inc.
 
@@ -118,7 +120,7 @@ The presentation is an opportunity to show the ERL what the team has accomplishe
 
 Know that I think VW also has a significant interest in partnerships with Stanford as one of the justifications for having the ERL in Belmont instead of having it in Herdon, Virginia or in Germany. Stanford has a reasonably reputable name in the automotive industry, and I've heard that the VW ERL in Belmont likes to show off their connections with Stanford when they are reporting back to Germany. These may just be rumors. Still, it might be nice to remind them about the great potential in collaborating with Stanford engineers and attracting young talent from Stanford.
 
-Their website has pictures of  Junior and Shelley along with the text "The ERL takes great pride in our university collaborations. We work with faculty from the best academic institutions on a variety of topics, such as computer science, engineering, communications, and design. We get to meet great people who share a passion for working on automotive-related research."
+Their website has pictures of  Junior and Shelley along with the text "The ERL takes great pride in our university collaborations. We work with faculty from the best academic institutions on a variety of topics, such as computer science, engineering, communications, and design. We get to meet great people who share a passion for working on automotive-related research."
 
 Also, be sure to show the VW logos on the car and good pictures of the graphics on the Jetta. I attached a mediocre rendering if you can't find a better one on solarcar.stanford.edu or elsewhere. Make sure everyone wears matching uniforms with the VW logo.
 
@@ -142,11 +144,6 @@ Remember that during the Xenith years VW had a written contract with VW. At the 
 
 Give me a heads up if legal issues come up. Remember that if legal issues come up Brooke and Jeff should be able to play the bad cop for you so you can be the good cop and keep a good business relationship with Kord. Brooke and Jeff can even contact Kord, Peter, or VW's lawyers directly on your behalf if the debate is going to turn south. Brooke and Jeff may already know some of the VW people since other groups like Gerdes' lab get sponsorships from VW. Gerdes can talk directly to Peter, the ERL director, if necessary sometimes to fix problems.
 
-[](https://drive.google.com/folderview?id=1Eya22wepJsWbO4-x58dRK0CSu9OyT5wF)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1Eya22wepJsWbO4-x58dRK0CSu9OyT5wF#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1Eya22wepJsWbO4-x58dRK0CSu9OyT5wF#list" frameborder="0"></iframe>
-

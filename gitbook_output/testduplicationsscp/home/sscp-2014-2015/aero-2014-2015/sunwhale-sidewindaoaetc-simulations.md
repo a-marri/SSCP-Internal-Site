@@ -1,10 +1,12 @@
-# SSCP - Sunwhale Sidewind/AoA/etc Simulations
+# sunwhale-sidewindaoaetc-simulations
 
-# Sunwhale Sidewind/AoA/etc Simulations
+## SSCP - Sunwhale Sidewind/AoA/etc Simulations
+
+## Sunwhale Sidewind/AoA/etc Simulations
 
 These are cars referred to on the Sunwhale Iterations page that have also been run with additional simulations (sidewind, AoA, etc.)
 
-[ Sunwhale Iterations](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/sunwhale-iterations)
+[Sunwhale Iterations](../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/sunwhale-iterations/)
 
 Sunwhale-014
 
@@ -14,9 +16,9 @@ Results
 
 Fluent
 
-Drag: 33.594041 
+Drag: 33.594041&#x20;
 
-Sideforce: 3.6714592 
+Sideforce: 3.6714592&#x20;
 
 Lift: -41.858841
 
@@ -24,11 +26,11 @@ SU2
 
 Drag: 34.483 N
 
-Lift: -38.2765 N 
+Lift: -38.2765 N&#x20;
 
 Sidewind Runs
 
-This model was run in SU2 as an external flow-style problem (changing the walls and outlet to type MARKER_FAR, and adding a y velocity to the inlet boundary condition.
+This model was run in SU2 as an external flow-style problem (changing the walls and outlet to type MARKER\_FAR, and adding a y velocity to the inlet boundary condition.
 
 "sunwhale-014-wind0"
 
@@ -68,7 +70,7 @@ Drag: 63.85 N
 
 Sideforce: 171 N
 
-Lift:  14.78 N
+Lift:  14.78 N
 
 "sunwhale-014-wind4"
 
@@ -78,7 +80,7 @@ Drag: 44.28 N
 
 Sideforce: 91.87 N
 
-Lift:  -11.813 N
+Lift:  -11.813 N
 
 "sunwhale-014-wind5"
 
@@ -88,7 +90,7 @@ Drag: 42.72 N
 
 Sideforce: -83.38
 
-Lift:  -49.65
+Lift:  -49.65
 
 "sunwhale-014-wind6"
 
@@ -98,7 +100,7 @@ Drag: 60.88 N
 
 Sideforce: -161.6 N
 
-Lift:  -50.41
+Lift:  -50.41
 
 Sunwhale-016
 
@@ -238,11 +240,6 @@ vz = 3 m/s
 
 angle = 6.96 deg
 
-[](https://drive.google.com/folderview?id=1Wj4uUpHs_brNkKciz1KjP1RGoSuWARTM)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1Wj4uUpHs_brNkKciz1KjP1RGoSuWARTM#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1Wj4uUpHs_brNkKciz1KjP1RGoSuWARTM#list" frameborder="0"></iframe>
-

@@ -1,40 +1,31 @@
-# SSCP - PCB Layout
+# pcb-layout
 
-# PCB Layout
+## SSCP - PCB Layout
+
+## PCB Layout
 
 Layout, which includes both placement of parts as well as routing, is a very critical aspect of creating a board. While you can't fix a broken schematic, you can make a completely feasible schematic an utter disaster. Here are some pointers to get you started on placing parts and routing traces.
 
-### Steps:
-
-[](#h.uwl19udnks7q)
+#### Steps:
 
 1. Make sure the proper design rules are imported
 
-[ design rules](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/altium-design-rules)
+[design rules](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/altium-design-rules/)
 
 2. Get the board outline from leads or mechanical
 
-[ board outline](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/creating-a-board-outline)
+[board outline](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/design-references/creating-a-board-outline/)
 
-3. To make things simpler, you should add baseline dimensions to your board. 
-
+3. To make things simpler, you should add baseline dimensions to your board.&#x20;
 4. Place parts
-
 5. Make ground plane
-
 6. Turn off ground net or route all grounds to make it easier
-
 7. Route high speed signals/nets
-
 8. Route power
-
 9. Route everything else
-
 10. Properly label silk screen
 
-### Placement
-
-[](#h.aep0i2hzp27s)
+#### Placement
 
 Keep parts close--unnecessary trace length can cause a lot of problems. With high frequencies you may get reflections and with power you can get voltage drops. Making sure traces are not too long will make your life easier on many levels. Placing bypass capacitors very close to the IC they are for is also critical.
 
@@ -44,9 +35,7 @@ Connectors -- Make sure connectors are accessible and are the proper distance fr
 
 Test points -- test points or probe points should be placed close to what they are measuring. When dealing with any high speed signals, the test or probe point should be inline (there should not be a branch on the net connecting the test point). This prevents reflections or accidental antennas. A test point is a single pin sticking out of the board that can be clipped to (used when you know you'll want to measure the net). A probe point is a small circle where the trace is exposed so that it can be probed or soldered to (used in tight spaces or where testing is unlikely but may be needed should something be wrong)
 
-### Routing
-
-[](#h.3aeoiiefe47b)
+#### Routing
 
 No 90 degree angles on traces -- a trace with a 90 degree bend can be a problem because it may physically peel off the board. It can also be a problem with very high frequencies that can make the bend and instead act like an antenna out into space.
 
@@ -58,9 +47,7 @@ Trace width -- traces that carry power should be larger than signal traces. This
 
 Vias -- (electrical/mechanical holes in the board to carry signals) should not cover a pad of a part or be under a part. We do not use blind or buries vias. Minimum via size is limited by the manufacturer and there should be a file that, but you should make sure to increase via size when passing power through vias
 
-### Silk Screen
-
-[](#h.pi12jafm59z4)
+#### Silk Screen
 
 Silk screen is the text that is used to label the board. Things you should label include:
 
@@ -74,9 +61,6 @@ Critical nets where there is room
 
 Revision Number
 
-### Board Dimensions
-
-[](#h.h9n1jebtmkkt)
+#### Board Dimensions
 
 You should add baseline dimensions to your board. To do this, make sure you have the utilities toolbar open (view -> toolbars -> utilities). In that toolbar, under the place dimensions setting, click the arrow and select "Place Baseline Dimension." Then simply click one edge of the board and drag to measure its distance.
-

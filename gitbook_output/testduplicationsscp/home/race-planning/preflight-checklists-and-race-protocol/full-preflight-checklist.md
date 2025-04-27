@@ -1,10 +1,10 @@
-# SSCP - Full Preflight Checklist
+# full-preflight-checklist
 
-# Full Preflight Checklist
+## SSCP - Full Preflight Checklist
 
-### Preflight Checklists and Race Protocol
+## Full Preflight Checklist
 
-[](#h.k1wj1rdnn96q)
+#### Preflight Checklists and Race Protocol
 
 Contents
 
@@ -20,11 +20,11 @@ Contents
 
 1 This is the preflight checklist. We should verify all of these things before the start of each race day (eg. during array stand charging), at control stops, and before test drives.
 
-[1 This is the preflight checklist. We should verify all of these things before the start of each race day (eg. during array stand charging), at control stops, and before test drives.](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[1 This is the preflight checklist. We should verify all of these things before the start of each race day (eg. during array stand charging), at control stops, and before test drives.](../../../../../stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol/)
 
 2 Car
 
-[2 Car](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[2 Car](../../../../../stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol/)
 
 1. 2.1 Mechanical
 2. 2.2 Driver
@@ -33,39 +33,35 @@ Contents
 
 2.1 Mechanical
 
-[2.1 Mechanical](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[2.1 Mechanical](../../../../../stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol/)
 
 2.2 Driver
 
-[2.2 Driver](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[2.2 Driver](../../../../../stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol/)
 
 2.3 Communication
 
-[2.3 Communication](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[2.3 Communication](../../../../../stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol/)
 
 2.4 Code
 
-[2.4 Code](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[2.4 Code](../../../../../stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol/)
 
 3 Telemetry
 
-[3 Telemetry](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[3 Telemetry](../../../../../stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol/)
 
 4 Logistics
 
-[4 Logistics](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[4 Logistics](../../../../../stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol/)
 
 5 Control stops
 
-[5 Control stops](/stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol)
+[5 Control stops](../../../../../stanford.edu/testduplicationsscp/home/race-planning/preflight-checklists-and-race-protocol/)
 
-## This is the preflight checklist. We should verify all of these things before the start of each race day (eg. during array stand charging), at control stops, and before test drives.
+### This is the preflight checklist. We should verify all of these things before the start of each race day (eg. during array stand charging), at control stops, and before test drives.
 
-[](#h.i8gh3m834m17)
-
-## Car
-
-[](#h.wtzk2o3viq8)
+### Car
 
 * Mechanical
 * ElectricalAll boards attached:Two light boardsOne telemetry board + antennaTwo tritiumsOne driver controlsOne button boardOne battery packHigh voltage plugged inTo both tritiumsTo the arrayCan cables connecting every boardOnly Phoenix cables are on the carCables are not loose or flopping aroundSpare boards in chase
@@ -203,105 +199,93 @@ Spare boards programmed with the code that is on the car
 
 BMS code has bleed enabled, thresholds set correctly, prechargeDone() enabled, and CAN enabled
 
-* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
-* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
-* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
-* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
-* SSCP Pit Crew Checklists 
-*  
+* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
+* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
+* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
+* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
+* SSCP Pit Crew Checklists&#x20;
+* &#x20;
 * Open SSCP Pit Crew Checklists
-
-* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
-* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
-* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
-* SSCP Pit Crew Checklists 
-*  
+* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
+* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
+* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
+* SSCP Pit Crew Checklists&#x20;
+* &#x20;
 * Open SSCP Pit Crew Checklists
-
-* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
-* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
-* SSCP Pit Crew Checklists 
-*  
+* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
+* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
+* SSCP Pit Crew Checklists&#x20;
+* &#x20;
 * Open SSCP Pit Crew Checklists
-
-* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
-* SSCP Pit Crew Checklists 
-*  
+* SSCP Pit Crew Checklists Open SSCP Pit Crew Checklists
+* SSCP Pit Crew Checklists&#x20;
+* &#x20;
 * Open SSCP Pit Crew Checklists
-
-* SSCP Pit Crew Checklists 
-*  
+* SSCP Pit Crew Checklists&#x20;
+* &#x20;
 * Open SSCP Pit Crew Checklists
 
 SSCP Pit Crew Checklists
 
-*  
+* &#x20;
 
- 
+&#x20;
 
 Open SSCP Pit Crew Checklists
 
-[Open SSCP Pit Crew Checklists](https://spreadsheets.google.com/spreadsheet/loadredirect?authuser=0&key=0AmGjGoaxVlX0dEVkZERCN1VIU3VkTUVxTk10TzRGVkE)
+[Open SSCP Pit Crew Checklists](https://spreadsheets.google.com/spreadsheet/loadredirect?authuser=0\&key=0AmGjGoaxVlX0dEVkZERCN1VIU3VkTUVxTk10TzRGVkE)
 
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist 
-*  
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist&#x20;
+* &#x20;
 * Open Luminos software checklist
-
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist 
-*  
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist&#x20;
+* &#x20;
 * Open Luminos software checklist
-
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist 
-*  
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist&#x20;
+* &#x20;
 * Open Luminos software checklist
-
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist 
-*  
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist&#x20;
+* &#x20;
 * Open Luminos software checklist
-
-* Luminos software checklist Open Luminos software checklist
-* Luminos software checklist 
-*  
+* Luminos software checklist Open Luminos software checklist
+* Luminos software checklist&#x20;
+* &#x20;
 * Open Luminos software checklist
-
-* Luminos software checklist 
-*  
+* Luminos software checklist&#x20;
+* &#x20;
 * Open Luminos software checklist
 
 Luminos software checklist
 
-*  
+* &#x20;
 
- 
+&#x20;
 
 Open Luminos software checklist
 
-[Open Luminos software checklist](https://docs.google.com/document/edit?authuser=0&hgd=1&id=1QOtAU9t6eY7ZvJXXHgHHCQXzjAk-XEYWpQOMoS8KvsE)
+[Open Luminos software checklist](https://docs.google.com/document/edit?authuser=0\&hgd=1\&id=1QOtAU9t6eY7ZvJXXHgHHCQXzjAk-XEYWpQOMoS8KvsE)
 
-## Telemetry
-
-[](#h.trktxtj4toa4)
+### Telemetry
 
 * Telemetry runningArray stand logs backed upPower budget, initial cruise speed knownScout: all irradiance measurement equipment, radios, at least one cell, at least one internet. Sat phone?
 * Telemetry running
 * Array stand logs backed up
 * Power budget, initial cruise speed known
 * Scout: all irradiance measurement equipment, radios, at least one cell, at least one internet. Sat phone?
-
 * Telemetry running
 * Array stand logs backed up
 * Power budget, initial cruise speed known
@@ -315,16 +299,13 @@ Power budget, initial cruise speed known
 
 Scout: all irradiance measurement equipment, radios, at least one cell, at least one internet. Sat phone?
 
-## Logistics
-
-[](#h.ekzr1h7chjuj)
+### Logistics
 
 * Safety equipment in carsSaftety lights on in lead and chaseLead, chase headcountScout and trailer are on their own...
 * Safety equipment in cars
 * Saftety lights on in lead and chase
 * Lead, chase headcount
 * Scout and trailer are on their own...
-
 * Safety equipment in cars
 * Saftety lights on in lead and chase
 * Lead, chase headcount
@@ -338,9 +319,7 @@ Lead, chase headcount
 
 Scout and trailer are on their own...
 
-## Control stops
-
-[](#h.vf6cuk3ug402)
+### Control stops
 
 At a control stop, verify the same things as above. Time is fairly limited. Based on past experience, the most important things to check are:
 
@@ -348,7 +327,6 @@ At a control stop, verify the same things as above. Time is fairly limited. Base
 * Solar car radio (make sure the batteries are full!)
 * Tires
 * Array connectors
-
 * Solar car radio (make sure the batteries are full!)
 * Tires
 * Array connectors
@@ -364,11 +342,9 @@ Before a control stop, trailer should drive ahead.
 * Check for sharp stuff, use tarps if necessary.Prepare array stand, if necessary.
 * Check for sharp stuff, use tarps if necessary.
 * Prepare array stand, if necessary.
-
 * Check for sharp stuff, use tarps if necessary.
 * Prepare array stand, if necessary.
 
 Check for sharp stuff, use tarps if necessary.
 
 Prepare array stand, if necessary.
-

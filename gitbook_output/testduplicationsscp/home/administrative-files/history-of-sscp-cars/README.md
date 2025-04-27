@@ -1,6 +1,8 @@
-# SSCP - History of SSCP Cars
+# history-of-sscp-cars
 
-# History of SSCP Cars
+## SSCP - History of SSCP Cars
+
+## History of SSCP Cars
 
 Welcome to the illustrious Stanford Solar Fail Team. We've been snatching defeat from the jaws of victory since 1989.
 
@@ -8,17 +10,13 @@ AfterBurner, SunBurner, and Back2Back Burner
 
 These cars were built during the 1990s. They all have names that end in "Burner", and they all caught fire. We've gotten better at building battery packs since then. Apparantly, all young solar car teams do this. Exhibit A: Sikat II and Umicar Imagine.
 
-## Solstice
-
-[](#h.xxrdee30dlw4)
+### Solstice
 
 This car was a glimmer of hope, a simple design executed by a pragmatic team and then thoroughly tested. It actually won the stock class of NASC 2005, if only because CalSol's car broke down five miles before the finish line (news article). Sadly, the team failed to take it to Australia, so we'll never know how it would have done.
 
 [(news article)](http://news.stanford.edu/pr/2005/pr-solarup-081005.html)
 
-## Equinox
-
-[](#h.b4v4qxq4poyt)
+### Equinox
 
 This car was beautiful, and almost fast. It had a powerful array, a nice aero design, nice tires, and was fairly light.
 
@@ -26,17 +24,13 @@ But no. This car suffered a serious lack of testing. The array was attached less
 
 Just south of Alice Springs, Equinox blew a tire, spun out, managed to hit the only concrete berm within a thousand miles, and skidded upside down into a fire ant colony. This revealed a bright spot in Equinox's design: the rollcage was sound.
 
-## Apogee
-
-[](#h.bn1b94rufop2)
+### Apogee
 
 Apogee was also beautiful, and also almost fast. The mech and electrical systems were generally sound. It had a somewhat flawed aero concept (too much topshell curvature, and terrible separated flow behind the bubble). Sadly, the MPPTs on Apogee produced a fraction of their design power. At solar noon, we were getting 800W when we should have been getting 1100+. In addition, the tires were not aligned properly during the race (a mistake which Stanford has been making since the early 90's) which greatly added the the rolling resistance.
 
 Meanwhile, Tokai was going the speed limit throughout all of South Australia, producing 1800 watts like a boss. Apogee attained a dubious distinction: we were the slowest car to cross the outback without having to trailer.
 
-## Xenith
-
-[](#h.edif38qgbnbf)
+### Xenith
 
 Xenith was our most beautiful, most ambitious, and almost-fastest car yet. It had a fairly extreme aero concept: 0.6 square meters of frontal area, a ludicrously low figure, significantly less than any other car in the race. We have yet to get Xenith into a windtunnel; we suspect it might perform very well. On the Stuart Highway, it did not. We suspect we had significant drag from the way the bladelike aerobody jittered around on an extremely stiff suspension.
 
@@ -54,35 +48,32 @@ While all of the best teams panicked when they realized we would all be using th
 
 Xenith attained an even more dubious distinction: we traveled almost as far as Apogee without having to trailer.
 
-What we did well: We built a bitchin' car.  We tried some crazy stuff technically, like our array, rear wheel steering, and the cut 'n' glue chassis panels.  Our problem was with follow-through.
+What we did well: We built a bitchin' car.  We tried some crazy stuff technically, like our array, rear wheel steering, and the cut 'n' glue chassis panels.  Our problem was with follow-through.
 
-## Luminos
-
-[](#h.vrvdszbe3btj)
+### Luminos
 
 Luminos was built for reliability. It was a very robust and dependable car, but also decently fast. Luminos used custom motors and wheels, perhaps the best suspension system we've made, a custom Woodward rack, the best SunPower cells available commercially or in research, and other key innovations.
 
-During the race, Luminos had no significant driving-related break-downs, 
+During the race, Luminos had no significant driving-related break-downs,&#x20;
 
-Criticisms of Luminos: 
+Criticisms of Luminos:&#x20;
 
-[edit]
+\[edit]
 
-[edit](http://solarcar.stanford.edu:82/wiki/index.php?title=A_Brief_History_of_Fail&action=edit&section=1)
+[edit](http://solarcar.stanford.edu:82/wiki/index.php?title=A_Brief_History_of_Fail\&action=edit\&section=1)
 
-[edit]
+\[edit]
 
-[edit](http://solarcar.stanford.edu:82/wiki/index.php?title=A_Brief_History_of_Fail&action=edit&section=2)
+[edit](http://solarcar.stanford.edu:82/wiki/index.php?title=A_Brief_History_of_Fail\&action=edit\&section=2)
 
-[edit]
+\[edit]
 
-[edit](http://solarcar.stanford.edu:82/wiki/index.php?title=A_Brief_History_of_Fail&action=edit&section=3)
+[edit](http://solarcar.stanford.edu:82/wiki/index.php?title=A_Brief_History_of_Fail\&action=edit\&section=3)
 
-[edit]
+\[edit]
 
-[edit](http://solarcar.stanford.edu:82/wiki/index.php?title=A_Brief_History_of_Fail&action=edit&section=4)
+[edit](http://solarcar.stanford.edu:82/wiki/index.php?title=A_Brief_History_of_Fail\&action=edit\&section=4)
 
-[edit]
+\[edit]
 
-[edit](http://solarcar.stanford.edu:82/wiki/index.php?title=A_Brief_History_of_Fail&action=edit&section=5)
-
+[edit](http://solarcar.stanford.edu:82/wiki/index.php?title=A_Brief_History_of_Fail\&action=edit\&section=5)

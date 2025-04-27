@@ -1,28 +1,28 @@
-# SSCP - STM32W development (Tire pressure sensing)
+# stm32w-development-tire-pressure-sensing
 
-# STM32W development (Tire pressure sensing)
+## SSCP - STM32W development (Tire pressure sensing)
 
-### Development board
+## STM32W development (Tire pressure sensing)
 
-[](#h.8sgn24e3d0z3)
+#### Development board
 
--- Is there a FreeRTOS port for the STM32W? Not important
+\-- Is there a FreeRTOS port for the STM32W? Not important
 
--- Do the demo boards transmit from the wheel fairing to the driver fairing on battery power? Yes
+\-- Do the demo boards transmit from the wheel fairing to the driver fairing on battery power? Yes
 
--- How do you make the board sleep? Done
+\-- How do you make the board sleep? Done
 
--- Setup for 2 transmitters and one receiver. Done
+\-- Setup for 2 transmitters and one receiver. Done
 
--- Setup for 4 transmitters and two receivers (make sure there isn't crosstalk; make sure you always know which sender you're getting messages from.  How to identify?)
+\-- Setup for 4 transmitters and two receivers (make sure there isn't crosstalk; make sure you always know which sender you're getting messages from.  How to identify?)
 
--- Write and complete a test plan for various physical environments
+\-- Write and complete a test plan for various physical environments
 
--- Make checksums work Done
+\-- Make checksums work Done
 
 intelligent power off
 
-awake constantly until response_timeout>5mins
+awake constantly until response\_timeout>5mins
 
 Then, go to deeper sleep. -> Wake up every 10 to check sender
 
@@ -42,12 +42,11 @@ sample rate 1 sec.
 
 Deliverables
 
--- "wireless.c/h" files
+\-- "wireless.c/h" files
 
 * Send and receive functionsHardware initialization functions (only additional configuration needed should be any pins that are being connected)
 * Send and receive functions
 * Hardware initialization functions (only additional configuration needed should be any pins that are being connected)
-
 * Send and receive functions
 * Hardware initialization functions (only additional configuration needed should be any pins that are being connected)
 
@@ -55,25 +54,23 @@ Send and receive functions
 
 Hardware initialization functions (only additional configuration needed should be any pins that are being connected)
 
--- FreeRTOS port (?)
+\-- FreeRTOS port (?)
 
--- Completed test plan
+\-- Completed test plan
 
-### Tire pressure board
+#### Tire pressure board
 
-[](#h.p7q7dyca26zh)
+\-- When should you sleep?
 
--- When should you sleep?
-
--- What is the hardware interface with the pressure sensors?
+\-- What is the hardware interface with the pressure sensors?
 
 Deliverables
 
--- Tire pressure sensing!  (IAR projects for senders and receivers that can be configured for IDs)
+\-- Tire pressure sensing!  (IAR projects for senders and receivers that can be configured for IDs)
 
-____________________________
+***
 
-Sleep works--transmitter sends a packet every 5 minutes--should this be more or less frequent?  Sends a five minute average, checking values every 1 s and sleeping between checks.  Sends alerts if anything changes too much.  Sender does averaging. Done
+Sleep works--transmitter sends a packet every 5 minutes--should this be more or less frequent?  Sends a five minute average, checking values every 1 s and sleeping between checks.  Sends alerts if anything changes too much.  Sender does averaging. Done
 
 Receiver W receives, storing average for each sender and alert status for each sender. Done
 
@@ -93,7 +90,7 @@ What min transmit power?
 
 What max transmit power?
 
-What channel number? probably any will do. Maybe use ST_RadioChannelIsClear to get clear/busy status. Downside: unpredictable
+What channel number? probably any will do. Maybe use ST\_RadioChannelIsClear to get clear/busy status. Downside: unpredictable
 
 When to sleep?
 
@@ -105,13 +102,13 @@ Make sure to set correct node id, PAN id.
 
 To encrypt or not to encrypt plaintext packets?(This chip has a hardware AES coprocessor)
 
-ST_RadioEnableOverflowNotification to true
+ST\_RadioEnableOverflowNotification to true
 
-ST_RadioOverflowIsrCallback make to report overflow
+ST\_RadioOverflowIsrCallback make to report overflow
 
-ST_RadioEnableReceiveCrc What to do with packets that fail CRC?
+ST\_RadioEnableReceiveCrc What to do with packets that fail CRC?
 
-A cool feature: ST_RadioGetRandomNumbers generates true random numbers using radio hardware
+A cool feature: ST\_RadioGetRandomNumbers generates true random numbers using radio hardware
 
 5 nodes.
 
@@ -131,17 +128,16 @@ Checksums per packet (128 bytes).
 
 Email from an ST engineer about this:
 
-"Sounds good.   We were discussing that it would be better to use the ST modules.   Let me check with Jeff before I place the order.   He’s out today and all next week.  (He’ll be in Orlando at an IPSO meeting.)
+"Sounds good.   We were discussing that it would be better to use the ST modules.   Let me check with Jeff before I place the order.   He’s out today and all next week.  (He’ll be in Orlando at an IPSO meeting.)
 
- 
+&#x20;
 
-The kit that you have has the SmartMAC which will allow you to transmits/receive frames.    The “Zigbee Pro”  stack is licensed (more expensive) and has an IP stack but also other stuff like Home Automation for sensors in the home etc.   I recommend having someone get familiar with the software that’s on the kit (as Jeff is) and do some experiments sending frames with incrementing sequence numbers (1, 2, 3, 4…) so at the receiver you can compute the number of frames received/frames transmitted.   I’m confident you will get signal through the tires (and probably everywhere outside the car thereafter), but I’m not too sure about your fairing and aluminum frame.    I think we need to do this “sanity check” early.
+The kit that you have has the SmartMAC which will allow you to transmits/receive frames.    The “Zigbee Pro”  stack is licensed (more expensive) and has an IP stack but also other stuff like Home Automation for sensors in the home etc.   I recommend having someone get familiar with the software that’s on the kit (as Jeff is) and do some experiments sending frames with incrementing sequence numbers (1, 2, 3, 4…) so at the receiver you can compute the number of frames received/frames transmitted.   I’m confident you will get signal through the tires (and probably everywhere outside the car thereafter), but I’m not too sure about your fairing and aluminum frame.    I think we need to do this “sanity check” early.
 
- 
+&#x20;
 
-Probably the easiest thing to do would be to get the software debugged on the bench first…one radio talking to the other.   Then fix one radio to the top of one of the rear wheels, put the tire on, with radio antennas point up.   Then put the other radio on the chassis of the car and close the top.
+Probably the easiest thing to do would be to get the software debugged on the bench first…one radio talking to the other.   Then fix one radio to the top of one of the rear wheels, put the tire on, with radio antennas point up.   Then put the other radio on the chassis of the car and close the top.
 
- 
+&#x20;
 
 Afterward, we can experiment with rotating the tires and the effect of the wheel being in the direct path, and we can order the modules in parallel."
-

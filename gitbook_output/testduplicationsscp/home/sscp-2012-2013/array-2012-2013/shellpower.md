@@ -1,8 +1,10 @@
-# SSCP - ShellPower
+# shellpower
 
-# ShellPower
+## SSCP - ShellPower
 
-ShellPower was started by DC Posch for a senior project. 
+## ShellPower
+
+ShellPower was started by DC Posch for a senior project.&#x20;
 
 Its repository is hosted on GitHub: https://github.com/dcposch/shellpower
 
@@ -13,11 +15,11 @@ Helpful tip: if files will not load, try exporting in ASCII both from Solidworks
 * DC is working on a command line interface for ShellPower that will let us feed in different meshes and will output array power over the course of the day.
 * We will write MATLAB to generate NACA airfoils, create meshes from the 2d airfoils, run ShellPower on the meshes, and fit array output to the input parameters for the NACA airfoils
 * We will call the entire top surface of the car one airfoil: stringing, bubble shading, etc are all ignored - assuming that the effects of these things will not vary between different airfoils.
-* We wouldn't realistically put cells over the first ~10% of the airfoil because it is too curved. Only should export the portion of the array that would have cells over it. Make sure that the arc length is constant over all models that we are generating.
-* MAX: Need to look up the actual weather from Luminos on the day in Coober Pedy so we can "calibrate" the results to real world data. 
+* We wouldn't realistically put cells over the first \~10% of the airfoil because it is too curved. Only should export the portion of the array that would have cells over it. Make sure that the arc length is constant over all models that we are generating.
+* MAX: Need to look up the actual weather from Luminos on the day in Coober Pedy so we can "calibrate" the results to real world data.&#x20;
 * Will generate the airfoil shapes in MATLAB (as a new member project) based on the NACA 6 series equations
 * Will use stlwrite (if it works) to create the airfoils
-* DARREN: flip Luminos' model by 90 degrees clockwise and re-generate the STL file. 
+* DARREN: flip Luminos' model by 90 degrees clockwise and re-generate the STL file.&#x20;
 * MAX: create a side-by-side of Tokai and Luminos over the course of one day.
 
 DC is working on a command line interface for ShellPower that will let us feed in different meshes and will output array power over the course of the day.
@@ -26,15 +28,15 @@ We will write MATLAB to generate NACA airfoils, create meshes from the 2d airfoi
 
 We will call the entire top surface of the car one airfoil: stringing, bubble shading, etc are all ignored - assuming that the effects of these things will not vary between different airfoils.
 
-We wouldn't realistically put cells over the first ~10% of the airfoil because it is too curved. Only should export the portion of the array that would have cells over it. Make sure that the arc length is constant over all models that we are generating.
+We wouldn't realistically put cells over the first \~10% of the airfoil because it is too curved. Only should export the portion of the array that would have cells over it. Make sure that the arc length is constant over all models that we are generating.
 
-MAX: Need to look up the actual weather from Luminos on the day in Coober Pedy so we can "calibrate" the results to real world data. 
+MAX: Need to look up the actual weather from Luminos on the day in Coober Pedy so we can "calibrate" the results to real world data.&#x20;
 
 Will generate the airfoil shapes in MATLAB (as a new member project) based on the NACA 6 series equations
 
 Will use stlwrite (if it works) to create the airfoils
 
-DARREN: flip Luminos' model by 90 degrees clockwise and re-generate the STL file. 
+DARREN: flip Luminos' model by 90 degrees clockwise and re-generate the STL file.&#x20;
 
 MAX: create a side-by-side of Tokai and Luminos over the course of one day.
 
@@ -80,17 +82,17 @@ A run of NACA 4 digit airfoils suggests that there is a certain thickness which 
 
 2/28/14
 
-I had a prior analysis of 6 digit airfoil results here and realized that I drew conclusions from incorrectly generated airfoils (the results of the analysis are, however, similar. The 6 digit parameters are not as intuitive as 4 digit parameters). It's likely not worth the time to go through generating the same plot as for the 4 digit series, so I will just try to draw a couple of conclusions from the 4 digit plot. 
+I had a prior analysis of 6 digit airfoil results here and realized that I drew conclusions from incorrectly generated airfoils (the results of the analysis are, however, similar. The 6 digit parameters are not as intuitive as 4 digit parameters). It's likely not worth the time to go through generating the same plot as for the 4 digit series, so I will just try to draw a couple of conclusions from the 4 digit plot.&#x20;
 
 The difference in best and worst case airfoils (for reasonable values in the design space) is on the order of a couple hundred W/m^2, or on the order of 50W array output. This is reasonable in the context of the Luminos/Tokai array comparison.
 
-Warning! Don't go around making decisive statements based on what you're about to read! It's really rough, and is for the sake of having a rough metric rather than speculation! 
+Warning! Don't go around making decisive statements based on what you're about to read! It's really rough, and is for the sake of having a rough metric rather than speculation!&#x20;
 
-Some back of the envelope math says that going from the worst to best array simulated would be equivalent to a difference in speed of 1kph, or approximately a drag of  in drag of 2-3N (based on aero power = force * drag, with a difference in aero power of 100W and Luminos' drag model) . The array performance is definitely non-linear with respect to car thickness and camber - but maybe a good approximation to get us in the ballpark is that for a given value of camber, average array output is increased by approximately 1-2W/% thickness from 0 to 30% thickness, and decreases at -1.5W/%thickness after 30% thickness. Similarly for a given thickness, array power output is increased approximately by 1-2W/% camber. Zero camber is ideal except in very flat cars. Note that when we call a car "thick" on the team, we are often referring to it having large camber.
+Some back of the envelope math says that going from the worst to best array simulated would be equivalent to a difference in speed of 1kph, or approximately a drag of  in drag of 2-3N (based on aero power = force \* drag, with a difference in aero power of 100W and Luminos' drag model) . The array performance is definitely non-linear with respect to car thickness and camber - but maybe a good approximation to get us in the ballpark is that for a given value of camber, average array output is increased by approximately 1-2W/% thickness from 0 to 30% thickness, and decreases at -1.5W/%thickness after 30% thickness. Similarly for a given thickness, array power output is increased approximately by 1-2W/% camber. Zero camber is ideal except in very flat cars. Note that when we call a car "thick" on the team, we are often referring to it having large camber.
 
-Based on some of the design metric takeaways from Luminos, two cars with the same aero and the best and worst arrays simulated here would only vary in overall race speed by ~2kph. This analysis also does not include the benefit of array standing from a more flat car.
+Based on some of the design metric takeaways from Luminos, two cars with the same aero and the best and worst arrays simulated here would only vary in overall race speed by \~2kph. This analysis also does not include the benefit of array standing from a more flat car.
 
-[ design metric takeaways](/stanford.edu/testduplicationsscp/home/general-design-principles/design-metrics)
+[design metric takeaways](../../../../../stanford.edu/testduplicationsscp/home/general-design-principles/design-metrics/)
 
 10/28/14
 
@@ -106,11 +108,6 @@ Of course, all of this is very rough and doesn't factor in how we string the arr
 
 And here's a comparison of the two main foils side-by-side:
 
-[](https://drive.google.com/folderview?id=1Lih9KmL4VtY_3VXp5INrgPYTJBPCCI_h)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1Lih9KmL4VtY_3VXp5INrgPYTJBPCCI_h#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1Lih9KmL4VtY_3VXp5INrgPYTJBPCCI_h#list" frameborder="0"></iframe>
-

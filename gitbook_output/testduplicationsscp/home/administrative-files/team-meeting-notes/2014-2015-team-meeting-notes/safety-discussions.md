@@ -1,16 +1,18 @@
-# SSCP - Safety Discussions
+# safety-discussions
 
-# Safety Discussions
+## SSCP - Safety Discussions
+
+## Safety Discussions
 
 ![](../../../../../assets/image_05b401b23b.gif)
 
-Guillermo Gomez <guillermogomez701@gmail.com>
+Guillermo Gomez [guillermogomez701@gmail.com](mailto:guillermogomez701@gmail.com)
 
 Safety Info Dump
 
 6 messages
 
-To: Guillermo Gomez <ggomez2@stanford.edu>
+To: Guillermo Gomez [ggomez2@stanford.edu](mailto:ggomez2@stanford.edu)
 
 Here is a big list of the safety enhancing ideas I've thought of so far.
 
@@ -46,7 +48,7 @@ Driver wears fire resistant garments - anywhere from Nomex underwear to full fir
 
 Roof flaps combat flipping due to lift from spinning car.
 
-[Roof flaps ](http://youtu.be/uwID6XZ9UY8?t=19s)
+[Roof flaps](http://youtu.be/uwID6XZ9UY8?t=19s)
 
 Emergency brake should be accessible without leaning forward.
 
@@ -72,21 +74,21 @@ Last, and perhaps most importantly, have a safety design review with a professio
 
 Logan Herrera
 
-To: Guillermo Gomez <ggomez2@stanford.edu>
+To: Guillermo Gomez [ggomez2@stanford.edu](mailto:ggomez2@stanford.edu)
 
 I talked to Harry a little bit about this today, and I understand why things, particularly with respect to the body and battery pack, are the way they are.
 
 Logan Herrera
 
-[Quoted text hidden]
+\[Quoted text hidden]
 
-To: Logan Philip Herrera <lpherr@stanford.edu>
+To: Logan Philip Herrera [lpherr@stanford.edu](mailto:lpherr@stanford.edu)
 
 What do you mean?
 
-[Quoted text hidden]
+\[Quoted text hidden]
 
-To: Guillermo Gomez <ggomez2@stanford.edu>
+To: Guillermo Gomez [ggomez2@stanford.edu](mailto:ggomez2@stanford.edu)
 
 The battery pack enclosure currently includes a chemical barrier layer and fire protection layer. It was intended to go outside the driver compartment in Luminos, but changes had to happen last minute. The odds of a random battery cell failure and fire are astonishingly small.
 
@@ -104,17 +106,17 @@ Here's the read I get on the team thinking as a result of the conversation: "We 
 
 Logan Herrera
 
-[Quoted text hidden]
+\[Quoted text hidden]
 
-To: Logan Philip Herrera <lpherr@stanford.edu>
+To: Logan Philip Herrera [lpherr@stanford.edu](mailto:lpherr@stanford.edu)
 
-I see. This was my understanding as well. I do think, however, that you made some good suggestions that we can incorporate into our next design. Hans device maybe. 
+I see. This was my understanding as well. I do think, however, that you made some good suggestions that we can incorporate into our next design. Hans device maybe.&#x20;
 
-[Quoted text hidden]
+\[Quoted text hidden]
 
--- 
+\--&#x20;
 
-Sincerely, 
+Sincerely,&#x20;
 
 Guillermo Gomez
 
@@ -128,7 +130,7 @@ Minor in Political Science
 
 Stanford University | Class of 2016
 
-To: Guillermo Gomez <ggomez2@stanford.edu>
+To: Guillermo Gomez [ggomez2@stanford.edu](mailto:ggomez2@stanford.edu)
 
 I'm not sure this understanding is actually backed by data, but I also wouldn't know even if it was. The lack of analysis on the internal site still bothers me though.
 
@@ -152,21 +154,21 @@ Switches. Easy fix for electrical team. Do it.
 
 Logan Herrera
 
-[Quoted text hidden]
+\[Quoted text hidden]
 
 Other Safety Considerations
 
-Logan Philip Herrera <lpherr@stanford.edu>
+Logan Philip Herrera [lpherr@stanford.edu](mailto:lpherr@stanford.edu)
 
-Logan Philip Herrera <lpherr@stanford.edu>
+Logan Philip Herrera [lpherr@stanford.edu](mailto:lpherr@stanford.edu)
 
-Guillermo Gomez <ggomez2@stanford.edu>
+Guillermo Gomez [ggomez2@stanford.edu](mailto:ggomez2@stanford.edu)
 
-Logan Philip Herrera <lpherr@stanford.edu>
+Logan Philip Herrera [lpherr@stanford.edu](mailto:lpherr@stanford.edu)
 
-Logan Philip Herrera <lpherr@stanford.edu>
+Logan Philip Herrera [lpherr@stanford.edu](mailto:lpherr@stanford.edu)
 
-Guillermo Gomez <ggomez2@stanford.edu>
+Guillermo Gomez [ggomez2@stanford.edu](mailto:ggomez2@stanford.edu)
 
 Sat, May 10, 2014 at 10:57 PM
 
@@ -179,4 +181,3 @@ Sat, May 10, 2014 at 10:20 PM
 Sun, May 11, 2014 at 8:08 PM
 
 Wed, May 7, 2014 at 3:40 PM
-

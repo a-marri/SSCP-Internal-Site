@@ -1,10 +1,10 @@
-# SSCP - Array Optimization Meeting (4/28/16)
+# array-optimization-meeting-42816
 
-# Array Optimization Meeting (4/28/16)
+## SSCP - Array Optimization Meeting (4/28/16)
+
+## Array Optimization Meeting (4/28/16)
 
 Mismatch:
-
-<Add picture>
 
 * Minor Variations: cell binning
 * Minor Variations: cell binning
@@ -18,7 +18,6 @@ Minor Variations: cell binning
 * Small alterations do not affect max power point (on a PV curve, the max power point occurs when the slope is 0, so small alterations along this tangent don't affect much)
 * Alex: Is there benefit to binning within bins? → Andrew: benefit would be small considering the cost of time and manpower; Power electronics not worth it
 * At what point does the size of the bin affect our IV curve? → find an IV modeler that allows us to input temperature and etc, generate curve, then sum up current at each voltage
-
 * Affects current or voltage, alters IV curve
 * Small alterations do not affect max power point (on a PV curve, the max power point occurs when the slope is 0, so small alterations along this tangent don't affect much)
 * Alex: Is there benefit to binning within bins? → Andrew: benefit would be small considering the cost of time and manpower; Power electronics not worth it
@@ -41,7 +40,6 @@ Orientation of Array
 
 * x
 * x
-
 * x
 
 x
@@ -68,7 +66,6 @@ Shading
 * Better Fix Option: only insert buck converters around bubble (area that may be affected by shading)
 * Recommendations: look into using both bypass diodes and buck converters
 * Questionable efficiency of running 5A through a buck converter…
-
 * Bypass diodes vs. cell modules
 * Brought up Arctan module diagram to look at bypass diode setup (between modules in blocks)
 * If all mismatch losses come from hard shading, then per cell diodes would be ideal (tighter diode grid)
@@ -99,7 +96,7 @@ Some available in laminate (laminate in the diode during cell encapsulation)
 
 Is there enough space between cell corners to insert diode (Gochermann) → more bypass diodes = better shading performance
 
-[Gochermann](/stanford.edu/testduplicationsscp/home/sscp-2016-2017/array-2016-2017/meetings-and-conversations/skype-call-with-oliver-gochermann)
+[Gochermann](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2016-2017/array-2016-2017/meetings-and-conversations/skype-call-with-oliver-gochermann/)
 
 John: Diffuse light effects when shade is present? (Logan’s simulation work); pyranometer always 100-200 W/m2 even in shade
 
@@ -133,18 +130,16 @@ Andrew/Darren: How reliable are your modeling methods?
 
 Smart-Bypass Diode Producers: TI (used by Darren/Andrew), Micro-Semi
 
-* TI has a 3mmx5mm bypass-diode (good size for potentially inserting in diamond shaped spaces between cell corners) http://www.digikey.com/product-detail/en/texas-instruments/LM74670QDGKTQ1/296-43209-2-ND/5764593
-* TI has a 3mmx5mm bypass-diode (good size for potentially inserting in diamond shaped spaces between cell corners) 
+* TI has a 3mmx5mm bypass-diode (good size for potentially inserting in diamond shaped spaces between cell corners) http://www.digikey.com/product-detail/en/texas-instruments/LM74670QDGKTQ1/296-43209-2-ND/5764593
+* TI has a 3mmx5mm bypass-diode (good size for potentially inserting in diamond shaped spaces between cell corners)&#x20;
+* http://www.digikey.com/product-detail/en/texas-instruments/LM74670QDGKTQ1/296-43209-2-ND/5764593
+* TI has a 3mmx5mm bypass-diode (good size for potentially inserting in diamond shaped spaces between cell corners)&#x20;
 * http://www.digikey.com/product-detail/en/texas-instruments/LM74670QDGKTQ1/296-43209-2-ND/5764593
 
-* TI has a 3mmx5mm bypass-diode (good size for potentially inserting in diamond shaped spaces between cell corners) 
-* http://www.digikey.com/product-detail/en/texas-instruments/LM74670QDGKTQ1/296-43209-2-ND/5764593
-
-TI has a 3mmx5mm bypass-diode (good size for potentially inserting in diamond shaped spaces between cell corners) 
+TI has a 3mmx5mm bypass-diode (good size for potentially inserting in diamond shaped spaces between cell corners)&#x20;
 
 http://www.digikey.com/product-detail/en/texas-instruments/LM74670QDGKTQ1/296-43209-2-ND/5764593
 
 [http://www.digikey.com/product-detail/en/texas-instruments/LM74670QDGKTQ1/296-43209-2-ND/5764593](http://www.digikey.com/product-detail/en/texas-instruments/LM74670QDGKTQ1/296-43209-2-ND/5764593)
 
 Stay in touch via email!
-

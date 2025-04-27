@@ -1,43 +1,40 @@
-# SSCP - Registering Vehicles for Highway Use
+# registering-vehicles-for-highway-use
 
-# Registering Vehicles for Highway Use
+## SSCP - Registering Vehicles for Highway Use
 
-## Specially Constructed Vehicles
+## Registering Vehicles for Highway Use
 
-[](#h.s8yytf7zua1a)
+### Specially Constructed Vehicles
 
-580.  A "specially constructed vehicle" is a vehicle which is built for private use, not for resale, and is not constructed by a licensed manufacturer or remanufacturer. A specially constructed vehicle may be built from (1) a kit; (2) new or used, or a combination of new and used, parts; or (3) a vehicle reported for dismantling, as required by Section 5500 or 11520, which, when reconstructed, does not resemble the original make of the vehicle dismantled. A specially constructed vehicle is not a vehicle which has been repaired or restored to its original design by replacing parts.
+580\.  A "specially constructed vehicle" is a vehicle which is built for private use, not for resale, and is not constructed by a licensed manufacturer or remanufacturer. A specially constructed vehicle may be built from (1) a kit; (2) new or used, or a combination of new and used, parts; or (3) a vehicle reported for dismantling, as required by Section 5500 or 11520, which, when reconstructed, does not resemble the original make of the vehicle dismantled. A specially constructed vehicle is not a vehicle which has been repaired or restored to its original design by replacing parts.
 
 From: http://www.dmv.ca.gov/vr/spcnsreg.htm December 2012
 
-A "home-made, specially constructed, or kit vehicle" is a vehicle that is built for private use, not for resale, and is not constructed by a licensed manufacturer or remanufacturer. These vehicles may be built from a kit, new or used parts, a combination of new and used parts, or a vehicle reported for dismantling (junked) that, when reconstructed, does not resemble the original make of the vehicle that was dismantled. 
+A "home-made, specially constructed, or kit vehicle" is a vehicle that is built for private use, not for resale, and is not constructed by a licensed manufacturer or remanufacturer. These vehicles may be built from a kit, new or used parts, a combination of new and used parts, or a vehicle reported for dismantling (junked) that, when reconstructed, does not resemble the original make of the vehicle that was dismantled.&#x20;
 
-A specially constructed vehicle (SPCNS) does not include a vehicle that has been repaired or restored to its original design by replacing parts or a vehicle modified from its original design. 
+A specially constructed vehicle (SPCNS) does not include a vehicle that has been repaired or restored to its original design by replacing parts or a vehicle modified from its original design.&#x20;
 
-Example: A Volkswagen "Beetle" with modified fenders, engine compartment lid, and front end, but still recognizable as a Volkswagen is not considered a specially constructed vehicle. 
+Example: A Volkswagen "Beetle" with modified fenders, engine compartment lid, and front end, but still recognizable as a Volkswagen is not considered a specially constructed vehicle.&#x20;
 
-NOTE: The registration requirements for kit commercial vehicles are the same as for specially constructed vehicles. 
+NOTE: The registration requirements for kit commercial vehicles are the same as for specially constructed vehicles.&#x20;
 
-## The Registration Requirements are:
+### The Registration Requirements are:
 
-[](#h.lyq1ufh8n1fa)
-
-* A completed Application for Title or Registration (REG 343).A vehicle verification done by the California Highway Patrol (CHP). You must start your application process with the DMV prior to contacting the CHP for a vehicle verification. DMV verifies trailers with an unladen weight of 6,000 pounds or less.A completed Statement of Construction (REG 5036).Proof of ownership, such as invoices, receipts, manufacturers’ certificates of origin, bills of sale, or junk receipts for the major component parts (engine, frame, transmission, and body). NOTE: A motor vehicle bond is required when proof of ownership cannot be obtained for parts valued a $5,000 or more.Official brake and light adjustment certificates. When an official brake and light station that inspects specific vehicles such as motorcycles and large commercial vehicles is not located within a reasonable distance, DMV will accept a Statement of Facts (REG 256) from a repair shop attesting that the brakes and lights are in proper working order. Brake and light certificates are not required for off-highway vehicles or trailers weighing less than 3,000 pounds gross vehicle weight.A weight certificate for commercial vehicles weighing 10,000 pounds or less.An emission control inspection (smog check) by a Bureau of Automotive Repair (BAR) Referee Station. Click here for information on SPCNS Certificates of Sequence . To make an appointment at a BAR Referee Station, call 1-800-622-7733.All fees due.Visit your local DMV to begin the application process, make an Appointment(s) for faster service.
+* A completed Application for Title or Registration (REG 343).A vehicle verification done by the California Highway Patrol (CHP). You must start your application process with the DMV prior to contacting the CHP for a vehicle verification. DMV verifies trailers with an unladen weight of 6,000 pounds or less.A completed Statement of Construction (REG 5036).Proof of ownership, such as invoices, receipts, manufacturers’ certificates of origin, bills of sale, or junk receipts for the major component parts (engine, frame, transmission, and body). NOTE: A motor vehicle bond is required when proof of ownership cannot be obtained for parts valued a $5,000 or more.Official brake and light adjustment certificates. When an official brake and light station that inspects specific vehicles such as motorcycles and large commercial vehicles is not located within a reasonable distance, DMV will accept a Statement of Facts (REG 256) from a repair shop attesting that the brakes and lights are in proper working order. Brake and light certificates are not required for off-highway vehicles or trailers weighing less than 3,000 pounds gross vehicle weight.A weight certificate for commercial vehicles weighing 10,000 pounds or less.An emission control inspection (smog check) by a Bureau of Automotive Repair (BAR) Referee Station. Click here for information on SPCNS Certificates of Sequence . To make an appointment at a BAR Referee Station, call 1-800-622-7733.All fees due.Visit your local DMV to begin the application process, make an Appointment(s) for faster service.
 * A completed Application for Title or Registration (REG 343).
 * A vehicle verification done by the California Highway Patrol (CHP). You must start your application process with the DMV prior to contacting the CHP for a vehicle verification. DMV verifies trailers with an unladen weight of 6,000 pounds or less.
 * A completed Statement of Construction (REG 5036).
-* Proof of ownership, such as invoices, receipts, manufacturers’ certificates of origin, bills of sale, or junk receipts for the major component parts (engine, frame, transmission, and body). 
+* Proof of ownership, such as invoices, receipts, manufacturers’ certificates of origin, bills of sale, or junk receipts for the major component parts (engine, frame, transmission, and body).&#x20;
 * NOTE: A motor vehicle bond is required when proof of ownership cannot be obtained for parts valued a $5,000 or more.
 * Official brake and light adjustment certificates. When an official brake and light station that inspects specific vehicles such as motorcycles and large commercial vehicles is not located within a reasonable distance, DMV will accept a Statement of Facts (REG 256) from a repair shop attesting that the brakes and lights are in proper working order. Brake and light certificates are not required for off-highway vehicles or trailers weighing less than 3,000 pounds gross vehicle weight.
 * A weight certificate for commercial vehicles weighing 10,000 pounds or less.
 * An emission control inspection (smog check) by a Bureau of Automotive Repair (BAR) Referee Station. Click here for information on SPCNS Certificates of Sequence . To make an appointment at a BAR Referee Station, call 1-800-622-7733.
 * All fees due.
 * Visit your local DMV to begin the application process, make an Appointment(s) for faster service.
-
 * A completed Application for Title or Registration (REG 343).
 * A vehicle verification done by the California Highway Patrol (CHP). You must start your application process with the DMV prior to contacting the CHP for a vehicle verification. DMV verifies trailers with an unladen weight of 6,000 pounds or less.
 * A completed Statement of Construction (REG 5036).
-* Proof of ownership, such as invoices, receipts, manufacturers’ certificates of origin, bills of sale, or junk receipts for the major component parts (engine, frame, transmission, and body). 
+* Proof of ownership, such as invoices, receipts, manufacturers’ certificates of origin, bills of sale, or junk receipts for the major component parts (engine, frame, transmission, and body).&#x20;
 * NOTE: A motor vehicle bond is required when proof of ownership cannot be obtained for parts valued a $5,000 or more.
 * Official brake and light adjustment certificates. When an official brake and light station that inspects specific vehicles such as motorcycles and large commercial vehicles is not located within a reasonable distance, DMV will accept a Statement of Facts (REG 256) from a repair shop attesting that the brakes and lights are in proper working order. Brake and light certificates are not required for off-highway vehicles or trailers weighing less than 3,000 pounds gross vehicle weight.
 * A weight certificate for commercial vehicles weighing 10,000 pounds or less.
@@ -57,7 +54,7 @@ A completed Statement of Construction (REG 5036).
 
 [Statement of Construction (REG 5036)](http://www.dmv.ca.gov/forms/reg/reg5036.htm)
 
-Proof of ownership, such as invoices, receipts, manufacturers’ certificates of origin, bills of sale, or junk receipts for the major component parts (engine, frame, transmission, and body). 
+Proof of ownership, such as invoices, receipts, manufacturers’ certificates of origin, bills of sale, or junk receipts for the major component parts (engine, frame, transmission, and body).&#x20;
 
 NOTE: A motor vehicle bond is required when proof of ownership cannot be obtained for parts valued a $5,000 or more.
 
@@ -69,7 +66,7 @@ A weight certificate for commercial vehicles weighing 10,000 pounds or less.
 
 An emission control inspection (smog check) by a Bureau of Automotive Repair (BAR) Referee Station. Click here for information on SPCNS Certificates of Sequence . To make an appointment at a BAR Referee Station, call 1-800-622-7733.
 
-[for information on SPCNS Certificates of Sequence ](http://www.dmv.ca.gov/vr/spcns.htm)
+[for information on SPCNS Certificates of Sequence](http://www.dmv.ca.gov/vr/spcns.htm)
 
 All fees due.
 
@@ -79,9 +76,7 @@ Visit your local DMV to begin the application process, make an Appointment(s) fo
 
 [Appointment(s)](http://www.dmv.ca.gov/foa/welcome.do?localeName=en)
 
-## Not needing to be the first 500
-
-[](#h.lolty21o5i2b)
+### Not needing to be the first 500
 
 From CalSol:
 
@@ -91,9 +86,7 @@ You don't need to worry about being one of the first 500. Here's the information
 
 The result being that we must meet all the emission requirements of a 2012 vehicle. However, as solar cars don't have emissions, that is of no consequence. When we're ready we'll just fill out the necessary paperwork and register Zephyr as a 2012 model year vehicle.
 
-## Getting a Temporary Registration
-
-[](#h.wd27kakv1r0j)
+### Getting a Temporary Registration
 
 From CalSol:
 
@@ -114,7 +107,6 @@ Start registration process
 2.Come to DMV office to submit three items
 
 3. CHP Vehicle Verificaiton
-
 4. Brake and light adjustment certificate
 
 $9192 reg fees
@@ -133,11 +125,6 @@ Special Construction Vehicle
 
 Air Resources Board for smog check
 
-[](https://drive.google.com/folderview?id=15zlI_vSQ2_NCUZZgip7LqE4sDrD0kZhx)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=15zlI_vSQ2_NCUZZgip7LqE4sDrD0kZhx#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=15zlI_vSQ2_NCUZZgip7LqE4sDrD0kZhx#list" frameborder="0"></iframe>
-

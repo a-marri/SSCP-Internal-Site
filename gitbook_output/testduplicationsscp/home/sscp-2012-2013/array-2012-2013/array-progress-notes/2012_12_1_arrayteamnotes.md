@@ -1,6 +1,8 @@
-# SSCP - 2012_12_1_ArrayTeamNotes
+# 2012\_12\_1\_arrayteamnotes
 
-# 2012_12_1_ArrayTeamNotes
+## SSCP - 2012\_12\_1\_ArrayTeamNotes
+
+## 2012\_12\_1\_ArrayTeamNotes
 
 Present: Amy, Erin, Yuki, Miraj, Lisette, Matthew
 
@@ -10,7 +12,7 @@ Amy cut out some foam for the box that we will use to store the arrays. This wil
 
 Erin and Toby worked on the placement of array bypass diodes and how they will fit inside of the module
 
-Yuki and Miraj cut some metal stencils for the 4 x 5 solar modules. 
+Yuki and Miraj cut some metal stencils for the 4 x 5 solar modules.&#x20;
 
 We plan on meeting again on Dec. 14 to make and document the creation of a module that will go on the actual solar car
 
@@ -18,11 +20,7 @@ Everybody but Toby will be at Stanford over the break. If there is one other per
 
 To do by Dec 14
 
-- Complete documentation on the lay-up process [Miraj and Yuki]
-
-- Finish the soldering jig [Matthew and Erin]
-
-- Draw the new end tabs that will accommodate the bypass diodes [Erin]
-
-- Write to Dupont so that we can have plenty of FEP for when full production begins [Toby]
-
+* Complete documentation on the lay-up process \[Miraj and Yuki]
+* Finish the soldering jig \[Matthew and Erin]
+* Draw the new end tabs that will accommodate the bypass diodes \[Erin]
+* Write to Dupont so that we can have plenty of FEP for when full production begins \[Toby]

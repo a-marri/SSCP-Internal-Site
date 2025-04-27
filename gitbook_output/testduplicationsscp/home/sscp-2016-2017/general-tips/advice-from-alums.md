@@ -1,6 +1,8 @@
-# SSCP - Advice From Alums
+# advice-from-alums
 
-# Advice From Alums
+## SSCP - Advice From Alums
+
+## Advice From Alums
 
 Wesley to Guillermo, start of 2014-15:
 
@@ -72,7 +74,7 @@ Yourself
 
 Not deciding is worse than deciding wrong
 
-Establish your credibility by working hard and being a good role  model
+Establish your credibility by working hard and being a good role  model
 
 Realize and publicize when we have problems that do not have a viable solution
 
@@ -157,9 +159,9 @@ Advice to Luminos team after Xenith fail:
 * "We need to consider accessibility and ease of use/repair. Had the rear wheel been easier to get to, we probably could have avoided our epic fail. "
 * "If was design for larger tolerances, our car will better tolerate changes later in the game. In a process like ours, design changes are always happening, we need to be ready for them."
 * "We should consistently check the actual car back to the CAD. Finding out that the rear is riding three inches high two days before the race is easily avoidable."
-* Testing is part of making a car, not a nice add-on.  We cannot make claims about how the car will perform until it has been proven to perform that well during testing.
-* Remember that integration bugs always come up.  As Nathan Golshan said, we had a collective attitude of "My shit works.  Why doesn't yours?"  That was partly a joke, but it was harmful in the end.  One part working in isolation doesn't mean that it is guaranteed to work on the car, which means that we need to finish individual projects way earlier so we have time to work out integration bugs.
-* Documentation matters.  Design documents before starting projects are important because they force you to bring decisions out into the open: which tires are we using?  What general algorithm will this run, and why was that picked?  What tradeoffs are there, and which side did we pick?  Documentation during a project: I was working and I found that this approach failed.  That's why this piece looks a certain way.  And after a project is done, documentation includes a readme of some sort and a clear explanation of what the project was and how to use the result.
+* Testing is part of making a car, not a nice add-on.  We cannot make claims about how the car will perform until it has been proven to perform that well during testing.
+* Remember that integration bugs always come up.  As Nathan Golshan said, we had a collective attitude of "My shit works.  Why doesn't yours?"  That was partly a joke, but it was harmful in the end.  One part working in isolation doesn't mean that it is guaranteed to work on the car, which means that we need to finish individual projects way earlier so we have time to work out integration bugs.
+* Documentation matters.  Design documents before starting projects are important because they force you to bring decisions out into the open: which tires are we using?  What general algorithm will this run, and why was that picked?  What tradeoffs are there, and which side did we pick?  Documentation during a project: I was working and I found that this approach failed.  That's why this piece looks a certain way.  And after a project is done, documentation includes a readme of some sort and a clear explanation of what the project was and how to use the result.
 
 "Good design is as little design as possible." - Dieter Rams
 
@@ -171,9 +173,8 @@ Advice to Luminos team after Xenith fail:
 
 "We should consistently check the actual car back to the CAD. Finding out that the rear is riding three inches high two days before the race is easily avoidable."
 
-Testing is part of making a car, not a nice add-on.  We cannot make claims about how the car will perform until it has been proven to perform that well during testing.
+Testing is part of making a car, not a nice add-on.  We cannot make claims about how the car will perform until it has been proven to perform that well during testing.
 
-Remember that integration bugs always come up.  As Nathan Golshan said, we had a collective attitude of "My shit works.  Why doesn't yours?"  That was partly a joke, but it was harmful in the end.  One part working in isolation doesn't mean that it is guaranteed to work on the car, which means that we need to finish individual projects way earlier so we have time to work out integration bugs.
+Remember that integration bugs always come up.  As Nathan Golshan said, we had a collective attitude of "My shit works.  Why doesn't yours?"  That was partly a joke, but it was harmful in the end.  One part working in isolation doesn't mean that it is guaranteed to work on the car, which means that we need to finish individual projects way earlier so we have time to work out integration bugs.
 
-Documentation matters.  Design documents before starting projects are important because they force you to bring decisions out into the open: which tires are we using?  What general algorithm will this run, and why was that picked?  What tradeoffs are there, and which side did we pick?  Documentation during a project: I was working and I found that this approach failed.  That's why this piece looks a certain way.  And after a project is done, documentation includes a readme of some sort and a clear explanation of what the project was and how to use the result.
-
+Documentation matters.  Design documents before starting projects are important because they force you to bring decisions out into the open: which tires are we using?  What general algorithm will this run, and why was that picked?  What tradeoffs are there, and which side did we pick?  Documentation during a project: I was working and I found that this approach failed.  That's why this piece looks a certain way.  And after a project is done, documentation includes a readme of some sort and a clear explanation of what the project was and how to use the result.

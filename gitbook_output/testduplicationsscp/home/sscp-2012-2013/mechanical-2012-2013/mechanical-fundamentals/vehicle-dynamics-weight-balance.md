@@ -1,64 +1,62 @@
-# SSCP - Vehicle Dynamics & Weight Balance
+# vehicle-dynamics-weight-balance
 
-# Vehicle Dynamics & Weight Balance
+## SSCP - Vehicle Dynamics & Weight Balance
+
+## Vehicle Dynamics & Weight Balance
 
 After WSC, Luminos weighed these amounts (lbs):
 
- LF
+&#x20;LF
 
- LR
+&#x20;LR
 
- 88
+&#x20;88
 
- 120
+&#x20;120
 
- RF
+&#x20;RF
 
- RR
+&#x20;RR
 
- 150
+&#x20;150
 
- 60
+&#x20;60
 
 Seems strange that the left rear is 120 lbs. So we rotated 180 degrees and got very similar results:
 
- RR
+&#x20;RR
 
- RF
+&#x20;RF
 
 69
 
 150
 
- LR
+&#x20;LR
 
- LF
+&#x20;LF
 
- 115
+&#x20;115
 
- 90
+&#x20;90
 
 The below spreadsheet was used in the design process for Luminos' weight balance.
 
-[](https://docs.google.com/spreadsheets/d/0Ag4AxbL4qxledDg3cTNzNGpQSVpld0dSUTIxdHRUSGc/edit)
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Embedded Content]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Embedded Content](vehicle-dynamics-weight-balance.md)
 
 ![](../../../../../assets/sheets_32dp.png)
 
 From Sunwhale 7/12/14 Preliminary Design Review, asymmetric vehicle dynamics should be a main concern. Follow-up email from Ben Stabler on the topic:
 
-[ Sunwhale 7/12/14 Preliminary Design Review](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/alumni-design-reviews-2014-2015/sunwhale-alumni-pdr-71214)
+[Sunwhale 7/12/14 Preliminary Design Review](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/alumni-design-reviews-2014-2015/sunwhale-alumni-pdr-71214/)
 
 Hey all,
 
 Following on from the design review today, I ran a couple simple simulations on a model that Alice Che and I built for Gerdes class.
 
-Bear in mind that this model *doesn't include anything suspension related* so it essentially assumes that you're on a perfect flat road, your suspension doesn't deflect at all, and you have no camber on the wheels.
+Bear in mind that this model _doesn't include anything suspension related_ so it essentially assumes that you're on a perfect flat road, your suspension doesn't deflect at all, and you have no camber on the wheels.
 
 The model also uses relatively sympathetic tires (based on what's on P1, which are lower pressure and wider so I believe they behave better in saturation than the ones on the solarcar).
 
@@ -90,11 +88,6 @@ Cheers,
 
 Ben
 
-[](https://drive.google.com/folderview?id=1ZUIGzDDOBoi9kJ8N4aB-TyKi-Sz6j0Fh)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1ZUIGzDDOBoi9kJ8N4aB-TyKi-Sz6j0Fh#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1ZUIGzDDOBoi9kJ8N4aB-TyKi-Sz6j0Fh#list" frameborder="0"></iframe>
-

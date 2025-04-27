@@ -1,10 +1,12 @@
-# SSCP - Array Layout 2014-2015
+# array-layout-2014-2015
 
-# Array Layout 2014-2015
+## SSCP - Array Layout 2014-2015
+
+## Array Layout 2014-2015
 
 Max (4-24-15)
 
-I am proposing the below cell stringing scheme. This is scheme "8A" - Shellpower analysis of this design can be found in Sunwhale SVN/analysis/shellpower_analysis/sunwhale-040. I evaluated a number of different stringing methods which are summarized in the 
+I am proposing the below cell stringing scheme. This is scheme "8A" - Shellpower analysis of this design can be found in Sunwhale SVN/analysis/shellpower\_analysis/sunwhale-040. I evaluated a number of different stringing methods which are summarized in the&#x20;
 
 "string powers.xlsx" spreadsheet. This spreadsheet creates a trapezoidal insolation profile that interpolates between 8am, 12pm, and 5pm Shellpower outputs. Stringing configurations are compared on the basis of energy throughout the day, not peak power. Note that array output power is string power (from Shellpower) convolved through MPPT efficiency, taken from Sam Lenius' Photon datasheet.
 
@@ -44,7 +46,7 @@ Pengchuan Wang
 
 Yeah for sure. Please see the attachment for my results. The powerpoint summarizes the result, please also look at the solidworks file I created with the sketch embossed on the body.
 
-SW file now on PDM as "Sunwhale_Solar panel estimate.sldprt"
+SW file now on PDM as "Sunwhale\_Solar panel estimate.sldprt"
 
 Max
 
@@ -52,11 +54,6 @@ I removed the sldprt file from here and put it on pdm.
 
 I'm working on fitting array modules onto the sunwhale-013 shell including the wsc sticker
 
-[](https://drive.google.com/folderview?id=105lpM4t3UHIqjoYjYFywH-Fc2yXmxbGl)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=105lpM4t3UHIqjoYjYFywH-Fc2yXmxbGl#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=105lpM4t3UHIqjoYjYFywH-Fc2yXmxbGl#list" frameborder="0"></iframe>
-

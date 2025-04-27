@@ -1,27 +1,29 @@
-# SSCP - Altium Designer - Adding 3D Models
+# altium-designer-adding-3d-models
 
-# Altium Designer - Adding 3D Models
+## SSCP - Altium Designer - Adding 3D Models
+
+## Altium Designer - Adding 3D Models
 
 Here are the basic steps to add a 3D model to your part.
 
 Search for the 3D model online:
 
-*     3Dcontentcentral.com is an excellent resource    If you find the part, login/register    Download the part as a 3D STEP file
-*     3Dcontentcentral.com is an excellent resource
-*     If you find the part, login/register
-*     Download the part as a 3D STEP file
+* &#x20;   3Dcontentcentral.com is an excellent resource    If you find the part, login/register    Download the part as a 3D STEP file
+* &#x20;   3Dcontentcentral.com is an excellent resource
+* &#x20;   If you find the part, login/register
+* &#x20;   Download the part as a 3D STEP file
 
-1.     3Dcontentcentral.com is an excellent resource
-2.     If you find the part, login/register
-3.     Download the part as a 3D STEP file
+1. &#x20;   3Dcontentcentral.com is an excellent resource
+2. &#x20;   If you find the part, login/register
+3. &#x20;   Download the part as a 3D STEP file
 
-    3Dcontentcentral.com is an excellent resource
+&#x20;   3Dcontentcentral.com is an excellent resource
 
 [3Dcontentcentral.com](http://3dcontentcentral.com/)
 
-    If you find the part, login/register
+&#x20;   If you find the part, login/register
 
-    Download the part as a 3D STEP file
+&#x20;   Download the part as a 3D STEP file
 
 In Altium:
 
@@ -59,4 +61,3 @@ Rotate as needed by double clicking changing the rotation.
 Make sure the pins just touch the copper and adjust the standoff height when needed
 
 Save when the pins line up.
-

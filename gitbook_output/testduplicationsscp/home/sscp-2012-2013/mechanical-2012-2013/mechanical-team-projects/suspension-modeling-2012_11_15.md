@@ -1,6 +1,8 @@
-# SSCP - Suspension Modeling 2012_11_15
+# suspension-modeling-2012\_11\_15
 
-# Suspension Modeling 2012_11_15
+## SSCP - Suspension Modeling 2012\_11\_15
+
+## Suspension Modeling 2012\_11\_15
 
 From Nathan Golshan:
 
@@ -10,7 +12,7 @@ three files are attached: two pictures to reference for point numbering (one wit
 
 the loading scenario here is a 4g bump, 2g brake, and 1g corner, with the full weight of the car applied at one wheel. The cornering force is applied as if this were the outside wheel, seeing as this is the worst case scenario from a weight transfer perspective.
 
-some explanation might be necessary here: this is a multi-link geometry, but not fully so. Whereas Xenith's suspension had independent links in place of the top control arm, this has two independent links on the bottom and an a-arm on the top. 
+some explanation might be necessary here: this is a multi-link geometry, but not fully so. Whereas Xenith's suspension had independent links in place of the top control arm, this has two independent links on the bottom and an a-arm on the top.&#x20;
 
 each part is as follows:
 
@@ -32,11 +34,6 @@ chassis hardpoints - 1,2,4,5,8
 
 ![](../../../../../assets/image_8c4cb5f0ca.png)
 
-[](https://drive.google.com/folderview?id=1672GZ3Wbl3f7WjgzJUKoImEkdWJq6uYD)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1672GZ3Wbl3f7WjgzJUKoImEkdWJq6uYD#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1672GZ3Wbl3f7WjgzJUKoImEkdWJq6uYD#list" frameborder="0"></iframe>
-

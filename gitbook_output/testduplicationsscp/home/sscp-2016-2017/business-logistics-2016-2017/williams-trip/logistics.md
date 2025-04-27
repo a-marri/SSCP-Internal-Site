@@ -1,32 +1,34 @@
-# SSCP - Logistics
+# logistics
 
-# Logistics
+## SSCP - Logistics
+
+## Logistics
 
 SPONSORSHIP
 
-          Contact: Richard richard.thompson@williamsf1.com and Claire claire.rose@williamsf1.com
+&#x20;         Contact: Richard richard.thompson@williamsf1.com and Claire claire.rose@williamsf1.com
 
- 
+&#x20;
 
-Williams Grand Prix Engineering Limited, through its engineering business Williams Advanced Engineering (hereinafter “Williams”), would be very pleased to sponsor the 2016-2017 Stanford Solar Car Project (“SSCP”) with in-kind services equal to a monetary value which entitles Williams to Gold Sponsorship.  
+Williams Grand Prix Engineering Limited, through its engineering business Williams Advanced Engineering (hereinafter “Williams”), would be very pleased to sponsor the 2016-2017 Stanford Solar Car Project (“SSCP”) with in-kind services equal to a monetary value which entitles Williams to Gold Sponsorship. &#x20;
 
- 
+&#x20;
 
-Williams in-kind services will be to provide the SSCP team with a 2 day workshop to take place at Williams Conference Centre in Grove, Oxfordshire, United Kingdom.  The SSCP team shall be responsible for all travel and accommodation costs for those attending the workshop. 
+Williams in-kind services will be to provide the SSCP team with a 2 day workshop to take place at Williams Conference Centre in Grove, Oxfordshire, United Kingdom.  The SSCP team shall be responsible for all travel and accommodation costs for those attending the workshop.&#x20;
 
- 
+&#x20;
 
 In return Williams shall be entitled to Gold Sponsorship which entails Williams logo on SSCP trailer; a medium sized Williams logo on the solar car; Williams logo and hyperlink on SSCP website; Social Media exposure; Williams name on SSCP uniform; access to recruiting events; and access to the SSCP resume book.
 
- 
+&#x20;
 
-The SSCP team will ensure that they use Williams logo and name as directed by Williams and will only use Williams logo and name in relation to Williams’ sponsorship of the 2016-2017 solar car race and SSCP and for no other purpose without the prior written consent of Williams.  The SSCP team shall use the logo as attached to this email and shall use the name “Williams Advanced Engineering” when referring to Williams by name.
+The SSCP team will ensure that they use Williams logo and name as directed by Williams and will only use Williams logo and name in relation to Williams’ sponsorship of the 2016-2017 solar car race and SSCP and for no other purpose without the prior written consent of Williams.  The SSCP team shall use the logo as attached to this email and shall use the name “Williams Advanced Engineering” when referring to Williams by name.
 
- 
+&#x20;
 
 The SSCP team and Williams each undertake that it shall not at any time disclose to any person any confidential information of the other Party except as may be required by law, a court of competent jurisdiction or any governmental or regulatory authority.
 
- 
+&#x20;
 
 If you have any queries please let me know, otherwise please respond to this email advising that the above is what has been agreed in relation to Williams Gold level Sponsorship of SSCP.
 
@@ -44,11 +46,6 @@ Flights were booked independently but reimbursed up to $1100. This ended up work
 
 [Flights](https://docs.google.com/spreadsheets/d/1DOzbbE7gYxBhnMSVaa-g_A01tsPdgcE7HnPR_dXlYvA/edit#gid=0)
 
-[](https://drive.google.com/folderview?id=13iLvqrfhh3_HU5jenYOmcOsHtL3BgEmG)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=13iLvqrfhh3_HU5jenYOmcOsHtL3BgEmG#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=13iLvqrfhh3_HU5jenYOmcOsHtL3BgEmG#list" frameborder="0"></iframe>
-

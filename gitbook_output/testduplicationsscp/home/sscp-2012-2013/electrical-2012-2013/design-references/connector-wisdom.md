@@ -1,6 +1,8 @@
-# SSCP - Connector Wisdom
+# connector-wisdom
 
-# Connector Wisdom
+## SSCP - Connector Wisdom
+
+## Connector Wisdom
 
 "No matter how much time you spend doing connectors right, it's worth it." - Nathan Hall-Snyder
 
@@ -25,7 +27,7 @@ Can it be purchased with a credit card online (digikey, mouser, newark, others)?
 
 Is it made by Molex? ghall1@stanford.edu for approval.
 
-[ ghall1@stanford.edu](mailto:ghall1@stanford.edu)
+[ghall1@stanford.edu](mailto:ghall1@stanford.edu)
 
 Do we have a crimper that can crimp the contacts? We have several universal crimpers which do an OK job. Application specific crimpers are always better. Most contacts will have a rated pull-out strength (how much you can tug on the wire before it breaks). Make sure that you test so that a crimp with your crimper meets this spec. Do a pull test of at least 1/2 the rated force on every crimp you do.
 
@@ -74,22 +76,22 @@ Prefer the crimp version - while solder cups seem nice, they always end up messy
 If your connector is a power or high voltage connector:
 
 1. Have the correct gauge for the current you'd like to run? Do a quick calculation to determine the voltage drop and power dissipation across your connector and across your wire. Make sure that the power loss is acceptable to the system designer.
-2. Is it made by Anderson Power Products? Email  ghall1@stanford.edu for approval.
+2. Is it made by Anderson Power Products? Email  ghall1@stanford.edu for approval.
 3. Is it rated for the voltages you plan on using? Sometimes automotive 12V connectors will not be rated for high voltages. Make sure your pin to pin voltages do not exceed the rating.
 4. Is it positive locking? Positive locking means that if you yanked on a cable, something would actually physically be damaged before it comes undone. Anderson Power Poles do not fit this requirement. An example of a positive locking connector
 5. Does it support for HVIL? HVIL is High Voltage Interlock. The idea is that if a high voltage connector is unplugged, the device supplying the high voltage will open the contactor and remove the high voltage. This is important from a safety perspective. While generally only EV-specific connectors have this, two pins can be shorted on a 4 pin connector to achieve HVIL.
 
 Have the correct gauge for the current you'd like to run? Do a quick calculation to determine the voltage drop and power dissipation across your connector and across your wire. Make sure that the power loss is acceptable to the system designer.
 
-Is it made by Anderson Power Products? Email  ghall1@stanford.edu for approval.
+Is it made by Anderson Power Products? Email  ghall1@stanford.edu for approval.
 
-[ ghall1@stanford.edu](mailto:ghall1@stanford.edu)
+[ ghall1@stanford.edu](mailto:ghall1@stanford.edu)
 
 Is it rated for the voltages you plan on using? Sometimes automotive 12V connectors will not be rated for high voltages. Make sure your pin to pin voltages do not exceed the rating.
 
 Is it positive locking? Positive locking means that if you yanked on a cable, something would actually physically be damaged before it comes undone. Anderson Power Poles do not fit this requirement. An example of a positive locking connector
 
-[ positive locking connector](http://www.te.com/content/dam/te/global/english/industries/hybrid-electric-mobility-solutions/amp-med-low-curr-hva-280.pdf)
+[positive locking connector](http://www.te.com/content/dam/te/global/english/industries/hybrid-electric-mobility-solutions/amp-med-low-curr-hva-280.pdf)
 
 Does it support for HVIL? HVIL is High Voltage Interlock. The idea is that if a high voltage connector is unplugged, the device supplying the high voltage will open the contactor and remove the high voltage. This is important from a safety perspective. While generally only EV-specific connectors have this, two pins can be shorted on a 4 pin connector to achieve HVIL.
 
@@ -107,13 +109,13 @@ JAE MX23 Cycle TEsting
 
 An 18p connector was cycled with a .5A test current. The datasheet lists 10 mOhm as the maximum contact resistance...this connector reached that after 50 cycles. However, the connector continued to have reasonably low contact resistance as long as the test was measured. For comparison, the Hirose GT8E lists its failure point at 60 mOhm.
 
-the hva 280 connector was tested at 1 amp  for 200 cycles. The connector is officially rated to 10 cycles, but survived for at least 200 cycles.
+the hva 280 connector was tested at 1 amp  for 200 cycles. The connector is officially rated to 10 cycles, but survived for at least 200 cycles.
 
 Good Connector Catalogs:
 
-http://www.amphenol.info/downloads/28_ecomate_052009_e.pdf Eco Mate
+http://www.amphenol.info/downloads/28\_ecomate\_052009\_e.pdf Eco Mate
 
-[http://www.amphenol.info/downloads/28_ecomate_052009_e.pdf](http://www.amphenol.info/downloads/28_ecomate_052009_e.pdf)
+[http://www.amphenol.info/downloads/28\_ecomate\_052009\_e.pdf](http://www.amphenol.info/downloads/28_ecomate_052009_e.pdf)
 
 http://www.te.com/automotive/pdf/1654294-3.pdf TE EV Stuff
 
@@ -121,7 +123,7 @@ http://www.te.com/automotive/pdf/1654294-3.pdf TE EV Stuff
 
 Connector Companies (in no particular order)
 
-Molex (www.molex.com): 
+Molex (www.molex.com):&#x20;
 
 [www.molex.com](http://i.imgur.com/vcfRl.gif)
 
@@ -145,13 +147,13 @@ Suggested Connectors: ET Power connector, HVA280 EV connector, CPC connectors
 
 Amphenol:
 
-Connectors used successfully:  eco-mate sealed connectors
+Connectors used successfully:  eco-mate sealed connectors
 
 Suggested Connectors: Eco-mate
 
 Find other waterproof products here: http://www.amphenolltw.com/p2-products.php
 
-[ http://www.amphenolltw.com/p2-products.php](http://www.amphenolltw.com/p2-products.php)
+[http://www.amphenolltw.com/p2-products.php](http://www.amphenolltw.com/p2-products.php)
 
 JST:
 
@@ -201,7 +203,7 @@ Anderson Power Products (Anderson Power Products):
 
 Sells a wide range of shitty products
 
-Connectors used successfully:  APP SB 50 Connector
+Connectors used successfully:  APP SB 50 Connector
 
 Connectors that caused problems: APP PowerPole. Avoid these at all costs.
 
@@ -231,11 +233,9 @@ Hirose:
 
 Japanese company that makes high quality automotive connectors. While we have not used any hirose parts, there is talk about using Hirose GT8E connectors to replace Molex Micro-fits
 
-### Souriau:
+#### Souriau:
 
-[](#h.quaggjs1edy5)
-
-French aerospace company: http://www.souriau.com/index.php?id=intro 
+French aerospace company: http://www.souriau.com/index.php?id=intro&#x20;
 
 [http://www.souriau.com/index.php?id=intro](http://www.souriau.com/index.php?id=intro)
 
@@ -251,21 +251,21 @@ Makes cabling and pass-through connectors for electric vehicles http://ipaper.ip
 
 Coroplast:
 
-Makes very, very nice electric vehicle cables. Sample part number: FLR2G2GCB2G http://www.coroplast.de/uploads/tx_shtcorodownloads/CP_Brosch_e_Mobility_engl.pdf
+Makes very, very nice electric vehicle cables. Sample part number: FLR2G2GCB2G http://www.coroplast.de/uploads/tx\_shtcorodownloads/CP\_Brosch\_e\_Mobility\_engl.pdf
 
-[ http://www.coroplast.de/uploads/tx_shtcorodownloads/CP_Brosch_e_Mobility_engl.pdf](http://www.coroplast.de/uploads/tx_shtcorodownloads/CP_Brosch_e_Mobility_engl.pdf)
+[http://www.coroplast.de/uploads/tx\_shtcorodownloads/CP\_Brosch\_e\_Mobility\_engl.pdf](http://www.coroplast.de/uploads/tx_shtcorodownloads/CP_Brosch_e_Mobility_engl.pdf)
 
 Staubli
 
-CEB Connectors for motorsports: http://www.staubli.com/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/user_upload/staublicom/connectors/products/CEB/pdf/CEB_staubli_Z422e.pdf&t=1346367478&hash=13b5b61fc902761cf073881dd5878d1ae4a46fbc
+CEB Connectors for motorsports: http://www.staubli.com/index.php?eID=tx\_nawsecuredl\&u=0\&file=fileadmin/user\_upload/staublicom/connectors/products/CEB/pdf/CEB\_staubli\_Z422e.pdf\&t=1346367478\&hash=13b5b61fc902761cf073881dd5878d1ae4a46fbc
 
-[http://www.staubli.com/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/user_upload/staublicom/connectors/products/CEB/pdf/CEB_staubli_Z422e.pdf&t=1346367478&hash=13b5b61fc902761cf073881dd5878d1ae4a46fbc](http://www.staubli.com/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/user_upload/staublicom/connectors/products/CEB/pdf/CEB_staubli_Z422e.pdf&t=1346367478&hash=13b5b61fc902761cf073881dd5878d1ae4a46fbc)
+[http://www.staubli.com/index.php?eID=tx\_nawsecuredl\&u=0\&file=fileadmin/user\_upload/staublicom/connectors/products/CEB/pdf/CEB\_staubli\_Z422e.pdf\&t=1346367478\&hash=13b5b61fc902761cf073881dd5878d1ae4a46fbc](http://www.staubli.com/index.php?eID=tx_nawsecuredl\&u=0\&file=fileadmin/user_upload/staublicom/connectors/products/CEB/pdf/CEB_staubli_Z422e.pdf\&t=1346367478\&hash=13b5b61fc902761cf073881dd5878d1ae4a46fbc)
 
 Yamaichi
 
 Company which makes small data connectors as well as an array of solar connectors and boxes, as well as high current connectors for processors. http://www.yamaichi.com/
 
-[ http://www.yamaichi.com/](http://www.yamaichi.com/)
+[http://www.yamaichi.com/](http://www.yamaichi.com/)
 
 Hypertronics
 
@@ -277,13 +277,11 @@ Japanese automotive connector manufacturer. Used commonly in all sorts of produc
 
 LS Cable
 
-Cable manufacturer, also makes HV electric vehicle connectors: http://m.lscns.com/catalogs/LS_HV_Components_for_EV_EN_0905.pdf
+Cable manufacturer, also makes HV electric vehicle connectors: http://m.lscns.com/catalogs/LS\_HV\_Components\_for\_EV\_EN\_0905.pdf
 
-[http://m.lscns.com/catalogs/LS_HV_Components_for_EV_EN_0905.pdf](http://m.lscns.com/catalogs/LS_HV_Components_for_EV_EN_0905.pdf)
+[http://m.lscns.com/catalogs/LS\_HV\_Components\_for\_EV\_EN\_0905.pdf](http://m.lscns.com/catalogs/LS_HV_Components_for_EV_EN_0905.pdf)
 
-### Chogori
-
-[](#h.od4qo6juntgm)
+#### Chogori
 
 Makes waterproof connectors used on the Gogoro electric scooter: http://www.chogoriusa.com/standard.html
 
@@ -291,11 +289,6 @@ Makes waterproof connectors used on the Gogoro electric scooter: http://www.chog
 
 ![](../../../../../assets/image_daad5e8b63.png)
 
-[](https://drive.google.com/folderview?id=106eAnBP5fBvPPV6cnR9qXw2qbGQPk4Og)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=106eAnBP5fBvPPV6cnR9qXw2qbGQPk4Og#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=106eAnBP5fBvPPV6cnR9qXw2qbGQPk4Og#list" frameborder="0"></iframe>
-

@@ -1,10 +1,10 @@
-# SSCP - Ford E-350 Van
+# ford-e-350-van
 
-# Ford E-350 Van
+## SSCP - Ford E-350 Van
 
-## RIP E350
+## Ford E-350 Van
 
-[](#h.2ii0klvuutsi)
+### RIP E350
 
 Unfortunately, the van's life officially ended in July, 2024 during the Formula Sun Grand Prix. The van made it all the way from Stanford to Bowling Green, KY, towing the vehicle in the trailer. A team member (Jack West) took it to a local restaurant in Bowling Green, where the engine seized due to a coolant leak. Fleet management decided to scrap the vehicle (I think), and it remains in Bowling Green to this day.
 
@@ -28,7 +28,7 @@ In the spring of 2013 the van had a leak in the AC compressor. The van has yet t
 
 Sam Lenius said that for a similar Minnesota vehicle it is faster overall to drive slowly, save gas, and not refuel than to drive quickly, burn a lot of gas, and spend 20 min ever two hours refilling your tank. Driving the van below 60mph is probably good for everything.
 
-In March or so of 2014, the van got its spark plugs and engine coils changed. Spark plug replacements were standard, engine coils were aftermarket upgrades from original Ford models. 
+In March or so of 2014, the van got its spark plugs and engine coils changed. Spark plug replacements were standard, engine coils were aftermarket upgrades from original Ford models.&#x20;
 
 As of Dec 9, 2014, the van's AC has been repaired.
 
@@ -42,11 +42,6 @@ As of 2021, our current contact at the fleet garage is Lucinda Richerson, who ca
 
 For fleet garage correspondence, you can refer to our van as vehicle number #1950.
 
-[](https://drive.google.com/folderview?id=1pKHsxTQbJiH4k2GGmz0_rZHEf3HKkBQR)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1pKHsxTQbJiH4k2GGmz0_rZHEf3HKkBQR#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1pKHsxTQbJiH4k2GGmz0_rZHEf3HKkBQR#list" frameborder="0"></iframe>
-

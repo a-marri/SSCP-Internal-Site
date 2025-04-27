@@ -1,10 +1,10 @@
-# SSCP - Telemetry Frontend Architecture
+# telemetry-frontend-architecture
 
-# Telemetry Frontend Architecture
+## SSCP - Telemetry Frontend Architecture
 
-## Interface
+## Telemetry Frontend Architecture
 
-[](#h.9w6chc6m2vmt)
+### Interface
 
 Tabs on the top bar:
 
@@ -12,23 +12,21 @@ Drag and drop measurement elements to the center interface. Measurement elements
 
 Binary:
 
-    Block Contents: Title, On/Off indication
+&#x20;   Block Contents: Title, On/Off indication
 
-    Features: 
+&#x20;   Features:&#x20;
 
 Meter:
 
-    Block Contents: Title, Meter (like a speedometer)
+&#x20;   Block Contents: Title, Meter (like a speedometer)
 
 Graph:
 
-    Block Contents: Title, Graph, configuration tools
+&#x20;   Block Contents: Title, Graph, configuration tools
 
 You can drag a binary measurement into a graph in order to graph that variable over time.
 
-## Web Stack
-
-[](#h.si5qqvurc385)
+### Web Stack
 
 Bootstrap
 
@@ -39,4 +37,3 @@ Graphing
 Custom Javascript
 
 JSON
-

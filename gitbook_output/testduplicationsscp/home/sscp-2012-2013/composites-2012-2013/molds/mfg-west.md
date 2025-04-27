@@ -1,8 +1,10 @@
-# SSCP - MFG West
+# mfg-west
 
-# MFG West
+## SSCP - MFG West
 
-Our Contacts at MFG West. 
+## MFG West
+
+Our Contacts at MFG West.&#x20;
 
 Jose Cisneros
 
@@ -12,7 +14,7 @@ MFG-West
 
 9400 Holly Road
 
-Adelanto,  Ca, 92301
+Adelanto,  Ca, 92301
 
 P. 760 246-4042
 
@@ -28,7 +30,7 @@ and
 
 Jim Enslow JEnslow@mfgwest.com
 
-and 
+and&#x20;
 
 Tony Drake
 
@@ -46,21 +48,21 @@ www.moldedfiberglass.com
 
 [www.moldedfiberglass.com](http://www.moldedfiberglass.com)
 
-and 
+and&#x20;
 
-Mr. Richard Scott Morrison  (A Stanford Alum)
+Mr. Richard Scott Morrison  (A Stanford Alum)
 
 1966 BS Industrial Eng, 1968 MBA Business
 
-President & CEO at Molded Fiber Glass Companies 
+President & CEO at Molded Fiber Glass Companies&#x20;
 
 Personal Profile
 
-Email: Home: rmorrison@aol.com 
+Email: Home: rmorrison@aol.com&#x20;
 
-GSB: rmorrison@alumni.stanfordgsb.org 
+GSB: rmorrison@alumni.stanfordgsb.org&#x20;
 
-They mentioned that if we used a CNC instead of hand sculpting they would face twice the cost. 
+They mentioned that if we used a CNC instead of hand sculpting they would face twice the cost.&#x20;
 
 Hi team,
 
@@ -68,7 +70,7 @@ MFG West finally sent me a price quote and CAD deadline this morning. It turns o
 
 The catch is they may not deliver our molds until mid January. If they underestimate then it could mean that we wouldn't receive molds until midterm season in the Winter.
 
- 
+&#x20;
 
 I wanted to see if you all have input before I make a decision about our mold manufacturer. Christensen is asking for a wire transfer right now, so I need to decide before the end of the day.
 
@@ -80,7 +82,7 @@ I just got off the phone with Christensen. They are willing to wait for final CA
 
 -The team was pleased with MFG's work for Equinox and Solstice.
 
-[ pleased](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/molds)
+[pleased](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/composites-2012-2013/molds/)
 
 -MFG is in SoCal
 
@@ -98,11 +100,11 @@ We'll know within a day or two if we've missed our mark for drag on the latest b
 
 Wesley:
 
- 
+&#x20;
 
-We can rearrange some of our projects to hit your winter break delivery goal.  Assume we will be able to ship the mold(s) to you NLT December 17th.    This assumes you will be able to deliver formal, final drawings NLT next Monday, October 15th.  If this sounds attractive we will generate a formal quotation for you to approve before we move forward. 
+We can rearrange some of our projects to hit your winter break delivery goal.  Assume we will be able to ship the mold(s) to you NLT December 17th.    This assumes you will be able to deliver formal, final drawings NLT next Monday, October 15th.  If this sounds attractive we will generate a formal quotation for you to approve before we move forward.&#x20;
 
- 
+&#x20;
 
 Tony
 
@@ -110,19 +112,13 @@ More details from MFG West:
 
 The have two ways for manufacturing the molds:
 
-1) Depending on their scheduling they may be able to use a 5-axis CNC to mill polystyrene foam. Then they cover the foam with strips of foil and layup the gelcoat and fiberglass on that surface. The foil is removed after the fiberglass cures and then the surface is sanded.
-
-2) If they can't get access to the CNC they would use cross sectional blocks of foam. They said they usually use 6in wide blocks, but were willing to use smaller cross sections were we need better tolerances. The foam would be hand sculpted and then the process would continue like option 1.
+1. Depending on their scheduling they may be able to use a 5-axis CNC to mill polystyrene foam. Then they cover the foam with strips of foil and layup the gelcoat and fiberglass on that surface. The foil is removed after the fiberglass cures and then the surface is sanded.
+2. If they can't get access to the CNC they would use cross sectional blocks of foam. They said they usually use 6in wide blocks, but were willing to use smaller cross sections were we need better tolerances. The foam would be hand sculpted and then the process would continue like option 1.
 
 MFG West wouldn't commit to a delivery before the 17th since they may want the last weekend to finish the project. Shipping would hopefully only take a day from LA.
 
-Given these details MFG West looks like a less promising option. 
+Given these details MFG West looks like a less promising option.&#x20;
 
-[](https://drive.google.com/folderview?id=1XcnCvvJOdoshc5aPLfwCxJUU7kkzRntj)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1XcnCvvJOdoshc5aPLfwCxJUU7kkzRntj#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1XcnCvvJOdoshc5aPLfwCxJUU7kkzRntj#list" frameborder="0"></iframe>
-

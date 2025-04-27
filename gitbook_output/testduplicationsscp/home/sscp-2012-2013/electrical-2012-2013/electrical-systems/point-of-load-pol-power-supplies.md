@@ -1,6 +1,8 @@
-# SSCP - Point-of-Load (POL) Power Supplies
+# point-of-load-pol-power-supplies
 
-# Point-of-Load (POL) Power Supplies
+## SSCP - Point-of-Load (POL) Power Supplies
+
+## Point-of-Load (POL) Power Supplies
 
 Requirements
 
@@ -25,17 +27,16 @@ We currently have two discreet power modules for dropping into other circuit lay
 * The Low Current Module provides up to 100 mAThe Medium Current Module provides up to 1A using the LT3695 bucking regulator.
 * The Low Current Module provides up to 100 mA
 * The Medium Current Module provides up to 1A using the LT3695 bucking regulator.
-
 * The Low Current Module provides up to 100 mA
 * The Medium Current Module provides up to 1A using the LT3695 bucking regulator.
 
 The Low Current Module provides up to 100 mA
 
-[ Low Current Module](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/low-current)
+[Low Current Module](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/low-current/)
 
 The Medium Current Module provides up to 1A using the LT3695 bucking regulator.
 
-[ Medium Current Module](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/medium-current)
+[Medium Current Module](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/medium-current/)
 
 Module Pinout:
 
@@ -61,17 +62,15 @@ Here's a handy table of some commonly-needed feedback resistances:
 
 Table of FB Resistances versus Regulator Output Voltage
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](point-of-load-pol-power-supplies.md)
 
 The High-Current Power Supply
 
 The high-current supply is not provided as a discreet module, due to the high current requirements that would overload standard socket connectors. Instead, it is a drop-in schematic and parts collection that you can incorporate into a board design that needs it.
 
-[ high-current supply](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/high-current)
+[high-current supply](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/high-current/)
 
 Archived (Outdated) Plans for Modules:
 
@@ -79,37 +78,37 @@ Proposed solutions
 
 Low Current (up to 100 mA)
 
-[Low Current (up to 100 mA)](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/low-current)
+[Low Current (up to 100 mA)](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/electrical-2012-2013/electrical-systems/low-current/)
 
 ICs / modules
 
-    LTC3631-3.3 buck converter
+&#x20;   LTC3631-3.3 buck converter
 
 [LTC3631](http://www.linear.com/product/LTC3631)
 
-    Current sensing module
+&#x20;   Current sensing module
 
 Discrete components
 
-    TVS to protect bus spikes
+&#x20;   TVS to protect bus spikes
 
-[ TVS to protect bus spikes](http://search.digikey.com/us/en/products/SMA6J28CA-TR/497-7888-1-ND/1883785)
+[ TVS to protect bus spikes](http://search.digikey.com/us/en/products/SMA6J28CA-TR/497-7888-1-ND/1883785)
 
-    TVS to protect against ESD
+&#x20;   TVS to protect against ESD
 
-[ TVS to protect against ESD](http://search.digikey.com/us/en/products/SMAJ85CA/SMAJ85CABCT-ND/2253558)
+[ TVS to protect against ESD](http://search.digikey.com/us/en/products/SMAJ85CA/SMAJ85CABCT-ND/2253558)
 
-    Schottky for reverse polarity protection
+&#x20;   Schottky for reverse polarity protection
 
-[ Schottky for reverse polarity protection](http://search.digikey.com/us/en/products/SS1150-LTP/SS1150-LTPMSCT-ND/2423310)
+[ Schottky for reverse polarity protection](http://search.digikey.com/us/en/products/SS1150-LTP/SS1150-LTPMSCT-ND/2423310)
 
-    ferrite bead and  input capacitor or integrated LC filter?
+&#x20;   ferrite bead and  input capacitor or integrated LC filter?
 
 [ferrite bead](http://search.digikey.com/us/en/products/FBMH3225HM202NT/587-1754-1-ND/1147079)
 
 [input capacitor](http://search.digikey.com/us/en/products/GCM188R72A103KA37D/490-4781-1-ND/1641700)
 
-[ i](http://goog_1211727336)
+[i](http://goog_1211727336)
 
 [ntegrated LC filter](http://search.digikey.com/us/en/products/ELK-E103FA/P9878CT-ND/227675)
 
@@ -117,29 +116,29 @@ Medium Current (100-500mA)
 
 ICs
 
-    LT3502 buck converter 
+&#x20;   LT3502 buck converter&#x20;
 
 [LT3502](http://www.linear.com/product/LT3502)
 
-    Two alternatives:  LT3973 and LT3695 We will probably be using the LT3695.
+&#x20;   Two alternatives:  LT3973 and LT3695 We will probably be using the LT3695.
 
 [LT3973](http://cds.linear.com/docs/Datasheet/3973f.pdf)
 
 [LT3695](http://cds.linear.com/docs/Datasheet/3695fa.pdf)
 
-    LT4356 for voltage protection, as per fig. 7 & 8 of datasheet (possibly implemented as a module)
+&#x20;   LT4356 for voltage protection, as per fig. 7 & 8 of datasheet (possibly implemented as a module)
 
 [LT4356](http://cds.linear.com/docs/Datasheet/4356fa.pdf)
 
-    Current sensing module
+&#x20;   Current sensing module
 
 Discrete components
 
-    TVS to protect against ESD
+&#x20;   TVS to protect against ESD
 
 [TVS to protect against ESD](http://search.digikey.com/us/en/products/SMAJ85CA/SMAJ85CABCT-ND/2253558)
 
-    ferrite bead and input capacitor or integrated LC filter?
+&#x20;   ferrite bead and input capacitor or integrated LC filter?
 
 [ferrite bead](http://search.digikey.com/us/en/products/FBMH3225HM202NT/587-1754-1-ND/1147079)
 
@@ -153,23 +152,23 @@ High Current (up to 5A)
 
 ICs
 
-    LT3690 buck converter 
+&#x20;   LT3690 buck converter&#x20;
 
 [LT3690](http://www.linear.com/product/LT3690)
 
-    LT4356 for voltage protection, as per fig. 7 & 8 of datasheet (possibly implemented as a module)
+&#x20;   LT4356 for voltage protection, as per fig. 7 & 8 of datasheet (possibly implemented as a module)
 
 [LT4356](http://cds.linear.com/docs/Datasheet/4356fa.pdf)
 
-    Current sensing module
+&#x20;   Current sensing module
 
 Discrete components
 
-    TVS to protect against ESD
+&#x20;   TVS to protect against ESD
 
 [TVS to protect against ESD](http://search.digikey.com/us/en/products/SMAJ85CA/SMAJ85CABCT-ND/2253558)
 
-    ferrite bead and input capacitor or integrated LC filter?
+&#x20;   ferrite bead and input capacitor or integrated LC filter?
 
 [ferrite bead](http://search.digikey.com/us/en/products/FBMH3225HM202NT/587-1754-1-ND/1147079)
 
@@ -179,7 +178,7 @@ Discrete components
 
 [ntegrated LC filter](http://search.digikey.com/us/en/products/ELK-E103FA/P9878CT-ND/227675)
 
-    
+&#x20;  &#x20;
 
 Proposed building blocks
 
@@ -191,9 +190,9 @@ The LTC3631 is fairly efficient over a very wide output current range, is rated 
 
 Medium current (500mA)
 
-The LT3502 is less efficient, particularly at low output current, but is very high frequency and should be able to make nice, clean power. It is available in easy-to-use packages and is rated to 125°C. The  LT3973 and LT3695 are more efficient at will probably be used instead of the LT3502.
+The LT3502 is less efficient, particularly at low output current, but is very high frequency and should be able to make nice, clean power. It is available in easy-to-use packages and is rated to 125°C. The  LT3973 and LT3695 are more efficient at will probably be used instead of the LT3502.
 
-[ LT3502](http://www.linear.com/product/LT3502)
+[LT3502](http://www.linear.com/product/LT3502)
 
 [LT3973](http://cds.linear.com/docs/Datasheet/3973f.pdf)
 
@@ -203,31 +202,31 @@ High current (4A)
 
 The LT3690 is fairly efficient, but only with load currents >500mA. This might be useful for powering larger loads like a motor controller with fans.
 
-[ LT3690](http://www.linear.com/product/LT3690)
+[LT3690](http://www.linear.com/product/LT3690)
 
 Reverse voltage protection
 
 Most boards will have a fairly minimal bus current draw; usually less than 100mA. This lends itself nicely to using a simple diode for reverse voltage blocking. For high current applications, using an arrangement like figure 7 or 8 (PDF) will be more appropriate.
 
-[ diode](http://search.digikey.com/us/en/products/SS1150-LTP/SS1150-LTPMSCT-ND/2423310)
+[diode](http://search.digikey.com/us/en/products/SS1150-LTP/SS1150-LTPMSCT-ND/2423310)
 
-[ figure 7 or 8](http://cds.linear.com/docs/Datasheet/4356fa.pdf)
+[figure 7 or 8](http://cds.linear.com/docs/Datasheet/4356fa.pdf)
 
 Overvoltage, undervoltage, and overcurrent protection
 
 Surge stopping chips like the LT4356 make it easy to regulate the bus voltage to a safe level. This chip also protects again load overcurrent using a shunt. Window the steady-state operating range of the load from 18-30v with the undervoltage lockout and the overvoltage regulation. Pair the chip with an appropriate shunt to limit the input current to a safe level for the expected load.
 
-[ LT4356](http://cds.linear.com/docs/Datasheet/4356fa.pdf)
+[LT4356](http://cds.linear.com/docs/Datasheet/4356fa.pdf)
 
 EMI and ESD suppresion
 
 A bidirectional TVS diode will suppress ESD and very high voltage inductive spikes. A ferrite bead and a very small input capacitor will suppress incoming and outgoing RF noise generated locally by switching edges and remotely by radio stations and other electronics.
 
-[ bidirectional TVS diode](http://search.digikey.com/us/en/products/SMAJ85CA/SMAJ85CABCT-ND/2253558)
+[bidirectional TVS diode](http://search.digikey.com/us/en/products/SMAJ85CA/SMAJ85CABCT-ND/2253558)
 
-[ ferrite bead](http://search.digikey.com/us/en/products/FBMH3225HM202NT/587-1754-1-ND/1147079)
+[ferrite bead](http://search.digikey.com/us/en/products/FBMH3225HM202NT/587-1754-1-ND/1147079)
 
-[ input capacitor](http://search.digikey.com/us/en/products/GCM188R72A103KA37D/490-4781-1-ND/1641700)
+[input capacitor](http://search.digikey.com/us/en/products/GCM188R72A103KA37D/490-4781-1-ND/1641700)
 
 Input voltage and current measurement
 
@@ -239,13 +238,8 @@ A simple resistor divider can scale down the input voltage. Measuring a range fr
 
 Both outputs will need to be buffered before going in to the ADC to avoid inaccuracy due to the input bias current on the ADC. A slow, rail-to-rail input and output opamp like the LT6004 will work nicely.
 
-[ LT6004](http://www.linear.com/product/LT6004)
+[LT6004](http://www.linear.com/product/LT6004)
 
-[](https://drive.google.com/folderview?id=1Wcb4ScdD7lpdp3R4CF0TLYxDHuYEw6fe)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1Wcb4ScdD7lpdp3R4CF0TLYxDHuYEw6fe#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1Wcb4ScdD7lpdp3R4CF0TLYxDHuYEw6fe#list" frameborder="0"></iframe>
-

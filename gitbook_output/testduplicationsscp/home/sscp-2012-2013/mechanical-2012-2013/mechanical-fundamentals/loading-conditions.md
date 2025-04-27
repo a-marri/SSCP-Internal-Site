@@ -1,10 +1,10 @@
-# SSCP - Loading Conditions
+# loading-conditions
 
-# Loading Conditions
+## SSCP - Loading Conditions
 
-## Introduction
+## Loading Conditions
 
-[](#h.1getn550rckr)
+### Introduction
 
 Loading conditions are a set of parameters that our team uses to simulate the loads on the car during a race. Driving loads are broken into three categories:
 
@@ -27,31 +27,25 @@ Rotating cycles - loads which occur on each rotation of a wheel
 
 Bump cycles - loads which occur on each bump event. Bump events are assumed to happen no more often than the resonant frequency of the suspension.
 
-Loading conditions must be correctly applied to all system-critical mechanical components in order to ensure that no one component will fail unexpectedly. 
+Loading conditions must be correctly applied to all system-critical mechanical components in order to ensure that no one component will fail unexpectedly.&#x20;
 
-## Historical Loading Conditions
+### Historical Loading Conditions
 
-[](#h.9vyuuqr16a8i)
-
-### Luminos
-
-[](#h.t9ehoasbiy92)
+#### Luminos
 
 Luminos Suspension Loading Conditions
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](loading-conditions.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+g = vehicle mass \* gravity \* .7
 
-g = vehicle mass * gravity * .7
+Source:&#x20;
 
-Source: 
+The 4G bump comes from a paper written by Rabih Al Zaher about the CSIRO motor.&#x20;
 
-The 4G bump comes from a paper written by Rabih Al Zaher about the CSIRO motor. 
-
-2g and 1g requirements come from ASC regulations. 
+2g and 1g requirements come from ASC regulations.&#x20;
 
 The .7 derating comes from best practices of the Minnesota Solar Vehicle Project and has its roots in a dynamics model of the car during a single wheel bump event.
 
@@ -59,11 +53,11 @@ Luminos Shock Loading Conditions
 
 Unsprung Mass
 
- 100g shock in Bump Direction
+&#x20;100g shock in Bump Direction
 
-  Sprung Mass    
+&#x20; Sprung Mass   &#x20;
 
- 25g shock in Bump Direction
+&#x20;25g shock in Bump Direction
 
 g = 9.81m/s^2
 
@@ -73,11 +67,11 @@ Luminos Cyclic Loading Conditions
 
 Rotating Cycles
 
-All unsprung mass, including bearings, shall be subject to and rated for at least 1.4x10^7 cycles, ~15000 miles, 1G
+All unsprung mass, including bearings, shall be subject to and rated for at least 1.4x10^7 cycles, \~15000 miles, 1G
 
- Bump Cycles
+&#x20;Bump Cycles
 
- Not used on Luminos
+&#x20;Not used on Luminos
 
 Source: 1 cycle per wheel rotation, 15000 miles
 
@@ -89,13 +83,13 @@ Vibration Spec, Components < 12kg
 
 8G frequency sweep, XYZ, all components < 12 kg on car, 3 hrs/direction
 
- Vibration Spec, Components > 12 kg
+&#x20;Vibration Spec, Components > 12 kg
 
- 2G frequency sweep, XYZ, all components > 12 kg, 3 hrs/direction
+&#x20;2G frequency sweep, XYZ, all components > 12 kg, 3 hrs/direction
 
-Source: UN Battery Module Vibration resistance spec: http://phmsa.dot.gov/staticfiles/PHMSA/DownloadableFiles/Files/UN_Test_Manual_Lithium_Battery_Requirements.pdf 
+Source: UN Battery Module Vibration resistance spec: http://phmsa.dot.gov/staticfiles/PHMSA/DownloadableFiles/Files/UN\_Test\_Manual\_Lithium\_Battery\_Requirements.pdf&#x20;
 
-[http://phmsa.dot.gov/staticfiles/PHMSA/DownloadableFiles/Files/UN_Test_Manual_Lithium_Battery_Requirements.pdf](http://phmsa.dot.gov/staticfiles/PHMSA/DownloadableFiles/Files/UN_Test_Manual_Lithium_Battery_Requirements.pdf)
+[http://phmsa.dot.gov/staticfiles/PHMSA/DownloadableFiles/Files/UN\_Test\_Manual\_Lithium\_Battery\_Requirements.pdf](http://phmsa.dot.gov/staticfiles/PHMSA/DownloadableFiles/Files/UN_Test_Manual_Lithium_Battery_Requirements.pdf)
 
 Luminos Brake Pedal Loading Conditions
 
@@ -105,23 +99,21 @@ Force Applied to Pedal
 
 Source: Historical Data
 
-### Xenith
-
-[](#h.1y7swumai7td)
+#### Xenith
 
 Static Loading Conditions
 
- Bump    
+&#x20;Bump   &#x20;
 
- 3g
+&#x20;3g
 
-  Brake    
+&#x20; Brake   &#x20;
 
- 2g
+&#x20;2g
 
- Corner
+&#x20;Corner
 
- 1g
+&#x20;1g
 
 Fatigue Loading Conditions
 
@@ -129,79 +121,66 @@ Rotating Cycles, unsprung mass
 
 4.8 x 10^6 cycles, 5000 miles, 1G
 
- Bump Cycles
+&#x20;Bump Cycles
 
- Not used on Xenith
+&#x20;Not used on Xenith
 
 Where g = total weight of car
 
-### Apogee
+#### Apogee
 
-[](#h.z70f5b66awix)
+&#x20;Bump   &#x20;
 
- Bump    
+&#x20;3g
 
- 3g
+&#x20; Brake   &#x20;
 
-  Brake    
+&#x20;2g
 
- 2g
+&#x20;Corner
 
- Corner
-
- 1g
+&#x20;1g
 
 Where g = vehicle weight / 3
 
-### Solstice
+#### Solstice
 
-[](#h.gvkzl744ndp1)
-
- Bump    
+&#x20;Bump   &#x20;
 
 2g
 
-  Brake    
+&#x20; Brake   &#x20;
 
- 1g
+&#x20;1g
 
- Corner
+&#x20;Corner
 
- 1g
+&#x20;1g
 
- 
+&#x20;
 
 Where g = vehicle weight / 2
 
-### Luminos Tire Patch Quick Reference
+#### Luminos Tire Patch Quick Reference
 
-[](#h.bln9rbljaxzp)
+#### Maximum Loading On Suspension Loading Quick Reference
 
-### Maximum Loading On Suspension Loading Quick Reference
+Force Calculated From Loads Text File From  Shark
 
-[](#h.mlrurq2565n0)
+&#x20;6800N along suspension linkage
 
-Force Calculated From Loads Text File From  Shark
+&#x20;Bump  &#x20;
 
- 6800N along suspension linkage
+&#x20;7141N
 
- Bump   
+&#x20; Brake  &#x20;
 
- 7141N
+&#x20;3570N
 
-  Brake   
+&#x20;Corner
 
- 3570N
+&#x20;1785N
 
- Corner
-
- 1785N
-
-[](https://drive.google.com/folderview?id=1jZGPkOlD-rATjadnDGN7BAwhSnH0-T-8)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1jZGPkOlD-rATjadnDGN7BAwhSnH0-T-8#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1jZGPkOlD-rATjadnDGN7BAwhSnH0-T-8#list" frameborder="0"></iframe>
-

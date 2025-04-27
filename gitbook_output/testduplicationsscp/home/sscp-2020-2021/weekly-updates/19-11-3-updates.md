@@ -1,6 +1,8 @@
-# SSCP - 19-11-3 Updates
+# 19-11-3-updates
 
-# 19-11-3 Updates
+## SSCP - 19-11-3 Updates
+
+## 19-11-3 Updates
 
 First meeting of the new cycle! Administered by Courtney Wenzel
 
@@ -8,20 +10,19 @@ Agenda:
 
 Intros from Courtney + returning members
 
-    - Name, year, major, role on team
+&#x20;   \- Name, year, major, role on team
 
 Intros from new members
 
-    - Name, year, major/what you would like to do/learn on team
+&#x20;   \- Name, year, major/what you would like to do/learn on team
 
-What is a solar car? - super quick summary of this powerpoint -->https://docs.google.com/presentation/d/1wYprTI8f_1M-2l8gbJq8gqJPrx9gSzqGqPHqFaxacWA/edit
+What is a solar car? - super quick summary of this powerpoint -->https://docs.google.com/presentation/d/1wYprTI8f\_1M-2l8gbJq8gqJPrx9gSzqGqPHqFaxacWA/edit
 
-[https://docs.google.com/presentation/d/1wYprTI8f_1M-2l8gbJq8gqJPrx9gSzqGqPHqFaxacWA/edit](https://docs.google.com/presentation/d/1wYprTI8f_1M-2l8gbJq8gqJPrx9gSzqGqPHqFaxacWA/edit)
+[https://docs.google.com/presentation/d/1wYprTI8f\_1M-2l8gbJq8gqJPrx9gSzqGqPHqFaxacWA/edit](https://docs.google.com/presentation/d/1wYprTI8f_1M-2l8gbJq8gqJPrx9gSzqGqPHqFaxacWA/edit)
 
 * video of WSC here: https://www.youtube.com/watch?v=1KlgTbVUHFw7:30
 * video of WSC here: https://www.youtube.com/watch?v=1KlgTbVUHFw
 * 7:30
-
 * video of WSC here: https://www.youtube.com/watch?v=1KlgTbVUHFw
 * 7:30
 
@@ -44,16 +45,16 @@ https://www.youtube.com/watch?v=uHykiRJ4WZI
 
 What's the deal with our solar car?
 
-* Black MambaFirst bullet style car SSCP has ever createdTop speed of ~104 kph (65mph)Weight - 199 kgs (~440lbs, no driver)Array - Gallium Arsenide, single junctionBatteries - Samsumng 21700's, 288 cells, 134.4 V nominal
+* Black MambaFirst bullet style car SSCP has ever createdTop speed of \~104 kph (65mph)Weight - 199 kgs (\~440lbs, no driver)Array - Gallium Arsenide, single junctionBatteries - Samsumng 21700's, 288 cells, 134.4 V nominal
 * First bullet style car SSCP has ever created
-* Top speed of ~104 kph (65mph)
-* Weight - 199 kgs (~440lbs, no driver)
+* Top speed of \~104 kph (65mph)
+* Weight - 199 kgs (\~440lbs, no driver)
 * Array - Gallium Arsenide, single junction
 * Batteries - Samsumng 21700's, 288 cells, 134.4 V nominal
 * Let's check out some highlights here: https://www.instagram.com/stanfordsolarcar/
-* The Big Oof: https://www.youtube.com/watch?v=xckFt_B_SoA&feature=youtu.behttps://www.reddit.com/r/solarracing/comments/di01bl/what_happened_to_the_stanford_team_yesterday_this/https://drive.google.com/drive/u/0/folders/1-2aUizU2C6IfeOjVant0FdPrEWfbJpBm
-* https://www.youtube.com/watch?v=xckFt_B_SoA&feature=youtu.be
-* https://www.reddit.com/r/solarracing/comments/di01bl/what_happened_to_the_stanford_team_yesterday_this/
+* The Big Oof: https://www.youtube.com/watch?v=xckFt\_B\_SoA\&feature=youtu.behttps://www.reddit.com/r/solarracing/comments/di01bl/what\_happened\_to\_the\_stanford\_team\_yesterday\_this/https://drive.google.com/drive/u/0/folders/1-2aUizU2C6IfeOjVant0FdPrEWfbJpBm
+* https://www.youtube.com/watch?v=xckFt\_B\_SoA\&feature=youtu.be
+* https://www.reddit.com/r/solarracing/comments/di01bl/what\_happened\_to\_the\_stanford\_team\_yesterday\_this/
 * https://drive.google.com/drive/u/0/folders/1-2aUizU2C6IfeOjVant0FdPrEWfbJpBm
 * What does this mean for the future of the Black Mamba and SSCPASC: Team is considering attending (July 2020) with Black Mamba, go/no go date is Feb 15 2020WSC: Team will be working in parallel to begin development of the next SSCP vehicle, starting with Aero
 * ASC: Team is considering attending (July 2020) with Black Mamba, go/no go date is Feb 15 2020
@@ -62,16 +63,16 @@ What's the deal with our solar car?
 Black Mamba
 
 * First bullet style car SSCP has ever created
-* Top speed of ~104 kph (65mph)
-* Weight - 199 kgs (~440lbs, no driver)
+* Top speed of \~104 kph (65mph)
+* Weight - 199 kgs (\~440lbs, no driver)
 * Array - Gallium Arsenide, single junction
 * Batteries - Samsumng 21700's, 288 cells, 134.4 V nominal
 
 First bullet style car SSCP has ever created
 
-Top speed of ~104 kph (65mph)
+Top speed of \~104 kph (65mph)
 
-Weight - 199 kgs (~440lbs, no driver)
+Weight - 199 kgs (\~440lbs, no driver)
 
 Array - Gallium Arsenide, single junction
 
@@ -81,19 +82,19 @@ Let's check out some highlights here: https://www.instagram.com/stanfordsolarcar
 
 [https://www.instagram.com/stanfordsolarcar/](https://www.instagram.com/stanfordsolarcar/)
 
-The Big Oof: 
+The Big Oof:&#x20;
 
-* https://www.youtube.com/watch?v=xckFt_B_SoA&feature=youtu.be
-* https://www.reddit.com/r/solarracing/comments/di01bl/what_happened_to_the_stanford_team_yesterday_this/
+* https://www.youtube.com/watch?v=xckFt\_B\_SoA\&feature=youtu.be
+* https://www.reddit.com/r/solarracing/comments/di01bl/what\_happened\_to\_the\_stanford\_team\_yesterday\_this/
 * https://drive.google.com/drive/u/0/folders/1-2aUizU2C6IfeOjVant0FdPrEWfbJpBm
 
-https://www.youtube.com/watch?v=xckFt_B_SoA&feature=youtu.be
+https://www.youtube.com/watch?v=xckFt\_B\_SoA\&feature=youtu.be
 
-[https://www.youtube.com/watch?v=xckFt_B_SoA&feature=youtu.be](https://www.youtube.com/watch?v=xckFt_B_SoA&feature=youtu.be)
+[https://www.youtube.com/watch?v=xckFt\_B\_SoA\&feature=youtu.be](https://www.youtube.com/watch?v=xckFt_B_SoA\&feature=youtu.be)
 
-https://www.reddit.com/r/solarracing/comments/di01bl/what_happened_to_the_stanford_team_yesterday_this/
+https://www.reddit.com/r/solarracing/comments/di01bl/what\_happened\_to\_the\_stanford\_team\_yesterday\_this/
 
-[https://www.reddit.com/r/solarracing/comments/di01bl/what_happened_to_the_stanford_team_yesterday_this/](https://www.reddit.com/r/solarracing/comments/di01bl/what_happened_to_the_stanford_team_yesterday_this/)
+[https://www.reddit.com/r/solarracing/comments/di01bl/what\_happened\_to\_the\_stanford\_team\_yesterday\_this/](https://www.reddit.com/r/solarracing/comments/di01bl/what_happened_to_the_stanford_team_yesterday_this/)
 
 https://drive.google.com/drive/u/0/folders/1-2aUizU2C6IfeOjVant0FdPrEWfbJpBm
 
@@ -201,11 +202,11 @@ What can you do now?
 * Read the Leading Edge - requirement for all Aero team members
 * SPONSORSHIP - everyone is required to attend Courtney's Cold Email Seminar and try the method on at least 5 companies before the start of the new year - Seminar will be held at a later date during one of our meetings, TBDbrainstorm companies now, definitely leverage any personal connections
 * brainstorm companies now, definitely leverage any personal connections
-* READ THE RULES - required of all members, new and returningASC is available now: http://www.americansolarchallenge.org/regulations/2020-american-solar-challenge-regulations/WSC Rules become available in June, read last year's here: https://www.worldsolarchallenge.org/event-information/2019_regulationsUsually major change is Array size, so everything else should be pretty much the sameRules trivia at all meetings, first will be next Sunday.  Questions will come from Section 1 and 2 of ASC rules, winners get prizes
+* READ THE RULES - required of all members, new and returningASC is available now: http://www.americansolarchallenge.org/regulations/2020-american-solar-challenge-regulations/WSC Rules become available in June, read last year's here: https://www.worldsolarchallenge.org/event-information/2019\_regulationsUsually major change is Array size, so everything else should be pretty much the sameRules trivia at all meetings, first will be next Sunday.  Questions will come from Section 1 and 2 of ASC rules, winners get prizes
 * ASC is available now: http://www.americansolarchallenge.org/regulations/2020-american-solar-challenge-regulations/
-* WSC Rules become available in June, read last year's here: https://www.worldsolarchallenge.org/event-information/2019_regulationsUsually major change is Array size, so everything else should be pretty much the same
+* WSC Rules become available in June, read last year's here: https://www.worldsolarchallenge.org/event-information/2019\_regulationsUsually major change is Array size, so everything else should be pretty much the same
 * Usually major change is Array size, so everything else should be pretty much the same
-* Rules trivia at all meetings, first will be next Sunday.  Questions will come from Section 1 and 2 of ASC rules, winners get prizes
+* Rules trivia at all meetings, first will be next Sunday.  Questions will come from Section 1 and 2 of ASC rules, winners get prizes
 * Update the website, if you're into that kind of thinghttps://solarcar.stanford.edu/
 * https://solarcar.stanford.edu/
 * Update sponsorship packet - work with business squad on this
@@ -226,23 +227,23 @@ brainstorm companies now, definitely leverage any personal connections
 READ THE RULES - required of all members, new and returning
 
 * ASC is available now: http://www.americansolarchallenge.org/regulations/2020-american-solar-challenge-regulations/
-* WSC Rules become available in June, read last year's here: https://www.worldsolarchallenge.org/event-information/2019_regulationsUsually major change is Array size, so everything else should be pretty much the same
+* WSC Rules become available in June, read last year's here: https://www.worldsolarchallenge.org/event-information/2019\_regulationsUsually major change is Array size, so everything else should be pretty much the same
 * Usually major change is Array size, so everything else should be pretty much the same
-* Rules trivia at all meetings, first will be next Sunday.  Questions will come from Section 1 and 2 of ASC rules, winners get prizes
+* Rules trivia at all meetings, first will be next Sunday.  Questions will come from Section 1 and 2 of ASC rules, winners get prizes
 
 ASC is available now: http://www.americansolarchallenge.org/regulations/2020-american-solar-challenge-regulations/
 
 [http://www.americansolarchallenge.org/regulations/2020-american-solar-challenge-regulations/](http://www.americansolarchallenge.org/regulations/2020-american-solar-challenge-regulations/)
 
-WSC Rules become available in June, read last year's here: https://www.worldsolarchallenge.org/event-information/2019_regulations
+WSC Rules become available in June, read last year's here: https://www.worldsolarchallenge.org/event-information/2019\_regulations
 
-[https://www.worldsolarchallenge.org/event-information/2019_regulations](https://www.worldsolarchallenge.org/event-information/2019_regulations)
+[https://www.worldsolarchallenge.org/event-information/2019\_regulations](https://www.worldsolarchallenge.org/event-information/2019_regulations)
 
 * Usually major change is Array size, so everything else should be pretty much the same
 
 Usually major change is Array size, so everything else should be pretty much the same
 
-Rules trivia at all meetings, first will be next Sunday.  Questions will come from Section 1 and 2 of ASC rules, winners get prizes
+Rules trivia at all meetings, first will be next Sunday.  Questions will come from Section 1 and 2 of ASC rules, winners get prizes
 
 Update the website, if you're into that kind of thing
 
@@ -258,7 +259,7 @@ PRL - get safety training/pay dues - required if you are in a PRL course, highly
 
 On-boarding: visit new member page here (once I give you access): https://sites.google.com/a/stanfordsolarcar.com/sscp/home/new-member-onboarding
 
-[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/new-member-onboarding](/stanford.edu/testduplicationsscp/home/new-member-orientation)
+[https://sites.google.com/a/stanfordsolarcar.com/sscp/home/new-member-onboarding](../../../../../stanford.edu/testduplicationsscp/home/new-member-orientation/)
 
 * Download solidworksBookmark the internal site/logonLogon to Slack: stanfordsolarcar.slack.comput your email and phone number in your profilejoin general channel - I will add your emails to our drive/internal site
 * Download solidworks
@@ -266,7 +267,6 @@ On-boarding: visit new member page here (once I give you access): https://sites.
 * Logon to Slack: stanfordsolarcar.slack.comput your email and phone number in your profile
 * put your email and phone number in your profile
 * join general channel - I will add your emails to our drive/internal site
-
 * Download solidworks
 * Bookmark the internal site/logon
 * Logon to Slack: stanfordsolarcar.slack.comput your email and phone number in your profile
@@ -304,7 +304,6 @@ Tell the team who you talked to.
 
 * we talked to a bunch of companies because everyone is super into getting us free money
 * we talked to a bunch of companies because everyone is super into getting us free money
-
 * we talked to a bunch of companies because everyone is super into getting us free money
 
 we talked to a bunch of companies because everyone is super into getting us free money
@@ -315,7 +314,6 @@ Key Points:
 
 * meshing
 * meshing
-
 * meshing
 
 meshing
@@ -324,7 +322,6 @@ Wins:
 
 * we automated meshing
 * we automated meshing
-
 * we automated meshing
 
 we automated meshing
@@ -333,7 +330,6 @@ Losses:
 
 * crashed computers/license issues
 * crashed computers/license issues
-
 * crashed computers/license issues
 
 crashed computers/license issues
@@ -344,7 +340,6 @@ Key Points:
 
 * we have one
 * we have one
-
 * we have one
 
 we have one
@@ -353,7 +348,6 @@ Wins:
 
 * we have it fixed to comply with signage rule now
 * we have it fixed to comply with signage rule now
-
 * we have it fixed to comply with signage rule now
 
 we have it fixed to comply with signage rule now
@@ -363,7 +357,6 @@ Losses:
 * kids keep touching itvinyl doesn't match
 * kids keep touching it
 * vinyl doesn't match
-
 * kids keep touching it
 * vinyl doesn't match
 
@@ -377,7 +370,6 @@ Key Points:
 
 * let's get this bread
 * let's get this bread
-
 * let's get this bread
 
 let's get this bread
@@ -386,7 +378,6 @@ Wins:
 
 * bread
 * bread
-
 * bread
 
 bread
@@ -395,7 +386,6 @@ Losses:
 
 * receipts
 * receipts
-
 * receipts
 
 receipts
@@ -406,7 +396,6 @@ Key Points:
 
 * we made a strategy in 2 days
 * we made a strategy in 2 days
-
 * we made a strategy in 2 days
 
 we made a strategy in 2 days
@@ -415,7 +404,6 @@ Wins:
 
 * it exists
 * it exists
-
 * it exists
 
 it exists
@@ -424,7 +412,6 @@ Losses:
 
 * it has not been tested
 * it has not been tested
-
 * it has not been tested
 
 it has not been tested
@@ -435,7 +422,6 @@ Key Points:
 
 * i don't know how any of this works
 * i don't know how any of this works
-
 * i don't know how any of this works
 
 i don't know how any of this works
@@ -444,7 +430,6 @@ Wins:
 
 * i don't know how any of this works
 * i don't know how any of this works
-
 * i don't know how any of this works
 
 i don't know how any of this works
@@ -453,7 +438,6 @@ Losses:
 
 * i don't know how any of this works
 * i don't know how any of this works
-
 * i don't know how any of this works
 
 i don't know how any of this works
@@ -464,7 +448,6 @@ Key Points:
 
 * car
 * car
-
 * car
 
 car
@@ -473,7 +456,6 @@ Wins:
 
 * in tact
 * in tact
-
 * in tact
 
 in tact
@@ -482,7 +464,6 @@ Losses:
 
 * crispy fried
 * crispy fried
-
 * crispy fried
 
 crispy fried
@@ -493,7 +474,6 @@ Key Points:
 
 * FIRE
 * FIRE
-
 * FIRE
 
 FIRE
@@ -502,7 +482,6 @@ Wins:
 
 * shipping
 * shipping
-
 * shipping
 
 shipping
@@ -511,7 +490,6 @@ Losses:
 
 * the pack
 * the pack
-
 * the pack
 
 the pack
@@ -528,5 +506,4 @@ New members - do on-boarding things, think about what subteams you would like to
 
 Courtney - add ppl to drive/site/slack, get something together for sponsorship seminar, do chassis analysis.
 
-Returning members - read rules, get started on either ASC documentation, sponsorship, or subetam projects.  Think of projects for new members.
-
+Returning members - read rules, get started on either ASC documentation, sponsorship, or subetam projects.  Think of projects for new members.

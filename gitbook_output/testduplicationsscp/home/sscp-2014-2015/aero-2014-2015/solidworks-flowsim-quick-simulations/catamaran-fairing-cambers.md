@@ -1,10 +1,12 @@
-# SSCP - Catamaran Fairing Cambers
+# catamaran-fairing-cambers
 
-# Catamaran Fairing Cambers
+## SSCP - Catamaran Fairing Cambers
+
+## Catamaran Fairing Cambers
 
 These are based on the more successful Cambered Catamarans for body shape.
 
-[Cambered Catamarans](/stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/solidworks-flowsim-quick-simulations/cambered-catamarans)
+[Cambered Catamarans](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2014-2015/aero-2014-2015/solidworks-flowsim-quick-simulations/cambered-catamarans/)
 
 For each variation series, main foil shape is constant and different fairing configurations are varied.
 
@@ -20,17 +22,17 @@ The X component is drag, and Z component is lift (negative is downforce)
 
 Drag value is highlighted in table.
 
-Using model Sunwhale-00[4 OR 5]-45180-camber3-thick6-fairing338-fcamber[X], where X denotes the fairing camber. 
+Using model Sunwhale-00\[4 OR 5]-45180-camber3-thick6-fairing338-fcamber\[X], where X denotes the fairing camber.&#x20;
 
-    Sunwhale-004 series has split fairings (3 fairings total)
+&#x20;   Sunwhale-004 series has split fairings (3 fairings total)
 
-    Sunwhale-005 has symmetric fairings (2 fairings total)
+&#x20;   Sunwhale-005 has symmetric fairings (2 fairings total)
 
-    fcamber2 corresponds to a fairing camber (on a NACA 16 011 series foil as has been used) of 0.2, or in other words a NACA 16 211 foil.
+&#x20;   fcamber2 corresponds to a fairing camber (on a NACA 16 011 series foil as has been used) of 0.2, or in other words a NACA 16 211 foil.
 
 Summary of Results
 
-Split Fairing                                                                                        
+Split Fairing                                                                                       &#x20;
 
 Fairing Camber on 3-Fairing Car (split-fairing)
 
@@ -42,25 +44,25 @@ fcamber1 corresponds to fairing with 0.1 camber in Javafoil
 
 This series is based on the main foil and fairings of the fairing length comparison series
 
-    - main foil (thickness 6) to reflect more realistic sizing in accommodating suspension etc.
+&#x20;   \- main foil (thickness 6) to reflect more realistic sizing in accommodating suspension etc.
 
-    - fairings are extruded 0.44m 
+&#x20;   \- fairings are extruded 0.44m&#x20;
 
-    - fairings are 0.5m from leading edge 
+&#x20;   \- fairings are 0.5m from leading edge&#x20;
 
-    mainfoil = NACA64A-306
+&#x20;   mainfoil = NACA64A-306
 
-    original driver fairing = NACA 16-011* 
+&#x20;   original driver fairing = NACA 16-011\*&#x20;
 
-    split fairing = NACA 64A 020* (identical 2)
+&#x20;   split fairing = NACA 64A 020\* (identical 2)
 
-        * leading 0 changes as camber is introduced
+&#x20;       \* leading 0 changes as camber is introduced
 
 Model: Sunwhale-004-45180-camber3-thick6-fairing338-fcamber1
 
-Main foil camber: 0.1 
+Main foil camber: 0.1&#x20;
 
-Split foil camber: 0.1    
+Split foil camber: 0.1   &#x20;
 
 ![](../../../../../assets/image_297c5ba4d7.png)
 
@@ -68,7 +70,7 @@ Split foil camber: 0.1    
 
 ![](../../../../../assets/image_9ee5a266ec.png)
 
- 0.1
+&#x20;0.1
 
 Single Fairing Force
 
@@ -78,47 +80,37 @@ Side fairing front
 
 Side fairing rear
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Model: Sunwhale-004-45180-camber3-thick6-fairing338-fcamber2
 
- 
+&#x20;
 
 Single Fairing Force
 
 ![](../../../../../assets/image_c546dcea27.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Side fairing front
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Side fairing rear
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Model: Sunwhale-004-45180-camber3-thick6-fairing338-fcamber3
 
@@ -126,143 +118,109 @@ SPLIT FAIRING <-----------> SYMMETRIC
 
 ![](../../../../../assets/image_6a7a2a22e0.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Single fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Side fairing front
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Side fairing rear
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Model: Sunwhale-004-45180-camber3-thick6-fairing338-fcamber4
 
 ![](../../../../../assets/image_bb223aa33a.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Single Fairing&#x20;
 
-Single Fairing 
+#### Embedded Content
 
-### Embedded Content
-
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Side fairing front
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Side fairing rear
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Model: Sunwhale-004-45180-camber3-thick6-fairing338-fcamber5
 
 ![](../../../../../assets/image_27aa1d40b9.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Single fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Side fairing front
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Side fairing rear
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Model: Sunwhale-004-45180-camber3-thick6-fairing338-fcamber6
 
 ![](../../../../../assets/image_dc0d85b6cf.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Single fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Side fairing front
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Side fairing rear
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Fairing Camber on 2-Fairing Car (Symmetric)
 
@@ -274,171 +232,134 @@ fcamber1 corresponds to fairing with 0.1 camber in Javafoil
 
 This series is based on the main foil and fairings of the fairing length comparison series
 
-    - main foil (thickness 6) to reflect more realistic sizing in accommodating suspension etc.
+&#x20;   \- main foil (thickness 6) to reflect more realistic sizing in accommodating suspension etc.
 
-    - fairings are extruded 0.44m 
+&#x20;   \- fairings are extruded 0.44m&#x20;
 
-    - fairings are 0.5m from leading edge
+&#x20;   \- fairings are 0.5m from leading edge
 
-    mainfoil = NACA64A-306
+&#x20;   mainfoil = NACA64A-306
 
-    original fairings = NACA 16-011* 
+&#x20;   original fairings = NACA 16-011\*&#x20;
 
-        * leading "0" chnages as camber is introduced
+&#x20;       \* leading "0" chnages as camber is introduced
 
 Model: Sunwhale-005-45180-camber3-thick6-fairing338-fcamber1
 
 ![](../../../../../assets/image_6e5e9517ff.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Right fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Left fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Model: Sunwhale-005-45180-camber3-thick6-fairing338-fcamber2
 
 ![](../../../../../assets/image_ab58a28023.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Right fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Left fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Model: Sunwhale-005-45180-camber3-thick6-fairing338-fcamber3
 
 ![](../../../../../assets/image_5a068f713b.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Right fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Left fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Model: Sunwhale-005-45180-camber3-thick6-fairing338-fcamber4
 
 ![](../../../../../assets/image_90b911174f.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Right fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Left fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Model: Sunwhale-005-45180-camber3-thick6-fairing338-fcamber5
 
 ![](../../../../../assets/image_ed7fdb2826.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Right fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Left fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Model: Sunwhale-005-45180-camber3-thick6-fairing338-fcamber6
 
 ![](../../../../../assets/image_2e80674e79.png)
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Right fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)
 
 Left fairing
 
-### Embedded Content
+#### Embedded Content
 
-Embedded content: [Custom embed]()
-
-<iframe width="100%" height="400" src="" frameborder="0"></iframe>
-
+Embedded content: [Custom embed](catamaran-fairing-cambers.md)

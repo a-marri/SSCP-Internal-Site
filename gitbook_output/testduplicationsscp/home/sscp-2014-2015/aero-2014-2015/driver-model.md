@@ -1,8 +1,10 @@
-# SSCP - Driver Model
+# driver-model
 
-# Driver Model
+## SSCP - Driver Model
 
-The driver model is based on 5th percentile half-male/half-female values from the anthropometric data chart below. 
+## Driver Model
+
+The driver model is based on 5th percentile half-male/half-female values from the anthropometric data chart below.&#x20;
 
 If I fits I sits:
 
@@ -24,11 +26,6 @@ Helmet
 
 We model the helmet as a sphere of diameter 9.5", based on the white helmet from WSC2013. The black tank commander helmet is approx 9" diameter, even though it looks significantly smaller than the white helmet. Based on driver experience and comparisons with the CAD for Luminos, we deemed a 1" clearance between helmet and roll cage enough to turn your head properly. Thus, there is a 10.5" diameter sphere, with the topmost point of the sphere mated 2" above the top of the driver's head.
 
-[](https://drive.google.com/folderview?id=1CQWGm96G4g2lXBQNY7j52EcSXCFkmcP0)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1CQWGm96G4g2lXBQNY7j52EcSXCFkmcP0#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1CQWGm96G4g2lXBQNY7j52EcSXCFkmcP0#list" frameborder="0"></iframe>
-

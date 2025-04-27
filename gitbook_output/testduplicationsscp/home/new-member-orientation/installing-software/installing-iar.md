@@ -1,18 +1,16 @@
-# SSCP - Installing IAR
+# installing-iar
 
-# Installing IAR
+## SSCP - Installing IAR
 
-## Initial Setup
+## Installing IAR
 
-[](#h.s2b9vn4nbb4t)
+### Initial Setup
 
 You need windows to get IAR running. Everybody on code team needs to have the same version of IAR running. Be sure to uninstall the version you have installed (if you have one installed) before upgrading
 
 Current Release: 8.50.1
 
-## Downloading IAR
-
-[](#h.dmir2u8ixsno)
+### Downloading IAR
 
 1. Download and install our SFTP client if you don't already have it up
 2. You can download IAR from the sftp server. It is located in '/Software/IAR/EWARM-CD-8501-24811'. Make sure to download and install the current code team release version
@@ -20,15 +18,13 @@ Current Release: 8.50.1
 
 Download and install our SFTP client if you don't already have it up
 
-[ SFTP client](/stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access)
+[SFTP client](../../../../../stanford.edu/testduplicationsscp/home/new-member-orientation/sftp-access/)
 
 You can download IAR from the sftp server. It is located in '/Software/IAR/EWARM-CD-8501-24811'. Make sure to download and install the current code team release version
 
 Proceed with Installation as instructed
 
-## Activating License
-
-[](#h.w506wb2u0en)
+### Activating License
 
 When it asks for a license, select "Use a network license". You don't have to enter a license key
 
@@ -36,15 +32,13 @@ License server: sscp4.stanford.edu
 
 [sscp4.stanford.edu](http://sscp4.stanford.edu/)
 
-## Installing ST-Link Drivers
+### Installing ST-Link Drivers
 
-[](#h.4fmrullx3oml)
-
-Go to this website, go to the "Tools & Software" tab and download the ST-Link USB driver.  Install it.
+Go to this website, go to the "Tools & Software" tab and download the ST-Link USB driver.  Install it.
 
 [this website](http://www.st.com/internet/evalboard/product/251168.jsp)
 
-If that didn't work try downloading the ST-Link utility from the same page and install that.  It should install drivers as part of its installation.
+If that didn't work try downloading the ST-Link utility from the same page and install that.  It should install drivers as part of its installation.
 
 Administrators note:
 
@@ -64,4 +58,3 @@ User: stanfordsolarcar@gmail.com Password: solarpower2021
 Click on the Find Updates link by the most recent license tab to go to the installer download page
 
 Download, unzip the files and install IAR.
-

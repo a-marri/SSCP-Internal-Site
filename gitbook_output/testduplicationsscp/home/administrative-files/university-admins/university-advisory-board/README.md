@@ -1,15 +1,16 @@
-# SSCP - University Advisory Board
+# university-advisory-board
 
-# University Advisory Board
+## SSCP - University Advisory Board
 
-Up until 2011 Professor David Davidson was the primary university liaison for the Stanford Solar Car Project. Professor Chris Gerdes and Professor Sven Beiker also played a large role supporting the team, but it was difficult for university admins to ensure that the team complied with university policies. During 2011 the university formed a board of administrators to oversee regulatory issues for the solar car project. The board meets once a quarter with the Team Director. 
+## University Advisory Board
+
+Up until 2011 Professor David Davidson was the primary university liaison for the Stanford Solar Car Project. Professor Chris Gerdes and Professor Sven Beiker also played a large role supporting the team, but it was difficult for university admins to ensure that the team complied with university policies. During 2011 the university formed a board of administrators to oversee regulatory issues for the solar car project. The board meets once a quarter with the Team Director.&#x20;
 
 Sample of agenda items with the Advisory Board
 
 * Oven approval:The Stanford University Fire Marshal's Office (Robert Portfield rporterfield@stanford.edu), Merry Weeks (mweeks@stanford.edu) in SoE Risk Management, and Joe Xie (xxiaosen@stanford.edu) must approve our proposal for building an oven.
 * Oven approval:The Stanford University Fire Marshal's Office (Robert Portfield rporterfield@stanford.edu), Merry Weeks (mweeks@stanford.edu) in SoE Risk Management, and Joe Xie (xxiaosen@stanford.edu) must approve our proposal for building an oven.
 * The Stanford University Fire Marshal's Office (Robert Portfield rporterfield@stanford.edu), Merry Weeks (mweeks@stanford.edu) in SoE Risk Management, and Joe Xie (xxiaosen@stanford.edu) must approve our proposal for building an oven.
-
 * Oven approval:The Stanford University Fire Marshal's Office (Robert Portfield rporterfield@stanford.edu), Merry Weeks (mweeks@stanford.edu) in SoE Risk Management, and Joe Xie (xxiaosen@stanford.edu) must approve our proposal for building an oven.
 * The Stanford University Fire Marshal's Office (Robert Portfield rporterfield@stanford.edu), Merry Weeks (mweeks@stanford.edu) in SoE Risk Management, and Joe Xie (xxiaosen@stanford.edu) must approve our proposal for building an oven.
 
@@ -43,7 +44,7 @@ The Stanford University Fire Marshal's Office (Robert Portfield rporterfield@sta
 
 Volkswagen
 
-[Volkswagen](/stanford.edu/testduplicationsscp/home/sscp-2012-2013/business-logistics-2012-2013/business-logistics-individual-projects/volkswagen)
+[Volkswagen](../../../../../../stanford.edu/testduplicationsscp/home/sscp-2012-2013/business-logistics-2012-2013/business-logistics-individual-projects/volkswagen/)
 
 * Apogee in the Tech Museum
 * Reorganizing VAIL
@@ -122,15 +123,10 @@ Dealing with the university is definitely a delicate dance. Be courteous and res
 
 Snehal or Nanci will often ask the Team Lead to put together an agenda for the board meeting. I would suggest trying to fill the meeting with as much low-drama topic matter as possible. If you fill time by talking about agreeable stuff like our experience in Australia or our plans for training new members the board will be happy and they won't give you a lot of extra work to do. If you leave the meetings open to the whims of the board many of the administrators will end up digging into the team's business and trying to find ways to increase their oversight over the team. This consequentially makes a lot of extra work for you.
 
-For example, the EH&S people will start asking about waste disposal at VAIL if you let them. SAL will ask a lot of questions about finances. The School of Engineering may ask about how we contact sponsors. Etc. etc. It is not that our team tries to violate school policies, but many of the people on our board have jobs in which their responsibility and productivity is defined by providing oversight over student groups and research labs at Stanford. Consequentially, many people on the board gravitate towards scrutinizing our team rather than supporting our team if you let them. Generally oversight ends up leading towards forms for you to fill out, lawyers you need to talk to, or some other busywork for you.
+For example, the EH\&S people will start asking about waste disposal at VAIL if you let them. SAL will ask a lot of questions about finances. The School of Engineering may ask about how we contact sponsors. Etc. etc. It is not that our team tries to violate school policies, but many of the people on our board have jobs in which their responsibility and productivity is defined by providing oversight over student groups and research labs at Stanford. Consequentially, many people on the board gravitate towards scrutinizing our team rather than supporting our team if you let them. Generally oversight ends up leading towards forms for you to fill out, lawyers you need to talk to, or some other busywork for you.
 
-Be receptive when the board asks you do comply with oversight, but do anything you can up front to avoid unnecessary oversight in the first place. The trust that the University places in our team and the resulting freedom that we have is one of our team's greatest competitive advantages. 
+Be receptive when the board asks you do comply with oversight, but do anything you can up front to avoid unnecessary oversight in the first place. The trust that the University places in our team and the resulting freedom that we have is one of our team's greatest competitive advantages.&#x20;
 
-[](https://drive.google.com/folderview?id=1nGoLSFLBFDf22uCc9EnrNsTU9zN4iziD)
-
-### Embedded Google Drive File
+#### Embedded Google Drive File
 
 Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1nGoLSFLBFDf22uCc9EnrNsTU9zN4iziD#list)
-
-<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1nGoLSFLBFDf22uCc9EnrNsTU9zN4iziD#list" frameborder="0"></iframe>
-

@@ -1,6 +1,8 @@
-# SSCP - Bubble Egress Development
+# bubble-egress-development
 
-# Bubble Egress Development
+## SSCP - Bubble Egress Development
+
+## Bubble Egress Development
 
 The purpose of this page is to document the ideation, prototyping, and development of the 2019 cycle bubble egress system. In our final system, the driver slides the bubble backwards off of its placement rails and pulls themselves up by the dashboard chassis panel. As they rise, suction cups on the crown of the helmet connect to the top of the bubble, and allow it to follow them attached to their head as they leave the car.
 
@@ -22,9 +24,8 @@ Our second plan, and initial prototype consisted of a harness going from the und
 
 The prototype was overall successful, however the traction of the rubber gasket was rather weak. We ordered nylon straps and suction cups as a replacement traction to continue prototyping.
 
- Final execution
+&#x20;Final execution
 
-When the parts came in for further developing the harness + bubble traction system, we found that the suction cups alone were sufficient for bubble egress. 9 suction cups are placed in 3 lines of 3 along the crown of the helmet. When a driver stands up with sufficient force, enough of these cups connect to the top of the bubble to hold it in place on the drivers head- even allowing them to turn their head with the bubble staying in place. We were worried about if the heat in the cockpit might deform the suction cups such that they fall off the helmet, but after pointing a blowdryer directly over a suction cup for several minutes no deformation occurred. The suction cups are strong but can be removed from the helmet by prying up a corner and peeling them off, so they leave no damage or permanent hardware on the helmet. 
+When the parts came in for further developing the harness + bubble traction system, we found that the suction cups alone were sufficient for bubble egress. 9 suction cups are placed in 3 lines of 3 along the crown of the helmet. When a driver stands up with sufficient force, enough of these cups connect to the top of the bubble to hold it in place on the drivers head- even allowing them to turn their head with the bubble staying in place. We were worried about if the heat in the cockpit might deform the suction cups such that they fall off the helmet, but after pointing a blowdryer directly over a suction cup for several minutes no deformation occurred. The suction cups are strong but can be removed from the helmet by prying up a corner and peeling them off, so they leave no damage or permanent hardware on the helmet.&#x20;
 
 (Add drawing)
-
