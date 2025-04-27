@@ -1,3 +1,8 @@
-# strategy-2016-2017
+# SSCP - Strategy 2016-2017
 
-This is the strategy-2016-2017 section.
+# Strategy 2016-2017
+
+"Without data you are just another person with an opinion."
+
+- W. Edwards Deming
+

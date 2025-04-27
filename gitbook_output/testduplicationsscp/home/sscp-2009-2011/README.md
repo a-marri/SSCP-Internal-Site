@@ -1,3 +1,4 @@
-# sscp-2009-2011
+# SSCP - SSCP 2009-2011
 
-This is the sscp-2009-2011 section.
+# SSCP 2009-2011
+

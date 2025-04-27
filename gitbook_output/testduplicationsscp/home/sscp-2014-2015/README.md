@@ -1,3 +1,4 @@
-# sscp-2014-2015
+# SSCP - SSCP 2014-2015
 
-This is the sscp-2014-2015 section.
+# SSCP 2014-2015
+

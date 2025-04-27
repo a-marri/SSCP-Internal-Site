@@ -1,3 +1,4 @@
-# sscp-2012-2013
+# SSCP - SSCP 2012-2013
 
-This is the sscp-2012-2013 section.
+# SSCP 2012-2013
+

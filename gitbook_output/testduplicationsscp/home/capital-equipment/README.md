@@ -1,3 +1,4 @@
-# capital-equipment
+# SSCP - Capital Equipment
 
-This is the capital-equipment section.
+# Capital Equipment
+

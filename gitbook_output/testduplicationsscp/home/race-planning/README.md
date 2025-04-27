@@ -1,3 +1,4 @@
-# race-planning
+# SSCP - Race Planning
 
-This is the race-planning section.
+# Race Planning
+

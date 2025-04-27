@@ -1,3 +1,31 @@
-# alumni-and-design-reviews-2012-2013
+# SSCP - Alumni and Design Reviews 2012-2013
 
-This is the alumni-and-design-reviews-2012-2013 section.
+# Alumni and Design Reviews 2012-2013
+
+* We have an alumni network and a lot of alumni who want to help everyone with design reviews. Check out the Team Directory Google Doc for a list of alumni, their specialities, and their preferences for design reviews.We shouldn't put ourselves into a situation where only one person understands an entire system.  This means we need design reviews for mechanical, electrical and code designs, and code reviews and the equivalents during implementation. Reviews should be done by people outside the team for their experience (as we've started setting up to do), but should also include people on the team.  Reviews help catch design flaws but should also be a way of disseminating information about the car to the rest of the team so that more active members are able to troubleshoot a given system.Have meetings where you invite alumni for project reviews and have food.
+* We have an alumni network and a lot of alumni who want to help everyone with design reviews. Check out the Team Directory Google Doc for a list of alumni, their specialities, and their preferences for design reviews.
+* We shouldn't put ourselves into a situation where only one person understands an entire system.  This means we need design reviews for mechanical, electrical and code designs, and code reviews and the equivalents during implementation. 
+* Reviews should be done by people outside the team for their experience (as we've started setting up to do), but should also include people on the team.  Reviews help catch design flaws but should also be a way of disseminating information about the car to the rest of the team so that more active members are able to troubleshoot a given system.
+* Have meetings where you invite alumni for project reviews and have food.
+
+* We have an alumni network and a lot of alumni who want to help everyone with design reviews. Check out the Team Directory Google Doc for a list of alumni, their specialities, and their preferences for design reviews.
+* We shouldn't put ourselves into a situation where only one person understands an entire system.  This means we need design reviews for mechanical, electrical and code designs, and code reviews and the equivalents during implementation. 
+* Reviews should be done by people outside the team for their experience (as we've started setting up to do), but should also include people on the team.  Reviews help catch design flaws but should also be a way of disseminating information about the car to the rest of the team so that more active members are able to troubleshoot a given system.
+* Have meetings where you invite alumni for project reviews and have food.
+
+We have an alumni network and a lot of alumni who want to help everyone with design reviews. Check out the Team Directory Google Doc for a list of alumni, their specialities, and their preferences for design reviews.
+
+We shouldn't put ourselves into a situation where only one person understands an entire system.  This means we need design reviews for mechanical, electrical and code designs, and code reviews and the equivalents during implementation. 
+
+Reviews should be done by people outside the team for their experience (as we've started setting up to do), but should also include people on the team.  Reviews help catch design flaws but should also be a way of disseminating information about the car to the rest of the team so that more active members are able to troubleshoot a given system.
+
+Have meetings where you invite alumni for project reviews and have food.
+
+[](https://drive.google.com/folderview?id=1PemNNP3_pcJlXu1V06FDcgl83glavWv0)
+
+### Embedded Google Drive File
+
+Google Drive File: [Embedded Content](https://drive.google.com/embeddedfolderview?id=1PemNNP3_pcJlXu1V06FDcgl83glavWv0#list)
+
+<iframe width="100%" height="400" src="https://drive.google.com/embeddedfolderview?id=1PemNNP3_pcJlXu1V06FDcgl83glavWv0#list" frameborder="0"></iframe>
+

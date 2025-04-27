@@ -1,3 +1,4 @@
-# business-logistics-2014-2015
+# SSCP - Business-Logistics 2014-2015
 
-This is the business-logistics-2014-2015 section.
+# Business-Logistics 2014-2015
+

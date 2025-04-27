@@ -1,3 +1,4 @@
-# preflight-checklists-and-race-protocol
+# SSCP - Preflight Checklists and Race Protocol
 
-This is the preflight-checklists-and-race-protocol section.
+# Preflight Checklists and Race Protocol
+

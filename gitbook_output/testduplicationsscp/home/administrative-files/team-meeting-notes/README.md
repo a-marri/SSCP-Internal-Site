@@ -1,3 +1,6 @@
-# team-meeting-notes
+# SSCP - Team Meeting Notes
 
-This is the team-meeting-notes section.
+# Team Meeting Notes
+
+See the links below for notes from our meetings.
+
